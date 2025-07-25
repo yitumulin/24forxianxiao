@@ -1,0 +1,1100 @@
+[
+  [
+    {
+      "role": "董永",
+      "original_sentence": "第十二节新编凉州贤孝唱词：董永卖身葬父三九真理传天下，二十四孝表贤人。",
+      "sentence": "董永卖身以安葬他的父亲",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "第十二节新编凉州贤孝唱词：董永卖身葬父三九真理传天下，二十四孝表贤人。",
+      "sentence": "三九真理在天下广泛传播",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "第十二节新编凉州贤孝唱词：董永卖身葬父三九真理传天下，二十四孝表贤人。",
+      "sentence": "二十四孝表彰贤德的人们",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个时代说贤书？",
+      "sentence": "哪个时代在讲述贤书",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个地界论孝子？",
+      "sentence": "人们在讨论孝子的标准",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "东汉时代说贤书，山东地界里头论孝子。",
+      "sentence": "东汉时代讲述贤书故事",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "东汉时代说贤书，山东地界里头论孝子。",
+      "sentence": "山东地区讨论孝子事迹",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "今天不把别的唱，唱一段董永卖身葬父的孝子传。",
+      "sentence": "董永卖身葬父传为孝子典范",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "自从盘古开天地，三皇完了传五帝。",
+      "sentence": "盘古开天地后三皇传五帝",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "虞舜禅位给了大禹王，大禹传位给了亲儿郎。",
+      "sentence": "虞舜将王位禅让给大禹",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "虞舜禅位给了大禹王，大禹传位给了亲儿郎。",
+      "sentence": "大禹将王位传给亲儿子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夏启传到了残暴的夏桀王，商汤传到了荒淫的殷纣王。",
+      "sentence": "夏启将王位传给了残暴的夏桀王",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "夏启传到了残暴的夏桀王，商汤传到了荒淫的殷纣王。",
+      "sentence": "商汤将王位传给了荒淫的殷纣王",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周武王讨伐的殷纣王，狐狸精妲己也归了天。",
+      "sentence": "周武王率军讨伐殷纣王",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "周武王讨伐的殷纣王，狐狸精妲己也归了天。",
+      "sentence": "狐狸精妲己最终死亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周幽王烽火戏诸侯，周平王迁都到洛阳。",
+      "sentence": "周幽王点燃烽火戏弄诸侯",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "周幽王烽火戏诸侯，周平王迁都到洛阳。",
+      "sentence": "周平王将都城迁至洛阳",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "春秋五霸争天下，战国七雄归大秦。",
+      "sentence": "春秋五霸争夺天下霸权",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "春秋五霸争天下，战国七雄归大秦。",
+      "sentence": "战国七雄最终被秦国吞并",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "楚霸王项羽不过江，便宜了泼皮无赖的汉刘邦。",
+      "sentence": "项羽未渡江而选择自刎",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "楚霸王项羽不过江，便宜了泼皮无赖的汉刘邦。",
+      "sentence": "刘邦趁机夺取了天下",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "王莽篡汉天下乱，光武中兴建东汉。",
+      "sentence": "王莽篡夺汉朝导致天下大乱",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "王莽篡汉天下乱，光武中兴建东汉。",
+      "sentence": "光武帝中兴建立了东汉王朝",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "桓帝灵帝乱朝纲，东汉不到二百年。",
+      "sentence": "桓帝灵帝导致朝纲混乱",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "桓帝灵帝乱朝纲，东汉不到二百年。",
+      "sentence": "东汉王朝不足二百年",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "哎，把这些诗条对句丢在后，说一段董永葬父的孝子传。",
+      "sentence": "董永安葬了他的父亲",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人生百善孝为先，从古至今佳话传。",
+      "sentence": "人生百善以孝为先",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二十四孝是典范，二十四个孝子好儿男。",
+      "sentence": "二十四孝是古代孝子的典范",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "今天不把别的唱，听我把董永葬父唱一番。",
+      "sentence": "董永讲述自己如何安葬父亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "黄梅戏里有个天仙配，董永傢还娶上了七仙女。",
+      "sentence": "董永在黄梅戏中娶了七仙女",
+      "behavior_type": 7
+    },
+    {
+      "role": "七仙女",
+      "original_sentence": "黄梅戏里有个天仙配，董永傢还娶上了七仙女。",
+      "sentence": "七仙女在黄梅戏中嫁给董永",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "树上的鸟儿成双对，夫妻双双把家还。",
+      "sentence": "董永与七仙女一同返回家中",
+      "behavior_type": 4
+    },
+    {
+      "role": "七仙女",
+      "original_sentence": "树上的鸟儿成双对，夫妻双双把家还。",
+      "sentence": "七仙女与董永一同返回家中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "七仙女",
+      "original_sentence": "天上的仙女下凡间，董永也是个孝顺郎。",
+      "sentence": "七仙女从天上来到凡间",
+      "behavior_type": 4
+    },
+    {
+      "role": "董永",
+      "original_sentence": "天上的仙女下凡间，董永也是个孝顺郎。",
+      "sentence": "董永是一个孝顺的人",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "天仙配是名剧目，提起董永人人熟。",
+      "sentence": "董永在民间故事中广为人知",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "原籍山东千乘地，东汉年间把世出。",
+      "sentence": "董永原籍山东千乘地",
+      "behavior_type": 3
+    },
+    {
+      "role": "董永",
+      "original_sentence": "原籍山东千乘地，东汉年间把世出。",
+      "sentence": "董永在东汉年间出生",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "董永幼年丧了母，父子二人贫又孤。",
+      "sentence": "董永幼年时失去了母亲",
+      "behavior_type": 3
+    },
+    {
+      "role": "董父",
+      "original_sentence": "董永幼年丧了母，父子二人贫又孤。",
+      "sentence": "董父与董永生活贫困孤独",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "为避兵祸到安陆，勉强度日穷对付。",
+      "sentence": "董永为避兵祸逃至安陆",
+      "behavior_type": 4
+    },
+    {
+      "role": "董永",
+      "original_sentence": "为避兵祸到安陆，勉强度日穷对付。",
+      "sentence": "董永在安陆勉强度日",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "董父",
+      "original_sentence": "父亲最把董永疼，相依为命互帮扶。",
+      "sentence": "董父非常疼爱董永",
+      "behavior_type": 2
+    },
+    {
+      "role": "董永",
+      "original_sentence": "父亲最把董永疼，相依为命互帮扶。",
+      "sentence": "董永与父亲相依为命",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "董永十岁下地把活干，给父亲帮忙也不含糊。",
+      "sentence": "董永十岁时下地干活帮助父亲",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "担水拾柴干家务，做完饭菜洗衣服。",
+      "sentence": "董永承担家务并完成饭菜和洗衣",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "董父",
+      "original_sentence": "父亲回家递热水，端上饭菜还热乎乎。",
+      "sentence": "董父回家后递上热水和饭菜",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "伺候父亲慢慢吃，还要烫上酒一壶。",
+      "sentence": "董永伺候父亲吃饭并烫酒",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "晚上铺床铺被褥，要让父亲睡热乎。",
+      "sentence": "董永为父亲铺好温暖的被褥",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "董永为了把冬过，冬天抓紧捡柴火。",
+      "sentence": "董永为了过冬抓紧捡柴火",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "推上碾子把面磨，挖开地窖存下些白菜大萝卜。",
+      "sentence": "董永推碾子磨面挖地窖存菜",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "三九寒冬把火烧旺，父亲归来饭热乎。",
+      "sentence": "董永在三九寒冬把火烧旺",
+      "behavior_type": 10
+    },
+    {
+      "role": "董父",
+      "original_sentence": "三九寒冬把火烧旺，父亲归来饭热乎。",
+      "sentence": "董父归来时饭菜依然热乎",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "一晃董永已长大，身强体壮力气足。",
+      "sentence": "董永已经长大且身强体壮",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "地里家里活全包下，不让父亲把力气出。",
+      "sentence": "董永包揽地里和家里的所有活计",
+      "behavior_type": 10
+    },
+    {
+      "role": "董永",
+      "original_sentence": "地里家里活全包下，不让父亲把力气出。",
+      "sentence": "董永不让父亲干任何体力活",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "董父",
+      "original_sentence": "董父心里自有谱，一心想给儿子娶媳妇。",
+      "sentence": "董父计划为儿子娶媳妇",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "董父",
+      "original_sentence": "好在这几年生活不太苦，攒下点银钱还算充足。",
+      "sentence": "董父这几年攒下一些银钱",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "董父",
+      "original_sentence": "求左邻求右舍多帮助，给董永来提亲可别含糊。",
+      "sentence": "董父请求邻居帮助董永提亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "有谁知天有不测风云，人有旦夕祸福，董永还没有娶媳妇，董父不巧就病在屋。",
+      "sentence": "董永尚未娶到媳妇",
+      "behavior_type": 12
+    },
+    {
+      "role": "董父",
+      "original_sentence": "有谁知天有不测风云，人有旦夕祸福，董永还没有娶媳妇，董父不巧就病在屋。",
+      "sentence": "董父突然患病在屋",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "董永到处请大夫，给父亲治病一刻不耽误。",
+      "sentence": "董永四处寻找大夫为父亲治病",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "董父",
+      "original_sentence": "汤药吃了好多副，父亲的病就是不痊愈。",
+      "sentence": "董父服用多副汤药仍未痊愈",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "董父",
+      "original_sentence": "董父拉着儿子的手，有气无力再嘱咐。",
+      "sentence": "董父拉着儿子的手进行嘱咐",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "董父",
+      "original_sentence": "孩儿啊，爹爹的病是没法治，再咋花钱也是白费工夫。",
+      "sentence": "董父告知儿子自己的病无法治愈",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "董父",
+      "original_sentence": "攒下的钱要给你娶媳妇，可不能为我乱支出。",
+      "sentence": "董父嘱咐儿子不要为他乱花钱",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "董永忙说我不娶媳妇，只要爹爹身体康复。",
+      "sentence": "董永表示不愿娶媳妇只愿父亲康复",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "东奔西跑请大夫，身上的钱全花到了药铺。",
+      "sentence": "董永四处奔波请大夫看病",
+      "behavior_type": 4
+    },
+    {
+      "role": "董永",
+      "original_sentence": "东奔西跑请大夫，身上的钱全花到了药铺。",
+      "sentence": "董永将钱全部用于购买药物",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "只能变卖家中物，卖完桌子板凳再卖旧衣服。",
+      "sentence": "董永变卖家中的物品以筹钱",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "董父",
+      "original_sentence": "父亲的病仍不见好，呼天叫地也没奈何。",
+      "sentence": "董父的病情始终未见好转",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "父亲的病仍不见好，呼天叫地也没奈何。",
+      "sentence": "呼天叫地也未能改变现状",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "董父",
+      "original_sentence": "董父他一生多劳苦，临死没看到儿子娶媳妇。",
+      "sentence": "董父一生劳苦未能见到儿子娶妻",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "董父",
+      "original_sentence": "抱孙子的滋味没尝到，眼睛一闭一命呜呼。",
+      "sentence": "董父未能体验抱孙子便去世",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "董永别提多痛苦，抱住爹爹放声哭。",
+      "sentence": "董永因悲痛而抱住父亲痛哭",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "董父",
+      "original_sentence": "既当爹来又当娘，突然间去世就太仓促。",
+      "sentence": "董父突然去世显得十分仓促",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "养育之恩无法报，董永心如刀绞哭得只迷糊。",
+      "sentence": "董永因无法报恩感到心如刀绞",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "乡亲们看到董永哭，也跟着伤心跟着哭。",
+      "sentence": "乡亲们看到董永哭泣感到伤心",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "董永家里贫如洗，两间破屋也卖出。",
+      "sentence": "董永家境贫寒卖掉了两间破屋",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "可叹上无片瓦遮身体，下无寸地可立足。",
+      "sentence": "董永没有房屋和土地可以居住",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "眼看父死无棺木，尸身半裸没衣服。",
+      "sentence": "董永因父亲去世无棺木而悲痛",
+      "behavior_type": 2
+    },
+    {
+      "role": "董父",
+      "original_sentence": "眼看父死无棺木，尸身半裸没衣服。",
+      "sentence": "董父去世后尸身半裸无衣服",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "乌鸦也尚且知反哺，老牛也知舔牛犊。",
+      "sentence": "乌鸦懂得反哺老牛懂得舔犊",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "养育之恩不能忘，怎能连那扁毛都不如？",
+      "sentence": "董永铭记养育之恩不敢忘",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "董永实在走投无路，为葬父只能卖身为奴。",
+      "sentence": "董永因贫困被迫卖身为奴",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "卖身就是给人当奴仆，打杂捞毛尊严全无。",
+      "sentence": "董永卖身成为他人奴仆",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "董永也是义无反顾，写了张卖身契就在集市上铺。",
+      "sentence": "董永在集市上写下卖身契约",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "脊背上插着草标等着买主，街坊邻居是无不佩服。",
+      "sentence": "董永在集市上等待买主",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "脊背上插着草标等着买主，街坊邻居是无不佩服。",
+      "sentence": "街坊邻居对此感到佩服",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "付员外",
+      "original_sentence": "付员外见他孝顺老父，愿意花万文钱买他为奴。",
+      "sentence": "付员外花费万文钱买董永为奴",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "约定董永守丧三年后，就到付家当长工把力气出。",
+      "sentence": "董永需守丧三年后到付家当长工",
+      "behavior_type": 12
+    },
+    {
+      "role": "付员外",
+      "original_sentence": "约定董永守丧三年后，就到付家当长工把力气出。",
+      "sentence": "付员外与董永约定守丧后做工",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "董永用一万文钱葬了老父，然后在父亲的墓前搭间草屋。",
+      "sentence": "董永花费一万文钱安葬父亲",
+      "behavior_type": 3
+    },
+    {
+      "role": "董永",
+      "original_sentence": "董永用一万文钱葬了老父，然后在父亲的墓前搭间草屋。",
+      "sentence": "董永在墓前搭建了一间草屋",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "为父守孝不离一步，三年后再到付家把力出。",
+      "sentence": "董永为父亲守孝不离一步",
+      "behavior_type": 12
+    },
+    {
+      "role": "董永",
+      "original_sentence": "为父守孝不离一步，三年后再到付家把力出。",
+      "sentence": "董永三年后再到付家出力",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "话说董永守孝三年已结束，离开坟墓赶路途。",
+      "sentence": "董永离开坟墓踏上路途",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "途中有一颗老槐树，树下站着一村姑。",
+      "sentence": "老槐树下站立着一位村姑",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "七仙女",
+      "original_sentence": "此女原是七仙女，美貌至极世间无。",
+      "sentence": "七仙女拥有世间罕见的美貌",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "七仙女",
+      "original_sentence": "下凡不为别的事，来选董永作丈夫。",
+      "sentence": "七仙女下凡选择董永作为丈夫",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "七仙女",
+      "original_sentence": "因此拦住他的路，不由的董永犯嘀咕。",
+      "sentence": "七仙女拦住董永的去路",
+      "behavior_type": 13
+    },
+    {
+      "role": "董永",
+      "original_sentence": "因此拦住他的路，不由的董永犯嘀咕。",
+      "sentence": "董永心中产生疑惑",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "含悲忍泪上了路，却为何路口站位村姑。",
+      "sentence": "董永含悲忍泪继续赶路",
+      "behavior_type": 2
+    },
+    {
+      "role": "七仙女",
+      "original_sentence": "含悲忍泪上了路，却为何路口站位村姑。",
+      "sentence": "七仙女站在路口等待董永",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "她那里对我来注目，我哪有心思看美妇？",
+      "sentence": "董永无暇关注七仙女的美貌",
+      "behavior_type": 5
+    },
+    {
+      "role": "七仙女",
+      "original_sentence": "她那里对我来注目，我哪有心思看美妇？",
+      "sentence": "七仙女注视着董永的行为",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "董父",
+      "original_sentence": "爹爹在世对我嘱咐，男女交谈是非出。",
+      "sentence": "董父曾嘱咐男女交谈易生是非",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "大路不走走小路，却为何她那里把我拦阻？",
+      "sentence": "董永选择走小路避开拦阻",
+      "behavior_type": 4
+    },
+    {
+      "role": "七仙女",
+      "original_sentence": "大路不走走小路，却为何她那里把我拦阻？",
+      "sentence": "七仙女在大路上拦住董永",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "回转身来我再走大路，你为何耽误我穷人工夫？",
+      "sentence": "董永转身走向另一条大路",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "回转身来我再走大路，你为何耽误我穷人工夫？",
+      "sentence": "对方无故耽误穷人的时间",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "七仙女",
+      "original_sentence": "那女子说：你若要想赶路途，就得把情况说清楚。",
+      "sentence": "七仙女要求董永说明情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "七仙女",
+      "original_sentence": "姓甚名谁家住何处，因为啥事急着赶路？",
+      "sentence": "七仙女询问董永姓名住址及事由",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "姓董名永家住安陆，父母双亡一人孤。",
+      "sentence": "董永告知对方自己的姓名和住址",
+      "behavior_type": 7
+    },
+    {
+      "role": "董永",
+      "original_sentence": "姓董名永家住安陆，父母双亡一人孤。",
+      "sentence": "董永父母双亡独自生活",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "只因爹死无棺木，所以卖身甘为奴。",
+      "sentence": "董永因父亲去世而卖身为奴",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "满腹忧愁叹不尽，三年长工受苦楚。",
+      "sentence": "董永因长工生活感到忧愁",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "有劳大姐让我走，我得上工赶路途。",
+      "sentence": "董永请求大姐允许他离开",
+      "behavior_type": 4
+    },
+    {
+      "role": "董永",
+      "original_sentence": "有劳大姐让我走，我得上工赶路途。",
+      "sentence": "董永需要赶路去上工",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大哥休要泪扑簌，我有一言要告诉。",
+      "sentence": "大哥不要悲伤哭泣",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "大哥休要泪扑簌，我有一言要告诉。",
+      "sentence": "我有话要告诉你",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你好比杨柳遭霜妒，但等春来又发出。",
+      "sentence": "杨柳遭受霜冻等待春天再发芽",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "七仙女",
+      "original_sentence": "小女子本在蓬莱住，千里迢迢来寻夫。",
+      "sentence": "七仙女从蓬莱来到人间寻夫",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "七仙女",
+      "original_sentence": "只要大哥不嫌弃，我愿给你做媳妇。",
+      "sentence": "七仙女表示愿意成为董永妻子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "董永一听怪欢喜，天上掉下好媳妇。",
+      "sentence": "董永听到后感到非常欢喜",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "槐荫树下配夫妇，同去做工把身赎。",
+      "sentence": "董永与七仙女一同前往做工赎身",
+      "behavior_type": 4
+    },
+    {
+      "role": "七仙女",
+      "original_sentence": "槐荫树下配夫妇，同去做工把身赎。",
+      "sentence": "七仙女与董永一同前往做工赎身",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "付员外",
+      "original_sentence": "跟付员外来打赌，十匹锦缎一夜出。",
+      "sentence": "付员外与对方打赌十匹锦缎",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "七仙女",
+      "original_sentence": "仙女织出十匹锦，员外不得不认输。",
+      "sentence": "七仙女一夜织出十匹锦缎",
+      "behavior_type": 14
+    },
+    {
+      "role": "付员外",
+      "original_sentence": "仙女织出十匹锦，员外不得不认输。",
+      "sentence": "付员外最终不得不认输",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "付员外",
+      "original_sentence": "员外倒也明事理，三百匹锦缎就让董永把身赎。",
+      "sentence": "付员外允许董永赎回自由身",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "七仙女",
+      "original_sentence": "十匹锦缎一夜出，三百锦缎一月出。",
+      "sentence": "七仙女一夜织出十匹锦缎",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "十匹锦缎一夜出，三百锦缎一月出。",
+      "sentence": "三百匹锦缎需要一月织出",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "三年长工变一月，夫妻双双踏归途。",
+      "sentence": "董永与七仙女一同踏上归途",
+      "behavior_type": 4
+    },
+    {
+      "role": "七仙女",
+      "original_sentence": "三年长工变一月，夫妻双双踏归途。",
+      "sentence": "七仙女与董永一同踏上归途",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "树上的鸟儿成双对，绿水青山带笑颜。",
+      "sentence": "树上的鸟儿成双成对",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "树上的鸟儿成双对，绿水青山带笑颜。",
+      "sentence": "绿水青山展现出笑容",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "如今再不受那奴役苦，夫妻双双把家还。",
+      "sentence": "董永与七仙女一同返回家中",
+      "behavior_type": 4
+    },
+    {
+      "role": "七仙女",
+      "original_sentence": "如今再不受那奴役苦，夫妻双双把家还。",
+      "sentence": "七仙女与董永一同返回家中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "你耕田来我织布，我挑水来你浇园。",
+      "sentence": "董永耕田七仙女织布",
+      "behavior_type": 10
+    },
+    {
+      "role": "七仙女",
+      "original_sentence": "你耕田来我织布，我挑水来你浇园。",
+      "sentence": "七仙女织布董永耕田",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "寒窑虽破能避风雨，夫妻恩爱苦也甜。",
+      "sentence": "夫妻恩爱生活虽苦却甜蜜",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你我好比鸳鸯鸟，比翼双飞在人间。",
+      "sentence": "你我如同鸳鸯鸟在人间双飞",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，这段子贤孝么已唱完，故事么一节一节交代全。",
+      "sentence": "这段故事已经全部讲述完毕",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问唱的是那一段？",
+      "sentence": "询问唱的是哪一段故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二十四孝里的十二篇。",
+      "sentence": "二十四孝故事中的第十二篇",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问曲儿是啥名堂？",
+      "sentence": "询问这首曲子的名称是什么",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "董永",
+      "original_sentence": "董永卖身葬父的事一桩。",
+      "sentence": "董永卖身以安葬其父亲",
+      "behavior_type": 3
+    }
+  ]
+]

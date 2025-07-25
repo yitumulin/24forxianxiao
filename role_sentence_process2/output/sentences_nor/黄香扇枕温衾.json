@@ -1,0 +1,592 @@
+[
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "第十节新编凉州贤孝唱词：黄香扇枕温衾三九真理传天下，二十四孝表贤人。",
+      "sentence": "黄香扇枕温衾传颂天下真理",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "第十节新编凉州贤孝唱词：黄香扇枕温衾三九真理传天下，二十四孝表贤人。",
+      "sentence": "二十四孝表彰贤人行为典范",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个时代说贤书？",
+      "sentence": "哪个时代讲述贤书内容",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个地界论孝子？",
+      "sentence": "讨论孝子需要明确具体标准",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "东汉时代说贤书，江夏郡里头论孝子。",
+      "sentence": "东汉时代讲述贤书内容",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "东汉时代说贤书，江夏郡里头论孝子。",
+      "sentence": "江夏郡内讨论孝子事迹",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "今天不把别的唱，唱一段黄香扇枕温衾的孝子传。",
+      "sentence": "黄香扇枕温衾传颂孝道",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "自从盘古开天地，三皇完了传五帝。",
+      "sentence": "盘古开天地后三皇传五帝",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "虞舜禅位给了大禹王，大禹传位给了亲儿郎。",
+      "sentence": "虞舜将帝位禅让给大禹",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "虞舜禅位给了大禹王，大禹传位给了亲儿郎。",
+      "sentence": "大禹将帝位传给其儿子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夏启传到了残暴的夏桀王，商汤传到了荒淫的殷纣王。",
+      "sentence": "夏启将王位传给残暴的夏桀王",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "夏启传到了残暴的夏桀王，商汤传到了荒淫的殷纣王。",
+      "sentence": "商汤将王位传给荒淫的殷纣王",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周武王讨伐的殷纣王，狐狸精妲己也归了天。",
+      "sentence": "周武王讨伐了殷纣王",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "周武王讨伐的殷纣王，狐狸精妲己也归了天。",
+      "sentence": "狐狸精妲己最终死亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周幽王烽火戏诸侯，周平王迁都到洛阳。",
+      "sentence": "周幽王点燃烽火戏弄诸侯",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "周幽王烽火戏诸侯，周平王迁都到洛阳。",
+      "sentence": "周平王将都城迁至洛阳",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "春秋五霸争天下，战国七雄归秦王。",
+      "sentence": "春秋五霸争夺天下霸权",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "春秋五霸争天下，战国七雄归秦王。",
+      "sentence": "战国七雄最终归属秦王",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "楚霸王项羽不过江，便宜了泼皮无赖的汉刘邦。",
+      "sentence": "项羽未渡江导致刘邦得利",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "王莽篡汉天下乱，光武中兴建东汉。",
+      "sentence": "王莽篡汉导致天下大乱",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "王莽篡汉天下乱，光武中兴建东汉。",
+      "sentence": "光武帝中兴建立东汉",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "桓帝灵帝乱朝纲，东汉不到二百年。",
+      "sentence": "桓帝灵帝导致东汉朝纲混乱",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "桓帝灵帝乱朝纲，东汉不到二百年。",
+      "sentence": "东汉王朝存在不足二百年",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "哎，把这些诗条对句丢在后，说一段黄香扇枕温衾的孝子传。",
+      "sentence": "黄香扇枕温衾尽孝道",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人生百善孝为先，从古至今佳话传。",
+      "sentence": "孝道从古至今都是佳话",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二十四孝是典范，二十四个孝子好儿男。",
+      "sentence": "二十四孝是孝子的典范",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "今天不把别的唱，听我把黄香扇枕温衾唱一番。",
+      "sentence": "黄香扇枕温衾展现孝子典范",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "东汉传到汉章帝，孝子黄香美名扬。",
+      "sentence": "孝子黄香的美名广为流传",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "夏天给父亲扇枕席，冬天给父亲焐被褥。",
+      "sentence": "黄香夏天为父亲扇凉枕席",
+      "behavior_type": 10
+    },
+    {
+      "role": "黄香",
+      "original_sentence": "夏天给父亲扇枕席，冬天给父亲焐被褥。",
+      "sentence": "黄香冬天为父亲温暖被褥",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "现今的人儿要听了要发笑，黄香整个是傻蛋。",
+      "sentence": "现今人们认为黄香的行为可笑",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夏天打开电风扇，何必要用扇子扇？",
+      "sentence": "夏天人们使用电风扇来降温",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "冬天用的电热毯，何必用人焐热炕？",
+      "sentence": "冬天用电热毯无需人焐热炕",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要是空调更方便，冬天夏天都好办。",
+      "sentence": "使用空调使生活更加便利",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "哎，古代的人可没有电，说笑一番再来说黄香。",
+      "sentence": "古代人谈论黄香没有电",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "东汉孝子美名扬，姓黄名香字文强。",
+      "sentence": "黄香因孝行而获得美名传扬",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "家住江夏安陆地，儿时家境是小康。",
+      "sentence": "儿时家境属于小康水平",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "黄父",
+      "original_sentence": "父亲举孝廉母亲能干，一家人挺亲热和睦非常。",
+      "sentence": "黄父与家人相处和睦融洽",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "小黄香受到了良好教育，天生脑瓜聪明记性强。",
+      "sentence": "黄香天生聪明记忆力强",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "自打他能够记事起，父母教他认字写文章。",
+      "sentence": "黄香自幼学习认字写文章",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "黄父",
+      "original_sentence": "常给他讲书上记载的是，讲民间流传的孝顺郎。",
+      "sentence": "黄父常给黄香讲述孝道故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "讲虞舜孝感动天不负众望，老莱子戏彩娱亲喜气满堂。",
+      "sentence": "虞舜孝感动天不负众望",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "讲虞舜孝感动天不负众望，老莱子戏彩娱亲喜气满堂。",
+      "sentence": "老莱子戏彩娱亲喜气满堂",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "讲闵损单衣顺亲阖家欢乐，讲曾参啮指心痛母子情长。",
+      "sentence": "讲述闵损单衣顺亲的故事",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "讲闵损单衣顺亲阖家欢乐，讲曾参啮指心痛母子情长。",
+      "sentence": "讲述曾参啮指心痛的故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "幼小的心灵买下仁孝种子，并决心效法他们广大发扬。",
+      "sentence": "黄香决心效法孝子发扬仁孝",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "童年是在父母的钟爱中度过，可叹九岁是母亲染病身亡。",
+      "sentence": "童年时母亲因病不幸离世",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "黄香哭天又抢地，悲痛欲绝哭断肠。",
+      "sentence": "黄香因悲痛而哭泣不止",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "这打击他怎能接受得了，母亲的音容笑貌总在心中装。",
+      "sentence": "黄香无法接受母亲的离世",
+      "behavior_type": 2
+    },
+    {
+      "role": "黄香",
+      "original_sentence": "这打击他怎能接受得了，母亲的音容笑貌总在心中装。",
+      "sentence": "黄香心中装着母亲的音容",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "吃饭时想起了娘食不知味，穿衣时想起了娘穿错衣裳。",
+      "sentence": "黄香因思念母亲而食不知味",
+      "behavior_type": 2
+    },
+    {
+      "role": "黄香",
+      "original_sentence": "吃饭时想起了娘食不知味，穿衣时想起了娘穿错衣裳。",
+      "sentence": "黄香因思念母亲而穿错衣裳",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "睡觉时想起了娘难以入眠，多少次梦中醒来心中想的口中唤的还是亲娘。",
+      "sentence": "黄香因思念母亲而难以入眠",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "黄香日夜把娘想，日夜憔悴脸色黄。",
+      "sentence": "黄香因思念母亲而日夜憔悴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "废寝忘食缺营养，只瘦得骨瘦如柴走路都晃荡。",
+      "sentence": "黄香因废寝忘食导致营养不良",
+      "behavior_type": 11
+    },
+    {
+      "role": "黄香",
+      "original_sentence": "废寝忘食缺营养，只瘦得骨瘦如柴走路都晃荡。",
+      "sentence": "黄香骨瘦如柴走路摇摇晃晃",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "黄父",
+      "original_sentence": "父亲见他瘦成这样，心疼儿子叫声小黄香。",
+      "sentence": "黄父心疼儿子黄香瘦弱不堪",
+      "behavior_type": 2
+    },
+    {
+      "role": "黄香",
+      "original_sentence": "父亲见他瘦成这样，心疼儿子叫声小黄香。",
+      "sentence": "黄香因思念母亲而日渐消瘦",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人生在世总要死亡，只不过寿命有长有短。",
+      "sentence": "人生在世终将面临死亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "黄父",
+      "original_sentence": "你总是不吃不喝这可够呛，要有个好歹爹得见阎王。",
+      "sentence": "黄父担心儿子不吃不喝会出事",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "黄香坚持为母亲守孝，三年过了不想终丧。",
+      "sentence": "黄香坚持为母亲守孝三年",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "黄香坚持为母亲守孝，三年过了不想终丧。",
+      "sentence": "三年守孝期结束后不想终丧",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "乡亲们都称赞他是个大孝子，一传十十传百名声远扬。",
+      "sentence": "乡亲们称赞黄香是个大孝子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘护",
+      "original_sentence": "太守刘护得知他的行孝事，特召到官署把门生当。",
+      "sentence": "刘护得知黄香行孝事迹后召见他",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "这时候黄香家中比较贫困，家务事雇不起人全靠黄香。",
+      "sentence": "黄香独自承担全部家务事务",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "黄香不怕苦和累，极尽孝道日夜忙。",
+      "sentence": "黄香日夜操劳极尽孝道",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "他给父亲烧茶做饭，他给父亲浆洗衣裳。",
+      "sentence": "黄香为父亲烧茶做饭浆洗衣裳",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "千方百计把招想，让父亲吃好穿暖得安康。",
+      "sentence": "黄香设法让父亲吃好穿暖",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "夏季里数三伏天热难当，小黄香用扇子把枕席扇。",
+      "sentence": "黄香用扇子为枕席降温",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "以便于父亲他枕席上躺，舒服地快入睡进入了梦乡。",
+      "sentence": "黄香为父亲扇凉枕席助其入睡",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "冬季里数三九天气冷寒，黄香用身体暖被焐床。",
+      "sentence": "黄香用身体温暖父亲的被褥",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "随后才叫父亲上床休息，屋温被暖省得着凉。",
+      "sentence": "黄香为父亲暖被后才让他休息",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "扇席时温被时心情愉快，高兴地唱着小曲喜气洋洋。",
+      "sentence": "黄香扇席温被时心情愉快",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，这段子贤孝么已唱完，故事么一节一节交代全。",
+      "sentence": "故事已经完整地讲述完毕",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问唱的是那一段？",
+      "sentence": "询问唱的是哪一段内容",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二十四孝里的第十篇。",
+      "sentence": "二十四孝中的第十篇被提及",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问曲儿是啥名堂？",
+      "sentence": "询问曲子的名称是什么",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "黄香",
+      "original_sentence": "黄香扇枕温衾的事一桩。",
+      "sentence": "黄香为父亲扇枕温衾",
+      "behavior_type": 10
+    }
+  ]
+]

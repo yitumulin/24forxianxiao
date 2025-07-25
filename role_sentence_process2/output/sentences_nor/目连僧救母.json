@@ -1,0 +1,574 @@
+[
+  [
+    {
+      "role": "",
+      "original_sentence": "《目连僧救母》唱词弹唱：王雷忠整理：赵大泰天是一个宝盖，地是一个池，人是世上的浑水鱼。",
+      "sentence": "天地人构成世界的三种形态",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "山里的花多了开不红，世上的人多了心不公。",
+      "sentence": "世上的人多了心不公正",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "海里的鱼多了水不清，天上的云多了日不红。",
+      "sentence": "海里的鱼多了导致水不清",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "海里的鱼多了水不清，天上的云多了日不红。",
+      "sentence": "天上的云多了导致日不红",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "七不公，八不平，人心不公遗戥称。",
+      "sentence": "人们感到社会存在不公平现象",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "天公道，地公道，人心不公了遗哈的戥称。",
+      "sentence": "天地公道但人心却不公平",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "千两的黄金万两银，有钱难买了父母的命。",
+      "sentence": "金钱无法换取父母的生命",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "娘老子想儿女各路路儿想，儿女们想娘老子是晾冷的汤。",
+      "sentence": "父母思念子女的情感深厚",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "娘老子想儿女各路路儿想，儿女们想娘老子是晾冷的汤。",
+      "sentence": "子女思念父母的情感淡薄",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "娘老子想儿女各路路儿想，儿女们想娘老子云中望月。",
+      "sentence": "父母思念子女如同云中望月",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "娘老子的心在儿女上，儿女们的心在石头上。",
+      "sentence": "母亲的心始终牵挂儿女",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "娘老子的心在儿女上，儿女们的心在石头上。",
+      "sentence": "儿女的心却如石头般冷",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "目连僧",
+      "original_sentence": "昔日里倒有一个目连僧，十八层地狱里孝敬的母亲。",
+      "sentence": "目连僧在地狱中孝敬母亲",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "目连僧",
+      "original_sentence": "孝敬我的母亲观世音，孝敬父亲是父教子。",
+      "sentence": "目连僧孝敬母亲的行为感人至深",
+      "behavior_type": 3
+    },
+    {
+      "role": "观世音",
+      "original_sentence": "孝敬我的母亲观世音，孝敬父亲是父教子。",
+      "sentence": "观世音孝敬父亲的行为值得称赞",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我叫你修，你不修，造下罪孽了你们自己受。",
+      "sentence": "他们因不修而造下罪孽",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "今世修，今世受，前世不修何处留。",
+      "sentence": "今世修行决定今世命运",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "活着了与父母孝敬好，何必死掉了你们眼泪掉。",
+      "sentence": "活着时应好好孝敬父母",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "活着了与父母孝敬好，何必死掉了你们眼泪掉。",
+      "sentence": "死后流泪已无济于事",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "活着了与父母孝敬到，何必死掉了你们嚷嚷闹闹。",
+      "sentence": "活着时应当好好孝敬父母",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "活着了与父母孝敬到，何必死掉了你们嚷嚷闹闹。",
+      "sentence": "死后哭泣吵闹毫无意义",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "观世音",
+      "original_sentence": "活着了与父母孝敬些叫吃，何必死掉了你给献斋去。",
+      "sentence": "观世音教导人们要孝敬父母",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "活着了与父母孝敬些叫吃，何必死掉了你给献斋去。",
+      "sentence": "死后献斋不如生前尽孝",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "蒸了馒头在头底下献，你又不知道爹爹连妈妈尝得上。",
+      "sentence": "蒸馒头放在头底下献祭",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "打了一碗干饭头底下献，鹰雀鸟鸽都吃光。",
+      "sentence": "一碗干饭被放在头底下献",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "烧上的烧纸又叫风刮散，奠下的奠酒又叫土吃干。",
+      "sentence": "烧纸被风吹散奠酒被土吸干",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "红儿的幡，鹤儿的幡，死人盖着活人脸。",
+      "sentence": "红幡鹤幡覆盖在活人脸上",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "请了几个道士念了经，真是这个儿和女的枉操心。",
+      "sentence": "请道士念经是枉费心思",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "活着了你们与父母孝敬些叫穿，何必死掉穿着个滚哆啰蛋。",
+      "sentence": "活着时孝敬父母胜过死后铺张",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "死掉了穿上个滚哆啰蛋，脱衣树底下遭啰连。",
+      "sentence": "死者穿着滚哆啰蛋被埋葬",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "死掉了穿上个滚哆啰蛋，脱衣树底下遭啰连。",
+      "sentence": "脱下的衣物被挂在树底下",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "霸了千贯霸万贯，临尾去落哈了四块板。",
+      "sentence": "积累了财富最终却失去所有",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "修为好些的能落四块板，修为不好停不上四块板。",
+      "sentence": "修为好的人能得到四块板",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "修为好些的能落四块板，修为不好停不上四块板。",
+      "sentence": "修为不好的人得不到四块板",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "胡吃的个胡喝，胡捣儿的洞，死掉了落它一个好名声。",
+      "sentence": "胡吃胡喝最终落得好名声",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三日不吃了阳间的饭，四日上到了望乡台上。",
+      "sentence": "三日未进食阳间食物",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "三日不吃了阳间的饭，四日上到了望乡台上。",
+      "sentence": "四日后抵达望乡台",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "望乡台上往下瞭，望见我的儿女们披麻呀又戴孝。",
+      "sentence": "望乡台上看见儿女披麻戴孝",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "儿哭了三声惊天地，女哭了三声泪堆起。",
+      "sentence": "儿女们的哭声惊动了天地",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "儿哭了三声惊天地，女哭了三声泪堆起。",
+      "sentence": "儿女们的泪水堆积成山",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大姑娘哭着要孝衫，二姑娘哭着孝衫短。",
+      "sentence": "大姑娘因悲伤而索要孝衣",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "大姑娘哭着要孝衫，二姑娘哭着孝衫短。",
+      "sentence": "二姑娘因悲伤嫌孝衣太短",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "唯有我的三姑娘人又奸，嘴里哭的老爹娘，手入到妈妈的箱子里胡乱翻。",
+      "sentence": "三姑娘假装哭泣并翻找箱子",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "唯有那个四姑娘不做贼，妈妈的箱壳娄里翻给了十几回。",
+      "sentence": "四姑娘未翻动母亲的箱子",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十个的姑娘九个都是贼，不偷我的娘连老子再偷谁？",
+      "sentence": "姑娘们偷取父母的财物",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "女婿枕住酒缸睡，外甥子高兴着没瞌睡。",
+      "sentence": "女婿枕住酒缸睡觉",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "女婿枕住酒缸睡，外甥子高兴着没瞌睡。",
+      "sentence": "外甥子高兴得睡不着",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "外甥子连女婿是娇客，外父家的门上来喝得多。",
+      "sentence": "外甥子和女婿在岳父家饮酒",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "但若一点事情把傢待承不到，抡抡打打就走掉。",
+      "sentence": "若待承不周便立即离开",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这就叫儿哭的钱来女哭的泪，外来的媳妇子们傢过着一个……。",
+      "sentence": "儿女哭泣表达各自的情感需求",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "这就叫儿哭的钱来女哭的泪，外来的媳妇子们傢过着一个……。",
+      "sentence": "外来媳妇在家庭中生活适应",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "媳妇子哭起没眼泪，干哭湿哭傢对不住人。",
+      "sentence": "媳妇子哭泣却无泪水流出",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "抿了些唾沫往眼窝里抹，陪上我的大丈夫了哭一场。",
+      "sentence": "抿唾沫抹眼窝假装哭泣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "嘴里哭的是老爹娘，心里想的公婆的大书房。",
+      "sentence": "她心中思念公婆的大书房",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "早死掉公婆眼亮了，大书房我得坐了。",
+      "sentence": "公婆去世后书房归我使用",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "早晨睡到了晌午过，哪一个过来他不尊我一个当家婆？",
+      "sentence": "早晨睡到了晌午过",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "早晨睡到了晌午过，哪一个过来他不尊我一个当家婆？",
+      "sentence": "当家婆受到他人尊敬",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "当家才知柴米贵，养儿才能知道娘老子的恩。",
+      "sentence": "当家后明白柴米价格昂贵",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "当家才知柴米贵，养儿才能知道娘老子的恩。",
+      "sentence": "养儿方知父母恩情深厚",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "孝敬公婆好处多，能给你们儿女们免灾祸。",
+      "sentence": "孝敬公婆能够带来诸多好处",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "婆婆给你又烧火又干活，又是你们媳妇子的看娃婆。",
+      "sentence": "婆婆为媳妇烧火干活看孩子",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "养儿的个养女操碎了心，儿和女在父母的身上要孝敬。",
+      "sentence": "父母为儿女操碎了心",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "养儿的个养女操碎了心，儿和女在父母的身上要孝敬。",
+      "sentence": "儿女应当孝敬父母",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "小羊羔吃奶双膝跪下，小乌鸦报娘恩是一十八天。",
+      "sentence": "小羊羔跪着吃奶",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "小羊羔吃奶双膝跪下，小乌鸦报娘恩是一十八天。",
+      "sentence": "小乌鸦报恩十八天",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "手搭到胸膛上想一想，你的怀里抱上个娃娃为的哪番？",
+      "sentence": "手搭胸膛思考抱娃娃的缘由",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "养儿女就为传宗接代，到百年两鬓白是有人嚎丧。",
+      "sentence": "养儿女是为了传宗接代",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "养儿女就为传宗接代，到百年两鬓白是有人嚎丧。",
+      "sentence": "百年后有人为其嚎丧",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "今是古，古是今，有道的世上我们劝化人。",
+      "sentence": "有道之人在世间劝化众人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "劝人的人儿终有益，挑事弄非你们两口子的难。",
+      "sentence": "劝人者终将获得益处",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "劝人的人儿终有益，挑事弄非你们两口子的难。",
+      "sentence": "挑拨是非会带来困难",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "贤人听下记到心，过了小人的耳边风。",
+      "sentence": "贤人将话语牢记在心中",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "贤人听下记到心，过了小人的耳边风。",
+      "sentence": "小人将话语当作耳边风",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "贤人的心里照着两盏灯，气着叫愚人的肚子里疼。",
+      "sentence": "贤人心中有两盏灯照耀",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "贤人的心里照着两盏灯，气着叫愚人的肚子里疼。",
+      "sentence": "愚人因愤怒而感到肚子疼",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "还说的唱曲儿的笑愚人，这才不为那个笑愚人。",
+      "sentence": "唱曲者嘲笑愚人并非为此原因",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "目连僧",
+      "original_sentence": "这也是现实生活的最大事情，要听我小曲儿的这一段，唱了一个目连僧孝亲娘。",
+      "sentence": "目连僧唱曲讲述孝亲的故事",
+      "behavior_type": 10
+    }
+  ]
+]

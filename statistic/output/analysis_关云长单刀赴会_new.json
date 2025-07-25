@@ -1,0 +1,166 @@
+[
+  {
+    "roleName": "孙权",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "12": 2,
+      "2": 4,
+      "7": 5,
+      "8": 3,
+      "6": 1,
+      "5": 1
+    },
+    "total_sentences": 16,
+    "entropy": 2.3522170014624826
+  },
+  {
+    "roleName": "徐盛",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 1,
+      "13": 1
+    },
+    "total_sentences": 2,
+    "entropy": 1.0
+  },
+  {
+    "roleName": "丁奉",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 1,
+      "13": 1
+    },
+    "total_sentences": 2,
+    "entropy": 1.0
+  },
+  {
+    "roleName": "蒋钦",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "2": 1,
+      "13": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "周泰",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "2": 1,
+      "13": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "程普",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 1,
+      "13": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "黄盖",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 1,
+      "13": 1,
+      "4": 1,
+      "3": 1
+    },
+    "total_sentences": 4,
+    "entropy": 2.0
+  },
+  {
+    "roleName": "韩当",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 1,
+      "13": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "甘宁",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 1,
+      "13": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "鲁肃",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 24,
+      "10": 2,
+      "2": 3,
+      "5": 2,
+      "3": 2
+    },
+    "total_sentences": 33,
+    "entropy": 1.383970255132053
+  },
+  {
+    "roleName": "关羽",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 2,
+      "7": 8,
+      "3": 2,
+      "6": 1,
+      "2": 4,
+      "4": 4,
+      "8": 1,
+      "10": 1,
+      "5": 2,
+      "1": 5,
+      "13": 1
+    },
+    "total_sentences": 31,
+    "entropy": 3.095820811211494
+  },
+  {
+    "roleName": "乔老",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 1
+    },
+    "total_sentences": 1,
+    "entropy": 0.0
+  },
+  {
+    "roleName": "周仓",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 6,
+      "13": 3,
+      "2": 3,
+      "4": 2
+    },
+    "total_sentences": 14,
+    "entropy": 1.877387064296613
+  },
+  {
+    "roleName": "关平",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "2": 1,
+      "7": 2
+    },
+    "total_sentences": 3,
+    "entropy": 0.9182958340544896
+  }
+]

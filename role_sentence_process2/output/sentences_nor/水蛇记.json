@@ -1,0 +1,4560 @@
+[
+  [
+    {
+      "role": "",
+      "original_sentence": "凉州贤孝《水蛇记》唱词水蛇记第1集。",
+      "sentence": "凉州贤孝水蛇记第一集",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "唉，说的是，人闹世界世界在，世界闹人是一场空。",
+      "sentence": "世界闹人最终是一场空",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "宋王天子登了殿，左班丞相王延林，右班丞相老杨景，闪出来个文武丞相是包文拯，阴间阳间都断尽啊，他是铁面无私的一个人。",
+      "sentence": "包文拯在阴间阳间都断尽案件",
+      "behavior_type": 7
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "宋王天子登了殿，左班丞相王延林，右班丞相老杨景，闪出来个文武丞相是包文拯，阴间阳间都断尽啊，他是铁面无私的一个人。",
+      "sentence": "包文拯闪出来担任文武丞相",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "各位大家乡亲们听，今个我说的是包公案。",
+      "sentence": "包文拯讲述包公案的故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "首先说的那一段啊，正是成州城外，大大有名的一个事情水蛇记啊，也就是银山花害男人。",
+      "sentence": "银山花谋害了一名男子",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说的是成州城外有个王家庄，王家庄里可坐着个大有名，家是家大富豪的有钱人。",
+      "sentence": "成州城外王家庄有位富豪",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "东库金子西库银，他的钱财过万担。",
+      "sentence": "他的钱财数量超过万担",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "磙子拿的生铁倒，犁沿耙钉拿的铜角子包啊。",
+      "sentence": "磙子使用生铁倒犁沿耙钉",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "窗户门庭包黄金，水磨各样都齐全啊。",
+      "sentence": "窗户门庭皆以黄金包裹",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "百万名叫王风龙，定亲定到了康家的门。",
+      "sentence": "王风龙与康家定下亲事",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "自从把康氏夫人娶过门，少年夫妻配成了婚。",
+      "sentence": "王风龙与康氏夫人成婚",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "夫妻恩爱好得很，过门有了半辈整，生下了一苗根。",
+      "sentence": "王风龙与康氏夫妻感情深厚",
+      "behavior_type": 2
+    },
+    {
+      "role": "王风龙",
+      "original_sentence": "夫妻恩爱好得很，过门有了半辈整，生下了一苗根。",
+      "sentence": "王风龙与康氏结婚已有半生",
+      "behavior_type": 3
+    },
+    {
+      "role": "王风龙",
+      "original_sentence": "夫妻恩爱好得很，过门有了半辈整，生下了一苗根。",
+      "sentence": "王风龙与康氏生育了一个孩子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "孩子生下一岁半，两个善人还就见三岁个五岁安，我表也就七岁了，送到南学念五经，给娃娃定官名。",
+      "sentence": "王风龙为孩子定下正式官名",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "叫你看啊，学名字头辈老子叫王风龙啊，他的名字叫王丁郎啊。",
+      "sentence": "王风龙给儿子取名为王丁郎",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "一日会念百家姓，三日会念三字经，文章能读天下通，读书读了十六岁。",
+      "sentence": "王丁郎十六岁时已精通各类经典",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "你看他是报学名，他的学名大有名，他在学里读五经啊，他的文字实在是深啊，日后来就有大事情。",
+      "sentence": "王丁郎在学堂里学习五经",
+      "behavior_type": 5
+    },
+    {
+      "role": "王丁郎",
+      "original_sentence": "你看他是报学名，他的学名大有名，他在学里读五经啊，他的文字实在是深啊，日后来就有大事情。",
+      "sentence": "王丁郎的文章造诣非常深厚",
+      "behavior_type": 5
+    },
+    {
+      "role": "王丁郎",
+      "original_sentence": "你看他是报学名，他的学名大有名，他在学里读五经啊，他的文字实在是深啊，日后来就有大事情。",
+      "sentence": "王丁郎日后将有大成就",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "先不说他读五经，再说老员外着了忙，搭叫着让媒婆子给他的儿子保个媒。",
+      "sentence": "老员外急忙请媒婆为儿子说媒",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "他在南学里读五经，我只有一个独根苗，早些儿给他成了亲。",
+      "sentence": "王丁郎在南学里专心读五经",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "他在南学里读五经，我只有一个独根苗，早些儿给他成了亲。",
+      "sentence": "独根苗需要早些时候完成婚事",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "打听来打听去，有一户人家也大有名啊，他是谁家？",
+      "sentence": "有人打听一户有名的人家",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他正是北门以外有名的孔家庄。",
+      "sentence": "北门以外有个孔家庄",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "孔家庄上坐着一个人是大有名呀，他名叫银建生啊。",
+      "sentence": "孔家庄上坐着一个人",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "定下的他的姑娘，名字叫银山花啊。",
+      "sentence": "银山花是定下的姑娘",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "那才定下了银山花。",
+      "sentence": "银山花被定下婚事",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "此日选择了好日子，请了一个功名人士，请了买卖人红蓝顶子一璨明啊，他请了公侯王伯大小官员，花花轿子起了身，就到银家门上拿人去了。",
+      "sentence": "花花轿子前往银家门上拿人",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "轿子来到银家的门，请请请让让让让到了客厅上，搁了酒烟他们多高兴。",
+      "sentence": "轿子来到银家门前停下",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "轿子来到银家的门，请请请让让让让到了客厅上，搁了酒烟他们多高兴。",
+      "sentence": "众人被请到客厅上座",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "轿子来到银家的门，请请请让让让让到了客厅上，搁了酒烟他们多高兴。",
+      "sentence": "酒烟备好众人皆欢喜",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一整起来就酒过三巡茶过五味啊。",
+      "sentence": "众人饮酒品茶已过三巡",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "赶快吩咐一声，丫鬟小子陪上叫姑娘上花轿啊。",
+      "sentence": "吩咐丫鬟小子陪姑娘上花轿",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "轿子走开快如风，不一会来到王家的门。",
+      "sentence": "轿子快速离开并到达王家",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "热热闹闹拜了堂，就在家中他们多高兴啊。",
+      "sentence": "他们在家中感到非常高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "银山花夫人自从娶到家里来，王丁郎就爱着不得行啊。",
+      "sentence": "王丁郎深爱着银山花夫人",
+      "behavior_type": 2
+    },
+    {
+      "role": "银山花",
+      "original_sentence": "银山花夫人自从娶到家里来，王丁郎就爱着不得行啊。",
+      "sentence": "银山花夫人被娶到家里来",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "人长得是花容月貌，天娇娇看太好看呀。",
+      "sentence": "银山花容貌美丽动人",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "这个女子太漂亮了，王丁郎就喜爱的不得了啊。",
+      "sentence": "王丁郎非常喜爱这位漂亮女子",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "酬老待客三天整，洞房花烛他们三日也就到了，每天如此过得非常快乐高兴。",
+      "sentence": "他们连续三天快乐待客",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "酬老待客三天整，洞房花烛他们三日也就到了，每天如此过得非常快乐高兴。",
+      "sentence": "洞房花烛持续了三天",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "这样时间长了可不行啊，王丁郎在学里读五经不能耽误啊，告别了他的爹爹妈妈，可他舍不得妻子呀，他就心里太难过了。",
+      "sentence": "王丁郎因离别感到非常难过",
+      "behavior_type": 2
+    },
+    {
+      "role": "王丁郎",
+      "original_sentence": "这样时间长了可不行啊，王丁郎在学里读五经不能耽误啊，告别了他的爹爹妈妈，可他舍不得妻子呀，他就心里太难过了。",
+      "sentence": "王丁郎告别父母去读书",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "可妻子心里有难受舍不得丈夫啊。",
+      "sentence": "银山花心中难受舍不得丈夫",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "叫一声我的丈夫夫君啊，你去读五经你勤去勤来就是了，刚刚我们夫妻过门，你这个时候离开了我呀。",
+      "sentence": "妻子嘱咐丈夫勤去勤回读书",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "丁郎也说道，妻儿呀，我们一日的夫妻百日恩，百日的夫妻如海深。",
+      "sentence": "王丁郎向妻子表达深厚感情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "我读书也要紧啊，马上就要考课哩，离开你妻儿总得我心里难受啊。",
+      "sentence": "王丁郎因离开妻儿感到难过",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "说来说去一个离开了一个，拜过了他的爹爹妈妈就起了身，到南学里去了。",
+      "sentence": "王丁郎告别父母前往南学读书",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "妻子看着丈夫的背影看不见了才回家去了。",
+      "sentence": "妻子目送丈夫离开后返回家中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "先不说王丁郎在学里读五经，再说这个银山花在家门中。",
+      "sentence": "王丁郎正在学里专心读五经",
+      "behavior_type": 12
+    },
+    {
+      "role": "银山花",
+      "original_sentence": "先不说王丁郎在学里读五经，再说这个银山花在家门中。",
+      "sentence": "银山花此时正留在家中门内",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "你看他每日里忧忧愁愁，端来茶来茶不喝，端着饭来饭不吃。",
+      "sentence": "王丁郎每日忧愁茶饭不思",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "丫鬟梅香说，老爷太太给你们有件大事哩给你们说呀。",
+      "sentence": "丫鬟梅香告知老爷太太有要事相告",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "什么事？",
+      "sentence": "银山花询问丫鬟梅香何事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们的少爷走了，那小太太可不行啊。",
+      "sentence": "少爷已经离开了这个地方",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "我们的少爷走了，那小太太可不行啊。",
+      "sentence": "小太太目前状态非常不好",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "每天里端着饭去不吃饭，端着茶去茶不喝啊。",
+      "sentence": "银山花每日不吃饭也不喝茶",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "王风龙的夫人说道，这是我的儿媳他太寂寞了，要不说给叫他闲了在街上散心，转一转了回家就是了，不要愁着得下一场病了。",
+      "sentence": "王风龙的夫人建议儿媳外出散心",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "丫鬟来到房中说，是太太叫闲了叫你出去，在街上去散心去，不了忧愁了，转一转回来就安心了。",
+      "sentence": "丫鬟传达太太的吩咐",
+      "behavior_type": 7
+    },
+    {
+      "role": "王风龙",
+      "original_sentence": "丫鬟来到房中说，是太太叫闲了叫你出去，在街上去散心去，不了忧愁了，转一转回来就安心了。",
+      "sentence": "王风龙夫人建议儿媳外出散心",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "这就是放的那个太宽了，每天都到街上浪会去了，天天如此这般，还就应了人间说的，丑婆娘不惹祸，俊婆娘有是非呀。",
+      "sentence": "王风龙夫人每日上街散心",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "这就是放的那个太宽了，每天都到街上浪会去了，天天如此这般，还就应了人间说的，丑婆娘不惹祸，俊婆娘有是非呀。",
+      "sentence": "丑婆娘不惹祸俊婆娘有是非",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "每天串来串去，就惹下大祸了。",
+      "sentence": "王风龙因频繁外出惹下大祸",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "惹下什么大祸了？",
+      "sentence": "引发了严重的后果",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "给大家说分明。",
+      "sentence": "向大家详细说明情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "又到第二天，走着也就天晚了，走到一个大楼下正在转啊，让一个人可就看见了啊，左一眼右一眼看个不够啊。",
+      "sentence": "第二天走到大楼下天色已晚",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "又到第二天，走着也就天晚了，走到一个大楼下正在转啊，让一个人可就看见了啊，左一眼右一眼看个不够啊。",
+      "sentence": "某人反复观看大楼下的人",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那人吸了一口凉气说，人间还有这么漂亮的女人哩，我要是和这个娘子当恩爱一回呀，也不枉活了一回人啊。",
+      "sentence": "那人感叹人间有如此漂亮女子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我想办法找着，我想个办法和他团圆一回啊。",
+      "sentence": "想办法找着并与其团圆一回",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "看到这俊女人的是谁呀？",
+      "sentence": "有人看见了一位漂亮的女人",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这人可了不得，他身高一丈，脸如朱砂，长得膀阔腰圆，他是个大有名的一个英雄啊。",
+      "sentence": "此人身材高大面色红润",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他的武艺件件精通，势力很大。",
+      "sentence": "他的武艺非常精通势力很大",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "本来英雄是既不贪色又不贪财，可这个人是个欺男霸女的个人啊。",
+      "sentence": "英雄本应不贪色不贪财",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "本来英雄是既不贪色又不贪财，可这个人是个欺男霸女的个人啊。",
+      "sentence": "此人却欺男霸女行为恶劣",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "只要看到美女他就高兴得不得了啊，这人名叫杨文举。",
+      "sentence": "杨文举见到美女便感到高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "这老贼年方四十开外，他是了不得的一个人啊。",
+      "sentence": "杨文举年方四十开外",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "城里城外哪个不知哪个不晓啊，人人都怕他，因为人家的本事高。",
+      "sentence": "杨文举因本事高而令人畏惧",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "杨文举派了几个人，就查这个娘子到底他是哪家的人。",
+      "sentence": "杨文举派人调查娘子的身份",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "家人们查清后给他报告说，正是王风龙的儿媳啊。",
+      "sentence": "杨文举得知王风龙儿媳身份",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "王风龙的儿子在南学里读书啊，今个晚上我就干一件好事走啊。",
+      "sentence": "杨文举决定今晚要做一件好事",
+      "behavior_type": 10
+    },
+    {
+      "role": "王风龙",
+      "original_sentence": "王风龙的儿子在南学里读书啊，今个晚上我就干一件好事走啊。",
+      "sentence": "王风龙的儿子在南学读书",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "等到天黑夜晚了，杨文举查好了地址把身子收拾好，拿了一把钢刀，来到王风龙的庄子后面转了几转。",
+      "sentence": "杨文举夜晚收拾好前往王风龙庄子",
+      "behavior_type": 4
+    },
+    {
+      "role": "杨文举",
+      "original_sentence": "等到天黑夜晚了，杨文举查好了地址把身子收拾好，拿了一把钢刀，来到王风龙的庄子后面转了几转。",
+      "sentence": "杨文举持钢刀在庄子后面转悠",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "他腰身一变上到了王风龙的墙头上，他看准了这夫人的住房，他来到了她的房头顶上，四面观看了一番，没有什么人走动，就一下从房顶上跳了下来，拿出钢刀放在门缝里，把门拨开进到银山花的屋里。",
+      "sentence": "杨文举跃上墙头观察四周情况",
+      "behavior_type": 4
+    },
+    {
+      "role": "杨文举",
+      "original_sentence": "他腰身一变上到了王风龙的墙头上，他看准了这夫人的住房，他来到了她的房头顶上，四面观看了一番，没有什么人走动，就一下从房顶上跳了下来，拿出钢刀放在门缝里，把门拨开进到银山花的屋里。",
+      "sentence": "杨文举从房顶跳下进入屋内",
+      "behavior_type": 4
+    },
+    {
+      "role": "杨文举",
+      "original_sentence": "他腰身一变上到了王风龙的墙头上，他看准了这夫人的住房，他来到了她的房头顶上，四面观看了一番，没有什么人走动，就一下从房顶上跳了下来，拿出钢刀放在门缝里，把门拨开进到银山花的屋里。",
+      "sentence": "杨文举用钢刀拨开门锁",
+      "behavior_type": 13
+    },
+    {
+      "role": "银山花",
+      "original_sentence": "他腰身一变上到了王风龙的墙头上，他看准了这夫人的住房，他来到了她的房头顶上，四面观看了一番，没有什么人走动，就一下从房顶上跳了下来，拿出钢刀放在门缝里，把门拨开进到银山花的屋里。",
+      "sentence": "银山花在屋内未察觉异常",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "银山花一听，吓得赶快把灯点着。",
+      "sentence": "银山花听到后立即点燃了灯",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "一看是一个彪形大汉站在他头底下，手拿一把钢刀。",
+      "sentence": "银山花看见彪形大汉手持钢刀",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "吓得叫了一声，这贼人说不许乱喊。",
+      "sentence": "银山花因恐惧而发出惊叫声",
+      "behavior_type": 2
+    },
+    {
+      "role": "杨文举",
+      "original_sentence": "吓得叫了一声，这贼人说不许乱喊。",
+      "sentence": "杨文举命令对方保持安静",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "要乱喊我一刀宰了你的性命，银山花吓得不敢出声了。",
+      "sentence": "银山花因恐惧而不敢出声",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "杨文举老贼上去就把银山花拉到怀里，说，我是家大势大的有钱人，你要是好好从了我，我让你有享不尽的荣华富贵。",
+      "sentence": "杨文举将银山花拉入怀中",
+      "behavior_type": 13
+    },
+    {
+      "role": "杨文举",
+      "original_sentence": "杨文举老贼上去就把银山花拉到怀里，说，我是家大势大的有钱人，你要是好好从了我，我让你有享不尽的荣华富贵。",
+      "sentence": "杨文举向银山花提出条件",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "你要是不从我，你的性命难保。",
+      "sentence": "杨文举威胁银山花性命难保",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "银山花一听只好顺从了杨文举。",
+      "sentence": "银山花被迫顺从了杨文举",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "从此他们两人是夜夜不空，时间长了两个人的感情也深了。",
+      "sentence": "银山花与杨文举感情逐渐加深",
+      "behavior_type": 2
+    },
+    {
+      "role": "杨文举",
+      "original_sentence": "从此他们两人是夜夜不空，时间长了两个人的感情也深了。",
+      "sentence": "杨文举与银山花感情逐渐加深",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "因为王丁郎在南学里读书不回来，两个贼人每天晚上都不少啊。",
+      "sentence": "王丁郎在南学读书未归",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "因为王丁郎在南学里读书不回来，两个贼人每天晚上都不少啊。",
+      "sentence": "两个贼人每晚都不缺席",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "有一天晚上杨文举说这样不行，要想做一对长久夫妻，我们的想办法。",
+      "sentence": "杨文举提议要做长久夫妻",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "现在我们谁也离不开谁了，所以我们要做一对长久的夫妻。",
+      "sentence": "杨文举提议要做长久夫妻",
+      "behavior_type": 7
+    },
+    {
+      "role": "银山花",
+      "original_sentence": "现在我们谁也离不开谁了，所以我们要做一对长久的夫妻。",
+      "sentence": "银山花同意要做长久夫妻",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "银山花说，怎样才能做长久的夫妻，如何想办法？",
+      "sentence": "银山花询问如何成为长久夫妻",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "杨文举说，你听我给你说，等你男子来了就如此这般，现在就早早儿的做好准备。",
+      "sentence": "杨文举告诉银山花要提前做好准备",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "杨文举老贼给银山花悄悄地说了一番，银山花记在心里，就做了准备等丈夫王丁郎来呀。",
+      "sentence": "杨文举向银山花悄悄说了一番话",
+      "behavior_type": 7
+    },
+    {
+      "role": "银山花",
+      "original_sentence": "杨文举老贼给银山花悄悄地说了一番，银山花记在心里，就做了准备等丈夫王丁郎来呀。",
+      "sentence": "银山花将杨文举的话记在心里",
+      "behavior_type": 5
+    },
+    {
+      "role": "银山花",
+      "original_sentence": "杨文举老贼给银山花悄悄地说了一番，银山花记在心里，就做了准备等丈夫王丁郎来呀。",
+      "sentence": "银山花做好准备等待丈夫到来",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "把害人的计定好后，等过了几日王丁郎就回来了，这时王丁郎心急眼跳不得行，就辞了学回家来了。",
+      "sentence": "王丁郎心急眼跳无法继续",
+      "behavior_type": 2
+    },
+    {
+      "role": "王丁郎",
+      "original_sentence": "把害人的计定好后，等过了几日王丁郎就回来了，这时王丁郎心急眼跳不得行，就辞了学回家来了。",
+      "sentence": "王丁郎辞别学堂返回家中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "赶着走啊赶着行，一日来到了家门中。",
+      "sentence": "王丁郎匆忙赶路回到家中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "家人们说老爷少爷回来了。",
+      "sentence": "家人们告知老爷少爷回来了",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老爷一听儿子回来了，高兴的不成。",
+      "sentence": "老爷听闻儿子归来非常高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "贼夫人也心里高兴得很啊，我的丈夫王丁郎回来了，假装他就高兴的不得了。",
+      "sentence": "银山花因王丁郎归来感到高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "银山花",
+      "original_sentence": "贼夫人也心里高兴得很啊，我的丈夫王丁郎回来了，假装他就高兴的不得了。",
+      "sentence": "银山花假装为王丁郎高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "自从拜堂成亲就走了，今日个回来了，我们不要喧了，到房中恩爱去吧。",
+      "sentence": "王丁郎从拜堂成亲后离开家",
+      "behavior_type": 4
+    },
+    {
+      "role": "王丁郎",
+      "original_sentence": "自从拜堂成亲就走了，今日个回来了，我们不要喧了，到房中恩爱去吧。",
+      "sentence": "王丁郎今日终于回到家中",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "自从拜堂成亲就走了，今日个回来了，我们不要喧了，到房中恩爱去吧。",
+      "sentence": "他们决定保持安静回房间",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "请请请让让让，丈夫你回来了我太高兴，我们快到小房里去走吧，你把我都想坏了。",
+      "sentence": "王丁郎妻子因他归来而高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "王丁郎",
+      "original_sentence": "请请请让让让，丈夫你回来了我太高兴，我们快到小房里去走吧，你把我都想坏了。",
+      "sentence": "王丁郎与妻子前往房间",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "把丈夫让到小房中，打发了两个家人，给杨老爷杨文举快去送个信去。",
+      "sentence": "杨文举派人去给杨老爷送信",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两个家人往前转，就来到了杨家大门上。",
+      "sentence": "两个家人前往杨家大门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "手拍门板高声喊。",
+      "sentence": "有人用手拍门板并高声喊叫",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "杨家的家人走出来说，你有什么大事啊？",
+      "sentence": "杨家的家人询问对方有何要事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "禀报一声说王丁兰回来了。",
+      "sentence": "有人禀报王丁兰已经回来了",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "两个家人一听不知道是什么事情，说老爷老爷王丁郎来了。",
+      "sentence": "家人向杨老爷报告王丁郎到来",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "这老子一听吓得说，你再喊我把你抓住打死哩。",
+      "sentence": "杨文举威胁要抓住并打死对方",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "老爷来了两个家人说王丁郎回来了。",
+      "sentence": "家人向老爷报告王丁郎回来了",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "老爷来了两个家人说王丁郎回来了。",
+      "sentence": "两个家人告诉老爷王丁郎来了",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "嗯，我知道了再不要胡喊，再胡喊我取了你们的脑袋。",
+      "sentence": "不要胡喊否则取你脑袋",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "罢了老爷。",
+      "sentence": "老爷表示不再追究此事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老贼听罢多高兴，他准备好打扮身子多齐整，他准备就往这个贼夫人的房头顶里来哩。",
+      "sentence": "老贼打扮齐整准备前往",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "再说这个贼夫人，她看见了王丁郎高兴的不得了。",
+      "sentence": "王丁郎出现令贼夫人欣喜",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他推杯换盏说丈夫啊，我把你想坏了。",
+      "sentence": "他推杯换盏说丈夫啊",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "是左一杯右一盏给丈夫敬酒啊。",
+      "sentence": "王丁郎向丈夫敬酒多杯",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "丈夫啊，我想你盼你不得见你，今日个你回来了，我把你就想着想坏了。",
+      "sentence": "王丁郎妻子因思念而情绪激动",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "今日个你才来了，王丁郎一听也高兴，就喝了一盅又一盅啊。",
+      "sentence": "王丁郎高兴地喝了一盅又一盅",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "贼夫人看着王丁郎酒上身啊，拿过来汤碗子把酒敬啊。",
+      "sentence": "王丁郎接受了贼夫人的敬酒",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "贼夫人看着王丁郎酒上身啊，拿过来汤碗子把酒敬啊。",
+      "sentence": "贼夫人将汤碗递给王丁郎",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "王丁郎实在喝不下去了，说我的丈夫啊，多喝些酒身体好啊。",
+      "sentence": "王丁郎表示自己已经喝不下酒",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "王丁郎实在喝不下去了，说我的丈夫啊，多喝些酒身体好啊。",
+      "sentence": "有人劝丈夫多喝酒对身体好",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "来，我们把身名脱尽，睡下了我们再来饮一杯呀。",
+      "sentence": "他们脱尽身名准备睡觉",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "丁郎把衣服脱了个净啊，贼夫人拿过一茶碗酒说，丈夫来这一杯喝上来，我们再睡再爱。",
+      "sentence": "王丁郎将衣服全部脱掉",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "丁郎把衣服脱了个净啊，贼夫人拿过一茶碗酒说，丈夫来这一杯喝上来，我们再睡再爱。",
+      "sentence": "贼夫人递过一碗酒说道",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "丁郎把衣服脱了个净啊，贼夫人拿过一茶碗酒说，丈夫来这一杯喝上来，我们再睡再爱。",
+      "sentence": "丈夫喝下这杯酒后休息",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "王丁郎已经不清楚了，贼夫人硬是把一碗酒灌给了王丁郎。",
+      "sentence": "王丁郎被灌下一碗酒",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "王丁郎就不省人事了。",
+      "sentence": "王丁郎因醉酒失去意识",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "贼夫人推了几推，王丁郎没有动静。",
+      "sentence": "贼夫人多次推动王丁郎",
+      "behavior_type": 13
+    },
+    {
+      "role": "王丁郎",
+      "original_sentence": "贼夫人推了几推，王丁郎没有动静。",
+      "sentence": "王丁郎没有任何反应",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "就喊了几声叫了几叫，没有一点回音。",
+      "sentence": "银山花多次呼唤王丁郎无回应",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "这时贼夫人从箱子里取出竹筒子，来到王丁郎跟前。",
+      "sentence": "贼夫人取出竹筒来到王丁郎面前",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "把竹筒子对到王丁郎的屁股眼子上，急忙点了一根香，就在竹筒子里伸啊。",
+      "sentence": "贼夫人将竹筒对准王丁郎臀部",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "把竹筒子对到王丁郎的屁股眼子上，急忙点了一根香，就在竹筒子里伸啊。",
+      "sentence": "贼夫人迅速点燃了一根香",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "把竹筒子对到王丁郎的屁股眼子上，急忙点了一根香，就在竹筒子里伸啊。",
+      "sentence": "贼夫人将香伸入竹筒之中",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "伸来伸去，把蛇就熏着进了王丁郎的沟子了。",
+      "sentence": "蛇被熏进王丁郎的屁股里",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "王丁郎就呼的一下疼着得不得了，说夫人呀这是怎么了啊？",
+      "sentence": "王丁郎感到疼痛并询问夫人",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "我的肚子里偶然家疼着不得了啊。",
+      "sentence": "王丁郎感到肚子突然剧烈疼痛",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "丈夫你缓一缓不了动，想毕你来哩迎了风，所以你就疼开了，丈夫你忍一忍吧。",
+      "sentence": "丈夫你暂时不要移动",
+      "behavior_type": ""
+    },
+    {
+      "role": "",
+      "original_sentence": "丈夫你缓一缓不了动，想毕你来哩迎了风，所以你就疼开了，丈夫你忍一忍吧。",
+      "sentence": "可能是迎风导致疼痛",
+      "behavior_type": ""
+    },
+    {
+      "role": "",
+      "original_sentence": "丈夫你缓一缓不了动，想毕你来哩迎了风，所以你就疼开了，丈夫你忍一忍吧。",
+      "sentence": "丈夫你需要忍耐一下",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "哎呀，我疼着实在是疼着了不得。",
+      "sentence": "王丁郎感到剧烈的疼痛",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "我的夫人啊，我一时三刻，看来我疼得活不成啊。",
+      "sentence": "王丁郎感到疼痛难忍",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这贼夫人一听，把被褥捂到丈夫身上压住说，丈夫你忍一忍就好了，可能是喝上的酒多了冷气攻了心了。",
+      "sentence": "夫人将被褥压住丈夫身体",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "这贼夫人一听，把被褥捂到丈夫身上压住说，丈夫你忍一忍就好了，可能是喝上的酒多了冷气攻了心了。",
+      "sentence": "夫人劝丈夫忍耐酒气攻心",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "他也压在了王丁郎身上，王丁郎就疼的受不了了啊。",
+      "sentence": "王丁郎被压后感到疼痛难忍",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的爹娘啊，你回来吧回来吧我们见卡吧，我就肚子里疼着就活不成啊。",
+      "sentence": "他因思念父母而感到极度痛苦",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "蛇娃子钻到了肚子里，王丁郎就一口气就要了命啊，就命归了阴啊。",
+      "sentence": "王丁郎因蛇入腹而丧命",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "贼夫人一听假装说丈夫你醒来呀，丈夫你醒来呀。",
+      "sentence": "贼夫人假装呼唤丈夫醒来",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "喊了几声没有动静了。",
+      "sentence": "喊了几声后没有任何回应",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "杨文举一听从房顶上下来了，把刀放下进来了，夫人已吓得不行了。",
+      "sentence": "杨文举从房顶上下来",
+      "behavior_type": 4
+    },
+    {
+      "role": "杨文举",
+      "original_sentence": "杨文举一听从房顶上下来了，把刀放下进来了，夫人已吓得不行了。",
+      "sentence": "杨文举放下刀进入房间",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "杨文举一听从房顶上下来了，把刀放下进来了，夫人已吓得不行了。",
+      "sentence": "夫人被吓得惊慌失措",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "叫声夫人你不要怕，他已经断气了，没有我们的毛病了。",
+      "sentence": "杨文举告诉夫人不必害怕",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "叫声夫人你不要怕，他已经断气了，没有我们的毛病了。",
+      "sentence": "他已经断气没有毛病了",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "杨文举拿过一个毛口袋，把王丁郎装在口袋里，立在门背后。",
+      "sentence": "杨文举将王丁郎装入毛口袋",
+      "behavior_type": 13
+    },
+    {
+      "role": "杨文举",
+      "original_sentence": "杨文举拿过一个毛口袋，把王丁郎装在口袋里，立在门背后。",
+      "sentence": "杨文举把口袋立在门背后",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "来来来呀，我们先给他闹耍来，这个贼夫人了得吗？",
+      "sentence": "贼夫人假装呼唤丈夫醒来",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "她连丈夫死掉的都不顾了，把丈夫死掉的都忘掉了，她连贼男人就干开好事了。",
+      "sentence": "她不顾丈夫死亡忘记丈夫",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他们打打闹闹欢欢乐乐到了天亮了。",
+      "sentence": "他们打闹至天亮",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "老贼说到早上了，我把尸身子给你倒出来放到床上，你就假装哭呀。",
+      "sentence": "杨文举将尸体倒出并放在床上",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "老贼说到早上了，我把尸身子给你倒出来放到床上，你就假装哭呀。",
+      "sentence": "老贼指示对方假装哭泣",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "你哭的时候哭的泪泪的，不要叫人发现了，你就说昨日迎了风吃了酒，晚上他就去世了。",
+      "sentence": "杨文举告诉对方要假装哭泣",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老贼一说罢就走掉了。",
+      "sentence": "老贼说完话后立即离开了",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "他走了不要紧，包公查案查不出来怎么办？",
+      "sentence": "包文拯查案遇到困难无法解决",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "在天花板里藏着一个人，这是后话先不说藏的这个人是谁呀。",
+      "sentence": "天花板里藏着一个人",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这贼媳妇赶紧去打了一碗米汤端上来，放到丈夫头前。",
+      "sentence": "贼媳妇将米汤放在丈夫头前",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这贼夫人哭着说，我的丈夫，你醒来醒来。",
+      "sentence": "贼夫人哭泣着呼唤丈夫醒来",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叫了两三声不动弹啊。",
+      "sentence": "叫了两三声仍然没有反应",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的丈夫你醒来吧，你睁开双眼你看看吧，你起来吧，你怎么了呀？",
+      "sentence": "妻子呼唤丈夫醒来查看情况",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的夫君，一夜之间你可怎么了？",
+      "sentence": "一夜之间他发生了变故",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "欢天喜地的，你这会子怎么不醒了啊？",
+      "sentence": "丈夫突然陷入昏迷不醒状态",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你快快醒来吧！",
+      "sentence": "她希望丈夫能够尽快苏醒",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一声的高来一声的急，就哭着太冤了，这哭着让两个老人听着了。",
+      "sentence": "哭声让两位老人听见了",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "急忙跑上来到小房中，不见可罢了，一见两口子可就放声哭开了。",
+      "sentence": "夫妻二人见到后放声大哭",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的冤家，我的小冤家。",
+      "sentence": "她称呼对方为冤家",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你醒来吧，醒来吧，你看你怎么了？",
+      "sentence": "某人急切地呼唤对方醒来",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "昨日个你欢天喜地回来，一夜之间你怎么双眼不睁了？",
+      "sentence": "昨日你回来时显得非常高兴",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "昨日个你欢天喜地回来，一夜之间你怎么双眼不睁了？",
+      "sentence": "一夜之间你双眼不再睁开",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的儿呀你怎么了？",
+      "sentence": "父母对孩子突然离世感到极度悲伤",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你醒来吧。",
+      "sentence": "对方希望昏迷者能够苏醒过来",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "高喊三声我的小冤家，底喊三声又一声我的儿啊，你看春天春地把你白养了，把你白抓了。",
+      "sentence": "母亲悲痛呼唤孩子醒来",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "儿啊，你一夜之间你怎么了？",
+      "sentence": "一夜之间发生巨大变化",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大叫儿媳你给我讲来呀，我的儿子怎么了？",
+      "sentence": "询问儿媳关于儿子的情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "爹爹呀，我的爹爹妈妈我可孽障了，他欢天喜地来到我的家门中，我们饮酒多半天，欢天喜地的他安了逸。",
+      "sentence": "他欢天喜地来到家门中饮酒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他说感冒太重了，我说不行，他全能行。",
+      "sentence": "他说感冒太重了，我说不行",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "啊吆，我的爹爹妈妈可怜了，他一时之间他不知有多高兴，他玩了个七、八回。",
+      "sentence": "他一时之间感到非常高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我不知道啊，接着他不睁双眼了啊。",
+      "sentence": "他紧闭双眼不再睁开",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "爹爹妈妈，看来他感冒就太重了，想必她是得了那个阴症了呀。",
+      "sentence": "他的感冒症状非常严重",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这老两口子哭的不行，跪倒爬起双眼难睁啊，说冤家我把你就春天春地白养了白抓了，再的人家养儿防备的是老，我怎么养儿是一场空啊。",
+      "sentence": "老两口因悲伤而哭泣不止",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "这老两口子哭的不行，跪倒爬起双眼难睁啊，说冤家我把你就春天春地白养了白抓了，再的人家养儿防备的是老，我怎么养儿是一场空啊。",
+      "sentence": "老两口因悲伤而双眼难睁",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "这老两口子哭的不行，跪倒爬起双眼难睁啊，说冤家我把你就春天春地白养了白抓了，再的人家养儿防备的是老，我怎么养儿是一场空啊。",
+      "sentence": "老两口抱怨养儿未能防老",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "当家邻居也知道了，左邻右舍也知道了，完全回来了。",
+      "sentence": "邻居们得知消息后纷纷返回",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "当家邻居回来不看可罢了，一看一个一个还就吓坏了。",
+      "sentence": "当家邻居被眼前景象吓坏了",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "问了一回这是怎么回事啊？",
+      "sentence": "询问了事情的来龙去脉",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说昨日来的时候是高高兴兴，到夜半三更，他一夜之间就没气了，可能是大阴大凉死了。",
+      "sentence": "他在夜半三更突然去世",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "当家户族说，老员外，这个事情是不明不白的事情呀，要不然上衙门告状。",
+      "sentence": "当家户族建议老员外上衙门告状",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老爷这时哭得泣不成声，老两口子商量了一番，果然这事情不明不白的，这儿媳对我们很好啊，是早问安晚问安，一天三顿送茶饭。",
+      "sentence": "老爷哭泣并与老伴商量事情",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "老爷这时哭得泣不成声，老两口子商量了一番，果然这事情不明不白的，这儿媳对我们很好啊，是早问安晚问安，一天三顿送茶饭。",
+      "sentence": "儿媳对公婆照顾无微不至",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "对我们太好了，害儿子的这个事情说不成啊。",
+      "sentence": "老员外对儿媳的行为感到困惑",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "儿子不明不白的死了，我们上朝报个案走啊。",
+      "sentence": "儿子突然死亡原因不明不白",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "儿子不明不白的死了，我们上朝报个案走啊。",
+      "sentence": "他们决定前往朝廷报案",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老两口这才起了身，走一步行一步来到衙门中。",
+      "sentence": "老两口缓慢地走向衙门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "进了衙门三声喊，差役把他们拦住说，你们有什么大事啊？",
+      "sentence": "差役拦住他们询问有何大事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老爷啊，我冤枉啊，我的儿子死得可怜啊，前来告状啊。",
+      "sentence": "老爷因儿子死亡感到冤枉",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "差役把他们安当好，两个差役来到大堂上。",
+      "sentence": "差役将两人带到大堂上",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说大人在上。",
+      "sentence": "有人向大人行礼并问候",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你们有什么事情？",
+      "sentence": "差役询问他们有何事情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "来了两个老的一男一女前来告状，他有冤枉大事。",
+      "sentence": "两位老人前来衙门告状",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "来了两个老的一男一女前来告状，他有冤枉大事。",
+      "sentence": "老人声称自己有冤情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "来呀，赶快给我带上堂来。",
+      "sentence": "差役命令将人带上堂来",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老爷这是坐了堂，两班衙役站两边。",
+      "sentence": "老爷坐在堂上衙役分列两旁",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老两口子带到了大堂上，磕了几个响头。",
+      "sentence": "老两口被带到大堂上磕头",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "青天大人在上，我们冤枉啊！",
+      "sentence": "老两口向青天大人诉说冤情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "嗯，有什么冤枉，姓氏名谁给我讲。",
+      "sentence": "询问对方有何冤情及姓名",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叫一声青天大老爷，我们可亮怜冤枉啊。",
+      "sentence": "老夫妇向青天老爷诉说冤情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "大老爷，我的儿子在南门以外，我叫王风龙，所生一子王丁郎啊。",
+      "sentence": "王风龙向大老爷陈述儿子情况",
+      "behavior_type": 7
+    },
+    {
+      "role": "王丁郎",
+      "original_sentence": "大老爷，我的儿子在南门以外，我叫王风龙，所生一子王丁郎啊。",
+      "sentence": "王丁郎是王风龙所生的儿子",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "读书十六岁，考到师大学堂里读五经啊。",
+      "sentence": "王丁郎十六岁考入师大学堂",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "娶了妻儿就是银建生的姑娘银山花。",
+      "sentence": "银山花嫁给了王丁郎为妻",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "那才配成了婚，少年夫妻就是个月整。",
+      "sentence": "王丁郎与银山花结为夫妻",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "读书的要紧，一打走了学堂再没有回来呀，家中就留下我的儿媳。",
+      "sentence": "王丁郎离开学堂后未再归来",
+      "behavior_type": 4
+    },
+    {
+      "role": "银山花",
+      "original_sentence": "读书的要紧，一打走了学堂再没有回来呀，家中就留下我的儿媳。",
+      "sentence": "银山花独自留在家中等待",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "嗯，罢了，你那儿媳对你如何？",
+      "sentence": "银山花对待王风龙的态度如何",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "对你的儿子丁郎又是如何？",
+      "sentence": "询问对儿子丁郎的态度",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "大老爷，儿媳自从和我的儿子配了婚啊，少年夫妻个月整，恭恭敬敬的热爱的很啊。",
+      "sentence": "银山花对王丁郎十分恭敬热爱",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "儿子就在学里读五经，留下儿媳一个人啊。",
+      "sentence": "儿子在学堂里专心读五经",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "儿子就在学里读五经，留下儿媳一个人啊。",
+      "sentence": "儿媳独自一人留在家中",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "对我们两口子也是恭恭敬敬。",
+      "sentence": "儿媳对公婆态度恭敬",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "罢了，那你的儿子又是怎么回事？",
+      "sentence": "王丁郎正在学堂里研读五经",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "罢了，那你的儿子又是怎么回事？",
+      "sentence": "儿媳独自一人留在家中等待",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "大老爷，儿子长年累月没有回来，当当那天回来了。",
+      "sentence": "王丁郎长年累月没有回家",
+      "behavior_type": 4
+    },
+    {
+      "role": "王丁郎",
+      "original_sentence": "大老爷，儿子长年累月没有回来，当当那天回来了。",
+      "sentence": "王丁郎当天突然回来了",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "来的时候也是欢天喜地高高兴兴啊，到了晚上说我儿子感冒太重了，哦罢了，他通的何人？",
+      "sentence": "他回来时显得非常高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "来的时候也是欢天喜地高高兴兴啊，到了晚上说我儿子感冒太重了，哦罢了，他通的何人？",
+      "sentence": "晚上他说感冒太严重了",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "来的时候也是欢天喜地高高兴兴啊，到了晚上说我儿子感冒太重了，哦罢了，他通的何人？",
+      "sentence": "他询问儿子认识什么人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "和什么人来来往往的，你可知道？",
+      "sentence": "询问与何人有过往来",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大老爷，实在我可不知道啊！",
+      "sentence": "此人表示自己确实不知道",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的儿媳对我们孝敬，对儿子也贤良，并没有这样的事情，也没有来来往往，也没有通奸的事情。",
+      "sentence": "儿媳对公婆和丈夫都很孝顺",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们双眼里没有发现过这些个事呀。",
+      "sentence": "我们未曾发现这些事情",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包爷上上下下问了一遍，这才说，哦罢了，这是一宗怪案啊。",
+      "sentence": "包文拯询问案情后感叹此案怪异",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "水蛇记第2集。",
+      "sentence": "水蛇记第二集开始播放",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人闹世界世界在，世界闹人是一场空。",
+      "sentence": "人闹世界世界在是一场空",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "昨日说的水蛇记的前一段，今天再给大家可接好当。",
+      "sentence": "昨日讲述水蛇记的前一段故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那日说罢了谁家的个传，原把谁家借接续上。",
+      "sentence": "那日说罢了谁家的个传",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "那日说罢了谁家的个传，原把谁家借接续上。",
+      "sentence": "原把谁家借接续上",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "那日正说的是银山花害了人，把人可害死了不承认，包公才给他断案哩。",
+      "sentence": "银山花害人后拒不承认罪行",
+      "behavior_type": 3
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "那日正说的是银山花害了人，把人可害死了不承认，包公才给他断案哩。",
+      "sentence": "包文拯为银山花断案",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "王风龙亲自告了的状，来到大堂上，他把冤枉的事情说了一遍。",
+      "sentence": "王风龙向大堂陈述了冤情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "可包大人一听心里大吃一惊，这样的人等也有啊，这么样的害人可太难了。",
+      "sentence": "包文拯听闻此事感到震惊",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "吩咐衙役，在杨家给我提着银山花来。",
+      "sentence": "包文拯命令衙役捉拿银山花",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两个衙役起了身来到杨家门。",
+      "sentence": "两名衙役起身前往杨家",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "杨家一看吓掉魂，杨文举家人说道老爷不好了不妙了，差人衙役到了，不知有什么大事啊。",
+      "sentence": "杨文举家人感到非常惊恐",
+      "behavior_type": 2
+    },
+    {
+      "role": "杨文举",
+      "original_sentence": "杨家一看吓掉魂，杨文举家人说道老爷不好了不妙了，差人衙役到了，不知有什么大事啊。",
+      "sentence": "杨文举家人向老爷报告情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "杨文举一听吓掉魂，赶紧把家人安排定，把包大人的人接到客厅上。",
+      "sentence": "杨文举听闻后感到极度恐惧",
+      "behavior_type": 2
+    },
+    {
+      "role": "杨文举",
+      "original_sentence": "杨文举一听吓掉魂，赶紧把家人安排定，把包大人的人接到客厅上。",
+      "sentence": "杨文举迅速安排家人接待",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "狼眼一翻说道，你们来到家里有什么事情？",
+      "sentence": "杨文举询问衙役来家有何事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "我不该你们粮草，也不弯门拧锁打劫人，你看我的财势这么重，难道我家里犯了事不成啊？",
+      "sentence": "杨文举质问衙役来意为何",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "王朝、马汉说道，杨文举，你听着，你那夫人银山花究竟是怎么回事啊？",
+      "sentence": "王朝马汉询问杨文举关于银山花",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "今天提她哩，她把王丁郎害了。",
+      "sentence": "银山花害死了王丁郎",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "杨文举气的眼瞪脖子梗，眉头一皱计上心。",
+      "sentence": "杨文举瞪眼梗脖眉头紧皱",
+      "behavior_type": 1
+    },
+    {
+      "role": "杨文举",
+      "original_sentence": "杨文举气的眼瞪脖子梗，眉头一皱计上心。",
+      "sentence": "杨文举心中生出一计",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "这黑头你做事理不通，我那夫人是恩爱夫妻的人啊。",
+      "sentence": "杨文举指责对方做事不合情理",
+      "behavior_type": 7
+    },
+    {
+      "role": "杨文举",
+      "original_sentence": "这黑头你做事理不通，我那夫人是恩爱夫妻的人啊。",
+      "sentence": "杨文举强调夫妻感情深厚",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "那银山花他连王丁郎配婚可不回家中，来到家里他听说是感冒太重，他是大阴症死了的，你怎么提我这夫人啊那可不行啊。",
+      "sentence": "银山花未归致王丁郎死亡",
+      "behavior_type": 3
+    },
+    {
+      "role": "银山花",
+      "original_sentence": "那银山花他连王丁郎配婚可不回家中，来到家里他听说是感冒太重，他是大阴症死了的，你怎么提我这夫人啊那可不行啊。",
+      "sentence": "银山花听闻王丁郎患重病",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "那银山花他连王丁郎配婚可不回家中，来到家里他听说是感冒太重，他是大阴症死了的，你怎么提我这夫人啊那可不行啊。",
+      "sentence": "王丁郎因患大阴症而死亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "要是提她这个事情万万不能啊。",
+      "sentence": "杨文举坚决反对提及此事",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我奏一本你们一个也不得活呀，我那贤良的妻子怎样能害人哩，那提人是不可万不能。",
+      "sentence": "我上奏本你们都无法存活",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "我奏一本你们一个也不得活呀，我那贤良的妻子怎样能害人哩，那提人是不可万不能。",
+      "sentence": "我的贤妻不可能伤害他人",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "我奏一本你们一个也不得活呀，我那贤良的妻子怎样能害人哩，那提人是不可万不能。",
+      "sentence": "提及此事是绝对不可以的",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "杨文举的势力太大了，两个差役没有办法。",
+      "sentence": "杨文举的势力令差役无法应对",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "来到衙门中行礼在上说大人，那个杨文举的势力太大，他以官压人。",
+      "sentence": "杨文举在衙门中向大人行礼",
+      "behavior_type": 7
+    },
+    {
+      "role": "杨文举",
+      "original_sentence": "来到衙门中行礼在上说大人，那个杨文举的势力太大，他以官压人。",
+      "sentence": "杨文举以官压人势力太大",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "他说他的妻子是贤良之人啊，根本没有害人他不让叫提呀。",
+      "sentence": "银山花声称妻子贤良未害人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人大喊一声说既然不让提，我们带上人前去，在杨文举的家庭设堂啊。",
+      "sentence": "包文拯决定带人前往杨文举家",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "各种刑具都带上，带上董超、薛霸、王朝、马汉。",
+      "sentence": "包文拯命令带上各种刑具和差役",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "四个人大喊一声。",
+      "sentence": "四个人同时大声喊叫",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人起了身，到杨文举的家里去了。",
+      "sentence": "包文拯起身前往杨文举家中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "浩浩荡荡起了身。",
+      "sentence": "包文拯率领众人前往杨文举家",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "赶着走，赶着行，一路来到杨家门。",
+      "sentence": "包文拯一行人前往杨家",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "杨家杨文举怒气生，他不理包大人。",
+      "sentence": "杨文举对包大人感到愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "杨文举",
+      "original_sentence": "杨家杨文举怒气生，他不理包大人。",
+      "sentence": "杨文举不理睬包大人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人进了门大喊一声，差役站在两边，包公上了堂。",
+      "sentence": "包大人进门后大声喊叫",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "包大人进了门大喊一声，差役站在两边，包公上了堂。",
+      "sentence": "差役们站立在两侧",
+      "behavior_type": 12
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人进了门大喊一声，差役站在两边，包公上了堂。",
+      "sentence": "包公走上公堂",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "说你把银山花给我带来，我想问她就是了。",
+      "sentence": "包文拯要求将银山花带来询问",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "家人们拦不住。",
+      "sentence": "家人们未能成功阻拦",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "在小房里把银山花带回来，把银山花推到大堂上，跪倒在大堂上。",
+      "sentence": "银山花被带到大堂上跪倒",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人大喊一声说，地下来的什么人等？",
+      "sentence": "包文拯询问地下所来何人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "急忙说大老爷，我给你磕头啊，我是银山花呀，大老爷在上。",
+      "sentence": "银山花向大老爷表明自己身份",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人说银山花，你把前前后后害了王丁郎的事情给我讲。",
+      "sentence": "包文拯要求银山花讲述罪行",
+      "behavior_type": 7
+    },
+    {
+      "role": "银山花",
+      "original_sentence": "包大人说银山花，你把前前后后害了王丁郎的事情给我讲。",
+      "sentence": "银山花承认自己犯下罪行",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "大老爷冤枉冤枉我实冤枉啊。",
+      "sentence": "银山花向大老爷喊冤",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "老爷，自从我连丁郎配婚几年整，少年夫妻配成婚，我没有得罪过丁郎一次呀。",
+      "sentence": "银山花陈述自己未得罪过王丁郎",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "只要他回到南学，只要去读文他根本不回家中啊。",
+      "sentence": "王丁郎回到南学后不再回家",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "那天晚上他回来到家中，老爷我冤枉啊。",
+      "sentence": "银山花向老爷诉说冤枉",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "大老爷，他来到家中，欢天喜地他有多么高兴啊。",
+      "sentence": "王丁郎回到家中感到非常高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "端着饭来也不吃饭，端着茶来也不喝茶，垂头丧气看来是迷迷糊糊啊。",
+      "sentence": "王丁郎情绪低落且显得迷茫",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "问他怎么了，他说来时感冒太重了，实在身子发热我难受啊。",
+      "sentence": "王丁郎感冒发热感到难受",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他说他感冒太重了，我安当着让他铺床睡觉，他脱了个上净下净呀。",
+      "sentence": "他感冒严重需要卧床休息",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "他说他感冒太重了，我安当着让他铺床睡觉，他脱了个上净下净呀。",
+      "sentence": "他脱掉衣服准备睡觉",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "睡到中间他翻着起来……怎么样了，怎么样了？",
+      "sentence": "他在睡梦中突然翻身起来",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "讲！",
+      "sentence": "讲",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他翻着起来他把我两手一拉，我魂脱了。",
+      "sentence": "他起身后将我的双手紧紧拉住",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他说几年了没见过我，见了我实在想的了不得，他就不知道了。",
+      "sentence": "他说几年没见过我实在想念",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大老爷啊，我说不行不行你感冒太重，不行不行啊。",
+      "sentence": "说话者认为对方感冒太重",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他就把我按到那个床沿上，我说不行他不听呀，他就连续玩了好几回呀。",
+      "sentence": "他将我按在床沿上",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "他就把我按到那个床沿上，我说不行他不听呀，他就连续玩了好几回呀。",
+      "sentence": "我表示不同意他的行为",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "他就把我按到那个床沿上，我说不行他不听呀，他就连续玩了好几回呀。",
+      "sentence": "他连续进行了多次行动",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的大老爷，我看他双眼一闭他就睡着了，我连喊几声他不吭声，鼻子里嗯嗯又嗯嗯呀，我把他喊醒来，给了他点茶水他就睡觉睡到早上，我下去打了那个热米汤，我放到他头底下。",
+      "sentence": "他双眼一闭就睡着了",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "我的大老爷，我看他双眼一闭他就睡着了，我连喊几声他不吭声，鼻子里嗯嗯又嗯嗯呀，我把他喊醒来，给了他点茶水他就睡觉睡到早上，我下去打了那个热米汤，我放到他头底下。",
+      "sentence": "连喊几声他都不吭声",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "我的大老爷，我看他双眼一闭他就睡着了，我连喊几声他不吭声，鼻子里嗯嗯又嗯嗯呀，我把他喊醒来，给了他点茶水他就睡觉睡到早上，我下去打了那个热米汤，我放到他头底下。",
+      "sentence": "鼻子里发出嗯嗯声音",
+      "behavior_type": 6
+    },
+    {
+      "role": "",
+      "original_sentence": "我的大老爷，我看他双眼一闭他就睡着了，我连喊几声他不吭声，鼻子里嗯嗯又嗯嗯呀，我把他喊醒来，给了他点茶水他就睡觉睡到早上，我下去打了那个热米汤，我放到他头底下。",
+      "sentence": "把他喊醒后给了茶水",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "我的大老爷，我看他双眼一闭他就睡着了，我连喊几声他不吭声，鼻子里嗯嗯又嗯嗯呀，我把他喊醒来，给了他点茶水他就睡觉睡到早上，我下去打了那个热米汤，我放到他头底下。",
+      "sentence": "他睡觉一直睡到早上",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "我的大老爷，我看他双眼一闭他就睡着了，我连喊几声他不吭声，鼻子里嗯嗯又嗯嗯呀，我把他喊醒来，给了他点茶水他就睡觉睡到早上，我下去打了那个热米汤，我放到他头底下。",
+      "sentence": "下去打了热米汤回来",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "我的大老爷，我看他双眼一闭他就睡着了，我连喊几声他不吭声，鼻子里嗯嗯又嗯嗯呀，我把他喊醒来，给了他点茶水他就睡觉睡到早上，我下去打了那个热米汤，我放到他头底下。",
+      "sentence": "将米汤放到他头底下",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "揭开被子一看他早就没气了。",
+      "sentence": "揭开被子发现他已经死亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不怨我呀大人，他感冒我说不行他说行，在阴症上死了我的丈夫了啊。",
+      "sentence": "丈夫因阴症不幸去世",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大老爷我实实没有害他呀，丈夫死了我都伤心可怜的很，他就是阴症上死了呀。",
+      "sentence": "丈夫因阴症去世令人伤心",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那你在再讲夜晚还有什么动静？",
+      "sentence": "询问夜晚是否还有其他动静",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大老爷呀，在夜半三更他嗯嗯又嗯嗯，我叫他，他双眼睁开把我看了看就睡着了。",
+      "sentence": "他双眼睁开看了看又睡着了",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "睡到早上一看他没气了，你看冤枉不冤枉啊。",
+      "sentence": "睡到早上一看人已没气了",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "贼夫人若是讲了实话可罢了，若是不讲实话给我大刑伺候啊。",
+      "sentence": "贼夫人若讲实话可免刑罚",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把贼夫人拉倒在地埃尘，两个衙役拿着皮鞭打呀，整整打了那个半日整啊。",
+      "sentence": "衙役将贼夫人拉倒在地",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "把贼夫人拉倒在地埃尘，两个衙役拿着皮鞭打呀，整整打了那个半日整啊。",
+      "sentence": "衙役用皮鞭抽打贼夫人",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老爷我实实没有害过人啊。",
+      "sentence": "老爷表明自己没有害过人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人一看他不招供呀。",
+      "sentence": "包文拯发现对方拒不招供",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "杨文举急了说，包大人这个官司你当断者明？",
+      "sentence": "杨文举质问包大人能否明断此案",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "把你要是断不明白，我有上奏朝廷你可活不成啊。",
+      "sentence": "杨文举威胁包大人断案不明",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的夫人并没有害人，这样的事情你能做出来吗？",
+      "sentence": "夫人并未害人此事你能做出",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人。",
+      "sentence": "包文拯正在审理案件",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包公说，杨文举啊杨文举，你先退下堂去，把这个贼夫人给我压下堂去关起来，我再和王风龙商量啊。",
+      "sentence": "包公命令杨文举退下堂去",
+      "behavior_type": 7
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "包公说，杨文举啊杨文举，你先退下堂去，把这个贼夫人给我压下堂去关起来，我再和王风龙商量啊。",
+      "sentence": "包公将贼夫人压下堂关起",
+      "behavior_type": 13
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "包公说，杨文举啊杨文举，你先退下堂去，把这个贼夫人给我压下堂去关起来，我再和王风龙商量啊。",
+      "sentence": "包公要与王风龙商量事情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "王风龙说我的儿子冤枉啊，我见他回来我们老两口子都没有多见上一眼啊，我儿媳他就手拉手儿拉到他的小房中，一夜之间他命归阴啊。",
+      "sentence": "王风龙诉说儿子冤死悲痛万分",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "老爷我冤枉啊，我养个儿子防备的老，我儿媳她一夜之间这个事情他做的太重了，一夜之间儿子不见面，究竟是怎么回事我也不知道啊。",
+      "sentence": "王风龙诉说儿子冤死感到悲痛",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "老爷我冤枉啊，我养个儿子防备的老，我儿媳她一夜之间这个事情他做的太重了，一夜之间儿子不见面，究竟是怎么回事我也不知道啊。",
+      "sentence": "儿子一夜之间突然消失不见",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "也说不上啊。",
+      "sentence": "无法明确表达具体内容",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "又说道为什么又给杨家人？",
+      "sentence": "包文拯询问为何给予杨家人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说老爷人家官大势力又大。",
+      "sentence": "老爷官大势力又大",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "你看你都拿不住他呀，他三天上就来抢我的儿媳妇，我说不行不行啊，他说壶里没酒留不住客，家里没男子汉能行留住吗？",
+      "sentence": "王风龙表示无法阻止对方行为",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "你看你都拿不住他呀，他三天上就来抢我的儿媳妇，我说不行不行啊，他说壶里没酒留不住客，家里没男子汉能行留住吗？",
+      "sentence": "对方声称家中无酒留不住客人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "他大喊一声非要拿我的这个儿妻呀。",
+      "sentence": "杨文举强行要带走他的儿媳妇",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "哭哭啼啼留了七天他要拿这个人，七日一到他说什么都不行呀。",
+      "sentence": "杨文举强行带走他人儿媳妇",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "哭哭啼啼留了七天他要拿这个人，七日一到他说什么都不行呀。",
+      "sentence": "七日一到他坚决不同意留下",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "他请了大小官员公侯王伯，不知来了多少人，就抢走了我的儿媳银山花啊，给他配婚去了。",
+      "sentence": "银山花被抢走配婚",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人心里明白，肯定就是这个老贼定下的什么暗计呀，害死了银山花丈夫王丁郎，那才来到了这个杨家的门。",
+      "sentence": "包文拯明白老贼定下暗计",
+      "behavior_type": 5
+    },
+    {
+      "role": "银山花",
+      "original_sentence": "包大人心里明白，肯定就是这个老贼定下的什么暗计呀，害死了银山花丈夫王丁郎，那才来到了这个杨家的门。",
+      "sentence": "银山花的丈夫王丁郎被害",
+      "behavior_type": 3
+    },
+    {
+      "role": "杨文举",
+      "original_sentence": "包大人心里明白，肯定就是这个老贼定下的什么暗计呀，害死了银山花丈夫王丁郎，那才来到了这个杨家的门。",
+      "sentence": "杨文举来到杨家门前",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "大喊一声杨文举你抢了银山花，害了王丁郎啊，今天我非要把这个贼夫人让他供出口供啊。",
+      "sentence": "包文拯指责杨文举抢走银山花",
+      "behavior_type": 7
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "大喊一声杨文举你抢了银山花，害了王丁郎啊，今天我非要把这个贼夫人让他供出口供啊。",
+      "sentence": "包文拯欲迫使贼夫人供认罪行",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "他告了一状，我查了前前后后左左右右，肯定是你和银山花通上害了人啊，不承认人那可不行。",
+      "sentence": "包文拯指控杨文举与银山花合谋害人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "这个银山花和这个老贼通奸害死了丈夫，把这样的贱人留在世上有何用？",
+      "sentence": "银山花通奸害死了丈夫",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "这个银山花和这个老贼通奸害死了丈夫，把这样的贱人留在世上有何用？",
+      "sentence": "将贱人留在世上无用",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他的儿子怎么死了，你要害人吗？",
+      "sentence": "他的儿子不幸去世了",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "他的儿子怎么死了，你要害人吗？",
+      "sentence": "你是否想要伤害他人",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人说道。",
+      "sentence": "包文拯向众人陈述案件经过",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "要想断案他的势力太大，不行我们就验尸啊。",
+      "sentence": "包文拯决定通过验尸来断案",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "坟上可去不成，冲天冲地，人死了不能复生，王风龙也双膝跪倒哭着说，大人啊我的老大人啊，万万不能起坟啊，起坟冲天冲地我的儿子可怜的很。",
+      "sentence": "王风龙跪倒哭泣诉说心中悲痛",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "我的大老爷，你就想办法来把这个冤枉事情来断吧，万万不了起坟啊，太阳晒不得的啊。",
+      "sentence": "王风龙请求包大人查明冤情",
+      "behavior_type": 7
+    },
+    {
+      "role": "王风龙",
+      "original_sentence": "我的大老爷，你就想办法来把这个冤枉事情来断吧，万万不了起坟啊，太阳晒不得的啊。",
+      "sentence": "王风龙恳请不要进行起坟",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "可怜我的那个小冤家呀，这把包大人才给难坏了，这坟地起不成，案子断不清。",
+      "sentence": "包文拯因案件难断感到困扰",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "可怜我的那个小冤家呀，这把包大人才给难坏了，这坟地起不成，案子断不清。",
+      "sentence": "坟地无法开启案件难以查明",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "杨文举的家里让人管的管好。",
+      "sentence": "杨文举的家里被人管理得很好",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包爷打发王朝马汉就私查暗访去了。",
+      "sentence": "包文拯派遣王朝马汉暗中调查",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "都各州府县都转了，查了一天来到衙门中。",
+      "sentence": "在各州府县进行了一天的调查",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人做了堂，王朝，马汉上前说大老爷，我们到处查啊，没有查上什么结果啊，暂且安定明日了再查。",
+      "sentence": "包文拯升堂审理案件",
+      "behavior_type": 10
+    },
+    {
+      "role": "王朝",
+      "original_sentence": "包大人做了堂，王朝，马汉上前说大老爷，我们到处查啊，没有查上什么结果啊，暂且安定明日了再查。",
+      "sentence": "王朝向包大人汇报调查结果",
+      "behavior_type": 7
+    },
+    {
+      "role": "马汉",
+      "original_sentence": "包大人做了堂，王朝，马汉上前说大老爷，我们到处查啊，没有查上什么结果啊，暂且安定明日了再查。",
+      "sentence": "马汉向包大人汇报调查结果",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "到了第二天清早上，包爷吩咐王朝马汉，张龙，赵虎等，五六个人呀到各处查去了。",
+      "sentence": "包文拯派遣众人前往各处调查",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "查了又是一日了，当家户族说王丁郎死的冤枉啊，白日家回来好好的，一夜之间就死了，究竟是什么原因啊？",
+      "sentence": "王丁郎在一夜之间突然死亡",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "查了又是一日了，当家户族说王丁郎死的冤枉啊，白日家回来好好的，一夜之间就死了，究竟是什么原因啊？",
+      "sentence": "当家户族认为王丁郎死得冤枉",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他们来到堂上给老爷回话，到处就这么一句话呀，怎么死的就查不明呀，查不出来案可没治了。",
+      "sentence": "他们向老爷汇报查案无果",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "杨文举大骂包黑子，我再给你三天时间，你要是查不出来，我可要上朝奏本啊。",
+      "sentence": "杨文举警告包文拯限期破案",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "你给我查不明白，这样下去可不行呀啊大人。",
+      "sentence": "杨文举指责包拯办案不力",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人越想越难缠，到了第二日，吩咐他的手下人等不了走漏消息，他穿了便衣到六十里之外。",
+      "sentence": "包文拯穿便衣前往六十里外",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "他亲自查案去了，包大人查了一日没有什么消息，走着走着累了，在大树旁边休息一会儿，眼看天黑了，四面八方没有一个户人家，把包大人就难下了。",
+      "sentence": "包文拯亲自前往查案现场",
+      "behavior_type": 4
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "他亲自查案去了，包大人查了一日没有什么消息，走着走着累了，在大树旁边休息一会儿，眼看天黑了，四面八方没有一个户人家，把包大人就难下了。",
+      "sentence": "包文拯查案一日无果",
+      "behavior_type": 12
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "他亲自查案去了，包大人查了一日没有什么消息，走着走着累了，在大树旁边休息一会儿，眼看天黑了，四面八方没有一个户人家，把包大人就难下了。",
+      "sentence": "包文拯行走疲惫休息",
+      "behavior_type": 4
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "他亲自查案去了，包大人查了一日没有什么消息，走着走着累了，在大树旁边休息一会儿，眼看天黑了，四面八方没有一个户人家，把包大人就难下了。",
+      "sentence": "包文拯天黑无处可去",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "再往前走看见一个小庙呀，他就在小庙里安了身啊，在这个破庙里有一个小小的供桌啊，他就在供桌下面躺下睡着了，大呼小呼呼个不停。",
+      "sentence": "包文拯继续前行发现一座小庙",
+      "behavior_type": 4
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "再往前走看见一个小庙呀，他就在小庙里安了身啊，在这个破庙里有一个小小的供桌啊，他就在供桌下面躺下睡着了，大呼小呼呼个不停。",
+      "sentence": "包文拯在供桌下躺下睡着了",
+      "behavior_type": 12
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "再往前走看见一个小庙呀，他就在小庙里安了身啊，在这个破庙里有一个小小的供桌啊，他就在供桌下面躺下睡着了，大呼小呼呼个不停。",
+      "sentence": "包文拯睡觉时发出呼噜声音",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "正在这时在旁边一个人大喊，小爷我正在睡觉，谁一个吵着我了。",
+      "sentence": "旁边有人大喊吵醒了他",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人吓醒来，左左看右看前看后看，看了一下没人啊。",
+      "sentence": "包文拯惊醒后环顾四周无人",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "正在这个时候，包大人也喊了一声，爷爷我正在睡觉何人把藏到？",
+      "sentence": "包文拯喊了一声正在睡觉",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这时上面下来一个人，跪倒地上说，我的干父你可认不得我了呀。",
+      "sentence": "有人跪地表示认不出干父",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人一看说你打何处来了？",
+      "sentence": "包文拯询问对方来自何处",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "干父呀，我今日一日时间到处乱游，查走着困了在这里休息一会，不知你来了。",
+      "sentence": "今日一日时间到处乱游",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "干父呀，我今日一日时间到处乱游，查走着困了在这里休息一会，不知你来了。",
+      "sentence": "查走着困了在这里休息",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "干父呀，我今日一日时间到处乱游，查走着困了在这里休息一会，不知你来了。",
+      "sentence": "不知你来了",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "干爹我给你行礼啊，你从哪里来了干父呀？",
+      "sentence": "他向干爹行礼并询问其来处",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我看你难的到处走，我一路之上跟着你来到这个庙里，我给你通个信，干父你怎么了？",
+      "sentence": "我一路跟随你来到庙里",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "正是杨文举娶了银山花，王丁郎无名不白的死了，王丁郎冤枉。",
+      "sentence": "杨文举与银山花结为夫妻",
+      "behavior_type": 3
+    },
+    {
+      "role": "王丁郎",
+      "original_sentence": "正是杨文举娶了银山花，王丁郎无名不白的死了，王丁郎冤枉。",
+      "sentence": "王丁郎不明不白地死去",
+      "behavior_type": 3
+    },
+    {
+      "role": "王丁郎",
+      "original_sentence": "正是杨文举娶了银山花，王丁郎无名不白的死了，王丁郎冤枉。",
+      "sentence": "王丁郎遭受了不白之冤",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "杨文举势力太大，这个案子查不出头绪来，所以害的老父在四面八方查案呀。",
+      "sentence": "包文拯因案情复杂而四处查案",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大人查的如何呀？",
+      "sentence": "询问大人查案的进展情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "派王朝马汉查了几日也没有音信，老父亲自在查所以走到这里，在这不及庙里歇歇，刚好遇到你了，说查的怎么样？",
+      "sentence": "包文拯派王朝马汉查案多日",
+      "behavior_type": 7
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "派王朝马汉查了几日也没有音信，老父亲自在查所以走到这里，在这不及庙里歇歇，刚好遇到你了，说查的怎么样？",
+      "sentence": "包文拯亲自查案走到庙里",
+      "behavior_type": 4
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "派王朝马汉查了几日也没有音信，老父亲自在查所以走到这里，在这不及庙里歇歇，刚好遇到你了，说查的怎么样？",
+      "sentence": "包文拯在庙里歇息片刻",
+      "behavior_type": 12
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "派王朝马汉查了几日也没有音信，老父亲自在查所以走到这里，在这不及庙里歇歇，刚好遇到你了，说查的怎么样？",
+      "sentence": "包文拯询问查案进展情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "实在没有查出什么呀。",
+      "sentence": "包文拯尚未查出任何线索",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "干父啊我知道。",
+      "sentence": "干父表示自己知道情况",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那你怎么知道？",
+      "sentence": "询问对方如何得知此事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "快快讲来。",
+      "sentence": "催促对方尽快讲述详情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "干父我给你说这个事情，我就是为你而来。",
+      "sentence": "我为你而来告知此事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "这个王丁郎回家之后，他夫人拉拉扯扯到了他的房中，不吃不喝他就安稳睡觉啊。",
+      "sentence": "王丁郎回家后安稳睡觉",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "这个王丁郎回家之后，他夫人拉拉扯扯到了他的房中，不吃不喝他就安稳睡觉啊。",
+      "sentence": "夫人拉扯他进入房中",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "睡到夜里贼夫人拿酒给王丁郎，他紧一杯慢一杯。",
+      "sentence": "王丁郎夜里被夫人劝酒",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "丁郎酒上身，拿来大碗把酒饮啊。",
+      "sentence": "王丁郎用大碗饮酒",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "怎么样了？",
+      "sentence": "情况如何了",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "干父啊，他把王丁郎灌醉，从皮箱里取出一个竹筒子，不知竹筒子里是什么东西，对到王丁郎的屁股眼子上，拿的香点上，在这个桶子里一伸，王丁郎就大哭开了。",
+      "sentence": "王丁郎被灌醉后感到极度痛苦",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "干父啊，他把王丁郎灌醉，从皮箱里取出一个竹筒子，不知竹筒子里是什么东西，对到王丁郎的屁股眼子上，拿的香点上，在这个桶子里一伸，王丁郎就大哭开了。",
+      "sentence": "有人用竹筒子接触王丁郎身体",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "大哭了一声他说出气太重了，贼夫人把鼻子一蒙，压在王丁郎身上，压了一阵王丁郎没动静了。",
+      "sentence": "王丁郎因痛苦而大声哭泣",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "大哭了一声他说出气太重了，贼夫人把鼻子一蒙，压在王丁郎身上，压了一阵王丁郎没动静了。",
+      "sentence": "贼夫人用鼻子捂住王丁郎",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "大哭了一声他说出气太重了，贼夫人把鼻子一蒙，压在王丁郎身上，压了一阵王丁郎没动静了。",
+      "sentence": "贼夫人压在王丁郎身上",
+      "behavior_type": 13
+    },
+    {
+      "role": "王丁郎",
+      "original_sentence": "大哭了一声他说出气太重了，贼夫人把鼻子一蒙，压在王丁郎身上，压了一阵王丁郎没动静了。",
+      "sentence": "王丁郎最终没有了动静",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "贼夫人咳了一声，房上掉下来一个什么人，杨文举跳下来。",
+      "sentence": "杨文举从房顶上跳了下来",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "贼夫人咳了一声，房上掉下来一个什么人，杨文举跳下来。",
+      "sentence": "贼夫人发出了一声咳嗽",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "又怎么样了？",
+      "sentence": "情况又发生了新的变化",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "跳下来他把王丁郎尸身子，装在一个毛口袋里，他们两个闹了一夜之间的花香，起来后他端来米汤，叫着让吃饭，那时间我就走了。",
+      "sentence": "杨文举将王丁郎尸体装入毛口袋",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "跳下来他把王丁郎尸身子，装在一个毛口袋里，他们两个闹了一夜之间的花香，起来后他端来米汤，叫着让吃饭，那时间我就走了。",
+      "sentence": "他们两人整夜都在处理花香",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "跳下来他把王丁郎尸身子，装在一个毛口袋里，他们两个闹了一夜之间的花香，起来后他端来米汤，叫着让吃饭，那时间我就走了。",
+      "sentence": "他端来米汤并呼唤大家吃饭",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "跳下来他把王丁郎尸身子，装在一个毛口袋里，他们两个闹了一夜之间的花香，起来后他端来米汤，叫着让吃饭，那时间我就走了。",
+      "sentence": "那时我便离开了那个地方",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老贼他就起来穿身名啊。",
+      "sentence": "老贼起身穿上了衣服",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这我知道。",
+      "sentence": "这情况我已经知晓",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人一听翻起身就走了，这时候刘青说道，大人你还不得走，我给你安当啊，断案的事情太麻烦了，这老贼还不承认啊。",
+      "sentence": "包文拯听闻后立即起身离开",
+      "behavior_type": 4
+    },
+    {
+      "role": "刘青",
+      "original_sentence": "包大人一听翻起身就走了，这时候刘青说道，大人你还不得走，我给你安当啊，断案的事情太麻烦了，这老贼还不承认啊。",
+      "sentence": "刘青劝告包文拯暂时不要离开",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "包大人一听翻起身就走了，这时候刘青说道，大人你还不得走，我给你安当啊，断案的事情太麻烦了，这老贼还不承认啊。",
+      "sentence": "断案过程确实非常复杂困难",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "包大人一听翻起身就走了，这时候刘青说道，大人你还不得走，我给你安当啊，断案的事情太麻烦了，这老贼还不承认啊。",
+      "sentence": "老贼始终不肯承认自己罪行",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "水蛇记第3集。",
+      "sentence": "水蛇记第三集开始播放",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人一听多高兴，你从哪里来？",
+      "sentence": "包文拯听闻后感到非常高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "包大人一听多高兴，你从哪里来？",
+      "sentence": "询问对方来自何处",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这个案子我知道，我才赶回来从头到尾给说清楚，不然让你不知道。",
+      "sentence": "该案子从头到尾需说清楚",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "这个杨文举势力太大，王丁郎死得冤枉，这个案子我确实不好断。",
+      "sentence": "杨文举的势力过于庞大",
+      "behavior_type": 8
+    },
+    {
+      "role": "王丁郎",
+      "original_sentence": "这个杨文举势力太大，王丁郎死得冤枉，这个案子我确实不好断。",
+      "sentence": "王丁郎不幸冤屈而死",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "这个杨文举势力太大，王丁郎死得冤枉，这个案子我确实不好断。",
+      "sentence": "此案确实难以判断清楚",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人说谢你干儿啊。",
+      "sentence": "包文拯向刘青表达感谢之情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "大人不了谢，我还要给你安顿。",
+      "sentence": "包文拯表示无需感谢并安排事宜",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "嗯，你说。",
+      "sentence": "包文拯示意对方继续讲述",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "你要起坟啊，坟一挖开公案就在旁边，叫这个杨儿老贼抬上大油锅，把油锅烧开把死人抬上转给一圈，在前面放下一个箩儿，一个冰草草腰子。",
+      "sentence": "杨文举将死人抬上油锅转一圈",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "你要起坟啊，坟一挖开公案就在旁边，叫这个杨儿老贼抬上大油锅，把油锅烧开把死人抬上转给一圈，在前面放下一个箩儿，一个冰草草腰子。",
+      "sentence": "在前面放下箩儿和冰草腰子",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "为什么呀？",
+      "sentence": "为何要如此行事",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "抬起死人一烤，死人肚子里的蛇它就从嘴里出来，箩儿一挡蛇就进到箩儿里了，冰草腰子准备好，把蛇一套就套住了，这是一件。",
+      "sentence": "死人被抬起后接受烤制",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "抬起死人一烤，死人肚子里的蛇它就从嘴里出来，箩儿一挡蛇就进到箩儿里了，冰草腰子准备好，把蛇一套就套住了，这是一件。",
+      "sentence": "蛇从死人嘴里爬出来",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "抬起死人一烤，死人肚子里的蛇它就从嘴里出来，箩儿一挡蛇就进到箩儿里了，冰草腰子准备好，把蛇一套就套住了，这是一件。",
+      "sentence": "箩儿挡住蛇的去路",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "抬起死人一烤，死人肚子里的蛇它就从嘴里出来，箩儿一挡蛇就进到箩儿里了，冰草腰子准备好，把蛇一套就套住了，这是一件。",
+      "sentence": "冰草腰子套住蛇身",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "还有一件，就杨文举还不承认啊，他说是你是从古坟里熏出来的蛇，他还要把你拿住。",
+      "sentence": "杨文举否认从古坟熏出蛇的事实",
+      "behavior_type": 7
+    },
+    {
+      "role": "杨文举",
+      "original_sentence": "还有一件，就杨文举还不承认啊，他说是你是从古坟里熏出来的蛇，他还要把你拿住。",
+      "sentence": "杨文举试图将对方捉拿归案",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那时候你在地上扬一把土，你的干儿就到了，不然可拿不住啊。",
+      "sentence": "扬土后干儿立即到达现场",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "这才前前后后给安当了，这时包大人才起身了。",
+      "sentence": "包大人此时起身离开现场",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "转转弯弯就回衙门，包大人来到了公堂上，让家人端来了茶饭用罢，休息了一晚上。",
+      "sentence": "包文拯返回衙门来到公堂上",
+      "behavior_type": 4
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "转转弯弯就回衙门，包大人来到了公堂上，让家人端来了茶饭用罢，休息了一晚上。",
+      "sentence": "包文拯用茶饭后休息一晚",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "到了第二天清早上，带来跟帮衙役张龙、赵虎、王朝、马汉，来到杨儿老贼家。",
+      "sentence": "包文拯带领衙役前往杨文举家",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说包黑子，这回你断案怎么断的，你要是断不上个明白不饶你。",
+      "sentence": "包黑子被质问断案情况",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包公说，这次我要起坟验尸啊。",
+      "sentence": "包文拯表示要起坟验尸",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "一说起坟了不得，王风龙老两口子来到包公面前，跪在包公面前哭开了。",
+      "sentence": "王风龙夫妇跪在包公面前哭泣",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "一说起坟了不得，王风龙老两口子来到包公面前，跪在包公面前哭开了。",
+      "sentence": "王风龙夫妇跪在包公面前",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "我的大人，这次你把我的儿子就饶了吧，你看他活着冤死了我们不知道，这起坟可万万不能呀。",
+      "sentence": "王风龙恳求包公饶恕其儿子",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "老爷你就饶了吧我的大老爷，你看我的儿子活着没活好，死的那个可怜了，这起坟冲天冲地太阳晒可不得行啊，我的老爷啊。",
+      "sentence": "王风龙恳求包公饶恕其儿子",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "王风龙哭着说呀，老爷万万不可起坟呀，我儿子落土安然了，这次要起出来就了不得呀。",
+      "sentence": "王风龙恳求包公不要起坟",
+      "behavior_type": 7
+    },
+    {
+      "role": "王风龙",
+      "original_sentence": "王风龙哭着说呀，老爷万万不可起坟呀，我儿子落土安然了，这次要起出来就了不得呀。",
+      "sentence": "王风龙认为儿子已安息",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "老两口哭得死去活来。",
+      "sentence": "王风龙夫妇因悲伤而痛哭流涕",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人说道你们两位别闹，这次开坟挖出来验尸，你儿子是怎么害死的还得查个分明。",
+      "sentence": "包文拯告知两人需开坟验尸查案",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "这老贼一听着了忙，两排人来到坟前排好和包工作对呀。",
+      "sentence": "杨文举听闻后立即安排人员列队",
+      "behavior_type": 7
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "这老贼一听着了忙，两排人来到坟前排好和包工作对呀。",
+      "sentence": "包文拯与杨文举在坟前对峙",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "双方来到坟前挖了半天，打开坟墓抬出了棺材，把死人取出来放在广场。",
+      "sentence": "双方将棺材抬出并放在广场上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人吩咐一声，把所有人等后退了一步，赶紧拿药水浑身上浇个干净，看着什么事哩。",
+      "sentence": "包文拯命令众人后退并用药水清洗",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "浇尽后对死人进行查验，验了半天说大老爷，什么伤痕都没有，不知是怎么害死的。",
+      "sentence": "包文拯查验尸体后未发现伤痕",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "王风龙过来说，包大人死了落个安稳呀，你这样翻江倒海，你验尸验了半天也没有验出什么，这可不行啊，我要和你大闹一场哩。",
+      "sentence": "王风龙表示要与包大人大闹一场",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "王风龙过来说，包大人死了落个安稳呀，你这样翻江倒海，你验尸验了半天也没有验出什么，这可不行啊，我要和你大闹一场哩。",
+      "sentence": "包大人去世后获得安宁",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人这才大喊一声王风龙啊，你的儿子死的不明不白啊，这一次我一定要给查个清楚，又吩咐一声说道。",
+      "sentence": "包文拯向王风龙表明要查明真相",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "大叫这个验官君啊，到明日早上做好准备，在坟的前面搭上油锅，让杨文举亲自把油锅烧滚进行验尸。",
+      "sentence": "包文拯命令杨文举准备验尸",
+      "behavior_type": 7
+    },
+    {
+      "role": "杨文举",
+      "original_sentence": "大叫这个验官君啊，到明日早上做好准备，在坟的前面搭上油锅，让杨文举亲自把油锅烧滚进行验尸。",
+      "sentence": "杨文举需在坟前烧滚油锅",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "验出这个尸来怎么害死的，你可就要小心我的这个铡刀可不饶你呀。",
+      "sentence": "包文拯警告对方小心铡刀不饶人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "我你要是查不出来我要把你丢油锅去了。",
+      "sentence": "包文拯警告验官查不出将受罚",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "老贼便开了言，包黑子我要和你打赌击掌验尸，如果验出尸来，你把你的铡头我决不含糊。",
+      "sentence": "杨文举与包文拯打赌验尸",
+      "behavior_type": 9
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "老贼便开了言，包黑子我要和你打赌击掌验尸，如果验出尸来，你把你的铡头我决不含糊。",
+      "sentence": "包文拯接受杨文举的挑战",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "如果验不出来死因，黑头你要不把你丢油锅去呀。",
+      "sentence": "包文拯威胁将对方丢入油锅",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他们击掌打赌完毕了，早就准备开始了，抬上了大油锅，把油倒的满满的，拿来了柴火烧油锅了。",
+      "sentence": "他们准备完毕开始烧油锅",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人吩咐一声，董超、薛霸、张龙、赵虎、王朝、马汉，准备的物件全都准备好了，大大一张箩儿一根冰草腰子，把狗头铡也抬到坟里去了。",
+      "sentence": "包文拯命令下属准备验尸物件",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周围来了很多人，两班的差人衙役也来了不少。",
+      "sentence": "周围聚集了许多差人衙役",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包老爷在坟里面搭了公堂，准备在坟里面升堂。",
+      "sentence": "包文拯在坟内搭建临时公堂",
+      "behavior_type": 10
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "包老爷在坟里面搭了公堂，准备在坟里面升堂。",
+      "sentence": "包文拯准备在坟内升堂审案",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "这时包大人坐了堂吩咐一声，杨文举赶快把你的油锅架起来，烧的红红的，要是我验不出来，你把我丢油锅去，要是验出来，你在我的狗头铡下命归阴。",
+      "sentence": "包文拯命令杨文举架起油锅",
+      "behavior_type": 7
+    },
+    {
+      "role": "杨文举",
+      "original_sentence": "这时包大人坐了堂吩咐一声，杨文举赶快把你的油锅架起来，烧的红红的，要是我验不出来，你把我丢油锅去，要是验出来，你在我的狗头铡下命归阴。",
+      "sentence": "杨文举需将油锅烧得通红",
+      "behavior_type": 10
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "这时包大人坐了堂吩咐一声，杨文举赶快把你的油锅架起来，烧的红红的，要是我验不出来，你把我丢油锅去，要是验出来，你在我的狗头铡下命归阴。",
+      "sentence": "包文拯提出验尸结果的赌约",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "王风龙老两口子哭得死去活来。",
+      "sentence": "王风龙夫妇因悲伤而痛哭不已",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "我的儿子冤枉啊。",
+      "sentence": "王风龙认为儿子受到冤枉",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "验尸的差人把王丁郎的衣服上上下下脱了个净，脸是一张裱纸，就像睡着的一样。",
+      "sentence": "王丁郎的衣服被差人完全脱掉",
+      "behavior_type": 1
+    },
+    {
+      "role": "王丁郎",
+      "original_sentence": "验尸的差人把王丁郎的衣服上上下下脱了个净，脸是一张裱纸，就像睡着的一样。",
+      "sentence": "王丁郎的脸像睡着了一样",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "老两口一看儿子的面哭着说，儿呀，你冤枉呀，你夫人说你感冒太重得了阴症你命归阴啊。",
+      "sentence": "王风龙夫妇看到儿子面容痛哭",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "老两口一看儿子的面哭着说，儿呀，你冤枉呀，你夫人说你感冒太重得了阴症你命归阴啊。",
+      "sentence": "王丁郎因感冒过重不幸去世",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "老两口还在哭，包大人大喊一声，你们往后退，今日我要验尸要验个明白查个清楚。",
+      "sentence": "王风龙夫妇因悲伤而痛哭不止",
+      "behavior_type": 2
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "老两口还在哭，包大人大喊一声，你们往后退，今日我要验尸要验个明白查个清楚。",
+      "sentence": "包文拯命令众人后退准备验尸",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包公说王朝、马汉、张龙、赵虎，你们把死身子抬上在油锅上面转给三转，在油锅上熏啊。",
+      "sentence": "包公命令将尸体抬至油锅上方",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "有命。",
+      "sentence": "有生命存在",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "董超、薛霸，你们两位把箩儿掌好，把冰草腰子准备好，把套子绾好。",
+      "sentence": "董超薛霸准备箩儿冰草腰子套子",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "观看的人吓得都往后退，把死身子抬到油锅上转了三转在油锅上熏。",
+      "sentence": "观看的人吓得往后退",
+      "behavior_type": 4
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "观看的人吓得都往后退，把死身子抬到油锅上转了三转在油锅上熏。",
+      "sentence": "包文拯命人将尸体抬上油锅",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "这熏不得了，从王丁郎的口中出来了杆杖粗的一条蛇呀，蛇跑到箩儿旁边，箩儿一挡把蛇挡在箩儿中，冰草腰子拿过来把蛇套住，蛇就不动了，杆杖粗的一条红蛇套住了。",
+      "sentence": "王丁郎口中出现一条粗蛇",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "这熏不得了，从王丁郎的口中出来了杆杖粗的一条蛇呀，蛇跑到箩儿旁边，箩儿一挡把蛇挡在箩儿中，冰草腰子拿过来把蛇套住，蛇就不动了，杆杖粗的一条红蛇套住了。",
+      "sentence": "箩儿将蛇挡住并套住不动",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "这时候的杨文举大喊一声，包黑子你把死身子熏的不要紧，你把地下的蛇熏出来了。",
+      "sentence": "杨文举大声指责包拯熏出蛇",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "大喊一声说来呀，把这个黑头给我拿过来。",
+      "sentence": "杨文举命令将黑头带过来",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "过来了几十个打手，准备拿包公，包公身子一侧，这时王朝、马汉上前保护住了包公。",
+      "sentence": "包公侧身躲避打手的攻击",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "过来了几十个打手，准备拿包公，包公身子一侧，这时王朝、马汉上前保护住了包公。",
+      "sentence": "王朝马汉上前保护包公",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "正在这时，包公手里抓了土在地上扬了一把，正好来了一个人说老贼，你往哪里走啊？",
+      "sentence": "包文拯抓起土往地上扬了一把",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "正在这时，包公手里抓了土在地上扬了一把，正好来了一个人说老贼，你往哪里走啊？",
+      "sentence": "有人质问老贼要往哪里走",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘青",
+      "original_sentence": "来的不是别的人啊，正是金镖刘青。",
+      "sentence": "刘青出现在现场",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘青",
+      "original_sentence": "大喊一声，把杨文举拿住了，把杨文举捆在一旁。",
+      "sentence": "刘青将杨文举捆绑在一旁",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包爷大喊一声，把这个贼夫人银山花给我带上堂来。",
+      "sentence": "包文拯命令将银山花带上堂来",
+      "behavior_type": 7
+    },
+    {
+      "role": "银山花",
+      "original_sentence": "包爷大喊一声，把这个贼夫人银山花给我带上堂来。",
+      "sentence": "银山花被命令带上堂来",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "差人们把银山花推到了大堂上，青天大人在上我给你磕头呀。",
+      "sentence": "银山花向青天大人磕头行礼",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包公说你从头到尾说来，怎么样勾结上了杨文举？",
+      "sentence": "包公询问银山花如何勾结杨文举",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "如何害死了王丁郎？",
+      "sentence": "银山花害死了孝子王丁郎",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "你把这些事给我说得明白。",
+      "sentence": "包文拯要求对方详细说明事情经过",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "贼夫人跪在大堂上，青天大人，你饶了吧，我今日个给你说实话呀。",
+      "sentence": "银山花跪在大堂上说实话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "银山花",
+      "original_sentence": "我的大老爷呀，不怨天来不怨地，但怨这个杨文举就可恶的很呀。",
+      "sentence": "银山花指责杨文举非常可恶",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "大老爷我上了杨文举的贼当了，王丁郎实实叫我害掉了啊。",
+      "sentence": "杨文举欺骗了说话者",
+      "behavior_type": 3
+    },
+    {
+      "role": "王丁郎",
+      "original_sentence": "大老爷我上了杨文举的贼当了，王丁郎实实叫我害掉了啊。",
+      "sentence": "说话者害死了王丁郎",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大老爷呀，我给你把实话讲，你把我就留到人世间啊。",
+      "sentence": "请求留在大堂上继续陈述事实",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "快快讲来从头到尾是如何害的？",
+      "sentence": "询问从头到尾如何害人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "我自从和王丁郎配婚是恩爱的夫妻一对，没有红过脸，我们恩恩爱爱的。",
+      "sentence": "王丁郎与妻子恩爱和睦",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "丈夫在南学里读书不来，我每日就在街上转悠散心。",
+      "sentence": "她每日在街上转悠散心",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "有一天我转到一个楼底下，一个人把我上上下下看了半天，我不知他是谁呀，我就回家走了。",
+      "sentence": "某人被陌生人长时间注视后离开",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "回到家中我吃过了饭，到晚上我就在床上脱衣睡了觉。",
+      "sentence": "回到家中吃过晚饭后上床睡觉",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "到了深更半夜我，听着在房檐上响了一下，我抬头一看下来了一个人，我吓的正要喊，他说你不要喊，喊就是一刀。",
+      "sentence": "深更半夜听到房檐上有响声",
+      "behavior_type": 6
+    },
+    {
+      "role": "",
+      "original_sentence": "到了深更半夜我，听着在房檐上响了一下，我抬头一看下来了一个人，我吓的正要喊，他说你不要喊，喊就是一刀。",
+      "sentence": "抬头看见一个人从房檐下来",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "到了深更半夜我，听着在房檐上响了一下，我抬头一看下来了一个人，我吓的正要喊，他说你不要喊，喊就是一刀。",
+      "sentence": "正要喊叫时被对方威胁制止",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他说不能喊，我就没喊。",
+      "sentence": "他警告后她保持沉默",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "他说他是杨文举，十八般武艺精通，他说他瞅下我美貌之俊，有说我人才出众太漂亮，就和我通奸一晚啊。",
+      "sentence": "杨文举自称精通十八般武艺",
+      "behavior_type": 7
+    },
+    {
+      "role": "杨文举",
+      "original_sentence": "他说他是杨文举，十八般武艺精通，他说他瞅下我美貌之俊，有说我人才出众太漂亮，就和我通奸一晚啊。",
+      "sentence": "杨文举称赞对方美貌出众",
+      "behavior_type": 7
+    },
+    {
+      "role": "杨文举",
+      "original_sentence": "他说他是杨文举，十八般武艺精通，他说他瞅下我美貌之俊，有说我人才出众太漂亮，就和我通奸一晚啊。",
+      "sentence": "杨文举与对方发生不正当关系",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "他到早上走哩说长久夫妻能行，短头夫妻不好。",
+      "sentence": "杨文举早上离开时谈论夫妻关系",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "他说他家里有的是金银珠宝，是个有钱的人，让我荣华富贵受不完啊。",
+      "sentence": "杨文举自称家中拥有大量金银珠宝",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大老爷我就鬼迷心窍了呀。",
+      "sentence": "某人因诱惑而失去理智",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "大老爷，他每天都如此天天来呀，他说和我配个长久夫妻。",
+      "sentence": "杨文举提议与她成为长久夫妻",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "我说怎么配呀，想办法把丁郎害了才能成功啊。",
+      "sentence": "杨文举提议设法害死王丁郎",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我说怎么害哩？",
+      "sentence": "询问如何实施加害行为",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他说让放羊的抓一个小小的水蛇娃子来，他给我想个办法。",
+      "sentence": "他建议抓水蛇来想办法",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我就听了他的话，打发人给我抓了一条蛇娃子呀，把蛇娃子抓回来。",
+      "sentence": "派人抓回一条小水蛇",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "到晚上杨文举来说，给你把蛇娃子放到竹筒子里，拿上些蜂蜜每天给给叫吃呀。",
+      "sentence": "杨文举将蛇娃子放入竹筒中",
+      "behavior_type": 13
+    },
+    {
+      "role": "杨文举",
+      "original_sentence": "到晚上杨文举来说，给你把蛇娃子放到竹筒子里，拿上些蜂蜜每天给给叫吃呀。",
+      "sentence": "杨文举建议每天喂蛇蜂蜜",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "从此后我每天就给蛇娃子蜂蜜吃。",
+      "sentence": "每天给蛇娃子喂食蜂蜜",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "到那天王丁郎回来了，打发家人给报了个信呀。",
+      "sentence": "王丁郎回家后派人报信",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "杨文举到夜半三更他来藏到上面藏好了，他让我把王丁郎灌醉，脱个上净下净。",
+      "sentence": "杨文举藏好并让王丁郎被灌醉",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "恩恩爱爱的时间到了，把那个竹筒子拿来，对到王丁郎的屁股上，把香点着就往竹筒子里放。",
+      "sentence": "杨文举将竹筒对准王丁郎臀部",
+      "behavior_type": 13
+    },
+    {
+      "role": "杨文举",
+      "original_sentence": "恩恩爱爱的时间到了，把那个竹筒子拿来，对到王丁郎的屁股上，把香点着就往竹筒子里放。",
+      "sentence": "杨文举点燃香放入竹筒中",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "这时王丁郎才疼着哭开了，疼的王丁郎在满炕打开滚了。",
+      "sentence": "王丁郎因疼痛而哭泣翻滚",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我把丈夫压在被子里说，丈夫你忍一忍，可能是你来时感冒着了凉了，过一会儿就好了。",
+      "sentence": "她告诉丈夫忍一忍过会儿就好",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "过了一会儿王丁郎就不动了，被子揭开一看，王丁郎鼻子流了血就死掉了呀，大老爷。",
+      "sentence": "王丁郎鼻子流血后死亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "嗯，后又怎么了？",
+      "sentence": "后来发生了什么事情",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "大老爷你听，这时杨文举从上面下来，拿着一条毛口袋把王丁郎装在口袋里，立在门背后。",
+      "sentence": "杨文举将王丁郎装入毛口袋中",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "我就和他打着闹着玩着笑到天亮了，杨文举起来把尸身子又放到床上，我把被儿盖好。",
+      "sentence": "杨文举将尸体放置于床上",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "我就和他打着闹着玩着笑到天亮了，杨文举起来把尸身子又放到床上，我把被儿盖好。",
+      "sentence": "尸体被被子覆盖好",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "他说让我打上一碗热米汤，端上来了就假装哭啊。",
+      "sentence": "杨文举要求我端上一碗热米汤",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "他说让我打上一碗热米汤，端上来了就假装哭啊。",
+      "sentence": "端上热米汤后假装哭泣",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我把米汤放到床头上就哭开了，公公婆婆听见来一看，王丁郎早就散命了。",
+      "sentence": "米汤被放置于床头后开始哭泣",
+      "behavior_type": 13
+    },
+    {
+      "role": "王丁郎",
+      "original_sentence": "我把米汤放到床头上就哭开了，公公婆婆听见来一看，王丁郎早就散命了。",
+      "sentence": "王丁郎早已失去生命迹象",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我把王丁郎就给害坏了啊。",
+      "sentence": "某人将王丁郎害死了",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大老爷，这就是我的真实情，没有虚假一点点啊。",
+      "sentence": "大老爷这就是我的真实情况",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "罢了，来给我画押，他赶快画了押。",
+      "sentence": "他迅速完成了画押的动作",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "又把王风龙老两口请到堂上来说，那时候不是说你的儿媳对你的儿子多么好，他怎么害了人了，老两口子爬到地上才哭开了。",
+      "sentence": "王风龙夫妇听闻后痛哭流涕",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的冤家你死的那个冤来实在是冤啊，只知道儿媳对你好，谁知道他把你害了，哭了半天说大老爷，我儿子死得冤枉呀，包老爷吩咐一声，把杨文举推到大堂上。",
+      "sentence": "冤家死得实在冤枉",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "我的冤家你死的那个冤来实在是冤啊，只知道儿媳对你好，谁知道他把你害了，哭了半天说大老爷，我儿子死得冤枉呀，包老爷吩咐一声，把杨文举推到大堂上。",
+      "sentence": "只知道儿媳对你好",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "我的冤家你死的那个冤来实在是冤啊，只知道儿媳对你好，谁知道他把你害了，哭了半天说大老爷，我儿子死得冤枉呀，包老爷吩咐一声，把杨文举推到大堂上。",
+      "sentence": "谁知道他把你害了",
+      "behavior_type": 2
+    },
+    {
+      "role": "王风龙",
+      "original_sentence": "我的冤家你死的那个冤来实在是冤啊，只知道儿媳对你好，谁知道他把你害了，哭了半天说大老爷，我儿子死得冤枉呀，包老爷吩咐一声，把杨文举推到大堂上。",
+      "sentence": "王风龙哭诉儿子冤枉",
+      "behavior_type": 2
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "我的冤家你死的那个冤来实在是冤啊，只知道儿媳对你好，谁知道他把你害了，哭了半天说大老爷，我儿子死得冤枉呀，包老爷吩咐一声，把杨文举推到大堂上。",
+      "sentence": "包文拯命令带上杨文举",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说黑头呀，你把古坟里的蛇熏出来，给我加害说我害了人了，这个老子根本不承认啊。",
+      "sentence": "黑头被指责加害他人但不承认",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "把口供举到面前让他看一看，说那个贼夫人是由口胡说，我堂堂一个杨文举，我欺男霸女的事情我就做不成啊，他是胡说八道。",
+      "sentence": "杨文举否认欺男霸女的行为",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人说来呀，把这个老贼给我打给四十大板。",
+      "sentence": "包文拯下令对老贼实施四十大板",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "差人把老贼打了四十大板，打成个血淋淋啊。",
+      "sentence": "差人将杨文举打了四十大板",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "还不招供说黑头你这是诬告设虚，不明不白的害我呀，我根本没有这回事。",
+      "sentence": "杨文举否认黑头对他的诬告",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人气的大喊一声说，来呀再打四十大板。",
+      "sentence": "包文拯愤怒下令再打四十大板",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "又打了四十大板，老贼就疼的撑不住说，大老爷你饶了吧。",
+      "sentence": "杨文举因疼痛难忍而求饶",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这才把他通奸的事如此这般的说了一遍。",
+      "sentence": "详细叙述了通奸事件的经过",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人气的叫王朝马汉来呀，把这个老贼推到狗头铡中，咔嚓一声把老贼的人头铡掉了。",
+      "sentence": "包文拯命令王朝马汉铡掉老贼",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "杨文举",
+      "original_sentence": "大喊一声包黑子你冤枉好人，乱害人，我和银山花是恩恩爱爱的，家里没人我就娶来给我当夫人。",
+      "sentence": "杨文举声称自己与银山花恩爱",
+      "behavior_type": 7
+    },
+    {
+      "role": "杨文举",
+      "original_sentence": "大喊一声包黑子你冤枉好人，乱害人，我和银山花是恩恩爱爱的，家里没人我就娶来给我当夫人。",
+      "sentence": "杨文举表示要娶银山花为夫人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "推出去杀了。",
+      "sentence": "包文拯下令将罪犯处决",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "王风龙哭得太伤心，说老爷我儿子死的冤枉如何办？",
+      "sentence": "王风龙因儿子冤死而痛哭",
+      "behavior_type": 2
+    },
+    {
+      "role": "王风龙",
+      "original_sentence": "王风龙哭得太伤心，说老爷我儿子死的冤枉如何办？",
+      "sentence": "王风龙向老爷诉说儿子冤情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包老爷说，你看我奏上一本，你们养马不当差，种地不上粮，修渠磊坝没人管，自种自吃去吧。",
+      "sentence": "包文拯表示要上奏朝廷",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "包老爷说，你看我奏上一本，你们养马不当差，种地不上粮，修渠磊坝没人管，自种自吃去吧。",
+      "sentence": "养马不当差种地不上粮",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "包老爷说，你看我奏上一本，你们养马不当差，种地不上粮，修渠磊坝没人管，自种自吃去吧。",
+      "sentence": "修渠磊坝无人管理",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "包老爷说，你看我奏上一本，你们养马不当差，种地不上粮，修渠磊坝没人管，自种自吃去吧。",
+      "sentence": "自种自吃去吧",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "王丁郎",
+      "original_sentence": "你的儿子是无法救活了呀，把王丁郎放到坟里落安然。",
+      "sentence": "王丁郎被安葬在坟墓中",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "王风龙",
+      "original_sentence": "王风龙老两口子哭着回家中啊。",
+      "sentence": "王风龙夫妇悲伤地返回家中",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人这才退了堂，上奏了一本把冤枉的事情说一遍，王风龙就从此自种自吃没人管啊。",
+      "sentence": "包文拯上奏陈述冤情",
+      "behavior_type": 7
+    },
+    {
+      "role": "王风龙",
+      "original_sentence": "包大人这才退了堂，上奏了一本把冤枉的事情说一遍，王风龙就从此自种自吃没人管啊。",
+      "sentence": "王风龙自种自吃无人管",
+      "behavior_type": 8
+    }
+  ]
+]

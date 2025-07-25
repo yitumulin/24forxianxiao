@@ -1,0 +1,89 @@
+[
+  {
+    "roleName": "汉文帝（刘恒）",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 7,
+      "7": 1,
+      "12": 3,
+      "2": 3,
+      "11": 2,
+      "13": 1,
+      "14": 1
+    },
+    "total_sentences": 18,
+    "entropy": 2.4387439204017474
+  },
+  {
+    "roleName": "刘邦",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "3": 3,
+      "8": 1,
+      "13": 1,
+      "2": 1,
+      "4": 1
+    },
+    "total_sentences": 7,
+    "entropy": 2.1280852788913944
+  },
+  {
+    "roleName": "吕雉",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "10": 1,
+      "3": 2
+    },
+    "total_sentences": 3,
+    "entropy": 0.9182958340544896
+  },
+  {
+    "roleName": "周勃",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "3": 1
+    },
+    "total_sentences": 1,
+    "entropy": 0.0
+  },
+  {
+    "roleName": "陈平",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "3": 1
+    },
+    "total_sentences": 1,
+    "entropy": 0.0
+  },
+  {
+    "roleName": "薄姬",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "8": 1,
+      "7": 1,
+      "4": 1,
+      "1": 1,
+      "3": 4
+    },
+    "total_sentences": 8,
+    "entropy": 2.0
+  },
+  {
+    "roleName": "魏豹",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "3": 1
+    },
+    "total_sentences": 1,
+    "entropy": 0.0
+  },
+  {
+    "roleName": "陈豨",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "9": 1
+    },
+    "total_sentences": 1,
+    "entropy": 0.0
+  }
+]

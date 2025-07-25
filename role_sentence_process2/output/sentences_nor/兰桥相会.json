@@ -1,0 +1,1092 @@
+[
+  [
+    {
+      "role": "",
+      "original_sentence": "兰桥相会山靠松来松靠山千年的古洞藏神仙。",
+      "sentence": "兰桥相会山与松相互依靠",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "兰桥相会山靠松来松靠山千年的古洞藏神仙。",
+      "sentence": "千年的古洞中藏有神仙",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "昔日有一个读书人每日里华山读五经。",
+      "sentence": "读书人每日在华山研读五经",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "魏奎元",
+      "original_sentence": "华山岭上把书读师父面前把礼行。",
+      "sentence": "魏奎元在华山岭上读书",
+      "behavior_type": 12
+    },
+    {
+      "role": "魏奎元",
+      "original_sentence": "华山岭上把书读师父面前把礼行。",
+      "sentence": "魏奎元在师父面前行礼",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "魏奎元",
+      "original_sentence": "行罢礼来请个假，魏公子一心下山去。",
+      "sentence": "魏奎元决定下山离开",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三月清明二月半，家家户户祭祖先。",
+      "sentence": "家家户户在清明时节祭奠祖先",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "魏奎元",
+      "original_sentence": "公子抬头观着看，郊外的景致观一番。",
+      "sentence": "魏奎元抬头观看郊外景致",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "有儿的坟上吵吵闹，无儿的坟上静悄悄。",
+      "sentence": "有儿坟上热闹无儿坟上安静",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "有儿的坟上添新土，无儿的坟上荒草长。",
+      "sentence": "有儿坟上添了新土",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "有儿的坟上添新土，无儿的坟上荒草长。",
+      "sentence": "无儿坟上长了荒草",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "有儿的坟上烧纸钱，无儿的坟上白光光。",
+      "sentence": "有儿女的坟前烧纸钱",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "有儿的坟上烧纸钱，无儿的坟上白光光。",
+      "sentence": "无儿女的坟前白光光",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "山中的景致无心观，转步来到兰桥前。",
+      "sentence": "山中的景致无人有心观赏",
+      "behavior_type": 4
+    },
+    {
+      "role": "魏奎元",
+      "original_sentence": "山中的景致无心观，转步来到兰桥前。",
+      "sentence": "魏奎元转步来到兰桥前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人人说兰桥修得好，我要把兰桥走一遭。",
+      "sentence": "人们称赞兰桥修建得非常好",
+      "behavior_type": 4
+    },
+    {
+      "role": "魏奎元",
+      "original_sentence": "人人说兰桥修得好，我要把兰桥走一遭。",
+      "sentence": "魏奎元决定前往兰桥走一趟",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "抬起头来观着看，兰桥的景致观一番。",
+      "sentence": "抬头观看兰桥的景致",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "杨柳树长在河里边，树上的鸟雀叫得欢。",
+      "sentence": "杨柳树生长在河流之中",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "杨柳树长在河里边，树上的鸟雀叫得欢。",
+      "sentence": "树上的鸟雀发出欢快叫声",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "五色鲤鱼水面上漂，玉石栏杆分两边。",
+      "sentence": "五色鲤鱼漂浮在水面上",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "五色鲤鱼水面上漂，玉石栏杆分两边。",
+      "sentence": "玉石栏杆分布在河两边",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "桥头上嵌着琉璃瓦，桥底下倒映照远山。",
+      "sentence": "桥头上嵌着琉璃瓦",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "桥头上嵌着琉璃瓦，桥底下倒映照远山。",
+      "sentence": "桥底下倒映着远山",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "龙口里不住冒清泉，潸清的河水长流淌。",
+      "sentence": "龙口不断涌出清澈泉水",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "龙口里不住冒清泉，潸清的河水长流淌。",
+      "sentence": "河水持续不断地流淌着",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人人说兰桥修得好，名不虚传果真巧。",
+      "sentence": "人们称赞兰桥修建得非常好",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "魏奎元",
+      "original_sentence": "公子正观兰桥景，见一个小姐把水担。",
+      "sentence": "魏奎元正在观赏兰桥的景色",
+      "behavior_type": 5
+    },
+    {
+      "role": "兰玉莲",
+      "original_sentence": "公子正观兰桥景，见一个小姐把水担。",
+      "sentence": "兰玉莲正在河边担水",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "身穿一件大红袄八幅罗裙紧系腰头上的青丝乌云挽两耳下又坠着洒金球。",
+      "sentence": "兰玉莲身穿大红袄系着八幅罗裙",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "小小金莲二寸半一步才走半页儿砖。",
+      "sentence": "兰玉莲迈着小步缓慢行走",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "走路活像风摆柳站在人前一炷香怀抱井绳一大盘小姐井上把水担一道一尺往下放一寸二尺往上拉。",
+      "sentence": "兰玉莲走路姿势如同风摆柳",
+      "behavior_type": 4
+    },
+    {
+      "role": "兰玉莲",
+      "original_sentence": "走路活像风摆柳站在人前一炷香怀抱井绳一大盘小姐井上把水担一道一尺往下放一寸二尺往上拉。",
+      "sentence": "兰玉莲站在人前一炷香时间",
+      "behavior_type": 12
+    },
+    {
+      "role": "兰玉莲",
+      "original_sentence": "走路活像风摆柳站在人前一炷香怀抱井绳一大盘小姐井上把水担一道一尺往下放一寸二尺往上拉。",
+      "sentence": "兰玉莲怀抱一大盘井绳站立",
+      "behavior_type": 13
+    },
+    {
+      "role": "兰玉莲",
+      "original_sentence": "走路活像风摆柳站在人前一炷香怀抱井绳一大盘小姐井上把水担一道一尺往下放一寸二尺往上拉。",
+      "sentence": "兰玉莲在井上打水动作熟练",
+      "behavior_type": 10
+    },
+    {
+      "role": "兰玉莲",
+      "original_sentence": "走路活像风摆柳站在人前一炷香怀抱井绳一大盘小姐井上把水担一道一尺往下放一寸二尺往上拉。",
+      "sentence": "兰玉莲将井绳一尺尺放下",
+      "behavior_type": 10
+    },
+    {
+      "role": "兰玉莲",
+      "original_sentence": "走路活像风摆柳站在人前一炷香怀抱井绳一大盘小姐井上把水担一道一尺往下放一寸二尺往上拉。",
+      "sentence": "兰玉莲将井绳一寸寸拉起",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "小姐打满两桶水，挣得小姐满身汗。",
+      "sentence": "兰玉莲打满两桶水后满身是汗",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "井边站定微微喘了个气提起罗裙擦擦汗。",
+      "sentence": "兰玉莲站在井边微微喘气擦汗",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "魏奎元",
+      "original_sentence": "公子一见心喜欢，叫声小姐听我言。",
+      "sentence": "魏奎元见到小姐心生欢喜",
+      "behavior_type": 2
+    },
+    {
+      "role": "魏奎元",
+      "original_sentence": "公子一见心喜欢，叫声小姐听我言。",
+      "sentence": "魏奎元开口对小姐说话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "魏奎元",
+      "original_sentence": "天气炎热人发渴，偕你的凉水解口渴。",
+      "sentence": "魏奎元请求兰玉莲提供水解渴",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "小姐一听怒气生，公子讲话理不通。",
+      "sentence": "兰玉莲听闻后感到愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "魏奎元",
+      "original_sentence": "小姐一听怒气生，公子讲话理不通。",
+      "sentence": "魏奎元讲话不合情理",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "我的母在家多行善，谁把个凉水卖成钱。",
+      "sentence": "兰玉莲表示家中母亲常行善事",
+      "behavior_type": 7
+    },
+    {
+      "role": "兰玉莲",
+      "original_sentence": "我的母在家多行善，谁把个凉水卖成钱。",
+      "sentence": "兰玉莲质疑为何凉水要卖钱",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "口渴了尽管喝不要你的半分钱。",
+      "sentence": "兰玉莲允许对方免费饮用凉水",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "魏奎元",
+      "original_sentence": "公子走到水桶前，手把住水桶无心思喝偷眼儿不住把小姐观。",
+      "sentence": "魏奎元走到水桶前停下脚步",
+      "behavior_type": 4
+    },
+    {
+      "role": "魏奎元",
+      "original_sentence": "公子走到水桶前，手把住水桶无心思喝偷眼儿不住把小姐观。",
+      "sentence": "魏奎元用手扶住水桶边缘",
+      "behavior_type": 13
+    },
+    {
+      "role": "魏奎元",
+      "original_sentence": "公子走到水桶前，手把住水桶无心思喝偷眼儿不住把小姐观。",
+      "sentence": "魏奎元无心喝水观察小姐",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "小姐一见生了气，骂声公子理不通。",
+      "sentence": "兰玉莲因公子言行感到愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "小姐一见生了气，骂声公子理不通。",
+      "sentence": "公子言行引发小姐强烈不满",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "你若是渴了尽管喝没心喝了奴家还要转回还。",
+      "sentence": "兰玉莲告诉公子可以随意喝水",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "你若是渴了尽管喝没心喝了奴家还要转回还。",
+      "sentence": "奴家准备转身离开此处",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "我本是庄户人家的勤劳女比不得你们读书人儿闲。",
+      "sentence": "兰玉莲自称是庄户人家的勤劳女",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "公子一听开言道叫声小姐你细细听。",
+      "sentence": "公子向小姐表达自己的观点",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "魏奎元",
+      "original_sentence": "你我二人双缘配配就一对并头莲。",
+      "sentence": "魏奎元表达与兰玉莲的缘分",
+      "behavior_type": 2
+    },
+    {
+      "role": "兰玉莲",
+      "original_sentence": "你我二人双缘配配就一对并头莲。",
+      "sentence": "兰玉莲与魏奎元有深厚缘分",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "小姐一听生了气公子讲话理不端。",
+      "sentence": "兰玉莲听闻公子言语感到愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你家有个姐和妹旁人调戏你答应不答应?今日我和你要见官，遇上个清官四十板，遇上个赃官收牢监。",
+      "sentence": "询问对方是否允许他人调戏姐妹",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "你家有个姐和妹旁人调戏你答应不答应?今日我和你要见官，遇上个清官四十板，遇上个赃官收牢监。",
+      "sentence": "要求与对方一同前往官府解决",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "你家有个姐和妹旁人调戏你答应不答应?今日我和你要见官，遇上个清官四十板，遇上个赃官收牢监。",
+      "sentence": "可能面临四十板或收监的后果",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "公子说声小姐听，玉皇爷所生七个女，都在凡间配良缘。",
+      "sentence": "玉皇爷所生七个女配良缘",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大姐坐了昭阳院，二姐配了沈文通。",
+      "sentence": "大姐进入昭阳院中",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "大姐坐了昭阳院，二姐配了沈文通。",
+      "sentence": "二姐与沈文通成婚",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三姐她把卖油郎配，四姐配了崔相公。",
+      "sentence": "三姐与卖油郎结为夫妻",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "三姐她把卖油郎配，四姐配了崔相公。",
+      "sentence": "四姐与崔相公结为夫妻",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "五姐配了韩世杰，六姐陈姑儿赶船配的潘相公。",
+      "sentence": "五姐与韩世杰结为夫妻",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "五姐配了韩世杰，六姐陈姑儿赶船配的潘相公。",
+      "sentence": "六姐与潘相公结为夫妻",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "七姐她把董永配，八姐九姐早配婚，九女儿托生了山中的穆桂英。",
+      "sentence": "七姐与董永结为夫妻",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "七姐她把董永配，八姐九姐早配婚，九女儿托生了山中的穆桂英。",
+      "sentence": "八姐九姐早已成婚",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "七姐她把董永配，八姐九姐早配婚，九女儿托生了山中的穆桂英。",
+      "sentence": "九女儿转世为穆桂英",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "神仙们也有配婚的意，难道说你我凡人不成亲。",
+      "sentence": "神仙们也有配婚的意愿",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "神仙们也有配婚的意，难道说你我凡人不成亲。",
+      "sentence": "凡人难道不应该成亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你今日从了我们的婚姻事，恩恩爱爱做夫妻。",
+      "sentence": "双方同意结为夫妻恩爱相处",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你今日若不从婚姻事，我一头碰死在你眼前。",
+      "sentence": "若不从婚便以死相逼",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "小姐听罢公子的话，心中暗暗自思量。",
+      "sentence": "小姐听完公子的话后开始思考",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我若要从了婚姻事，光天化日大路朝天不方便。",
+      "sentence": "光天化日之下不方便行事",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "我若果不从婚姻事，可惜这一表人才一秀男。",
+      "sentence": "兰玉莲觉得可惜这一表人才",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "难住了小姐无奈何，扇一扇罗裙坐一边。",
+      "sentence": "兰玉莲无奈地坐在一旁",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "小姐张口开言道，再叫公子你细听。",
+      "sentence": "兰玉莲开口让公子仔细听",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "我问你家住哪州并哪县，你与奴家讲分明。",
+      "sentence": "兰玉莲询问公子家住何处",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "魏奎元",
+      "original_sentence": "公子说我家住在河北里，河北里有个魏家庄。",
+      "sentence": "魏奎元告知家住河北魏家庄",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "魏奎元",
+      "original_sentence": "我的父人称魏百万，我的母是念经行善的人。",
+      "sentence": "魏奎元的父亲人称魏百万",
+      "behavior_type": 8
+    },
+    {
+      "role": "魏奎元",
+      "original_sentence": "我的父人称魏百万，我的母是念经行善的人。",
+      "sentence": "魏奎元的母亲念经行善",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "魏奎元",
+      "original_sentence": "上无兄长下无弟，所生我一子魏奎元。",
+      "sentence": "魏奎元是家中唯一的儿子",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我问小姐家住在哪方，可惜生母去世早。",
+      "sentence": "询问小姐家庭住址和情况",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "我问小姐家住在哪方，可惜生母去世早。",
+      "sentence": "生母早年已经去世",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "后娶的继母心不好家务活全由我来干。",
+      "sentence": "家务活全由继母安排处理",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "今日奴家来担水，遇上了你公子读书人。",
+      "sentence": "兰玉莲遇见魏奎元这位读书人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "魏奎元",
+      "original_sentence": "公子一听喜在心洒金扇赠与小姐来定亲。",
+      "sentence": "魏奎元听闻后心中感到欢喜",
+      "behavior_type": 2
+    },
+    {
+      "role": "魏奎元",
+      "original_sentence": "公子一听喜在心洒金扇赠与小姐来定亲。",
+      "sentence": "魏奎元将洒金扇赠与小姐",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "小姐头上摘下白玉簪，递在公子手当中。",
+      "sentence": "兰玉莲将白玉簪递给魏奎元",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "小姐说今晚你若不来话怎讲?公子道我若不来命丧生。",
+      "sentence": "兰玉莲询问公子今晚是否前来",
+      "behavior_type": 7
+    },
+    {
+      "role": "魏奎元",
+      "original_sentence": "小姐说今晚你若不来话怎讲?公子道我若不来命丧生。",
+      "sentence": "魏奎元表示若不来将失去生命",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "魏奎元",
+      "original_sentence": "公子问小姐如若不来话怎讲?小姐说我不来了命归阴。",
+      "sentence": "魏奎元询问小姐不来的后果",
+      "behavior_type": 7
+    },
+    {
+      "role": "兰玉莲",
+      "original_sentence": "公子问小姐如若不来话怎讲?小姐说我不来了命归阴。",
+      "sentence": "兰玉莲表示自己不来会丧命",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他两个发罢宏誓愿各人回到各人的家。",
+      "sentence": "他们各自回到自己的家中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "魏奎元",
+      "original_sentence": "公子回上华山里去小姐担水转家园公子一更里就把当日的功课全做完，二更里侍候师傅睡了觉，偷偷溜出后门下了山。",
+      "sentence": "魏奎元回到华山里",
+      "behavior_type": 4
+    },
+    {
+      "role": "兰玉莲",
+      "original_sentence": "公子回上华山里去小姐担水转家园公子一更里就把当日的功课全做完，二更里侍候师傅睡了觉，偷偷溜出后门下了山。",
+      "sentence": "兰玉莲担水转家园",
+      "behavior_type": 4
+    },
+    {
+      "role": "魏奎元",
+      "original_sentence": "公子回上华山里去小姐担水转家园公子一更里就把当日的功课全做完，二更里侍候师傅睡了觉，偷偷溜出后门下了山。",
+      "sentence": "魏奎元做完当日功课",
+      "behavior_type": 10
+    },
+    {
+      "role": "魏奎元",
+      "original_sentence": "公子回上华山里去小姐担水转家园公子一更里就把当日的功课全做完，二更里侍候师傅睡了觉，偷偷溜出后门下了山。",
+      "sentence": "魏奎元侍候师傅睡觉",
+      "behavior_type": 10
+    },
+    {
+      "role": "魏奎元",
+      "original_sentence": "公子回上华山里去小姐担水转家园公子一更里就把当日的功课全做完，二更里侍候师傅睡了觉，偷偷溜出后门下了山。",
+      "sentence": "魏奎元溜出后门下山",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "魏奎元",
+      "original_sentence": "公子来到兰桥前不见小姐在桥边。",
+      "sentence": "魏奎元来到兰桥前未见兰玉莲",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "魏奎元",
+      "original_sentence": "上河里高叫三声兰小姐，下河里低叫三声兰玉莲。",
+      "sentence": "魏奎元高声呼唤兰玉莲",
+      "behavior_type": 7
+    },
+    {
+      "role": "兰玉莲",
+      "original_sentence": "上河里高叫三声兰小姐，下河里低叫三声兰玉莲。",
+      "sentence": "魏奎元低声呼唤兰玉莲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "魏奎元",
+      "original_sentence": "你不来了把我哄哄得来到桥边实难辛。",
+      "sentence": "魏奎元因被欺骗而感到非常难过",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "魏奎元",
+      "original_sentence": "我若再回上华山里去，师父的打骂受不成。",
+      "sentence": "魏奎元害怕师父的打骂",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "魏奎元",
+      "original_sentence": "师父的打骂还可说，学生们的嘲笑了不得。",
+      "sentence": "魏奎元害怕学生们的嘲笑",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "罢罢罢，鹿活千岁也要死，人活百岁也要死。",
+      "sentence": "鹿活千岁终有一死",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "罢罢罢，鹿活千岁也要死，人活百岁也要死。",
+      "sentence": "人活百岁终有一死",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "兰衫搭在桥杆上，身子一纵跳下河，投河殉情一命亡。",
+      "sentence": "兰玉莲跳河殉情身亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "按下公子暂不说，再把小姐表一番。",
+      "sentence": "现在开始讲述小姐的故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "兰小姐一更里洗锅抹灶活干完，二更里等着爹妈睡觉眠三更里小姐悄悄儿走出家门院天下大雨来为难。",
+      "sentence": "兰玉莲等待爹妈入睡后离开家门",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "兰小姐一更里洗锅抹灶活干完，二更里等着爹妈睡觉眠三更里小姐悄悄儿走出家门院天下大雨来为难。",
+      "sentence": "天下大雨给出行带来了困难",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "恨老天早不下来迟不下偏偏下雨在今晚。",
+      "sentence": "兰玉莲怨恨天公不作美",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "不怕路滑泥烂往前走跌轱辘跄马趴来到兰桥上左看右看不见魏公子心慌意乱着了忙。",
+      "sentence": "兰玉莲心慌意乱寻找魏公子",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "叫一声相公魏奎元不该把小姐来哄骗。",
+      "sentence": "兰玉莲指责魏奎元欺骗了她",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "我若要回上家里去，爹娘打来哥嫂骂教姑娘怎活在人世上。",
+      "sentence": "兰玉莲担心回家遭受责骂",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "忽然间哗啦啦老天闪了电，观见魏公子的兰衫搭在桥杆上。",
+      "sentence": "兰玉莲看见魏公子的衣衫在桥上",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "魏奎元",
+      "original_sentence": "原来是魏相公等奴家不来跳了河应验了他白日里发下的宏誓愿。",
+      "sentence": "魏奎元因等待未果而跳河自尽",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "罢罢罢，公子既然情意重小奴家紧后跟你去阴间。",
+      "sentence": "兰玉莲决定跟随公子前往阴间",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "头上取下白玉簪双手插在兰衫上。",
+      "sentence": "兰玉莲将白玉簪插在兰衫上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "小金莲一纵落河湾二人的冤魂漂在水面上。",
+      "sentence": "兰玉莲跳河后冤魂漂浮水面",
+      "behavior_type": 3
+    },
+    {
+      "role": "魏奎元",
+      "original_sentence": "小金莲一纵落河湾二人的冤魂漂在水面上。",
+      "sentence": "魏奎元跳河后冤魂漂浮水面",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "清早胸兰家里寻找兰玉莲。",
+      "sentence": "清晨前往兰玉莲家中寻找她",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两家里找到一处去，二人的尸首都在沙河滩。",
+      "sentence": "两家的尸首都在沙河滩上",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "兰家前去把状告，大老爷在堂上审端详。",
+      "sentence": "兰家前往官府提出诉讼",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "兰家前去把状告，大老爷在堂上审端详。",
+      "sentence": "大老爷在公堂审理案件",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "兰家",
+      "original_sentence": "兰家说魏奎元不学好，勾引我的女儿跳河滩。",
+      "sentence": "兰家指责魏奎元勾引其女儿",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "魏家在堂上诉冤情大老爷请你仔细听。",
+      "sentence": "魏家在堂上陈述冤情请仔细听",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "兰玉莲",
+      "original_sentence": "兰家的女儿不正经，勾引我魏家公子归了阴县官老爷怒气生，大骂魏兰两家理不通。",
+      "sentence": "兰玉莲被指责行为不检点",
+      "behavior_type": 2
+    },
+    {
+      "role": "魏奎元",
+      "original_sentence": "兰家的女儿不正经，勾引我魏家公子归了阴县官老爷怒气生，大骂魏兰两家理不通。",
+      "sentence": "魏奎元被指责勾引他人",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "兰家的女儿不正经，勾引我魏家公子归了阴县官老爷怒气生，大骂魏兰两家理不通。",
+      "sentence": "县官老爷对此感到愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你们生儿育女不管教半夜三更胡乱行。",
+      "sentence": "父母未能管教子女行为",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大堂口扔下八根签.照人打给四十板。",
+      "sentence": "大堂口扔下八根签照人打四十板",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两家罚银各十两，各回各家了结完。",
+      "sentence": "两家各自被罚银十两",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "两家罚银各十两，各回各家了结完。",
+      "sentence": "两家各自回家结束纠纷",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "阎王爷",
+      "original_sentence": "六月十五天门开，阎君爷坐在天门台。",
+      "sentence": "阎王爷端坐在天门台上",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "阎王爷",
+      "original_sentence": "男鬼女鬼手拉手进了阎王殿双膝跪下尊阎王。",
+      "sentence": "男鬼女鬼手拉手进入阎王殿",
+      "behavior_type": 13
+    },
+    {
+      "role": "阎王爷",
+      "original_sentence": "男鬼女鬼手拉手进了阎王殿双膝跪下尊阎王。",
+      "sentence": "男鬼女鬼双膝跪在阎王前",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "阎王爷",
+      "original_sentence": "阎王老爷开大恩再世里我们要配成婚。",
+      "sentence": "阎王爷恩准他们来世配成婚",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "阎王爷",
+      "original_sentence": "阎王爷一听发慈悲，牛头马面叫一声。",
+      "sentence": "阎王爷听闻后心生慈悲之情",
+      "behavior_type": 2
+    },
+    {
+      "role": "阎王爷",
+      "original_sentence": "阎王爷一听发慈悲，牛头马面叫一声。",
+      "sentence": "阎王爷呼唤牛头马面前来",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "阎王爷",
+      "original_sentence": "男鬼送到南京去，女鬼送到北京城。",
+      "sentence": "阎王爷将男鬼送往南京",
+      "behavior_type": 4
+    },
+    {
+      "role": "阎王爷",
+      "original_sentence": "男鬼送到南京去，女鬼送到北京城。",
+      "sentence": "阎王爷将女鬼送往北京",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "男的转世王金龙，女的转世玉堂春，投生路上去相逢，这就是兰桥相会的书一本。",
+      "sentence": "男子转世为王金龙",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "男的转世王金龙，女的转世玉堂春，投生路上去相逢，这就是兰桥相会的书一本。",
+      "sentence": "女子转世为玉堂春",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "男的转世王金龙，女的转世玉堂春，投生路上去相逢，这就是兰桥相会的书一本。",
+      "sentence": "两人在投生路上相逢",
+      "behavior_type": 4
+    },
+    {
+      "role": "兰玉莲",
+      "original_sentence": "男的转世王金龙，女的转世玉堂春，投生路上去相逢，这就是兰桥相会的书一本。",
+      "sentence": "兰桥相会的故事成书",
+      "behavior_type": 14
+    }
+  ]
+]

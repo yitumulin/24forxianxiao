@@ -1,0 +1,820 @@
+[
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "第四节新编凉州贤孝唱词：仲由百里负米三九真理传天下，二十四孝表贤人。",
+      "sentence": "仲由百里负米传颂三九真理",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "第四节新编凉州贤孝唱词：仲由百里负米三九真理传天下，二十四孝表贤人。",
+      "sentence": "二十四孝彰显贤人典范",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个时代说贤书？",
+      "sentence": "询问哪个时代讲述贤书",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个国家论孝子？",
+      "sentence": "哪个国家讨论孝子问题",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "春秋时代说贤书，鲁国里头论孝子。",
+      "sentence": "春秋时代讨论贤书鲁国讨论孝子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "今天不把别的唱，唱一段仲由百里负米的孝子传。",
+      "sentence": "仲由讲述百里负米的孝子故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "自从盘古开天地，三皇完了传五帝。",
+      "sentence": "盘古开天辟地后三皇传五帝",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "虞舜禅位给了大禹王，大禹传位给了亲儿郎。",
+      "sentence": "虞舜将帝位禅让给大禹",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "虞舜禅位给了大禹王，大禹传位给了亲儿郎。",
+      "sentence": "大禹将帝位传给其儿子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夏启传到了残暴的夏桀王，商汤传到了荒淫的殷纣王。",
+      "sentence": "夏启传位给了残暴的夏桀王",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "夏启传到了残暴的夏桀王，商汤传到了荒淫的殷纣王。",
+      "sentence": "商汤传位给了荒淫的殷纣王",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周武王讨伐的殷纣王，狐狸精妲己也归了天。",
+      "sentence": "周武王讨伐了殷纣王",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "周武王讨伐的殷纣王，狐狸精妲己也归了天。",
+      "sentence": "狐狸精妲己最终死亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周幽王烽火戏诸侯，周平王迁都到洛阳。",
+      "sentence": "周幽王点燃烽火戏弄诸侯",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "周幽王烽火戏诸侯，周平王迁都到洛阳。",
+      "sentence": "周平王将都城迁移至洛阳",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "春秋五霸争天下，战国七雄归秦王。",
+      "sentence": "春秋五霸为争夺天下而战",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "春秋五霸争天下，战国七雄归秦王。",
+      "sentence": "战国七雄最终归属于秦王",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说起春秋可不一般，诸子百家把名扬。",
+      "sentence": "春秋时期诸子百家名声显赫",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "汉武大帝罢百家，一家独大是儒家。",
+      "sentence": "汉武大帝推行罢黜百家政策",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "孔子",
+      "original_sentence": "孔子弟子超三千，七十二人称贤良。",
+      "sentence": "孔子拥有三千名弟子",
+      "behavior_type": 8
+    },
+    {
+      "role": "孔子",
+      "original_sentence": "孔子弟子超三千，七十二人称贤良。",
+      "sentence": "孔子有七十二名贤良",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "孔子",
+      "original_sentence": "普天之下拜孔子，孔子身边四弟子。",
+      "sentence": "普天之下的人们都敬拜孔子",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "普天之下拜孔子，孔子身边四弟子。",
+      "sentence": "孔子身边有四名弟子跟随",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "复圣公是颜回子，宗圣公是曾参子。",
+      "sentence": "复圣公是颜回子",
+      "behavior_type": ""
+    },
+    {
+      "role": "",
+      "original_sentence": "复圣公是颜回子，宗圣公是曾参子。",
+      "sentence": "宗圣公是曾参子",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "当年孔子的亲孙子，托付给曾参叫子思。",
+      "sentence": "孔子将亲孙子托付给曾参",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "述圣公是子思子，还有亚圣公孟夫子。",
+      "sentence": "述圣公是子思子",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "述圣公是子思子，还有亚圣公孟夫子。",
+      "sentence": "亚圣公是孟夫子",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "四贤除外有十哲，也是供在孔庙里。",
+      "sentence": "十哲也被供奉在孔庙里",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "颜子渊么闵子骞，仲弓还有冉伯牛，四人德行美名留，还有宰我子贡擅言语。",
+      "sentence": "颜子渊闵子骞仲弓冉伯牛德行美名留",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "颜子渊么闵子骞，仲弓还有冉伯牛，四人德行美名留，还有宰我子贡擅言语。",
+      "sentence": "宰我子贡擅长言语表达",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "冉有子路通政事，子游子夏擅文学。",
+      "sentence": "冉有子路擅长处理政事",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "冉有子路通政事，子游子夏擅文学。",
+      "sentence": "子游子夏精通文学创作",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "仲由先生字子路，性格直爽又勇敢。",
+      "sentence": "仲由性格直爽且勇敢",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "跟随孔子好多年，能把孔子保周全。",
+      "sentence": "仲由长期跟随孔子并保护其安全",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一诺千金不过夜，闻过则喜勤改错。",
+      "sentence": "一诺千金且闻过则喜勤改错",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "保护孔子称勇将，实心实意孝爹娘。",
+      "sentence": "仲由保护孔子并孝顺父母",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "家里贫穷缺吃穿，仲由远方做工忙。",
+      "sentence": "仲由因家贫而外出务工",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "自己吃的野菜饭，百里送米给爹娘。",
+      "sentence": "仲由吃野菜饭送米给爹娘",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "春夏秋冬送米忙，百里的路不嫌远。",
+      "sentence": "仲由长途跋涉为父母送米",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "刮风也要送米粮，腰子弯上把路赶。",
+      "sentence": "仲由顶着大风赶路送米粮",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "下雨也要送米粮，要把米袋怀里藏。",
+      "sentence": "仲由下雨天仍坚持送米粮",
+      "behavior_type": 12
+    },
+    {
+      "role": "仲由",
+      "original_sentence": "下雨也要送米粮，要把米袋怀里藏。",
+      "sentence": "仲由将米袋藏在怀里",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "炎炎烈日大夏天，热得浑身都淌汗。",
+      "sentence": "炎炎烈日下浑身淌汗",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "仲由顾不上去乘凉，冒着烈日把路赶。",
+      "sentence": "仲由冒着烈日继续赶路",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "争取早点回家廊，给爹娘做顿白米饭。",
+      "sentence": "仲由赶回家为父母做饭",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "三九寒冬腊月天，冰天雪地行路难。",
+      "sentence": "仲由在冰天雪地中艰难前行",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "仲由手脚都冻僵，抱着米袋把路赶。",
+      "sentence": "仲由手脚冻僵仍抱着米袋赶路",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "冷风刀子刮着脸，也要让爹娘喝上口热米汤。",
+      "sentence": "仲由坚持让爹娘喝上热米汤",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "活着负米孝亲娘，死了也是常思念。",
+      "sentence": "仲由始终思念已故的母亲",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "爹娘死后仲由做了大官，时时刻刻还想着爹娘。",
+      "sentence": "仲由为官后仍思念父母",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "出行的车马百十辆，家里的粮食千百石。",
+      "sentence": "车马众多粮食丰富",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "床上被褥十几床，顿顿吃的是酒肉餐。",
+      "sentence": "仲由拥有十几床被褥和酒肉餐",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "每到此时想爹娘，好酒好饭难下咽。",
+      "sentence": "仲由思念父母时难以下咽",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "我愿再吃野菜饭，只求再见亲爹娘。",
+      "sentence": "仲由渴望再吃野菜饭见爹娘",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "爹娘已经难见面，百里负米也枉然。",
+      "sentence": "仲由无法再见到自己的父母",
+      "behavior_type": 3
+    },
+    {
+      "role": "仲由",
+      "original_sentence": "爹娘已经难见面，百里负米也枉然。",
+      "sentence": "仲由负米行为已无意义",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "树欲静而风不止，子欲养而亲不待。",
+      "sentence": "仲由因无法尽孝而感到悲伤",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "春秋时代很混乱，大国小国无纲常。",
+      "sentence": "春秋时代处于混乱状态",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "就说卫国的卫灵公，有个宠姬叫南子。",
+      "sentence": "卫灵公有一位宠姬名叫南子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "卫庄公（蒉聩）",
+      "original_sentence": "太子蒉聩kuaikui不要脸，傢把南子勾搭上。",
+      "sentence": "蒉聩勾搭南子行为不端",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "卫庄公（蒉聩）",
+      "original_sentence": "害怕丑事露了馅，蒉聩只能去逃亡。",
+      "sentence": "蒉聩因害怕丑事败露而逃亡",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "灵公一朝归了天，公子郢ying不愿把君主当。",
+      "sentence": "卫灵公去世后公子郢拒绝继位",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "卫出公（辄）",
+      "original_sentence": "太子不在有太孙，蒉聩的儿子把君主当。",
+      "sentence": "卫出公继承了君主之位",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "卫出公（辄）",
+      "original_sentence": "太孙名叫公子辄，就是卫国卫出公。",
+      "sentence": "卫出公辄是卫国的君主",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "卫出公（辄）",
+      "original_sentence": "出公在位了十二年，蒉聩流亡十二年。",
+      "sentence": "卫出公在位长达十二年",
+      "behavior_type": 12
+    },
+    {
+      "role": "卫庄公（蒉聩）",
+      "original_sentence": "出公在位了十二年，蒉聩流亡十二年。",
+      "sentence": "蒉聩流亡长达十二年",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "卫庄公（蒉聩）",
+      "original_sentence": "儿子在内当君王，老子在外心不甘。",
+      "sentence": "蒉聩对儿子当君王感到不甘心",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "孔悝",
+      "original_sentence": "大夫孔悝当内奸，蒉聩领兵做了乱。",
+      "sentence": "孔悝暗中协助蒉聩发动叛乱",
+      "behavior_type": 10
+    },
+    {
+      "role": "卫庄公（蒉聩）",
+      "original_sentence": "大夫孔悝当内奸，蒉聩领兵做了乱。",
+      "sentence": "蒉聩率领军队发动了叛乱",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "孔悝",
+      "original_sentence": "孔悝的亲娘叫伯姬，傢连蒉聩是亲姐弟。",
+      "sentence": "孔悝的母亲是蒉聩的亲姐姐",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "孔悝",
+      "original_sentence": "孔悝是蒉聩的亲外甥，蒉聩是孔悝的亲舅舅。",
+      "sentence": "孔悝与蒉聩存在亲属关系",
+      "behavior_type": 8
+    },
+    {
+      "role": "卫庄公（蒉聩）",
+      "original_sentence": "孔悝是蒉聩的亲外甥，蒉聩是孔悝的亲舅舅。",
+      "sentence": "蒉聩与孔悝存在亲属关系",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "卫庄公（蒉聩）",
+      "original_sentence": "姐姐弟弟有勾连，舅舅外甥来作乱。",
+      "sentence": "蒉聩与孔悝共同发动叛乱",
+      "behavior_type": 9
+    },
+    {
+      "role": "孔悝",
+      "original_sentence": "姐姐弟弟有勾连，舅舅外甥来作乱。",
+      "sentence": "孔悝协助蒉聩发动叛乱",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "卫出公（辄）",
+      "original_sentence": "卫国出公着了忙，跑到鲁国去流亡。",
+      "sentence": "卫出公匆忙逃往鲁国流亡",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "子路当时在卫国，孔悝手下当大将。",
+      "sentence": "仲由在卫国担任孔悝的大将",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "出门公干在外边，却听孔悝作了乱。",
+      "sentence": "出门公干时听说孔悝作乱",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "回城要把孔悝劝，却被子羔拦门上。",
+      "sentence": "仲由返回城中欲劝孔悝",
+      "behavior_type": 4
+    },
+    {
+      "role": "子羔",
+      "original_sentence": "回城要把孔悝劝，却被子羔拦门上。",
+      "sentence": "子羔在门口阻拦仲由",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "卫出公（辄）",
+      "original_sentence": "如今出公已逃亡，蒉聩称王叫卫庄。",
+      "sentence": "卫出公已经逃亡离开卫国",
+      "behavior_type": 3
+    },
+    {
+      "role": "卫庄公（蒉聩）",
+      "original_sentence": "如今出公已逃亡，蒉聩称王叫卫庄。",
+      "sentence": "蒉聩称王成为卫庄公",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "赶紧逃跑活命忙，进到城里又怎样？",
+      "sentence": "赶紧逃跑以求活命",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "子路忠臣不听劝，食君之禄忠君王。",
+      "sentence": "仲由坚持忠诚不听他人劝告",
+      "behavior_type": 2
+    },
+    {
+      "role": "仲由",
+      "original_sentence": "子路忠臣不听劝，食君之禄忠君王。",
+      "sentence": "仲由接受俸禄效忠君王",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "子路进到城里边，蒉聩孔悝高台站。",
+      "sentence": "仲由进入城中见到蒉聩孔悝",
+      "behavior_type": 4
+    },
+    {
+      "role": "卫庄公（蒉聩）",
+      "original_sentence": "子路进到城里边，蒉聩孔悝高台站。",
+      "sentence": "蒉聩与孔悝站在高台之上",
+      "behavior_type": 12
+    },
+    {
+      "role": "孔悝",
+      "original_sentence": "子路进到城里边，蒉聩孔悝高台站。",
+      "sentence": "孔悝与蒉聩站在高台之上",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "子路发怒问卫庄，勾结孔悝为哪般？",
+      "sentence": "仲由愤怒地质问卫庄公",
+      "behavior_type": 2
+    },
+    {
+      "role": "卫庄公（蒉聩）",
+      "original_sentence": "子路发怒问卫庄，勾结孔悝为哪般？",
+      "sentence": "卫庄公与孔悝勾结",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "赶紧杀掉这坏蛋，请回出公当君王。",
+      "sentence": "仲由建议杀掉蒉聩请回出公",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "卫庄公（蒉聩）",
+      "original_sentence": "庄公一听怒气冲天，子路的脑子不清干。",
+      "sentence": "卫庄公听闻后感到愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "仲由",
+      "original_sentence": "庄公一听怒气冲天，子路的脑子不清干。",
+      "sentence": "仲由的思维不够清晰",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两员大将杀过去，把这个傻蛋给我砍。",
+      "sentence": "两员大将前去攻击目标",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "寡不敌众打不过，子路的帽缨被打落。",
+      "sentence": "仲由寡不敌众最终战败",
+      "behavior_type": 9
+    },
+    {
+      "role": "仲由",
+      "original_sentence": "寡不敌众打不过，子路的帽缨被打落。",
+      "sentence": "仲由的帽缨被敌人打落",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "子路一看没奈何，手握长剑大声说。",
+      "sentence": "仲由手握长剑大声说道",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "君子忠君又爱国，人死帽子不能落！",
+      "sentence": "仲由坚持忠君爱国至死不渝",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "拿起帽子拴好缨，拿起宝剑抹了脖。",
+      "sentence": "仲由拿起帽子拴好帽缨",
+      "behavior_type": 13
+    },
+    {
+      "role": "仲由",
+      "original_sentence": "拿起帽子拴好缨，拿起宝剑抹了脖。",
+      "sentence": "仲由拿起宝剑抹了脖子",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "忠臣宁死不投降，英雄宁死忠君王。",
+      "sentence": "仲由宁死不投降忠于君王",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "孔子",
+      "original_sentence": "听说子路殉了难，孔子不再吃肉酱。",
+      "sentence": "孔子听闻子路殉难后不再食用肉酱",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "在家能够孝父母，在外能够忠君王。",
+      "sentence": "仲由在家孝顺父母在外忠于君王",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "谁说忠孝难两全，子路是个好榜样。",
+      "sentence": "仲由是忠孝两全的好榜样",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，这段子贤孝么已唱完，故事么一节一节交代全。",
+      "sentence": "这段故事已经全部讲述完毕",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问唱的是那一段？",
+      "sentence": "询问唱的是哪一段故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二十四孝里的第四篇。",
+      "sentence": "二十四孝中的第四篇",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问曲儿是啥名堂？",
+      "sentence": "询问这首曲子的名称是什么",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "仲由",
+      "original_sentence": "仲由百里负米的事一桩。",
+      "sentence": "仲由从百里外背米回家",
+      "behavior_type": 4
+    }
+  ]
+]

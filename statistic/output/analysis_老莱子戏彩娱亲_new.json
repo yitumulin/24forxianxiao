@@ -1,0 +1,50 @@
+[
+  {
+    "roleName": "孔夫子",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "12": 1,
+      "5": 1
+    },
+    "total_sentences": 2,
+    "entropy": 1.0
+  },
+  {
+    "roleName": "老莱子",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "10": 6,
+      "7": 5,
+      "14": 2,
+      "4": 2,
+      "8": 1,
+      "2": 5,
+      "13": 4,
+      "11": 1,
+      "1": 1
+    },
+    "total_sentences": 27,
+    "entropy": 2.8760335779708557
+  },
+  {
+    "roleName": "老莱子父",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "2": 6,
+      "1": 1,
+      "13": 1
+    },
+    "total_sentences": 8,
+    "entropy": 1.061278124459133
+  },
+  {
+    "roleName": "老莱子母",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "1": 2,
+      "2": 4
+    },
+    "total_sentences": 6,
+    "entropy": 0.9182958340544896
+  }
+]

@@ -1,0 +1,712 @@
+[
+  [
+    {
+      "role": "闵子骞",
+      "original_sentence": "第六节新编凉州贤孝唱词：闵子骞单衣顺亲三九真理传天下，二十四孝表贤人。",
+      "sentence": "闵子骞单衣顺亲传三九真理",
+      "behavior_type": 3
+    },
+    {
+      "role": "闵子骞",
+      "original_sentence": "第六节新编凉州贤孝唱词：闵子骞单衣顺亲三九真理传天下，二十四孝表贤人。",
+      "sentence": "二十四孝彰显闵子骞贤德",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个时代说贤书？",
+      "sentence": "哪个时代讲述贤书内容",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个国家论孝子？",
+      "sentence": "哪个国家讨论孝子问题",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "春秋时代说贤书，鲁国里头论孝子。",
+      "sentence": "春秋时代讲述贤书鲁国讨论孝子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "闵子骞",
+      "original_sentence": "今天不把别的唱，唱一段闵子骞单衣顺亲的孝子传。",
+      "sentence": "闵子骞讲述单衣顺亲的故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "自从盘古开天地，三皇完了传五帝。",
+      "sentence": "盘古开天地后三皇传五帝",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "虞舜禅位给了大禹王，大禹传位给了亲儿郎。",
+      "sentence": "虞舜将王位禅让给大禹",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "虞舜禅位给了大禹王，大禹传位给了亲儿郎。",
+      "sentence": "大禹将王位传给亲儿子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夏启传到了残暴的夏桀王，商汤传到了荒淫的殷纣王。",
+      "sentence": "夏启将王位传给残暴的夏桀王",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "夏启传到了残暴的夏桀王，商汤传到了荒淫的殷纣王。",
+      "sentence": "商汤将王位传给荒淫的殷纣王",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周武王讨伐的殷纣王，狐狸精妲己也归了天。",
+      "sentence": "周武王率领军队讨伐殷纣王",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "周武王讨伐的殷纣王，狐狸精妲己也归了天。",
+      "sentence": "狐狸精妲己最终命丧黄泉",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周幽王烽火戏诸侯，周平王迁都到洛阳。",
+      "sentence": "周幽王点燃烽火戏弄诸侯",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "周幽王烽火戏诸侯，周平王迁都到洛阳。",
+      "sentence": "周平王将都城迁至洛阳",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "春秋五霸争天下，战国七雄归秦王。",
+      "sentence": "春秋五霸争夺天下霸权",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "春秋五霸争天下，战国七雄归秦王。",
+      "sentence": "战国七雄最终归顺秦王",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说起春秋可不一般，诸子百家把名扬。",
+      "sentence": "诸子百家在春秋时期名声显赫",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "汉武大帝罢百家，一家独大是儒家。",
+      "sentence": "汉武帝推行罢黜百家政策",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "汉武大帝罢百家，一家独大是儒家。",
+      "sentence": "儒家思想成为官方学说",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "孔子的弟子有三千，七十二人称贤良。",
+      "sentence": "孔子的弟子共有七十二位贤良",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我把这些诗条对句丢在后，唱一唱孝子闵子骞。",
+      "sentence": "诗人将诗条对句丢弃后开始演唱",
+      "behavior_type": 7
+    },
+    {
+      "role": "闵子骞",
+      "original_sentence": "我把这些诗条对句丢在后，唱一唱孝子闵子骞。",
+      "sentence": "诗人演唱孝子闵子骞的故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "闵子骞",
+      "original_sentence": "说起这个闵子骞，小小年纪怪可怜。",
+      "sentence": "闵子骞小小年纪令人感到可怜",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "闵父",
+      "original_sentence": "亲生母亲死得早，老子又把后娘找。",
+      "sentence": "闵父在妻子去世后另娶新妻",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "后母",
+      "original_sentence": "后娘生下俩弟弟，对待老大不客气。",
+      "sentence": "后母对闵子骞态度恶劣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "后母",
+      "original_sentence": "吃的先给弟弟吃，喝的先给弟弟喝。",
+      "sentence": "后母将食物优先给予弟弟们",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "后母",
+      "original_sentence": "穿的先给弟弟穿，玩的先给弟弟玩。",
+      "sentence": "后母优先满足弟弟们的需求",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "后母",
+      "original_sentence": "到了冬天天气寒，做上棉衣娃娃穿。",
+      "sentence": "后母为孩子们制作御寒棉衣",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老二老三穿棉衣，里面装的是棉花。",
+      "sentence": "老二老三穿着装有棉花的棉衣",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "后母",
+      "original_sentence": "等到老大穿棉衣，里面可就是芦花。",
+      "sentence": "后母给老大穿芦花棉衣",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "棉花衣裳身子暖，芦花衣裳冷风钻。",
+      "sentence": "棉花衣裳使人感到温暖舒适",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "棉花衣裳身子暖，芦花衣裳冷风钻。",
+      "sentence": "芦花衣裳让人感到寒冷刺骨",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "闵子骞",
+      "original_sentence": "北风刮得刷刷刷，闵子骞冻得咵咵咵。",
+      "sentence": "闵子骞因寒冷而颤抖不止",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "闵子骞",
+      "original_sentence": "就是不能给老子说，说了傢要骂后妈。",
+      "sentence": "闵子骞不敢向父亲诉说实情",
+      "behavior_type": 7
+    },
+    {
+      "role": "后母",
+      "original_sentence": "就是不能给老子说，说了傢要骂后妈。",
+      "sentence": "后母会因告状而责骂闵子骞",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "闵父",
+      "original_sentence": "某年某月某一天，老子出门到外边。",
+      "sentence": "闵父某日出门到外边",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "闵子骞",
+      "original_sentence": "叫来老大闵子骞，赶紧拉马套车上。",
+      "sentence": "闵子骞被叫来拉马套车",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "闵子骞",
+      "original_sentence": "拉着父亲刚出门，手里的缰绳滑一边。",
+      "sentence": "闵子骞拉着父亲出门时缰绳滑落",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "闵父",
+      "original_sentence": "马儿一惊车打滑，老子摔倒沟里爬。",
+      "sentence": "闵父因马惊车滑而摔入沟中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "闵父",
+      "original_sentence": "老子一看怪生气，翻身起来要出气。",
+      "sentence": "闵父感到愤怒并准备发泄",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "闵父",
+      "original_sentence": "大骂一声闵子骞，你这马车怎么赶？",
+      "sentence": "闵父愤怒地责骂闵子骞",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "闵父",
+      "original_sentence": "拿起鞭子身上抽，一点情面不给留。",
+      "sentence": "闵父用鞭子抽打闵子骞",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "闵子骞",
+      "original_sentence": "一鞭子打在棉衣上，子骞的眼睛里冒泪花。",
+      "sentence": "闵子骞因鞭打而流下眼泪",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "闵子骞",
+      "original_sentence": "两鞭子打在棉衣上，子骞的棉衣裂开了花。",
+      "sentence": "闵子骞的棉衣被鞭子抽裂",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三鞭子打在棉衣上，棉衣里的芦花往外撒。",
+      "sentence": "三鞭子抽打导致芦花散落",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "闵父",
+      "original_sentence": "老子一看怪纳闷，棉衣为啥飘芦花？",
+      "sentence": "闵父对棉衣飘芦花感到纳闷",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "闵父",
+      "original_sentence": "扶起儿子摸着手，冰冷冰冷不像个手。",
+      "sentence": "闵父扶起儿子并触摸他的手",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "扶起儿子摸着手，冰冷冰冷不像个手。",
+      "sentence": "儿子的手冰冷得不像人手",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "闵父",
+      "original_sentence": "摸一摸儿子的棉衣裳，又单又薄不保暖。",
+      "sentence": "闵父发现儿子的棉衣单薄不保暖",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "后母",
+      "original_sentence": "里面根本就没棉花，装给的全都是芦花。",
+      "sentence": "后母在棉衣中填充了芦花",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "闵父",
+      "original_sentence": "棉花装上都嫌冷哩，装上些芦花这算啥？",
+      "sentence": "闵父发现芦花后感到十分愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "闵父",
+      "original_sentence": "老子一看也心酸，可就亏待了闵子骞。",
+      "sentence": "闵父看到后感到非常心酸",
+      "behavior_type": 2
+    },
+    {
+      "role": "闵子骞",
+      "original_sentence": "老子一看也心酸，可就亏待了闵子骞。",
+      "sentence": "闵子骞被父亲亏待了",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "闵子骞",
+      "original_sentence": "这么冷的天，穿的是单衣裳，手都冻木了，怎能赶好车？",
+      "sentence": "闵子骞穿着单薄衣裳手冻僵",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "这么冷的天，穿的是单衣裳，手都冻木了，怎能赶好车？",
+      "sentence": "天气寒冷导致无法驾驶好车",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "闵父",
+      "original_sentence": "老子一想也心酸，可就冤枉了闵子骞。",
+      "sentence": "闵父感到心酸冤枉闵子骞",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "闵父",
+      "original_sentence": "老子回到家门里，拉过两个小儿子。",
+      "sentence": "闵父回家后拉过两个小儿子",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "摸一摸孩子的手，红扑扑么热乎乎。",
+      "sentence": "有人触摸孩子的手发现温暖",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "摸一摸穿的棉衣裳，里头可都是新棉花。",
+      "sentence": "摸一摸棉衣发现是新棉花",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "新棉花么就是好，摸到手里都暖烘烘。",
+      "sentence": "新棉花摸起来十分温暖舒适",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "闵父",
+      "original_sentence": "老子一看么肺气炸，这个事情算个啥？",
+      "sentence": "闵父看到后感到非常愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "后母",
+      "original_sentence": "亲的儿子装棉花，后的儿子就装芦花。",
+      "sentence": "后母为亲子装填新棉花",
+      "behavior_type": 14
+    },
+    {
+      "role": "后母",
+      "original_sentence": "亲的儿子装棉花，后的儿子就装芦花。",
+      "sentence": "后母为继子装填芦花",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "闵父",
+      "original_sentence": "拉过老婆大声骂，你就这样当后妈。",
+      "sentence": "闵父大声责骂后母行为不当",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "闵父",
+      "original_sentence": "写封休书休了你，你给我滚回你娘家。",
+      "sentence": "闵父决定写休书休了后母",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "写封休书休了你，你给我滚回你娘家。",
+      "sentence": "后母被要求滚回娘家",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "后母",
+      "original_sentence": "老婆一听着了慌，眼泪掉上求丈夫。",
+      "sentence": "后母听闻后感到惊慌失措",
+      "behavior_type": 2
+    },
+    {
+      "role": "后母",
+      "original_sentence": "老婆一听着了慌，眼泪掉上求丈夫。",
+      "sentence": "后母流着眼泪恳求丈夫",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "闵父",
+      "original_sentence": "老子真是太生气，不管说啥要休妻。",
+      "sentence": "闵父因愤怒决定休妻",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "闵父",
+      "original_sentence": "当初娶上你，就是为了孩子有个妈。",
+      "sentence": "闵父表示娶妻是为了孩子有母亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "后母",
+      "original_sentence": "现在看看你，骗了老子虐待了儿。",
+      "sentence": "后母欺骗闵父并虐待闵子骞",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "闵父",
+      "original_sentence": "这样的女人不能留，这样的做法难忍受。",
+      "sentence": "闵父认为这样的女人不能留",
+      "behavior_type": 2
+    },
+    {
+      "role": "闵父",
+      "original_sentence": "这样的女人不能留，这样的做法难忍受。",
+      "sentence": "闵父觉得这样的做法难忍受",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "闵子骞",
+      "original_sentence": "闵子骞一听着了忙，赶紧上前把父亲劝。",
+      "sentence": "闵子骞听闻后立即上前劝阻父亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "后母",
+      "original_sentence": "后妈在着冻一个，后妈不在冻三个。",
+      "sentence": "后母在时只冻一个孩子",
+      "behavior_type": 11
+    },
+    {
+      "role": "后母",
+      "original_sentence": "后妈在着冻一个，后妈不在冻三个。",
+      "sentence": "后母不在时冻三个孩子",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "后母",
+      "original_sentence": "后妈要是留在家，后了后还有个妈。",
+      "sentence": "后母留在家中仍有母亲",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "后母",
+      "original_sentence": "后妈要是赶出家，后妈亲妈都没妈。",
+      "sentence": "后母被赶出家门后失去依靠",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "闵父",
+      "original_sentence": "老子一听也在理，那就留你在家里。",
+      "sentence": "闵父决定将后母留在家中",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "后母",
+      "original_sentence": "后妈一听怪羞愧，这个儿子明事理。",
+      "sentence": "后母听闻后感到十分羞愧",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "后妈一听怪羞愧，这个儿子明事理。",
+      "sentence": "这个儿子明白事理",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "后母",
+      "original_sentence": "平时不给好吃穿，也没有个好脸色。",
+      "sentence": "后母不给闵子骞好吃穿",
+      "behavior_type": 11
+    },
+    {
+      "role": "后母",
+      "original_sentence": "平时不给好吃穿，也没有个好脸色。",
+      "sentence": "后母对闵子骞没有好脸色",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "后母",
+      "original_sentence": "亲生儿子穿棉花，不亲的儿子穿芦花。",
+      "sentence": "后母给亲生儿子穿棉花",
+      "behavior_type": 8
+    },
+    {
+      "role": "后母",
+      "original_sentence": "亲生儿子穿棉花，不亲的儿子穿芦花。",
+      "sentence": "后母给不亲儿子穿芦花",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "后母",
+      "original_sentence": "手心手背都是肉，怎么就叫老大把溜辛受。",
+      "sentence": "后母意识到自己行为不当",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "后母",
+      "original_sentence": "赶紧拿出新棉花，做件棉衣给老大。",
+      "sentence": "后母用新棉花为闵子骞做棉衣",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一家人没有隔夜仇，一家老少笑哈哈。",
+      "sentence": "一家人消除隔阂恢复和睦",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，这段子贤孝么已唱完，故事么一节一节交代全。",
+      "sentence": "这段子已经唱完故事交代完毕",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问唱的是那一段？",
+      "sentence": "询问唱的是哪一段故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二十四孝里的第六篇。",
+      "sentence": "二十四孝包含第六个故事",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问曲儿是啥名堂？",
+      "sentence": "询问这首曲子的具体名称",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "闵子骞",
+      "original_sentence": "闵子骞单衣顺亲的事一桩。",
+      "sentence": "闵子骞单衣顺亲尽孝道",
+      "behavior_type": 10
+    }
+  ]
+]

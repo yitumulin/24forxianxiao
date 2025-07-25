@@ -1,0 +1,368 @@
+[
+  [
+    {
+      "role": "曾参",
+      "original_sentence": "第三节新编凉州贤孝第三孝唱词：曾参啮指痛心三九真理传天下，二十四孝表贤人。",
+      "sentence": "曾参啮指痛心传扬真理",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "第三节新编凉州贤孝第三孝唱词：曾参啮指痛心三九真理传天下，二十四孝表贤人。",
+      "sentence": "二十四孝表彰贤人行为",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个时代说贤书？",
+      "sentence": "哪个时代讲述贤书内容",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个国家论孝子？",
+      "sentence": "哪个国家在讨论孝子问题",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "春秋时代说贤书，鲁国里头论孝子。",
+      "sentence": "春秋时代讲述贤书鲁国讨论孝子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "曾参",
+      "original_sentence": "今天不把别的唱，唱一段曾参啮指痛心的孝子传。",
+      "sentence": "曾参啮指痛心传颂孝道",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "自从盘古开天地，三皇完了传五帝。",
+      "sentence": "盘古开天地后三皇传五帝",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "虞舜禅位给了大禹王，大禹传位给了亲儿郎。",
+      "sentence": "虞舜将帝位禅让给大禹",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "虞舜禅位给了大禹王，大禹传位给了亲儿郎。",
+      "sentence": "大禹将帝位传给其儿子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夏启传到了残暴的夏桀王，商汤传到了荒淫的殷纣王。",
+      "sentence": "夏启将王位传给了残暴的夏桀",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "夏启传到了残暴的夏桀王，商汤传到了荒淫的殷纣王。",
+      "sentence": "商汤将王位传给了荒淫的殷纣",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周武王讨伐的殷纣王，狐狸精妲己也归了天。",
+      "sentence": "周武王讨伐了殷纣王",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "周武王讨伐的殷纣王，狐狸精妲己也归了天。",
+      "sentence": "狐狸精妲己已经死亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周幽王烽火戏诸侯，周平王迁都到洛阳。",
+      "sentence": "周幽王点燃烽火戏弄诸侯",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "周幽王烽火戏诸侯，周平王迁都到洛阳。",
+      "sentence": "周平王将都城迁至洛阳",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "春秋五霸争天下，战国七雄归秦王。",
+      "sentence": "春秋五霸争夺天下霸权",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "春秋五霸争天下，战国七雄归秦王。",
+      "sentence": "战国七雄最终被秦王统一",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说起春秋可不一般，诸子百家把名扬。",
+      "sentence": "春秋时期诸子百家名声显赫",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "汉武大帝罢百家，一家独大是儒家。",
+      "sentence": "汉武帝罢黜了百家学说",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "汉武大帝罢百家，一家独大是儒家。",
+      "sentence": "儒家成为唯一正统学说",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "孔子",
+      "original_sentence": "普天之下拜孔子，孔子身边四弟子。",
+      "sentence": "普天之下的人们都拜孔子",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "普天之下拜孔子，孔子身边四弟子。",
+      "sentence": "孔子身边有四名弟子",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "曾参",
+      "original_sentence": "复圣公是颜回子，宗圣公是曾参子。",
+      "sentence": "曾参被称为宗圣公",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "复圣公是颜回子，宗圣公是曾参子。",
+      "sentence": "颜回被称为复圣公",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "孔子",
+      "original_sentence": "当年孔子的亲孙子，托付给曾参叫子思。",
+      "sentence": "孔子将子思托付给曾参",
+      "behavior_type": 13
+    },
+    {
+      "role": "曾参",
+      "original_sentence": "当年孔子的亲孙子，托付给曾参叫子思。",
+      "sentence": "曾参接受了子思的托付",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "子思",
+      "original_sentence": "述圣公是子思子，还有亚圣公孟夫子。",
+      "sentence": "子思被托付给曾参抚养",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "述圣公是子思子，还有亚圣公孟夫子。",
+      "sentence": "述圣公是子思的尊称",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "述圣公是子思子，还有亚圣公孟夫子。",
+      "sentence": "亚圣公是孟子的尊称",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "曾参",
+      "original_sentence": "曾参是孔子的好弟子，那也是有名的大孝子。",
+      "sentence": "曾参是孔子的著名弟子",
+      "behavior_type": 5
+    },
+    {
+      "role": "曾参",
+      "original_sentence": "曾参是孔子的好弟子，那也是有名的大孝子。",
+      "sentence": "曾参以孝道闻名于世",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "曾参",
+      "original_sentence": "虽然家里穷的叮当响，上山砍柴也要孝亲娘。",
+      "sentence": "曾参家境贫寒仍坚持孝顺母亲",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "曾参",
+      "original_sentence": "话说某年某月某一天，曾子砍柴上了山。",
+      "sentence": "曾参上山砍柴",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "曾参",
+      "original_sentence": "突然一下心口疼，定是亲娘唤儿郎。",
+      "sentence": "曾参突然感到心口疼痛",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "曾参",
+      "original_sentence": "挑着柴火下了山，着急忙慌见亲娘。",
+      "sentence": "曾参挑着柴火匆忙下山",
+      "behavior_type": 4
+    },
+    {
+      "role": "曾参",
+      "original_sentence": "挑着柴火下了山，着急忙慌见亲娘。",
+      "sentence": "曾参着急赶回家见母亲",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "曾参",
+      "original_sentence": "一进家门问亲娘，喊着儿子为哪般？",
+      "sentence": "曾参询问母亲叫他的原因",
+      "behavior_type": 7
+    },
+    {
+      "role": "曾母",
+      "original_sentence": "一进家门问亲娘，喊着儿子为哪般？",
+      "sentence": "曾母呼唤儿子询问其缘由",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "曾母",
+      "original_sentence": "原来家里来了客，老娘可就着了忙，吃啥里吗喝啥里？",
+      "sentence": "曾母询问客人需要吃喝什么",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "曾母",
+      "original_sentence": "也不知道客人干啥里？",
+      "sentence": "曾母询问客人来访的目的",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "曾母",
+      "original_sentence": "指头上头啧一口，但愿儿子往回走。",
+      "sentence": "曾母在指头上啧了一口",
+      "behavior_type": 13
+    },
+    {
+      "role": "曾母",
+      "original_sentence": "指头上头啧一口，但愿儿子往回走。",
+      "sentence": "曾母希望儿子能够回来",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "母子可就心连心，打断骨头连着筋。",
+      "sentence": "母子之间有着深厚的情感联系",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "曾母",
+      "original_sentence": "母亲家里啧指头，儿子山上疼心口。",
+      "sentence": "曾母在家中用嘴吮吸手指",
+      "behavior_type": 13
+    },
+    {
+      "role": "曾参",
+      "original_sentence": "母亲家里啧指头，儿子山上疼心口。",
+      "sentence": "曾参在山上感到心痛不已",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，这段子贤孝么已唱完，故事么一节一节交代全。",
+      "sentence": "这段贤孝故事已经全部唱完",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问唱的是那一段？",
+      "sentence": "询问唱的是哪一段内容",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二十四孝里的第三篇。",
+      "sentence": "二十四孝包含第三篇章内容",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问曲儿是啥名堂？",
+      "sentence": "询问这首曲子的名称是什么",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "曾参",
+      "original_sentence": "曾参啮指痛心的事一桩。",
+      "sentence": "曾参因啮指而感到心痛",
+      "behavior_type": 2
+    }
+  ]
+]

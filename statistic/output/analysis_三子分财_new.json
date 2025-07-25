@@ -1,0 +1,73 @@
+[
+  {
+    "roleName": "梁青",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 4,
+      "2": 1,
+      "4": 1,
+      "10": 1,
+      "3": 2
+    },
+    "total_sentences": 9,
+    "entropy": 2.058813890331201
+  },
+  {
+    "roleName": "梁忠",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 1,
+      "3": 1,
+      "2": 1,
+      "4": 1,
+      "8": 1,
+      "10": 1
+    },
+    "total_sentences": 6,
+    "entropy": 2.584962500721156
+  },
+  {
+    "roleName": "梁广",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "7": 4,
+      "3": 1,
+      "11": 1,
+      "10": 1,
+      "2": 2,
+      "12": 1
+    },
+    "total_sentences": 10,
+    "entropy": 2.321928094887362
+  },
+  {
+    "roleName": "龙月英",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "7": 1
+    },
+    "total_sentences": 1,
+    "entropy": 0.0
+  },
+  {
+    "roleName": "张翠英",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "3": 1
+    },
+    "total_sentences": 1,
+    "entropy": 0.0
+  },
+  {
+    "roleName": "郭丽珍",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "3": 3,
+      "13": 1,
+      "7": 2,
+      "11": 1
+    },
+    "total_sentences": 7,
+    "entropy": 1.8423709931771084
+  }
+]

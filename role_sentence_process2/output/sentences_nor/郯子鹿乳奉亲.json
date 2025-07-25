@@ -1,0 +1,640 @@
+[
+  [
+    {
+      "role": "郯子",
+      "original_sentence": "郯子一听怪高兴，猎户大哥真是大救星。",
+      "sentence": "郯子听闻后感到非常高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "郯子一听怪高兴，猎户大哥真是大救星。",
+      "sentence": "猎户大哥被视作大救星",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个时代说贤书？",
+      "sentence": "哪个时代讲述贤书内容",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个国家论孝子？",
+      "sentence": "讨论孝子的国家是哪个",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "春秋时代说贤书，郯国里头论孝子。",
+      "sentence": "春秋时代讲述贤书内容",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "春秋时代说贤书，郯国里头论孝子。",
+      "sentence": "郯国之内讨论孝子事迹",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郯子",
+      "original_sentence": "今天不把别的唱，唱一段郯子鹿乳奉亲的孝子传。",
+      "sentence": "郯子讲述鹿乳奉亲的故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "自从盘古开天地，三皇完了传五帝。",
+      "sentence": "盘古开天地后三皇传五帝",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "虞舜禅位给了大禹王，大禹传位给了亲儿郎。",
+      "sentence": "虞舜将帝位禅让给大禹",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "虞舜禅位给了大禹王，大禹传位给了亲儿郎。",
+      "sentence": "大禹将帝位传给亲儿子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夏启传到了残暴的夏桀王，商汤传到了荒淫的殷纣王。",
+      "sentence": "夏启将王位传给了残暴的夏桀",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "夏启传到了残暴的夏桀王，商汤传到了荒淫的殷纣王。",
+      "sentence": "商汤将王位传给了荒淫的纣王",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周武王讨伐的殷纣王，狐狸精妲己也归了天。",
+      "sentence": "殷纣王被周武王讨伐",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "周武王讨伐的殷纣王，狐狸精妲己也归了天。",
+      "sentence": "狐狸精妲己已经死亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周幽王烽火戏诸侯，周平王迁都到洛阳。",
+      "sentence": "周幽王点燃烽火戏弄诸侯",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "周幽王烽火戏诸侯，周平王迁都到洛阳。",
+      "sentence": "周平王将都城迁移至洛阳",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "春秋五霸争天下，战国七雄归秦王。",
+      "sentence": "春秋五霸争夺天下霸权",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "春秋五霸争天下，战国七雄归秦王。",
+      "sentence": "战国七雄最终归属秦王",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说起春秋可不一般，诸子百家把名扬。",
+      "sentence": "春秋时期诸子百家名声显赫",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "汉武大帝罢百家，一家独大是儒家。",
+      "sentence": "汉武帝推行罢黜百家政策",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "汉武大帝罢百家，一家独大是儒家。",
+      "sentence": "儒家思想成为官方学说",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "普天之下拜孔子，孔子身边四弟子。",
+      "sentence": "天下人纷纷向孔子行礼",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "普天之下拜孔子，孔子身边四弟子。",
+      "sentence": "孔子身边有四名弟子陪伴",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "复圣公是颜回子，宗圣公是曾参子。",
+      "sentence": "复圣公是颜回子宗圣公是曾参子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "当年孔子的亲孙子，托付给曾参叫子思。",
+      "sentence": "孔子将孙子托付给曾参",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "述圣公是子思子，还有亚圣公孟夫子。",
+      "sentence": "子思被称为述圣公",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "述圣公是子思子，还有亚圣公孟夫子。",
+      "sentence": "孟子被称为亚圣公",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我把这些诗条对句丢在后，唱一段郯国里的孝子传。",
+      "sentence": "某人将诗条对句丢弃在后",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "我把这些诗条对句丢在后，唱一段郯国里的孝子传。",
+      "sentence": "某人唱了一段郯国的孝子传",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说起郯国不一般，国家小，名声响。",
+      "sentence": "郯国虽小但名声十分响亮",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "郯子",
+      "original_sentence": "郯子治国好方法，民风淳朴人人夸。",
+      "sentence": "郯子治国采用良好方法",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "郯子治国好方法，民风淳朴人人夸。",
+      "sentence": "民风淳朴受到广泛称赞",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "郯子",
+      "original_sentence": "郯国的国君么是郯子，也曾教导过孔夫子。",
+      "sentence": "郯子曾经教导过孔子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "山东省临沂有个郯城县，郯城县有个郯庙村。",
+      "sentence": "临沂郯城县有一个郯庙村",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "郯庙村有座郯子庙，三圣四贤供里面。",
+      "sentence": "郯庙村内有一座郯子庙",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问三圣哪三个？",
+      "sentence": "询问三圣具体是哪三位",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郯子",
+      "original_sentence": "第五节新编凉州贤孝唱词：郯子鹿乳奉亲三九真理传天下，二十四孝表贤人。",
+      "sentence": "郯子鹿乳奉亲传颂天下",
+      "behavior_type": 3
+    },
+    {
+      "role": "郯子",
+      "original_sentence": "第五节新编凉州贤孝唱词：郯子鹿乳奉亲三九真理传天下，二十四孝表贤人。",
+      "sentence": "二十四孝彰显郯子贤德",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问四贤哪四个？",
+      "sentence": "询问四贤具体是哪四个人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "颜回，曾参，子思，还有那孟夫子。",
+      "sentence": "颜回曾参子思孟夫子被列举",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "郯子",
+      "original_sentence": "学问大的郯夫子，傢也是个大孝子。",
+      "sentence": "郯子因其孝行被尊为典范",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郯子父母",
+      "original_sentence": "郯子家中老爹妈，患了眼病差点瞎。",
+      "sentence": "郯子父母患眼病几乎失明",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "郯子",
+      "original_sentence": "郯子可就真着急，天南海北找名医。",
+      "sentence": "郯子因父母眼病感到非常着急",
+      "behavior_type": 2
+    },
+    {
+      "role": "郯子",
+      "original_sentence": "郯子可就真着急，天南海北找名医。",
+      "sentence": "郯子四处寻找名医治疗父母",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一个名医出偏方，要治眼病得上山，上山去把鹿奶挤，才能把爹娘的眼病治。",
+      "sentence": "名医提出治疗眼病的偏方",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "一个名医出偏方，要治眼病得上山，上山去把鹿奶挤，才能把爹娘的眼病治。",
+      "sentence": "需要上山去挤鹿奶治病",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "一个名医出偏方，要治眼病得上山，上山去把鹿奶挤，才能把爹娘的眼病治。",
+      "sentence": "鹿奶可以治疗父母眼病",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "母鹿见人跑得快，哪会叫人去挤奶？",
+      "sentence": "母鹿见到人后迅速逃离",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郯子",
+      "original_sentence": "郯子想出个好主意，假扮小鹿我披鹿皮。",
+      "sentence": "郯子决定假扮小鹿披上鹿皮",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "郯子",
+      "original_sentence": "披上鹿皮我扮小鹿，蹦蹦跳跳上山去。",
+      "sentence": "郯子披上鹿皮假扮小鹿",
+      "behavior_type": 10
+    },
+    {
+      "role": "郯子",
+      "original_sentence": "披上鹿皮我扮小鹿，蹦蹦跳跳上山去。",
+      "sentence": "郯子蹦蹦跳跳上了山",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一只母鹿在吃草，蹦蹦跶跶往前靠。",
+      "sentence": "一只母鹿正在吃草",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "母鹿见着了鹿羔子，赶紧露出那奶头子。",
+      "sentence": "母鹿见到小鹿后立即露出奶头",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "郯子",
+      "original_sentence": "郯子赶紧凑上去，拿个小瓶儿把奶挤。",
+      "sentence": "郯子靠近母鹿并挤取奶水",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "母鹿突然嗷嗷叫，撒开蹄子往前跑。",
+      "sentence": "母鹿突然快速向前奔跑",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郯子",
+      "original_sentence": "郯子冷不防摔一跤，小瓶瓶子也不见了。",
+      "sentence": "郯子不慎摔倒丢失了奶瓶",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "猎人",
+      "original_sentence": "翻起身来抬头看，原来一个猎人在拉弓箭。",
+      "sentence": "猎人正在拉弓箭瞄准目标",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "郯子",
+      "original_sentence": "郯子一看着了忙，脱掉鹿皮么喊得响。",
+      "sentence": "郯子急忙脱下鹿皮大声呼喊",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "猎人",
+      "original_sentence": "猎人猎人别射我，我是人么不是鹿。",
+      "sentence": "猎人请求对方不要射击自己",
+      "behavior_type": 7
+    },
+    {
+      "role": "郯子",
+      "original_sentence": "猎人猎人别射我，我是人么不是鹿。",
+      "sentence": "郯子表明自己是人不是鹿",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "猎人",
+      "original_sentence": "猎人一看吓一跳，小鹿怎么变活人？",
+      "sentence": "猎人发现小鹿变成了活人",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "郯子",
+      "original_sentence": "郯子赶忙走上前，猎人大哥我给你交代清。",
+      "sentence": "郯子迅速走向猎人进行解释",
+      "behavior_type": 4
+    },
+    {
+      "role": "猎人",
+      "original_sentence": "郯子赶忙走上前，猎人大哥我给你交代清。",
+      "sentence": "猎人听完郯子的解释后惊讶",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郯子父母",
+      "original_sentence": "家里两位老爹娘，患了眼病遭了罪。",
+      "sentence": "郯子父母患眼病遭受痛苦",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "郯子",
+      "original_sentence": "要想把这个眼病治，得用鹿奶天天洗。",
+      "sentence": "郯子告知猎人治疗眼病需用鹿奶",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郯子",
+      "original_sentence": "挤点鹿奶可是难，我就披上鹿皮把小鹿扮。",
+      "sentence": "郯子披上鹿皮假扮小鹿",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "郯子",
+      "original_sentence": "刚刚挤了点母鹿奶，没成想大哥来打猎。",
+      "sentence": "郯子刚刚挤了些母鹿奶",
+      "behavior_type": 11
+    },
+    {
+      "role": "猎人",
+      "original_sentence": "刚刚挤了点母鹿奶，没成想大哥来打猎。",
+      "sentence": "猎人前来打猎未料到",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郯子",
+      "original_sentence": "鹿奶没有挤上一点点，差点叫大哥射给一箭。",
+      "sentence": "郯子未能成功挤到鹿奶",
+      "behavior_type": 8
+    },
+    {
+      "role": "猎人",
+      "original_sentence": "鹿奶没有挤上一点点，差点叫大哥射给一箭。",
+      "sentence": "猎人差点射中郯子一箭",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "猎人",
+      "original_sentence": "猎人一听挺感动，原来是个大孝子。",
+      "sentence": "猎人听后感到非常感动",
+      "behavior_type": 2
+    },
+    {
+      "role": "郯子",
+      "original_sentence": "猎人一听挺感动，原来是个大孝子。",
+      "sentence": "郯子是一个大孝子",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "猎人",
+      "original_sentence": "你不了急，你不了慌，鹿奶的事情我给你帮。",
+      "sentence": "猎人表示愿意帮助获取鹿奶",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我家里养着一只母鹿，正生下了几只鹿羔子。",
+      "sentence": "家中饲养着一只母鹿",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "猎人",
+      "original_sentence": "你要鹿奶我给你给，治好父母不用急。",
+      "sentence": "猎人表示愿意提供鹿奶帮助",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郯子",
+      "original_sentence": "郯子，老子，孔夫子。",
+      "sentence": "郯子与老子孔夫子并列三圣",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "郯子，老子，孔夫子。",
+      "sentence": "老子与孔夫子郯子并列三圣",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "郯子，老子，孔夫子。",
+      "sentence": "孔夫子与郯子老子并列三圣",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "郯子",
+      "original_sentence": "拿着鹿奶回家里，爹娘的眼睛天天洗。",
+      "sentence": "郯子拿着鹿奶回到家中",
+      "behavior_type": 13
+    },
+    {
+      "role": "郯子父母",
+      "original_sentence": "拿着鹿奶回家里，爹娘的眼睛天天洗。",
+      "sentence": "郯子父母每天用鹿奶洗眼睛",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "郯子父母",
+      "original_sentence": "要说这个偏方真管用，爹娘的眼睛好了个利索。",
+      "sentence": "郯子父母的眼睛已经完全康复",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，这段子贤孝么已唱完，故事么一节一节交代全。",
+      "sentence": "故事已经完整地讲述完毕",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问唱的是那一段？",
+      "sentence": "询问唱的是哪一段故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二十四孝里的第五篇。",
+      "sentence": "二十四孝中的第五篇被提及",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问曲儿是啥名堂？",
+      "sentence": "询问这首曲子的名称是什么",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郯子",
+      "original_sentence": "郯子鹿乳奉亲的事一桩。",
+      "sentence": "郯子为父母获取鹿乳",
+      "behavior_type": 10
+    }
+  ]
+]

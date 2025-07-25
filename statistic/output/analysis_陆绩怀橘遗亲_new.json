@@ -1,0 +1,56 @@
+[
+  {
+    "roleName": "陆绩",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 3,
+      "7": 5,
+      "14": 1,
+      "8": 2,
+      "5": 2,
+      "4": 2,
+      "11": 3,
+      "2": 3,
+      "13": 1,
+      "1": 1
+    },
+    "total_sentences": 23,
+    "entropy": 3.137722696016699
+  },
+  {
+    "roleName": "孙坚",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 1,
+      "3": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "袁术",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "8": 1,
+      "3": 2,
+      "4": 3,
+      "2": 3,
+      "11": 1,
+      "7": 2
+    },
+    "total_sentences": 12,
+    "entropy": 2.4591479170272446
+  },
+  {
+    "roleName": "陆康",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "8": 1,
+      "12": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  }
+]

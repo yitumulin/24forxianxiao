@@ -1,0 +1,548 @@
+[
+  [
+    {
+      "role": "岑彭",
+      "original_sentence": "珍珠倒卷帘正月里来是新年，岑彭马武夺状元。",
+      "sentence": "岑彭与马武争夺状元之位",
+      "behavior_type": 9
+    },
+    {
+      "role": "马武",
+      "original_sentence": "珍珠倒卷帘正月里来是新年，岑彭马武夺状元。",
+      "sentence": "马武与岑彭争夺状元之位",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "岑彭",
+      "original_sentence": "岑彭箭射金钱眼，马武刀劈九连环。",
+      "sentence": "岑彭用箭射中金钱眼",
+      "behavior_type": 10
+    },
+    {
+      "role": "马武",
+      "original_sentence": "岑彭箭射金钱眼，马武刀劈九连环。",
+      "sentence": "马武用刀劈开九连环",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "王三小姐",
+      "original_sentence": "二月里来龙抬头，王三小姐上绣楼。",
+      "sentence": "王三小姐登上绣楼",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "王候公子偏不打，绣球打在平贵手。",
+      "sentence": "王候公子偏不打绣球",
+      "behavior_type": ""
+    },
+    {
+      "role": "",
+      "original_sentence": "王候公子偏不打，绣球打在平贵手。",
+      "sentence": "绣球最终落在平贵手",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三月里来三月三，桃园结义弟兄三。",
+      "sentence": "三月里来桃园结义弟兄三",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三战吕布虎牢关，张飞鞭打紫金冠。",
+      "sentence": "三战吕布于虎牢关",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "三战吕布虎牢关，张飞鞭打紫金冠。",
+      "sentence": "张飞鞭打紫金冠",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "黎山老母",
+      "original_sentence": "四月里来四月八，黎山老母把山下。",
+      "sentence": "黎山老母从山上走下来",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "黎山老母",
+      "original_sentence": "下山不为别的事，单为弟子樊梨花。",
+      "sentence": "黎山老母下山寻找弟子樊梨花",
+      "behavior_type": 4
+    },
+    {
+      "role": "樊梨花",
+      "original_sentence": "下山不为别的事，单为弟子樊梨花。",
+      "sentence": "樊梨花是黎山老母的弟子",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "五月里来五端阳，青白二蛇闹雄黄。",
+      "sentence": "青白二蛇在端午节闹雄黄",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三杯药酒露真相，吓坏许仙在病床。",
+      "sentence": "药酒使许仙感到极度恐惧",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "杨六郎",
+      "original_sentence": "六月里来热难当，镇守三关杨六郎。",
+      "sentence": "杨六郎在六月镇守三关",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "焦赞",
+      "original_sentence": "杀人放火是焦赞，北国盗骨是孟良。",
+      "sentence": "焦赞曾经杀人放火",
+      "behavior_type": 9
+    },
+    {
+      "role": "孟良",
+      "original_sentence": "杀人放火是焦赞，北国盗骨是孟良。",
+      "sentence": "孟良曾经北国盗骨",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "七月里来七月七，一年一度鹊桥会。",
+      "sentence": "七月七日是鹊桥相会的日子",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "牛郎织女诉别离，洒向人间一场雨。",
+      "sentence": "牛郎织女在诉说离别之情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "八月里来月正中，唐僧西天取真经。",
+      "sentence": "唐僧前往西天取回真经",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "沙僧拉着白龙马，悟空八戒两先锋。",
+      "sentence": "沙僧牵着白龙马向前行进",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "沙僧拉着白龙马，悟空八戒两先锋。",
+      "sentence": "悟空和八戒走在队伍前面",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "王氏夫人",
+      "original_sentence": "九月里来九重阳，王氏夫人多贤良。",
+      "sentence": "王氏夫人展现出贤良的品德",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "舍了秋哥放沉香，斧劈华山救亲娘。",
+      "sentence": "舍弃秋哥释放沉香",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "舍了秋哥放沉香，斧劈华山救亲娘。",
+      "sentence": "斧劈华山救出亲娘",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十月里来北风凉，王祥卧冰孝亲娘。",
+      "sentence": "十月里来北风凉",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "十月里来北风凉，王祥卧冰孝亲娘。",
+      "sentence": "王祥卧冰孝亲娘",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "母亲得了馋痨病，要吃鲜鱼配药方。",
+      "sentence": "母亲患病需要鲜鱼配药",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十一月里三九天，刘全进瓜在阴间。",
+      "sentence": "刘全在阴间进献瓜果",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "此瓜进在森罗殿，搭救妻子李翠莲。",
+      "sentence": "刘全进瓜以搭救妻子李翠莲",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十二月里一年整，梦中魏征斩老龙。",
+      "sentence": "魏征在梦中斩杀了老龙",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大唐天子不相信，龙头挂在午朝门。",
+      "sentence": "大唐天子对龙头挂门表示怀疑",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十三月里闰月年，曹操领兵下江南。",
+      "sentence": "曹操率领军队前往江南地区",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "兵败赤壁烧战船，孔明定计取西川。",
+      "sentence": "曹操在赤壁之战中兵败战船被烧",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "兵败赤壁烧战船，孔明定计取西川。",
+      "sentence": "孔明制定计策准备攻取西川",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "又加一月往回转，历朝英雄表一番。",
+      "sentence": "又加一月往回转历朝英雄表一番",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "万两黄金入了柜，声名显赫千古传。",
+      "sentence": "万两黄金被收入柜中保存",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "万两黄金入了柜，声名显赫千古传。",
+      "sentence": "声名显赫流传千古不变",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十二月里飘雪花，赵云出阵放过马。",
+      "sentence": "十二月里飘起了雪花",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "十二月里飘雪花，赵云出阵放过马。",
+      "sentence": "赵云出阵时放过了马",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "甘罗十二为宰相，太公八十遇文王。",
+      "sentence": "甘罗十二岁时成为宰相",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "甘罗十二为宰相，太公八十遇文王。",
+      "sentence": "太公八十岁时遇见文王",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十一月里冰冻地，孟姜本是范郎妻。",
+      "sentence": "十一月里地面结冰",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "十一月里冰冻地，孟姜本是范郎妻。",
+      "sentence": "孟姜女是范郎的妻子",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "千里迢迢送寒衣，哭倒长城八万里。",
+      "sentence": "孟姜女哭倒长城八万里",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十月里来正是冬，七郎打擂在山林。",
+      "sentence": "十月里来正是冬天",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "十月里来正是冬，七郎打擂在山林。",
+      "sentence": "七郎在山林打擂台",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "骑着黑马挂着弓，随后又带百万兵。",
+      "sentence": "骑着黑马带着弓随后率领百万兵",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "杨六郎",
+      "original_sentence": "九月里来到秋收，杨家八虎闯幽洲。",
+      "sentence": "杨家八虎闯入了幽洲地区",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "杨六郎",
+      "original_sentence": "四郎八郎招了亲，六郎镇守三关口。",
+      "sentence": "杨六郎镇守在三关口",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "四郎八郎招了亲，六郎镇守三关口。",
+      "sentence": "四郎和八郎已经成亲",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "八月里来月正圆，秦琼进了米粮川。",
+      "sentence": "秦琼骑马进入米粮川",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "打三鞭来还二锏，要与唐王保江山。",
+      "sentence": "打三鞭来还二锏保江山",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "七月里来雨飘飘，张飞放马在山凹。",
+      "sentence": "七月里来雨飘飘张飞放马",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "长板坡前挡曹操，三声喝断当阳桥。",
+      "sentence": "长板坡前有人阻挡曹操",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "长板坡前挡曹操，三声喝断当阳桥。",
+      "sentence": "三声喝断当阳桥的行为",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "六月里来麦子黄，刘秀十二走南阳。",
+      "sentence": "刘秀十二岁时前往南阳",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "马武",
+      "original_sentence": "姚期马武双救驾，保得刘秀坐洛阳。",
+      "sentence": "马武与姚期共同救驾刘秀",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "姚期马武双救驾，保得刘秀坐洛阳。",
+      "sentence": "刘秀最终成功坐镇洛阳",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "五月里来一张弓，顶天立地李有勋。",
+      "sentence": "五月里来一张弓顶天立地",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "打罢天下无对手，谗医奏倒五牛分。",
+      "sentence": "打遍天下无敌手后被五牛分尸",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "四月里来麦叶青，白袍领兵去征东。",
+      "sentence": "白袍率领军队向东出征",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三箭射坏东海岸，回马捎带凤凰城。",
+      "sentence": "三箭射坏东海岸后回马凤凰城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三月里来桃花香，黄巢起兵灭大唐。",
+      "sentence": "黄巢起兵意图推翻大唐王朝",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "陈进思是忠良将，沙国搬来李晋王。",
+      "sentence": "陈进思是忠良将",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "陈进思是忠良将，沙国搬来李晋王。",
+      "sentence": "沙国搬来李晋王",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二月里来草满沟，孙膑下山骑青牛。",
+      "sentence": "孙膑骑着青牛从山上下来",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "庞涓",
+      "original_sentence": "檀香二拐拿在手，要与庞涓作对头。",
+      "sentence": "庞涓与对手展开激烈对抗",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "正月里来正月正，周瑜坐帐怒气冲。",
+      "sentence": "周瑜在帐中愤怒不已",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "打黄盖来骂孔明，鲁肃一旁胆战惊。",
+      "sentence": "鲁肃在一旁感到非常害怕",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一年四季颠倒颠，众位不明听我言。",
+      "sentence": "一年四季颠倒众人不明听我言",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问这是什么段，名叫珍珠倒卷帘。",
+      "sentence": "这段内容名为珍珠倒卷帘",
+      "behavior_type": 7
+    }
+  ]
+]

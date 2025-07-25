@@ -1,0 +1,3628 @@
+[
+  [
+    {
+      "role": "",
+      "original_sentence": "第七节凉州贤孝《任仓埋母》唱词三九真理传天下，二十四孝论贤人。",
+      "sentence": "真理传遍天下二十四孝论贤人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我把这些诗条对句么丢口哎后，打开了国家的书箱柜，书里头摘出本古人传。",
+      "sentence": "诗条对句被丢弃后书箱柜被打开",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "我把这些诗条对句么丢口哎后，打开了国家的书箱柜，书里头摘出本古人传。",
+      "sentence": "古人传从书箱柜中被摘出来",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个朝里说贤书？",
+      "sentence": "询问哪个朝代讲述贤书",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个孝里论古人？",
+      "sentence": "讨论孝道中古人的事迹",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "列国手上说贤书，第七孝里论古人。",
+      "sentence": "列国时期贤书被广泛传颂",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "列国手上说贤书，第七孝里论古人。",
+      "sentence": "第七孝道古人被详细论述",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "问了贤人家何地，高名上姓在哪里？",
+      "sentence": "询问贤人的家庭住址和姓名",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "家住在四川成都府，任家庄上有家门。",
+      "sentence": "家住在四川成都府任家庄",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那庄倒坐任百万，夫妻过门半辈整，床前所生一苗根。",
+      "sentence": "任百万夫妻婚后生育一子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "恩养孩儿三岁整，三岁上妨死了老父亲。",
+      "sentence": "孩子三岁时父亲去世了",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "你看母亲么一个人，守节做寡抓孩童。",
+      "sentence": "徐长金守节独自抚养孩子",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "为了这一根苗，打杂捞毛，讨嘴叫街，锥帮纳底抓成人。",
+      "sentence": "任母为抚养孩子辛勤劳作",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "孩儿抓养七岁整，早早送到南学中，送到南学里把书攻。",
+      "sentence": "任母将孩子送到南学读书",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "早间送到南学里，晚来的时候把学名给起。",
+      "sentence": "任母为儿子起学名",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "老子人称任百万，儿子的尊讳想着安。",
+      "sentence": "任仓为儿子起名为任百万",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "学名不把别的安，学生起名便叫个小任仓。",
+      "sentence": "任仓的学名被确定为小任仓",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "起罢了名讳念五经，夫子爷面前就下苦心。",
+      "sentence": "任仓在夫子面前专心念五经",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "哎，啥事情，敢就挖坑就活埋人哩么，啥事情，埋掉你这个不死的老祸害。",
+      "sentence": "任仓挖坑准备活埋老祸害",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "哎，啥事情，敢就挖坑就活埋人哩么，啥事情，埋掉你这个不死的老祸害。",
+      "sentence": "挖坑行为意图活埋老祸害",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "读书读着成了人，才知道书中有黄金。",
+      "sentence": "任仓读书后明白书中价值",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "早知书中黄金贵，高照明灯下苦心。",
+      "sentence": "任仓后悔当初没有认真读书",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "早知书中黄金贵，高照明灯下苦心。",
+      "sentence": "高照明灯下苦心读书学习",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "尽头用开迟慢了，后悔也跟不上急场了。",
+      "sentence": "行动迟缓导致后悔莫及",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "任仓读书十七整，劳动冰公一双人，赶紧给学生么亲来订，订婚没往旁处定，定亲定到徐家门，定下了贤良的姑娘叫徐长金。",
+      "sentence": "任仓持续读书长达十七年整",
+      "behavior_type": 10
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "任仓读书十七整，劳动冰公一双人，赶紧给学生么亲来订，订婚没往旁处定，定亲定到徐家门，定下了贤良的姑娘叫徐长金。",
+      "sentence": "任仓为徐长金订下亲事",
+      "behavior_type": 10
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "任仓读书十七整，劳动冰公一双人，赶紧给学生么亲来订，订婚没往旁处定，定亲定到徐家门，定下了贤良的姑娘叫徐长金。",
+      "sentence": "徐长金被认定为贤良姑娘",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "一十六岁送过了婚，十七上娶到任家门。",
+      "sentence": "任仓十六岁时完成了婚礼",
+      "behavior_type": 4
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "一十六岁送过了婚，十七上娶到任家门。",
+      "sentence": "徐长金十七岁嫁入任家",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "高堂设起香案桌，高灯是满堂红。",
+      "sentence": "高堂设起香案桌高灯满堂红",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "拜罢天么拜罢地，拜罢了上房的长辈的。",
+      "sentence": "拜天地后拜上房长辈",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "倒红帐，进新房。",
+      "sentence": "任仓进入新房倒红帐",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "剪子两把交杯盏，红头绳扽床沿。",
+      "sentence": "剪子和交杯盏放在床沿上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "驴鞍子备在了门槛上，鸳鸯枕头高垫上。",
+      "sentence": "驴鞍子被放置在门槛上",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "驴鞍子备在了门槛上，鸳鸯枕头高垫上。",
+      "sentence": "鸳鸯枕头被高高垫起",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "红绫被子铺一床，华华丽丽上了床。",
+      "sentence": "红绫被子被铺在床上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "核头枣儿哗啦啦响，夫妻两个配的姻缘。",
+      "sentence": "核头枣儿发出哗啦啦的声响",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "核头枣儿哗啦啦响，夫妻两个配的姻缘。",
+      "sentence": "夫妻两人结成了婚姻关系",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "装新装了三天整，待客待了三天整，亲戚们回上亲戚的门，邻舍回到各庄村，各人各干各营生。",
+      "sentence": "装新和待客持续了整整三天",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "装新装了三天整，待客待了三天整，亲戚们回上亲戚的门，邻舍回到各庄村，各人各干各营生。",
+      "sentence": "亲戚们各自返回自己的家门",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "装新装了三天整，待客待了三天整，亲戚们回上亲戚的门，邻舍回到各庄村，各人各干各营生。",
+      "sentence": "邻居们回到各自的村庄生活",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "装新装了三天整，待客待了三天整，亲戚们回上亲戚的门，邻舍回到各庄村，各人各干各营生。",
+      "sentence": "每个人都在做自己的事情",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "娶了个徐长金贤德媳妇人聪明，婆婆的面前就存孝心。",
+      "sentence": "徐长金对婆婆心存孝心",
+      "behavior_type": 2
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "娶了个徐长金贤德媳妇人聪明，婆婆的面前就存孝心。",
+      "sentence": "徐长金聪明贤德",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "早问请，晚问安，母亲的面前问三遍。",
+      "sentence": "徐长金早晚向母亲请安问候",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "早问母亲吃什么饭，晚问母亲喝什么汤。",
+      "sentence": "徐长金早晚询问母亲饮食情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "善缘结了一年整，床前儿女早得很，徐长金身怀有了孕。",
+      "sentence": "徐长金身怀有孕已一年整",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "吐天哇地害了个脑袋愣，十月怀胎一节一节表分明。",
+      "sentence": "徐长金怀孕期间感到身体不适",
+      "behavior_type": 1
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "吐天哇地害了个脑袋愣，十月怀胎一节一节表分明。",
+      "sentence": "徐长金经历了十月怀胎过程",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "娘怀胎一个月才成露水，娘怀胎二个月露水走转。",
+      "sentence": "徐长金怀胎一个月形成露水",
+      "behavior_type": 3
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "娘怀胎一个月才成露水，娘怀胎二个月露水走转。",
+      "sentence": "徐长金怀胎二个月露水变化",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "娘怀胎三个月露水成双，娘怀胎四个月才成个血片。",
+      "sentence": "徐长金怀孕三个月胎儿成形",
+      "behavior_type": 3
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "娘怀胎三个月露水成双，娘怀胎四个月才成个血片。",
+      "sentence": "徐长金怀孕四个月胎儿发育",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "娘怀胎五个月五指周全，娘怀胎六个月六宝攒身。",
+      "sentence": "徐长金怀胎五个月五指周全",
+      "behavior_type": 3
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "娘怀胎五个月五指周全，娘怀胎六个月六宝攒身。",
+      "sentence": "徐长金怀胎六个月六宝攒身",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "娘怀胎七个月才分七窍，娘怀胎八个月把发长全。",
+      "sentence": "徐长金怀孕七个月胎儿分七窍",
+      "behavior_type": 1
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "娘怀胎七个月才分七窍，娘怀胎八个月把发长全。",
+      "sentence": "徐长金怀孕八个月胎儿长全发",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "娘怀胎九个月三回九转，娘怀胎十个月月份才满。",
+      "sentence": "母亲怀孕九个月经历三回九转",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "娘怀胎九个月三回九转，娘怀胎十个月月份才满。",
+      "sentence": "母亲怀孕十个月终于月份才满",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三月怀胎九月临，九月怀胎十月生。",
+      "sentence": "怀胎三月后九月临盆十月分娩",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十月怀胎该降生，该的日子他不生。",
+      "sentence": "十月怀胎后仍未降生",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "许的日子他不生，贵人等的贵年辰，贵人等的贵月贵日贵时辰。",
+      "sentence": "贵人等待特定的年辰月日时辰",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他是三月十五午时生，正当午时生孩童。",
+      "sentence": "孩童于三月十五午时出生",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "早晨猛然肚里疼，疼也疼得很，疼得满炕滚。",
+      "sentence": "任母早晨突然感到腹部剧烈疼痛",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "疼也疼不过，疼得满炕磨。",
+      "sentence": "徐长金因疼痛在炕上翻滚",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "早上生娃娃生到晌午整，炕面子偎开了个老窟隆。",
+      "sentence": "徐长金从早晨生产到中午",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "早上生娃娃生到晌午整，炕面子偎开了个老窟隆。",
+      "sentence": "炕面因长时间接触而破损",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "脖子梗，眼睛瞪，腰子一趔攒了些劲，扑腾生下了个男孩童，落就上方的魁罡星。",
+      "sentence": "脖子梗眼睛瞪腰子一趔攒劲",
+      "behavior_type": 1
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "脖子梗，眼睛瞪，腰子一趔攒了些劲，扑腾生下了个男孩童，落就上方的魁罡星。",
+      "sentence": "徐长金生下了个男孩童",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "脖子梗，眼睛瞪，腰子一趔攒了些劲，扑腾生下了个男孩童，落就上方的魁罡星。",
+      "sentence": "男孩童落就上方的魁罡星",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "任仓子",
+      "original_sentence": "自从孩子跌落地，娃娃喳啦喳啦嚎三声。",
+      "sentence": "任仓子出生后立即大声啼哭",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "奶奶在外头听得真，哟哟哟，徐长金生下小孙孙，赶紧跑到窗子根，收生奶奶仔细听。",
+      "sentence": "徐长金顺利生下一个男孩",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "奶奶在外头听得真，哟哟哟，徐长金生下小孙孙，赶紧跑到窗子根，收生奶奶仔细听。",
+      "sentence": "奶奶在窗外听到婴儿哭声",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "奶奶在外头听得真，哟哟哟，徐长金生下小孙孙，赶紧跑到窗子根，收生奶奶仔细听。",
+      "sentence": "收生奶奶靠近窗户仔细听",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "儿媳生下的龙么凤？",
+      "sentence": "徐长金生下了一个男孩",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你报给奶奶得知情。",
+      "sentence": "告知奶奶相关情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "收生奶奶开言道，又把奶奶叫一叫，任奶奶，听仔细，球球孙娃儿是你的。",
+      "sentence": "收生奶奶告知任母孩子是她的",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "奶奶一听怪高兴，抓耳挠腮跳蹦蹦，好像脚底下登上云，不管腌脏不管瞬，一蹦子跳进月房门，我瞭咔生下的小孙孙。",
+      "sentence": "任母听闻后感到非常高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "任母",
+      "original_sentence": "奶奶一听怪高兴，抓耳挠腮跳蹦蹦，好像脚底下登上云，不管腌脏不管瞬，一蹦子跳进月房门，我瞭咔生下的小孙孙。",
+      "sentence": "任母兴奋地跳进月房门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "收生奶奶忙抱上，奶奶仔细看。",
+      "sentence": "收生奶奶将婴儿递给任母",
+      "behavior_type": 1
+    },
+    {
+      "role": "任母",
+      "original_sentence": "收生奶奶忙抱上，奶奶仔细看。",
+      "sentence": "任母仔细观察婴儿的样貌",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "天庭饱满地阁方，两耳坠腮真好看，上身长，下身短，不是个举人就做官。",
+      "sentence": "天庭饱满地阁方两耳坠腮真好看",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "明清面秀书生人，日后还有些大功勋。",
+      "sentence": "明清面秀书生日后有大功勋",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "西瓜圆圆头头儿，头发韭菜根根儿，眼睛胡椒星星儿，嘴嘴汾酒盅盅儿，鸡蛋大的个身身儿，麻杆胳膊纹纹儿，金钱大的手手儿，指头好像个葱根儿，肚母脐儿坑坑儿，两个腿腿灯芯儿，重嘟嘟的下巴儿，球球就像个纸烟把把儿。",
+      "sentence": "描述对象外貌特征鲜明独特",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二五八就怕的鬼来缠身，三六九又怕的是脚轻脚重，一四七怕的是百病扎根，又害怕偷生奶奶送给旁人啊。",
+      "sentence": "二五八害怕鬼魂缠身",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "二五八就怕的鬼来缠身，三六九又怕的是脚轻脚重，一四七怕的是百病扎根，又害怕偷生奶奶送给旁人啊。",
+      "sentence": "三六九担心脚步不稳",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "二五八就怕的鬼来缠身，三六九又怕的是脚轻脚重，一四七怕的是百病扎根，又害怕偷生奶奶送给旁人啊。",
+      "sentence": "一四七忧虑疾病侵袭",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "二五八就怕的鬼来缠身，三六九又怕的是脚轻脚重，一四七怕的是百病扎根，又害怕偷生奶奶送给旁人啊。",
+      "sentence": "害怕收生奶奶送走孩子",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "魁罡星落到四川城，孩儿生来是个命大人，四川成都府里出贵人，把成都府的地脉拔了个净，四川成都府里遭下的大年成。",
+      "sentence": "魁罡星降临四川城带来贵人",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "魁罡星落到四川城，孩儿生来是个命大人，四川成都府里出贵人，把成都府的地脉拔了个净，四川成都府里遭下的大年成。",
+      "sentence": "孩儿生来便有大命运",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "魁罡星落到四川城，孩儿生来是个命大人，四川成都府里出贵人，把成都府的地脉拔了个净，四川成都府里遭下的大年成。",
+      "sentence": "成都府地脉被彻底拔除",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "魁罡星落到四川城，孩儿生来是个命大人，四川成都府里出贵人，把成都府的地脉拔了个净，四川成都府里遭下的大年成。",
+      "sentence": "四川成都府遭遇大灾年",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "头一年的庄稼没收成，第二年的庄稼齐晒尽。",
+      "sentence": "连续两年庄稼收成不佳",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "第三年的庄稼蝗虫连掉嚓，第四年的庄稼冷子打。",
+      "sentence": "第三年庄稼遭受蝗虫灾害",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "第三年的庄稼蝗虫连掉嚓，第四年的庄稼冷子打。",
+      "sentence": "第四年庄稼遭遇冰雹打击",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "第五年的雨水广，麦子你看长得实在凶，梦不起上了疸，傢又作遭尽。",
+      "sentence": "第五年雨水充沛麦子长势旺盛",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "第五年的雨水广，麦子你看长得实在凶，梦不起上了疸，傢又作遭尽。",
+      "sentence": "麦子因病害而遭受严重损失",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "盼着秋天的庄稼都收成，谁知道八月初就叫雪压尽。",
+      "sentence": "秋天的庄稼被八月初的雪压尽",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一斗地里收着那么一斗谷，一斗谷子碾着十升糠。",
+      "sentence": "一斗地里的谷子能收一斗",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "一斗地里收着那么一斗谷，一斗谷子碾着十升糠。",
+      "sentence": "一斗谷子可以碾出十升糠",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "观见南山光又光，一斗谷米十升糠。",
+      "sentence": "一斗谷子可以碾出十升糠",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "鞍子备到石头上，独木桥上飘寒霜。",
+      "sentence": "鞍子被放置在石头上",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "鞍子备到石头上，独木桥上飘寒霜。",
+      "sentence": "独木桥上覆盖着寒霜",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一斗黄米卖着十五两银，一斗小米卖着十四两银。",
+      "sentence": "一斗黄米售价为十五两银子",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "一斗黄米卖着十五两银，一斗小米卖着十四两银。",
+      "sentence": "一斗小米售价为十四两银子",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一斗麦麸子卖着六吊钱，一斗谷糠就卖着吊八钱。",
+      "sentence": "一斗麦麸子售价为六吊钱",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "一斗麦麸子卖着六吊钱，一斗谷糠就卖着吊八钱。",
+      "sentence": "一斗谷糠售价为一吊八钱",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "河里的老草根拿上戥子称，树上的榆树皮剥着吃了一个尽。",
+      "sentence": "老草根被用戥子称重",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "河里的老草根拿上戥子称，树上的榆树皮剥着吃了一个尽。",
+      "sentence": "榆树皮被剥下来吃尽",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "爷爷们认不得亲孙孙，地埂子上翻着吃的干草根。",
+      "sentence": "爷爷们不认识自己的亲孙子",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "爷爷们认不得亲孙孙，地埂子上翻着吃的干草根。",
+      "sentence": "地埂上翻找干草根来充饥",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "街上的纸薄的烧饼儿买着三百个钱，街上的小豆子儿毛线穿，一串串五个小豆儿卖着那么十五个钱。",
+      "sentence": "街上的烧饼售价为三百个钱",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "街上的纸薄的烧饼儿买着三百个钱，街上的小豆子儿毛线穿，一串串五个小豆儿卖着那么十五个钱。",
+      "sentence": "小豆子五个一串卖十五个钱",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "天遭干旱五年整，地里的个寸草永不生。",
+      "sentence": "干旱持续五年导致寸草不生",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "街上死人人摞人，路上的死人摆的大塄塄。",
+      "sentence": "街上和路上堆满了大量尸体",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十七八的大姑娘白给人送，领着那个街上还没人问。",
+      "sentence": "大姑娘被白送却无人问津",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "送给人家逃活命，人还说，五年的庄稼都没收成，地里的寸草永不生。",
+      "sentence": "五年庄稼没有收成",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "送给人家逃活命，人还说，五年的庄稼都没收成，地里的寸草永不生。",
+      "sentence": "地里寸草永不生长",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我连我们五神都保不定，哪里的五谷又保六神。",
+      "sentence": "五神无法保证五谷丰收",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "天遭年荒五年整，一家子人认不得一家子人，弟兄们也认不得弟兄们。",
+      "sentence": "天灾导致家庭关系破裂",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "自己的老子不顾自己的儿，爷爷们不顾亲孙子。",
+      "sentence": "父亲不顾及自己的亲生儿子",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "自己的老子不顾自己的儿，爷爷们不顾亲孙子。",
+      "sentence": "爷爷不关心自己的亲孙子",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "瞭着哪个孙娃子肥着哩，瞅着媳妇子出门去，赶紧丢着锅里煮着吃。",
+      "sentence": "孙娃子煮食媳妇子",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "媳妇子她是一个年轻的，年成转变好咔了再叫他们重生去。",
+      "sentence": "年成好转后让他们重生",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人吃的人来狗吃的狗，鹰雀老鸦嗑石头。",
+      "sentence": "人和狗分别吃各自的食物",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "人吃的人来狗吃的狗，鹰雀老鸦嗑石头。",
+      "sentence": "鹰雀和老鸦啄食石头",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "东庄人不敢往西庄上去，西庄人不敢往东庄行，亲舅舅煮着吃过亲外甥。",
+      "sentence": "亲舅舅煮食亲外甥",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "天遭年荒真苦情，斗米大价了不成。",
+      "sentence": "天灾导致粮食价格异常高昂",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "家里穷着没有一把米半把面，周正怎么能行过下场。",
+      "sentence": "家中贫困无米无面难以度日",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "任仓再无生活干，买了根扁担买了根绳，担柴卖草过周正。",
+      "sentence": "任仓购买扁担和绳子用于担柴卖草",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "任仓担柴卖草到大街中，街上的人混乱杂。",
+      "sentence": "任仓担柴卖草前往大街中",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "任仓担柴卖草到大街中，街上的人混乱杂。",
+      "sentence": "街上的人群显得混乱嘈杂",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "背着铺窝卷卷。",
+      "sentence": "任仓背着铺盖卷离开",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "担担里挑的男男女女，走的一对一对成双对，全家人等边走边喧，哪里去哩？",
+      "sentence": "男男女女成双对地行走着",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "担担里挑的男男女女，走的一对一对成双对，全家人等边走边喧，哪里去哩？",
+      "sentence": "全家人边走边交谈着去向",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "走吧，人人都说，个个又讲，西北蒲州城上风光太平地方，打工有人用哩，要饭有人给哩，我们各各家家户户，一们待走待喧，上西北蒲州城。",
+      "sentence": "人们决定前往西北蒲州城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "任仓这里听得真，柴担子不卖往前行，回来就到家廊中。",
+      "sentence": "任仓听到后决定不卖柴前行",
+      "behavior_type": 6
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "任仓这里听得真，柴担子不卖往前行，回来就到家廊中。",
+      "sentence": "任仓随后返回家廊中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "白：忙把徐长金妻儿叫给了几声，妻儿，妻儿。",
+      "sentence": "徐长金呼唤妻儿前来相见",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "说是，丈夫，你担柴卖草怎么早早回来了？",
+      "sentence": "徐长金询问丈夫为何提前归来",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "担柴卖草卖什么哩，哪里的力气担起着哩？",
+      "sentence": "任仓询问担柴卖草的情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我刚走到街上，街上的人多得很，一们成双成对的，担担里挑的娃娃，还有脊背上背的娃娃，背的铺窝卷卷，走着喧谎儿着哩。",
+      "sentence": "街上行人众多且成双成对",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "我就听下了。",
+      "sentence": "任仓听到了街上人们的谈话",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "丈夫，你听下了什么事？",
+      "sentence": "徐长金询问丈夫听到了什么",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我听下的西北蒲州城这个地方是个风光太平地方。",
+      "sentence": "西北蒲州城是个风光太平地方",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "傢说的给人做活去有人要哩，要饭去有人给哩，我们不行敢就把孩儿背上西北蒲州城上逃难走么。",
+      "sentence": "他们决定带着孩子逃往西北蒲州城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "哎呀，丈夫，我们把孩儿背上西北蒲州城上逃难去，丢下那么老的母亲给谁照料哩？",
+      "sentence": "徐长金提议带孩儿逃难去蒲州城",
+      "behavior_type": 3
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "哎呀，丈夫，我们把孩儿背上西北蒲州城上逃难去，丢下那么老的母亲给谁照料哩？",
+      "sentence": "徐长金担忧无人照料年迈母亲",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "你这个妻儿，倒竟操的心多得很，把那么个老着眼看不中用了么，我们敢就拿着些土块来干垒着固着这个庄子里，固逑着去，把她固下我们走，三年倘这个地方收成来了，我们来了就孝顺她母亲，倘是五年这个地方收成来了，五年来了超度母亲都行哩。",
+      "sentence": "徐长金担忧老母亲无人照料",
+      "behavior_type": 2
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "你这个妻儿，倒竟操的心多得很，把那么个老着眼看不中用了么，我们敢就拿着些土块来干垒着固着这个庄子里，固逑着去，把她固下我们走，三年倘这个地方收成来了，我们来了就孝顺她母亲，倘是五年这个地方收成来了，五年来了超度母亲都行哩。",
+      "sentence": "任仓提议用土块加固村庄",
+      "behavior_type": 7
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "你这个妻儿，倒竟操的心多得很，把那么个老着眼看不中用了么，我们敢就拿着些土块来干垒着固着这个庄子里，固逑着去，把她固下我们走，三年倘这个地方收成来了，我们来了就孝顺她母亲，倘是五年这个地方收成来了，五年来了超度母亲都行哩。",
+      "sentence": "任仓计划三年后回来孝顺母亲",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "哎呀丈夫，不了说三五年了，三五天都把母亲就饿死到庄子里了，你三年收成了三年孝顺神哩吗，五年收成了五年超度鬼去了？",
+      "sentence": "徐长金质疑丈夫的孝顺计划",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "哎呀丈夫，不了说三五年了，三五天都把母亲就饿死到庄子里了，你三年收成了三年孝顺神哩吗，五年收成了五年超度鬼去了？",
+      "sentence": "三五天内母亲可能饿死",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "啊啊，你这个妻子，我还以为你是个忤逆种，你才是个孝顺媳妇子，既然如此，你先把孩儿背上走，去到了那个十里亭上了等着我，我把八十多岁的老母亲背上就去了。",
+      "sentence": "徐长金认为妻子是个孝顺媳妇",
+      "behavior_type": 5
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "啊啊，你这个妻子，我还以为你是个忤逆种，你才是个孝顺媳妇子，既然如此，你先把孩儿背上走，去到了那个十里亭上了等着我，我把八十多岁的老母亲背上就去了。",
+      "sentence": "徐长金让妻子先带孩子离开",
+      "behavior_type": 4
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "啊啊，你这个妻子，我还以为你是个忤逆种，你才是个孝顺媳妇子，既然如此，你先把孩儿背上走，去到了那个十里亭上了等着我，我把八十多岁的老母亲背上就去了。",
+      "sentence": "任仓随后会带老母亲跟上",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "丈夫，你可要背上来哩。",
+      "sentence": "任仓要求妻子背起孩子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "哎，你走你走，有你这么孝顺的媳妇，我不背上去能行吗，如果你不孝顺了，我背上去，走的路儿喃喃嘟嘟，我就难了，撂去舍不得，背上走去走不动，只要你孝顺媳妇说这话么，我背不动了你背么，两个人搀上走去也有个帮手哩么，哎，妻儿，你背上走，我就背上就去。",
+      "sentence": "徐长金劝说丈夫背母亲同行",
+      "behavior_type": 7
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "哎，你走你走，有你这么孝顺的媳妇，我不背上去能行吗，如果你不孝顺了，我背上去，走的路儿喃喃嘟嘟，我就难了，撂去舍不得，背上走去走不动，只要你孝顺媳妇说这话么，我背不动了你背么，两个人搀上走去也有个帮手哩么，哎，妻儿，你背上走，我就背上就去。",
+      "sentence": "任仓承诺会背母亲一起走",
+      "behavior_type": 7
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "哎，你走你走，有你这么孝顺的媳妇，我不背上去能行吗，如果你不孝顺了，我背上去，走的路儿喃喃嘟嘟，我就难了，撂去舍不得，背上走去走不动，只要你孝顺媳妇说这话么，我背不动了你背么，两个人搀上走去也有个帮手哩么，哎，妻儿，你背上走，我就背上就去。",
+      "sentence": "任仓要求妻子先背孩子走",
+      "behavior_type": 4
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "哎，你走你走，有你这么孝顺的媳妇，我不背上去能行吗，如果你不孝顺了，我背上去，走的路儿喃喃嘟嘟，我就难了，撂去舍不得，背上走去走不动，只要你孝顺媳妇说这话么，我背不动了你背么，两个人搀上走去也有个帮手哩么，哎，妻儿，你背上走，我就背上就去。",
+      "sentence": "徐长金背起孩子先行离开",
+      "behavior_type": 4
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "哎，你走你走，有你这么孝顺的媳妇，我不背上去能行吗，如果你不孝顺了，我背上去，走的路儿喃喃嘟嘟，我就难了，撂去舍不得，背上走去走不动，只要你孝顺媳妇说这话么，我背不动了你背么，两个人搀上走去也有个帮手哩么，哎，妻儿，你背上走，我就背上就去。",
+      "sentence": "任仓准备背母亲随后跟上",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "丈夫，要紧背上就来。",
+      "sentence": "徐长金催促丈夫尽快背上母亲",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "好好好，徐长金提上包袱，孩子背上上十里亭等丈夫。",
+      "sentence": "徐长金背着孩子前往十里亭等候",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "再说任仓来到书房，母亲，母亲！",
+      "sentence": "任仓来到书房寻找母亲",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "哎，我的老母亲。",
+      "sentence": "任仓呼唤他的老母亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "哎哟哟，我的这个儿嘛，自从给你娶了个媳妇娶进门来，你没有叫过个母亲，今个你紧一声，慢一声，大一声，小一声，叫着母亲又是啥事？",
+      "sentence": "任母询问儿子为何突然称呼母亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "啊呀，母亲，我们的祖坟里出了个正气延寿的个活菩萨，年轻人见了活菩萨，白叽叽能养个俊娃娃。",
+      "sentence": "任母告诉儿子祖坟出了活菩萨",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老年人见了活菩萨，耳朵不聋眼不麻，白拉拉能出一嘴牙。",
+      "sentence": "老年人见到活菩萨后耳目清明",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "我把你背着坟里你去瞭咔活菩萨，你的耳朵不要聋，眼睛不了麻，你的嘴里再出来一嘴牙，回来给我们儿子媳妇子地地当当当几天家，母亲心下如何？",
+      "sentence": "任仓建议母亲去祖坟看活菩萨",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "我把你背着坟里你去瞭咔活菩萨，你的耳朵不要聋，眼睛不了麻，你的嘴里再出来一嘴牙，回来给我们儿子媳妇子地地当当当几天家，母亲心下如何？",
+      "sentence": "活菩萨能让人恢复健康状态",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "噢我的孩儿啊，真有此事哩？",
+      "sentence": "任母询问儿子是否真有此事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "有有有么，当儿的能哄母亲吗？",
+      "sentence": "任仓向母亲保证不会欺骗她",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "倘是这个了，你把我背上去瞭一下。",
+      "sentence": "任母要求背她上去看一下",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "好一言为定，背母亲上祖坟里瞭菩萨走哎。",
+      "sentence": "任仓背着母亲前往祖坟瞭望菩萨",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "任仓把母亲对惑顺，哗啦啦抖开绳一根。",
+      "sentence": "任仓用绳子将母亲捆绑起来",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "母亲揽着背到脊梁中，橛头铁锨拿手中，赶着走一回祖坟茔。",
+      "sentence": "任母手持铁锨走向祖坟",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "赶着来到祖坟茔，母亲放到地埃尘。",
+      "sentence": "任仓带着母亲来到祖坟",
+      "behavior_type": 4
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "赶着来到祖坟茔，母亲放到地埃尘。",
+      "sentence": "任仓将母亲放在地上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "没有言传没有问，抢起橛头挖窖坑。",
+      "sentence": "任仓拿起橛头开始挖坑",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "便早早的挖土坑啊，土坑挖了三尺深。",
+      "sentence": "任仓挖了一个三尺深的土坑",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "母亲看着事不好，小冤家，小冤家，你说坟里出来的活菩萨，不见菩萨了我们快回走吧。",
+      "sentence": "任母察觉情况不妙感到惊慌",
+      "behavior_type": 2
+    },
+    {
+      "role": "任母",
+      "original_sentence": "母亲看着事不好，小冤家，小冤家，你说坟里出来的活菩萨，不见菩萨了我们快回走吧。",
+      "sentence": "任母催促家人尽快离开此地",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "放着那个光明大道你不行，坟里么你挖着那个坑坑子啥事情？",
+      "sentence": "任母质问为何要挖坟里的坑",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "小着读书不用心，不知道书中有黄金。",
+      "sentence": "任仓读书时没有用心思考",
+      "behavior_type": 5
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "小着读书不用心，不知道书中有黄金。",
+      "sentence": "任仓不知道书中含有黄金",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你一天吃的三顿饭，省下来我们夫妻两个吃他三天哩。",
+      "sentence": "省下三顿饭可供夫妻吃三天",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "母亲闻听吓啪啦啦啦颤，双膝跪倒祖坟坛。",
+      "sentence": "任母听闻后吓得浑身颤抖",
+      "behavior_type": 2
+    },
+    {
+      "role": "任母",
+      "original_sentence": "母亲闻听吓啪啦啦啦颤，双膝跪倒祖坟坛。",
+      "sentence": "任母双膝跪倒在祖坟前",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "开言不把别的尊，忙把我的小冤家叫几声。",
+      "sentence": "任母急忙呼唤她的小冤家",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "我的小冤家，我的小冤家，你就饶命饶命多饶我的命，留情留情多留情。",
+      "sentence": "任母请求小冤家饶命留情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "高抬人你的贵手你就饶了我的命，这辈子忘不掉小冤家的好恩情。",
+      "sentence": "任母恳求饶命并表达感激之情",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你就不看经面看佛面，不看前面看后面。",
+      "sentence": "不看经面也要看佛面",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "不看左面看右面，不念鱼情你把水情念。",
+      "sentence": "任母请求对方考虑多方面情谊",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "我的娃娃，哎，你再不了念起个再的了，你念起你三岁你的父亲归了阴，丢下你的母亲年纪儿轻，骨头嫩，挽了你这么一根苗。",
+      "sentence": "任母劝孩子不要提起往事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "东庄说我我不听，西庄说我的我不嫁。",
+      "sentence": "东庄和西庄的建议均被拒绝",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "娘有心嫁掉吧，丢下你三岁的孩子无处去，娘有心把你带上吧，带上个少儿缺女的了还倒罢。",
+      "sentence": "任母因孩子年幼而陷入两难境地",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "若果带上个多儿多女家，叫人家把你戳过来，掀过去，骂一声你脬牛的卵子余外的皮，羊身上带下的带犊子。",
+      "sentence": "带上多儿多女会遭受他人辱骂",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "娘有心把你丢到当家户族去，天爷热了你满院儿玩，天爷冷了你就贴门框。",
+      "sentence": "任母打算将孩子送到当家户族",
+      "behavior_type": 3
+    },
+    {
+      "role": "任母",
+      "original_sentence": "娘有心把你丢到当家户族去，天爷热了你满院儿玩，天爷冷了你就贴门框。",
+      "sentence": "孩子天热时在院中玩耍",
+      "behavior_type": 12
+    },
+    {
+      "role": "任母",
+      "original_sentence": "娘有心把你丢到当家户族去，天爷热了你满院儿玩，天爷冷了你就贴门框。",
+      "sentence": "孩子天冷时靠在门框边",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "这门框贴到那门框，为娘的听见我把心疼烂。",
+      "sentence": "任母听见孩子贴门框心疼不已",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "天爷刮着个旋窝窝风，没娘的娃娃你旮旯里蹲，我就挽了你这么一根苗，家寒贫穷无度用。",
+      "sentence": "任母心疼无娘娃娃在寒风中蹲",
+      "behavior_type": 2
+    },
+    {
+      "role": "任母",
+      "original_sentence": "天爷刮着个旋窝窝风，没娘的娃娃你旮旯里蹲，我就挽了你这么一根苗，家寒贫穷无度用。",
+      "sentence": "任母因家贫无法抚养唯一孩子",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "我抓养你娃娃最没有容易，我就春季天给人家簸籽择种，挣一个落两个为了你孩童。",
+      "sentence": "任母辛勤劳作以抚养孩童",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "过两日给人家兜土拾粪，粪面儿磨烂了娘的兜襟。",
+      "sentence": "任母为他人兜土拾粪磨破衣襟",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "夏月天给人家薅田拔草，太阳心晒坏了少年青春，铲把子磨破了娘的手心。",
+      "sentence": "任母在夏季为他人薅田拔草",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "夏月天给人家薅田拔草，太阳心晒坏了少年青春，铲把子磨破了娘的手心。",
+      "sentence": "太阳晒坏了少年的青春时光",
+      "behavior_type": 1
+    },
+    {
+      "role": "任母",
+      "original_sentence": "夏月天给人家薅田拔草，太阳心晒坏了少年青春，铲把子磨破了娘的手心。",
+      "sentence": "铲把子磨破了任母的手掌心",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "等财主家送饭来为娘不用，叫我儿吃饱了偎在娘身，饿得我为娘的头晕眼昏。",
+      "sentence": "任母拒绝财主家送来的饭菜",
+      "behavior_type": 11
+    },
+    {
+      "role": "任母",
+      "original_sentence": "等财主家送饭来为娘不用，叫我儿吃饱了偎在娘身，饿得我为娘的头晕眼昏。",
+      "sentence": "任母让儿子吃饱后依偎身旁",
+      "behavior_type": 11
+    },
+    {
+      "role": "任母",
+      "original_sentence": "等财主家送饭来为娘不用，叫我儿吃饱了偎在娘身，饿得我为娘的头晕眼昏。",
+      "sentence": "任母因饥饿感到头晕和眼花",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "我的小冤家，秋季里我给人家收米割谷，有弯镰不会使，我磨破了手心，挣半升拾半升为了你孩童。",
+      "sentence": "任母秋季为他人收割稻谷",
+      "behavior_type": 10
+    },
+    {
+      "role": "任母",
+      "original_sentence": "我的小冤家，秋季里我给人家收米割谷，有弯镰不会使，我磨破了手心，挣半升拾半升为了你孩童。",
+      "sentence": "任母因使用镰刀磨破手心",
+      "behavior_type": 1
+    },
+    {
+      "role": "任母",
+      "original_sentence": "我的小冤家，秋季里我给人家收米割谷，有弯镰不会使，我磨破了手心，挣半升拾半升为了你孩童。",
+      "sentence": "任母收获粮食为了孩子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "冬季里给人家洗衣浆布，三九天挖冰水，冻破手十指流脓。",
+      "sentence": "任母在冬季里洗衣浆布冻破手",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "袖筒里偷下些结实的布丁儿给你补咔身袂。",
+      "sentence": "任母用布丁儿给孩子补身袂",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "年节下给人家淘米和面，带面手拌拌汤我喂了你孩童。",
+      "sentence": "徐长金用带面手拌汤喂孩童",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "鹞子跟上鹰飞了，哪些把你娃娃的心亏了？",
+      "sentence": "鹞子跟随鹰飞导致心亏",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "妻子啊，没有么，哪里有六百纹铜钱哩，我背着坟里，往掉活埋哩，傢么哭着了不得，我把她倒巴拉吊着树上吊逑下，傢刮喊去声大得很，不要叫过路的人听着了，我敢就嘴里添给了几把沙子，眼睛里放的泥泥抹住，我就来了。",
+      "sentence": "某人将沙子放入他人嘴里",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "妻子啊，没有么，哪里有六百纹铜钱哩，我背着坟里，往掉活埋哩，傢么哭着了不得，我把她倒巴拉吊着树上吊逑下，傢刮喊去声大得很，不要叫过路的人听着了，我敢就嘴里添给了几把沙子，眼睛里放的泥泥抹住，我就来了。",
+      "sentence": "某人用泥土遮住他人眼睛",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "母亲跪前跪后跪左跪右，苦苦哀哭了多少。",
+      "sentence": "任母跪地痛哭哀求许久",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "任仓么越思越想，就说的，怎么埋起好啊？",
+      "sentence": "任仓反复思考如何妥善处理",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "任仓子",
+      "original_sentence": "白：娃娃你埋待了把我的衣裳脱下来给我把头蒙住，我看不见你就赶紧把土往身上赶。",
+      "sentence": "任仓子脱下衣裳蒙住头部",
+      "behavior_type": 13
+    },
+    {
+      "role": "任仓子",
+      "original_sentence": "白：娃娃你埋待了把我的衣裳脱下来给我把头蒙住，我看不见你就赶紧把土往身上赶。",
+      "sentence": "任仓子将土往身上赶",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "啊呀，我的妈妈，怎么埋哩？",
+      "sentence": "任仓询问母亲如何埋葬自己",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "不埋吧，今天背上走起死肚子老重我背不动，罢了，罢了，不埋她了，这么个不行了，那么个想，反正我发落掉为好。",
+      "sentence": "任仓决定不再埋葬他的母亲",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "一根绳子搭到树丫把里，把母亲的脚巴骨捉住。",
+      "sentence": "任仓用绳子绑住母亲的脚",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "哧喽喽捞到坟树底下，脚巴骨上把绳子拴硬，这头子提的脚把骨，那头子捉的绳头子，哧的一拉站到中。",
+      "sentence": "任仓将绳子拴在母亲的脚上",
+      "behavior_type": 13
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "哧喽喽捞到坟树底下，脚巴骨上把绳子拴硬，这头子提的脚把骨，那头子捉的绳头子，哧的一拉站到中。",
+      "sentence": "任仓拉住绳子将母亲吊起",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "把母亲倒吧啦吊到半虚空，吊得母亲直了声。",
+      "sentence": "任仓将母亲吊在半空中",
+      "behavior_type": 13
+    },
+    {
+      "role": "任母",
+      "original_sentence": "把母亲倒吧啦吊到半虚空，吊得母亲直了声。",
+      "sentence": "任母被吊得发出惨叫",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "害怕叫过路的君子听真，挖了一把黄胶泥，把眼睛里给她糊住，抓了两把沙子把嘴填住，三把黄沙填住了老母亲。",
+      "sentence": "任仓用黄胶泥糊住母亲眼睛",
+      "behavior_type": 13
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "害怕叫过路的君子听真，挖了一把黄胶泥，把眼睛里给她糊住，抓了两把沙子把嘴填住，三把黄沙填住了老母亲。",
+      "sentence": "任仓用沙子填住母亲嘴巴",
+      "behavior_type": 13
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "害怕叫过路的君子听真，挖了一把黄胶泥，把眼睛里给她糊住，抓了两把沙子把嘴填住，三把黄沙填住了老母亲。",
+      "sentence": "任仓用黄沙填埋老母亲",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "任仓甩开腿子一溜风，来时就到十里亭。",
+      "sentence": "任仓迅速跑到了十里亭",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "徐长金这里瞭得真。",
+      "sentence": "徐长金清楚地看到了这一切",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "白：徐长金说道：我的丈夫丈来了，怎么不见母亲啊？",
+      "sentence": "徐长金询问为何不见母亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "丈夫，你来了，八十岁的母亲呢？",
+      "sentence": "徐长金询问丈夫母亲的下落",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "任仓说：你这个妻子，问着母亲干啥哩？",
+      "sentence": "任仓质问妻子为何询问母亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "老着不中用了，背着脊背上，走上一步，哎哟，我的腿疼着，走上两步，啊哟，我的腰疼着，我背着实在没办法背了，来了一阵赶驴驴子的客栈买卖人，我豁了六百纹铜钱，雇了个驴子头里驮上走掉了。",
+      "sentence": "任母背着老人行走感到身体疼痛",
+      "behavior_type": 4
+    },
+    {
+      "role": "任母",
+      "original_sentence": "老着不中用了，背着脊背上，走上一步，哎哟，我的腿疼着，走上两步，啊哟，我的腰疼着，我背着实在没办法背了，来了一阵赶驴驴子的客栈买卖人，我豁了六百纹铜钱，雇了个驴子头里驮上走掉了。",
+      "sentence": "任母雇佣驴子驮运老人离开",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "快走，快走，走得快了就赶上了，走得慢了就赶不上了。",
+      "sentence": "行走速度决定了能否及时赶上",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "徐长金思想思想，默念默念，我的丈夫，平日说话不慌慌张张，模样子不转颜转色，今日说话慌慌张张，模样子转颜转色，哎这个丈夫，不对劲，他恐怕把母亲害死了吧，哎呀，我知道丈夫的性格，我实话诈着问他。",
+      "sentence": "徐长金怀疑丈夫可能害死了母亲",
+      "behavior_type": 5
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "徐长金思想思想，默念默念，我的丈夫，平日说话不慌慌张张，模样子不转颜转色，今日说话慌慌张张，模样子转颜转色，哎这个丈夫，不对劲，他恐怕把母亲害死了吧，哎呀，我知道丈夫的性格，我实话诈着问他。",
+      "sentence": "徐长金决定用实话试探丈夫",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "丈夫你当真雇了个驴吗？",
+      "sentence": "徐长金询问丈夫是否雇了驴",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "敢就么，快走快走。",
+      "sentence": "任仓催促对方赶快离开",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "哎你，这个丈夫，你聪明了二十几，糊涂了一时儿，把那个老着不中用了么，你驮到蒲州城上，十里一个庄村，五里一个地方，庄村远着，谁背哩么谁挈哩，我可不背。",
+      "sentence": "徐长金指责丈夫糊涂一时",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "你这妻子，怎么说着个这么个话，我说那时候垒在庄子里吧，你自知以也把母亲饿坏了，那么也把母亲饿坏了，这会儿你又说着这么个话？",
+      "sentence": "徐长金质疑丈夫关于母亲的说法",
+      "behavior_type": 7
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "你这妻子，怎么说着个这么个话，我说那时候垒在庄子里吧，你自知以也把母亲饿坏了，那么也把母亲饿坏了，这会儿你又说着这么个话？",
+      "sentence": "任仓反驳妻子关于母亲的说法",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "你这个丈夫，聪明了二十几，糊涂了一时儿，垒到庄子里，还有当家族户、左邻右舍哩么，来把我们挡住，你不能去了，我也不能去了，我们这个风光太平日子怎么过哩，你把她背上来，我们背上走，人他知道，徐长金媳妇子、任仓儿子还把那么个不死的老妈妈背上要着吃去了，也是人的个名誉么，我们敢就把她背到高山顶顶上，一脚蹬下去来，摔上个片瓦无存，省上个钱了我们当个盘缠么，你雇上个驴做啥？",
+      "sentence": "徐长金质问丈夫为何雇驴",
+      "behavior_type": 7
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "你这个丈夫，聪明了二十几，糊涂了一时儿，垒到庄子里，还有当家族户、左邻右舍哩么，来把我们挡住，你不能去了，我也不能去了，我们这个风光太平日子怎么过哩，你把她背上来，我们背上走，人他知道，徐长金媳妇子、任仓儿子还把那么个不死的老妈妈背上要着吃去了，也是人的个名誉么，我们敢就把她背到高山顶顶上，一脚蹬下去来，摔上个片瓦无存，省上个钱了我们当个盘缠么，你雇上个驴做啥？",
+      "sentence": "任仓解释为何要将母亲背走",
+      "behavior_type": 7
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "你这个丈夫，聪明了二十几，糊涂了一时儿，垒到庄子里，还有当家族户、左邻右舍哩么，来把我们挡住，你不能去了，我也不能去了，我们这个风光太平日子怎么过哩，你把她背上来，我们背上走，人他知道，徐长金媳妇子、任仓儿子还把那么个不死的老妈妈背上要着吃去了，也是人的个名誉么，我们敢就把她背到高山顶顶上，一脚蹬下去来，摔上个片瓦无存，省上个钱了我们当个盘缠么，你雇上个驴做啥？",
+      "sentence": "徐长金拒绝背母亲并指责丈夫",
+      "behavior_type": 7
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "你这个丈夫，聪明了二十几，糊涂了一时儿，垒到庄子里，还有当家族户、左邻右舍哩么，来把我们挡住，你不能去了，我也不能去了，我们这个风光太平日子怎么过哩，你把她背上来，我们背上走，人他知道，徐长金媳妇子、任仓儿子还把那么个不死的老妈妈背上要着吃去了，也是人的个名誉么，我们敢就把她背到高山顶顶上，一脚蹬下去来，摔上个片瓦无存，省上个钱了我们当个盘缠么，你雇上个驴做啥？",
+      "sentence": "任仓反驳妻子的指责并解释",
+      "behavior_type": 7
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "你这个丈夫，聪明了二十几，糊涂了一时儿，垒到庄子里，还有当家族户、左邻右舍哩么，来把我们挡住，你不能去了，我也不能去了，我们这个风光太平日子怎么过哩，你把她背上来，我们背上走，人他知道，徐长金媳妇子、任仓儿子还把那么个不死的老妈妈背上要着吃去了，也是人的个名誉么，我们敢就把她背到高山顶顶上，一脚蹬下去来，摔上个片瓦无存，省上个钱了我们当个盘缠么，你雇上个驴做啥？",
+      "sentence": "徐长金担心名誉受损而犹豫",
+      "behavior_type": 7
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "你这个丈夫，聪明了二十几，糊涂了一时儿，垒到庄子里，还有当家族户、左邻右舍哩么，来把我们挡住，你不能去了，我也不能去了，我们这个风光太平日子怎么过哩，你把她背上来，我们背上走，人他知道，徐长金媳妇子、任仓儿子还把那么个不死的老妈妈背上要着吃去了，也是人的个名誉么，我们敢就把她背到高山顶顶上，一脚蹬下去来，摔上个片瓦无存，省上个钱了我们当个盘缠么，你雇上个驴做啥？",
+      "sentence": "任仓提议将母亲背到山顶",
+      "behavior_type": 7
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "你这个丈夫，聪明了二十几，糊涂了一时儿，垒到庄子里，还有当家族户、左邻右舍哩么，来把我们挡住，你不能去了，我也不能去了，我们这个风光太平日子怎么过哩，你把她背上来，我们背上走，人他知道，徐长金媳妇子、任仓儿子还把那么个不死的老妈妈背上要着吃去了，也是人的个名誉么，我们敢就把她背到高山顶顶上，一脚蹬下去来，摔上个片瓦无存，省上个钱了我们当个盘缠么，你雇上个驴做啥？",
+      "sentence": "徐长金质疑丈夫为何要雇驴",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "哎呀，你这个妻子，怎么说为好，说哩么不说哩，有心不说吧，她也说着这么个话，有心说给吧，人人曾说，个个有讲，对妻子不说实话，对朋友不说假言。",
+      "sentence": "徐长金对妻子说话犹豫不决",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "她说成这么个话了，说了说毬给她吧。",
+      "sentence": "徐长金对丈夫说出这番话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "再把徐家门府封一封，妈妈傢养下贤良好姑娘，金匾挂到娘家门。",
+      "sentence": "徐长金被封为女宫堂里的国公",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "再把徐家门府封一封，妈妈傢养下贤良好姑娘，金匾挂到娘家门。",
+      "sentence": "金匾被挂到了娘家的门府上",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "丈夫，当真吗？",
+      "sentence": "丈夫询问事情是否属实",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "当真当真，快走吧，不管了！",
+      "sentence": "他们决定立即离开不再理会",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "哎呀，既然如此，你把孩子背上西北蒲州城上去吧，我可就不去了。",
+      "sentence": "徐长金让孩子前往西北蒲州城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "怎么啊？",
+      "sentence": "某人发出疑问的声音",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你把你老老的八十多岁的母亲都害死了么，我走着路上，你连累住，把我害死，连个报信的都没有。",
+      "sentence": "母亲被儿子害死无人报信",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "你把你老老的八十多岁的母亲都害死了么，我走着路上，你连累住，把我害死，连个报信的都没有。",
+      "sentence": "妻子在路上行走被连累",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "你把你老老的八十多岁的母亲都害死了么，我走着路上，你连累住，把我害死，连个报信的都没有。",
+      "sentence": "妻子被丈夫害死无人知",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "你这个妻子，害着你做啥哩？",
+      "sentence": "徐长金质问妻子为何害他",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "你听，你这个丈夫，这个路径远，脚又小，走着路上走不动了，敢就把你连累住了，敢就害哩么，怎么个不害？",
+      "sentence": "徐长金因路途遥远感到疲惫不堪",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不害不害，你放心走，人人曾说，个个又讲，驴知天年马知地，哥哥妹子值狗屁。",
+      "sentence": "人们常说驴马知晓天地",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "不害不害，你放心走，人人曾说，个个又讲，驴知天年马知地，哥哥妹子值狗屁。",
+      "sentence": "哥哥妹妹关系不值一提",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "老婆妈妈心肝系，头架着脖子里看个戏。",
+      "sentence": "徐长金将头靠在脖子上看戏",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "走着半路里脖子里放了一个屁，妈妈你不要长出气，去到戏台底下给你买着吃。",
+      "sentence": "行走途中放了一个屁",
+      "behavior_type": 11
+    },
+    {
+      "role": "任母",
+      "original_sentence": "走着半路里脖子里放了一个屁，妈妈你不要长出气，去到戏台底下给你买着吃。",
+      "sentence": "任母不要发出长叹息",
+      "behavior_type": 1
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "走着半路里脖子里放了一个屁，妈妈你不要长出气，去到戏台底下给你买着吃。",
+      "sentence": "任仓去戏台下买食物",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "走不动了，我把你架到脖子里架上走了么，哪里的害你的道理哩？",
+      "sentence": "徐长金将对方架在脖子上行走",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪怕你说上个天花转，我不去还是个不去了，跟你去就是不走了。",
+      "sentence": "无论如何劝说都坚决拒绝同行",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "任仓闻听怒气生，上着树上扳柳棍。",
+      "sentence": "任仓听闻后感到非常愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "任仓闻听怒气生，上着树上扳柳棍。",
+      "sentence": "任仓爬上树去折柳树枝",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "咯叭咯叭扳了几根棍，妻子按到地埃尘，手拿柳棍下歹心。",
+      "sentence": "任仓用力扳断了几根柳棍",
+      "behavior_type": 13
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "咯叭咯叭扳了几根棍，妻子按到地埃尘，手拿柳棍下歹心。",
+      "sentence": "任仓将妻子按倒在地面上",
+      "behavior_type": 13
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "咯叭咯叭扳了几根棍，妻子按到地埃尘，手拿柳棍下歹心。",
+      "sentence": "任仓手持柳棍意图伤害人",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "柳棍上来龙摆尾，柳棍下去虎翻身。",
+      "sentence": "任仓挥舞柳棍进行攻击",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "打得妇人满地滚，打得徐长金直了声，忙忙就把丈夫叫几声。",
+      "sentence": "徐长金被打得发出惨叫",
+      "behavior_type": 2
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "打得妇人满地滚，打得徐长金直了声，忙忙就把丈夫叫几声。",
+      "sentence": "徐长金急忙呼唤丈夫",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "我的夫郎君，饶命饶命多饶命，留情留情多留情。",
+      "sentence": "徐长金向丈夫求饶请求留情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "高抬贵手你饶下我的命，这辈子我忘不了你丈夫的好恩情。",
+      "sentence": "徐长金恳求丈夫饶恕她的性命",
+      "behavior_type": 2
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "高抬贵手你饶下我的命，这辈子我忘不了你丈夫的好恩情。",
+      "sentence": "徐长金铭记丈夫的深厚恩情",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "我的夫郎君，打死我妻儿没要紧，丢下你的孩儿叫谁抓成？",
+      "sentence": "徐长金请求丈夫饶恕她的性命",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "你把孩儿背上把蒲州上，娃娃哭开你心酸。",
+      "sentence": "徐长金因孩子哭泣感到心酸",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "再不了念起再的了，你念起夫妻过门六年整，一夜夫妻百夜恩，百夜夫妻如海深。",
+      "sentence": "徐长金回忆夫妻六年深厚感情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的夫郎君。",
+      "sentence": "我的夫郎君在说话",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "白：走，好，饶了你的性命，走，跟上我走。",
+      "sentence": "任仓决定饶恕对方的性命",
+      "behavior_type": 4
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "白：走，好，饶了你的性命，走，跟上我走。",
+      "sentence": "任仓要求对方跟随自己离开",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "哪怕你把我摊成个肉煎饼，跟上你这个贼强盗去是万不能。",
+      "sentence": "徐长金坚决拒绝跟随任仓离开",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "任仓一听冲冲大怒，咵嚓咵嚓头上楞给了那么几柳棍，把妻子打着昏倒在地。",
+      "sentence": "任仓听闻后愤怒地殴打妻子",
+      "behavior_type": 2
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "任仓一听冲冲大怒，咵嚓咵嚓头上楞给了那么几柳棍，把妻子打着昏倒在地。",
+      "sentence": "徐长金被任仓打昏倒在地",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "任仓捞给了一截子没动静了，踏给了几脚也不出声了。",
+      "sentence": "任仓用棍子击打妻子头部",
+      "behavior_type": 13
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "任仓捞给了一截子没动静了，踏给了几脚也不出声了。",
+      "sentence": "任仓踢了几脚没有反应",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "嘴里摸了一把没气了，尻子里摸了没屁了，把这个贱人给打死了。",
+      "sentence": "任仓将妻子殴打致死",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "罢了，罢了，打死了打死去吧。",
+      "sentence": "任仓将妻子殴打致死",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "我把孩子也撇到十里亭，一个人上一回蒲州城，去了我高高兴兴福福份份过几春。",
+      "sentence": "徐长金独自前往蒲州城生活",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "任仓子",
+      "original_sentence": "也不说任仓起身，再说那个五岁的孩儿，爬着娘身哭哭溜溜。",
+      "sentence": "任仓子趴在母亲身上哭泣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "魁罡星动哭，天摇地动了不得了，玉皇大帝打坐云霄殿上睁眼瞭，千里眼耳顺风报上去了，说孝廉星连魁罡星身遭了大难了，短命星那个任仓上了蒲州城，把妻子打昏倒在地埃尘，连孩儿撇下两个人。",
+      "sentence": "玉皇大帝得知孝廉星遭遇大难",
+      "behavior_type": 7
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "魁罡星动哭，天摇地动了不得了，玉皇大帝打坐云霄殿上睁眼瞭，千里眼耳顺风报上去了，说孝廉星连魁罡星身遭了大难了，短命星那个任仓上了蒲州城，把妻子打昏倒在地埃尘，连孩儿撇下两个人。",
+      "sentence": "任仓将妻子打昏在地",
+      "behavior_type": 9
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "魁罡星动哭，天摇地动了不得了，玉皇大帝打坐云霄殿上睁眼瞭，千里眼耳顺风报上去了，说孝廉星连魁罡星身遭了大难了，短命星那个任仓上了蒲州城，把妻子打昏倒在地埃尘，连孩儿撇下两个人。",
+      "sentence": "任仓撇下孩子独自离开",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "忙了玉皇大帝，孝神快快下殿去，搭救徐长金母子两个，娃爬在身上动哭。",
+      "sentence": "玉皇大帝命令孝神下殿救人",
+      "behavior_type": 7
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "忙了玉皇大帝，孝神快快下殿去，搭救徐长金母子两个，娃爬在身上动哭。",
+      "sentence": "徐长金母子遭遇危险等待救援",
+      "behavior_type": 12
+    },
+    {
+      "role": "任仓子",
+      "original_sentence": "忙了玉皇大帝，孝神快快下殿去，搭救徐长金母子两个，娃爬在身上动哭。",
+      "sentence": "任仓子趴在母亲身上哭泣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "渡气神娘娘把气渡上，三魂七魄给揽上身。",
+      "sentence": "渡气神娘娘将魂魄重新归位",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "徐长金苏醒苏醒，缓歇了半天，慢慢睁开一双眨花眼睛。",
+      "sentence": "徐长金慢慢睁开一双眼睛",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "光见孩子在身上爬，不见丈夫在哪儿？",
+      "sentence": "徐长金发现孩子爬在身上",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "光见孩子在身上爬，不见丈夫在哪儿？",
+      "sentence": "丈夫不在身边",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "慢慢起来，前看后看，左看右看，不见任仓丈夫走哪方？",
+      "sentence": "徐长金四处张望寻找任仓",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "背上孩儿往前行，赶着走一回祖坟茔。",
+      "sentence": "徐长金背着孩子前往祖坟",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "来着就到祖坟茔，远远瞭着树上吊的就是老母亲。",
+      "sentence": "任母在树上吊着被远远看见",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "慌慌忙忙走到跟前，扑通跪倒在地。",
+      "sentence": "徐长金匆忙走到母亲跟前跪倒",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的老天爷，我的老天爷，保佑保佑多保佑，运鸿运鸿多运鸿。",
+      "sentence": "祈求老天爷保佑运鸿",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "我徐长金媳妇若有孝娘心，轻轻卸下我的老母亲。",
+      "sentence": "徐长金轻轻卸下她的老母亲",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "倘若是徐长金媳妇没有这个孝娘心，今乎子的老天爷多感应，五雷把我烧成焦火棍。",
+      "sentence": "徐长金媳妇发誓若无孝心遭雷劈",
+      "behavior_type": 2
+    },
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "倘若是徐长金媳妇没有这个孝娘心，今乎子的老天爷多感应，五雷把我烧成焦火棍。",
+      "sentence": "玉皇大帝感应誓言降下五雷轰顶",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "媳妇子说话不要紧，过往神声音听得真。",
+      "sentence": "徐长金媳妇说话被过往神听见",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "土地神撑住，接地神接住。",
+      "sentence": "土地神和接地神共同支撑接住",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "徐长金解开绳子，慢慢松下来。",
+      "sentence": "徐长金解开绳子慢慢松下来",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "忙了东海龙君，坟滩里哪里的水哩。",
+      "sentence": "东海龙君在坟滩里寻找水源",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "眼看此，迈头一看，一个坑坑里清淡淡的一湾湾水啊。",
+      "sentence": "看见一个坑里有淡淡的水",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "小姐走上前来口含了清泉水，洗掉了婆婆嘴里的黄胶沙，洗掉了眼睛上的黄胶泥。",
+      "sentence": "徐长金用清泉水洗净婆婆的嘴",
+      "behavior_type": 13
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "小姐走上前来口含了清泉水，洗掉了婆婆嘴里的黄胶沙，洗掉了眼睛上的黄胶泥。",
+      "sentence": "徐长金用清泉水洗净婆婆的眼",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "心窝里摸去还有热气哩，嘴对嘴美美地吹给了三口。",
+      "sentence": "徐长金嘴对嘴吹了三口气",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "接上了阳气，嗝的上来了一口气，喊着老妈妈，你苏醒苏醒，明白明白，醒来醒来！",
+      "sentence": "徐长金呼喊任母苏醒过来",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我昏沉沉走的阴曹路，耳听阳间怎么有人声。",
+      "sentence": "听到阳间传来人声",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "慢慢儿睁开我的一双眼，光见我的徐长金媳妇连孙孙怎么在跟前。",
+      "sentence": "徐长金看见媳妇和孙孙在跟前",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "我的小冤家啊，你的丈夫小任仓，傢说的祖坟里出来了活菩萨。",
+      "sentence": "任仓说祖坟里出现了活菩萨",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "年轻人见了活菩萨，白叽叽能生个俊娃娃，老年人见了活菩萨，耳朵不聋眼不麻，白拉拉的能出一嘴牙。",
+      "sentence": "年轻人见到活菩萨能生俊娃娃",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "年轻人见了活菩萨，白叽叽能生个俊娃娃，老年人见了活菩萨，耳朵不聋眼不麻，白拉拉的能出一嘴牙。",
+      "sentence": "老年人见到活菩萨能长出新牙",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "背到坟里叫我瞭菩萨，到来傢把土坑挖。",
+      "sentence": "任仓将人背到坟里让其瞭望菩萨",
+      "behavior_type": 13
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "背到坟里叫我瞭菩萨，到来傢把土坑挖。",
+      "sentence": "任仓到来后开始挖掘土坑",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我就跪前跪后，跪左跪右，好话说了多和少，只说傢把我就饶下了。",
+      "sentence": "跪前跪后说了许多好话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "傢把我吊到了半虚空，不知你的丈夫傢走何村。",
+      "sentence": "任仓将你吊到了半空中",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "傢把我吊到了半虚空，不知你的丈夫傢走何村。",
+      "sentence": "不知你的丈夫去了哪个村",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "徐小姐小姐说道，你的孝顺儿子傢上了西北蒲州城了，傢给你挣钱去了，要粮去了。",
+      "sentence": "徐长金告知儿子已前往蒲州城",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "走吧，我忤逆种媳妇把你背上回走吧。",
+      "sentence": "走吧我背你回家",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "徐长金身上挨了柳棍，浑身疙瘩。",
+      "sentence": "徐长金身上有被柳棍打的痕迹",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "浑身的疼痛也难行，把母亲背到脊梁中，手扎了孩儿回家中。",
+      "sentence": "徐长金将母亲背在脊梁上",
+      "behavior_type": 13
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "浑身的疼痛也难行，把母亲背到脊梁中，手扎了孩儿回家中。",
+      "sentence": "徐长金带着孩子回家中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "回来就到家廊中，吃没吃的用没用。",
+      "sentence": "回到家中发现没有食物可用",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "家里没有一把米，半把面，周正怎么能行过下场？",
+      "sentence": "家中缺乏粮食和面食",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "无计无奈，可罢了可罢了。",
+      "sentence": "无计可施只能选择放弃",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "别说她徐长金这里无计无奈，再说那个任仓。",
+      "sentence": "徐长金感到无计可施",
+      "behavior_type": 2
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "别说她徐长金这里无计无奈，再说那个任仓。",
+      "sentence": "任仓继续他的行为",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "到哪里去了？",
+      "sentence": "询问目标对象去了何处",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "就到蒲州城了，蒲州城上要饭的人。",
+      "sentence": "蒲州城上有很多要饭的人",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "东庄要饭狗拴了，西庄要饭门关了。",
+      "sentence": "东庄和西庄的要饭处都已关闭",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "南庄要饭没人了，北庄要饭门顶了。",
+      "sentence": "南庄和北庄要饭无人应门",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "要饭要到了晌午偏，一概要不上一口汤。",
+      "sentence": "任仓要饭到中午仍未获得食物",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要饭要给了三天整，一概要不上一丁丁。",
+      "sentence": "要饭持续了整整三天时间",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "肝花心饿着摇铃哩，肠子饿着拧绳哩，肋巴饿着搭棚哩，脑袋饿着怎么困疼哩。",
+      "sentence": "饥饿导致身体各部位疼痛难忍",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "腿子里困，脑子里愣，眼睛里直发黑眼昏。",
+      "sentence": "腿部感到困倦，头脑发愣",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "腿子里困，脑子里愣，眼睛里直发黑眼昏。",
+      "sentence": "眼睛发黑感到昏沉",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人说的西北蒲州城上好得很，好得很，要饭来怎么没人给一丁丁？",
+      "sentence": "人们说西北蒲州城非常好",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这就叫个听风跑驷马，怨来怨去怨自己。",
+      "sentence": "听风跑驷马怨来怨去怨自己",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "也不说任仓困到蒲州城，再说媳妇子徐长金。",
+      "sentence": "任仓停留在蒲州城未离开",
+      "behavior_type": 12
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "也不说任仓困到蒲州城，再说媳妇子徐长金。",
+      "sentence": "徐长金在家中等待任仓",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "瞅来瞅去三口人吃什么哩，喝什么哩？",
+      "sentence": "徐长金思考三口人吃什么喝什么",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "卖个东西，没个值钱些的没人爱，大树小树你看多得很，没个成材料的，一概是丫里丫把的。",
+      "sentence": "卖东西时没有值钱物品无人问津",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "想来想去大花园里有一棵槐树哩，长的么果然大，那个么放倒有材料哩。",
+      "sentence": "大花园里有一棵槐树长得很大",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "哪里卖去哩？",
+      "sentence": "徐长金询问何处可以售卖物品",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "当家叔伯公公跟前求个人情走吧。",
+      "sentence": "徐长金向叔伯公公请求帮助",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叔伯公公家里有钱哩，有势哩，家里也有粮哩。",
+      "sentence": "叔伯公公家中有钱有势有粮",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "或是么给上几个钱，或是么装给几个粮，一家三口么吃几天。",
+      "sentence": "一家三口需要食物维持几天",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "手扎上孩儿，来到当家叔公跟前，双膝跪倒在地，说是，娃娃的爷爷，我家叔公，你看，我给你说，你看我的丈夫傢上了西北蒲州城上逃难去了，你看家里穷着无度用了，没有一把米半把面，我思想你老叔公家里方便些，救下我一难，救下我母亲的一命。",
+      "sentence": "徐长金向叔公诉说家庭困境",
+      "behavior_type": 7
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "手扎上孩儿，来到当家叔公跟前，双膝跪倒在地，说是，娃娃的爷爷，我家叔公，你看，我给你说，你看我的丈夫傢上了西北蒲州城上逃难去了，你看家里穷着无度用了，没有一把米半把面，我思想你老叔公家里方便些，救下我一难，救下我母亲的一命。",
+      "sentence": "徐长金请求叔公救助家人",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "救人一命多活十年哩，遇上我们饥人了你给一口，强如给饱人送一斗。",
+      "sentence": "救人一命胜造七级浮屠",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说是，媳妇，你问我要些米里么要些面里么？",
+      "sentence": "询问媳妇是否需要米或面",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叔公，那也不是白要的，我给你说个实话吧，我卖去也没个值钱卖的，花园里的那棵槐树我卖给你叔公去吧。",
+      "sentence": "她向叔公提出出售槐树的请求",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "你多哩少哩给上几个钱哩么，或是给我们装给几个粮哩么，叫我们三口人吃给几天算几天么。",
+      "sentence": "徐长金请求给予一些钱或粮食",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叔公说，媳妇，贤德媳妇，你说的话也对，我多给你些都不要紧，就恐怕你丈夫，等到一日回到家，那个人又不说正话的人，又说是当叔老子的欺大压小，妇女们手里套弄了人了，这个名声我不落。",
+      "sentence": "叔公表示担心名声受损",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "媳妇给你想个办法，自己挖去，自己放去。",
+      "sentence": "徐长金提出自行挖掘放置的建议",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "放倒了我给你打听个买主，价钱么给你提的高高的，由你要，我给你底子打问下了，信通下了，你来就要价就对了。",
+      "sentence": "放倒后打听买主并提高价钱",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "谢过叔公，行哩么，你给我赶紧打问买主，我给你挖去吧。",
+      "sentence": "徐长金感谢叔公并请求帮助",
+      "behavior_type": 7
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "谢过叔公，行哩么，你给我赶紧打问买主，我给你挖去吧。",
+      "sentence": "徐长金表示愿意去挖树",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "徐长金这里听得真，手里扎上我的小孩童，急一步来到我的家廊中，橛头铁锨拿得凶。",
+      "sentence": "徐长金急忙回到家中拿工具",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "赶着走赶着走，赶着来到后花亭。",
+      "sentence": "徐长金匆忙赶到后花亭",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "照住槐树我拜三拜，各路的神仙请出来。",
+      "sentence": "照住槐树拜三拜各路神仙请出来",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "手扎中指祷告神，祷告上方过往神，保佑保佑多保佑。",
+      "sentence": "徐长金向神明祷告祈求保佑",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "徐长金若果有孝娘的心，碰上个买主了快些儿行。",
+      "sentence": "徐长金若有孝心应尽快行动",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "徐长金若没有孝娘的心，放倒老槐树砸死我们母子两个人。",
+      "sentence": "徐长金若无孝心将导致悲剧",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "徐长金说话没要紧，检察神日月游神在空中听得真，奏给了玉皇知道。",
+      "sentence": "徐长金说话被检察神听到",
+      "behavior_type": 7
+    },
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "徐长金说话没要紧，检察神日月游神在空中听得真，奏给了玉皇知道。",
+      "sentence": "检察神将事情报告给玉皇",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "说是玉皇大帝在上，孝星媳妇来刨槐树来了。",
+      "sentence": "玉皇大帝得知孝星媳妇来刨槐树",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "为了孝顺婆婆，怎么办怎么办？",
+      "sentence": "徐长金因孝顺婆婆而焦虑不安",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "白：孝心感动天地了。",
+      "sentence": "徐长金的孝心感动了天地",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "玉皇大帝说：快，快，三大财神，下凡去到后花园之内，去给徐长金小姐赐给些金银吧，叫她好好孝顺母亲去吧。",
+      "sentence": "玉皇大帝命令财神赐予徐长金银",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "三大财神奉了玉皇大帝的旨意，来到花园，收云头，落地面，来到凡世间，照住槐树底下，吹给了一口，一地的黄土变成了金银。",
+      "sentence": "玉皇大帝命令财神下凡赐金银",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "三大财神奉了玉皇大帝的旨意，来到花园，收云头，落地面，来到凡世间，照住槐树底下，吹给了一口，一地的黄土变成了金银。",
+      "sentence": "三大财神来到花园收云头落地",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "三大财神奉了玉皇大帝的旨意，来到花园，收云头，落地面，来到凡世间，照住槐树底下，吹给了一口，一地的黄土变成了金银。",
+      "sentence": "财神吹气使黄土变成金银",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "徐长金小姐手拿镢头哐嘡哐嘡刨得凶，黄土刨了一尺深，底里刨成了个通窟窿。",
+      "sentence": "徐长金用镢头猛烈地刨土",
+      "behavior_type": 10
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "徐长金小姐手拿镢头哐嘡哐嘡刨得凶，黄土刨了一尺深，底里刨成了个通窟窿。",
+      "sentence": "徐长金将黄土刨出一尺深",
+      "behavior_type": 13
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "徐长金小姐手拿镢头哐嘡哐嘡刨得凶，黄土刨了一尺深，底里刨成了个通窟窿。",
+      "sentence": "徐长金刨出一个通窟窿",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "挖出来了三缸金子两缸银，三十六个金火盆。",
+      "sentence": "徐长金挖出了三缸金子和两缸银",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "金人金马金骆驼一灿明，两个银人把库门。",
+      "sentence": "金人金马金骆驼闪耀明亮",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "金人金马金骆驼一灿明，两个银人把库门。",
+      "sentence": "两个银人守护着库房大门",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "有了这么多的银子钱，刨着我的槐树可为哪件？",
+      "sentence": "徐长金疑惑为何要刨槐树",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这就有了银子有了钱，有钱的买卖可好干，盐沫子堆过梁。",
+      "sentence": "拥有银子和钱后买卖变得容易",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "取绫罗，缝衣裳。",
+      "sentence": "取绫罗缝制新衣裳",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "就把傢的个老婆婆，冷了抱到暖阁上，热了抱到凉床上。",
+      "sentence": "将老婆婆抱到暖阁上或凉床上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "冷了穿上火轮裆，热了给换的是绛绸衫，再热了徐长金媳妇陪着就把扇子扇。",
+      "sentence": "徐长金为家人更换适宜衣物",
+      "behavior_type": 1
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "冷了穿上火轮裆，热了给换的是绛绸衫，再热了徐长金媳妇陪着就把扇子扇。",
+      "sentence": "徐长金在炎热时为家人扇风",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "福份受给了一年整，好吃好喝吃着不要紧，想起来那个忤逆种老子可惜得很。",
+      "sentence": "享受了一年福份后想起不孝子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "你看母亲这里泪纷纷，忙忙就把我的小冤家任仓娃娃就喊几声，我的小冤家，走的远了回来吧，走的近了你也回来吧。",
+      "sentence": "任母泪流满面呼唤任仓回来",
+      "behavior_type": 2
+    },
+    {
+      "role": "任仓",
+      "original_sentence": "你看母亲这里泪纷纷，忙忙就把我的小冤家任仓娃娃就喊几声，我的小冤家，走的远了回来吧，走的近了你也回来吧。",
+      "sentence": "任仓已经离开家走得很远了",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "走的远了你把家书给我捎，走的近了你把口信给我带。",
+      "sentence": "任母希望任仓能带回家书或口信",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "你怎么就出门一年多一概把书信不给我带？",
+      "sentence": "任母质问儿子为何不带家书",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "如今天色改变了，有吃有喝了，我的娃娃望着叫回来了，回来了我们一块一屋过周正。",
+      "sentence": "任母呼唤任仓回家共同生活",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "你怎么家里无书信，为娘的把你坠坠累累枉怀了，我把你就血水枉养了。",
+      "sentence": "任母因无书信感到伤心失望",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "为娘的三月怀胎九月临，九月怀胎十月生，十月怀胎该降生。",
+      "sentence": "任母历经十月怀胎终于分娩",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "娘怀你十个月最没有容易，累得叫我为娘的各骨节儿也疼得很，怀胎十个月就临，疼得就叫为娘的真难行。",
+      "sentence": "任母怀胎十月感到非常痛苦",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "自从把你生在了人世中，家寒贫穷无度用，抓养了你娃娃我就最没有容易。",
+      "sentence": "任母养育孩子感到十分艰辛",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "徐长金说道，哎，叫老妈妈，把你福份受着没正经，想着那个忤逆种儿子啥事情。",
+      "sentence": "徐长金向老妈妈诉说儿子的事情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "说着说着硬不听，总然还是想我的那个娃娃得很。",
+      "sentence": "徐长金心中十分想念她的孩子",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "为娘的心在儿女上，儿女们的心怎么在石头上，今个我等着明个了来，明个不来你多会来。",
+      "sentence": "任母对儿女的冷漠感到伤心",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "你赶紧不回还，我么老着就要见阎王。",
+      "sentence": "任母因儿子不归而感到悲伤",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "谁哭老子谁哭娘，谁给我们坑里把土填。",
+      "sentence": "谁将为逝者进行填土埋葬",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "谁给我们上坟拜墓哩，谁给我们顶门立户哩。",
+      "sentence": "无人为他们上坟拜墓顶门立户",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "母亲哭着不下场，忙了空中过往神。",
+      "sentence": "任母因悲伤而无法停止哭泣",
+      "behavior_type": 2
+    },
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "母亲哭着不下场，忙了空中过往神。",
+      "sentence": "玉皇大帝在空中持续观察着",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "四川城上亮莹莹，西北蒲州城上铺乌云。",
+      "sentence": "四川城上闪烁着明亮的光芒",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "四川城上亮莹莹，西北蒲州城上铺乌云。",
+      "sentence": "西北蒲州城上笼罩着乌云",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "咔嚓雷响一声，没头的孤魂见阎君。",
+      "sentence": "雷声响起孤魂前往见阎君",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "任仓的身子寄到蒲州城，人头提着送到他的当院中。",
+      "sentence": "任仓的身体被运送到蒲州城",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "任仓的身子寄到蒲州城，人头提着送到他的当院中。",
+      "sentence": "人头被提着送到他的院子里",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "任仓母亲心慌耳烧，哭哭溜溜，来小个便，来到当前院，一个人头在院子里放。",
+      "sentence": "任母心慌耳烧感到极度不安",
+      "behavior_type": 2
+    },
+    {
+      "role": "任母",
+      "original_sentence": "任仓母亲心慌耳烧，哭哭溜溜，来小个便，来到当前院，一个人头在院子里放。",
+      "sentence": "任母哭泣着来到当前院子",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "任仓母亲心慌耳烧，哭哭溜溜，来小个便，来到当前院，一个人头在院子里放。",
+      "sentence": "一个人头被放置在院子里",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "哎呀，不好了，不妙了，怎么惹下大祸了！",
+      "sentence": "任母感到非常惊慌和恐惧",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "谁傢把人杀掉，把人头送给我任家了。",
+      "sentence": "任母质问是谁将人头送到任家",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "拿着起来细细看，怎么这个面相看起来是小任仓。",
+      "sentence": "任母仔细观察发现面相像任仓",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "左耳朵背后有个肉桩桩，一看里真真就像我的小儿郎。",
+      "sentence": "任母发现左耳后有肉桩",
+      "behavior_type": 1
+    },
+    {
+      "role": "任母",
+      "original_sentence": "左耳朵背后有个肉桩桩，一看里真真就像我的小儿郎。",
+      "sentence": "任母确认那是她的小儿郎",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "任母",
+      "original_sentence": "罢了，罢了！",
+      "sentence": "任母感到极度悲伤和无奈",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "只说是天爷现化了，天爷傢怎么现报了。",
+      "sentence": "天爷突然显现并给予报应",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "徐长金么着了忙，请了一堂僧，请了一堂道，柏木棺材桑木套。",
+      "sentence": "徐长金匆忙请来僧人和道士",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "徐长金么着了忙，请了一堂僧，请了一堂道，柏木棺材桑木套。",
+      "sentence": "柏木棺材配有桑木套",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "一棺一椁满装上，把人头么埋到祖坟上。",
+      "sentence": "徐长金将人头埋入祖坟中",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "忙了忙了谁忙了，忙了地方上的乡员、甲役并农官。",
+      "sentence": "地方乡员甲役农官忙碌非常",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "乡里的文书府里升，府里的文书道里升。",
+      "sentence": "乡里的文书被提升到府里",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "乡里的文书府里升，府里的文书道里升。",
+      "sentence": "府里的文书被提升到道里",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "道里的文书往上升，折子行到午朝门。",
+      "sentence": "文书从道里传递到午朝门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "列国天子登宝殿，打开折子观着看。",
+      "sentence": "天子打开折子仔细阅读",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们在朝里坐江山，朝外出来了大贤良。",
+      "sentence": "朝外出现了一位大贤良",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "金牌宣，银牌调，把贤人宣到金殿上。",
+      "sentence": "金牌银牌宣召贤人上殿",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "八十老儿宣金殿，徐长金小姐宣金殿，七岁的孩儿宣金殿，一们宣到金殿上。",
+      "sentence": "徐长金被宣召至金殿上",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "八十老儿宣金殿，徐长金小姐宣金殿，七岁的孩儿宣金殿，一们宣到金殿上。",
+      "sentence": "八十老儿被宣召至金殿上",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "八十老儿宣金殿，徐长金小姐宣金殿，七岁的孩儿宣金殿，一们宣到金殿上。",
+      "sentence": "七岁孩儿被宣召至金殿上",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "八十老儿封一封，老人封进养老宫，养老宫里受皇恩。",
+      "sentence": "八十老儿被封进养老宫受皇恩",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "日供米来月供面，每年的仓麦子十八石，每月的茶钱银子六两三，衣裳烂了朝里换。",
+      "sentence": "每日供应米面每年提供仓麦子",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "再把徐长金小姐封一封，孝顺了婆婆的功劳重，封到女宫堂里做国公。",
+      "sentence": "徐长金因孝顺被封为女国公",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "珠冠霞帔头上戴，龙凤遮袄披身肩，做了国公的娘娘。",
+      "sentence": "徐长金头戴珠冠身披霞帔",
+      "behavior_type": 1
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "珠冠霞帔头上戴，龙凤遮袄披身肩，做了国公的娘娘。",
+      "sentence": "徐长金被封为女宫堂国公",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "徐长金",
+      "original_sentence": "我守节做寡把你抓成人，媳妇给你娶家中，给你孩儿生到人世中，猪下上一窝了拱墙跟，我养你一个才是忤逆种。",
+      "sentence": "徐长金守节做寡将你抚养成人",
+      "behavior_type": 10
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "我守节做寡把你抓成人，媳妇给你娶家中，给你孩儿生到人世中，猪下上一窝了拱墙跟，我养你一个才是忤逆种。",
+      "sentence": "徐长金为你娶媳妇到家中",
+      "behavior_type": 10
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "我守节做寡把你抓成人，媳妇给你娶家中，给你孩儿生到人世中，猪下上一窝了拱墙跟，我养你一个才是忤逆种。",
+      "sentence": "徐长金为你生下孩子",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "我守节做寡把你抓成人，媳妇给你娶家中，给你孩儿生到人世中，猪下上一窝了拱墙跟，我养你一个才是忤逆种。",
+      "sentence": "猪生下一窝后拱墙跟",
+      "behavior_type": 11
+    },
+    {
+      "role": "徐长金",
+      "original_sentence": "我守节做寡把你抓成人，媳妇给你娶家中，给你孩儿生到人世中，猪下上一窝了拱墙跟，我养你一个才是忤逆种。",
+      "sentence": "徐长金认为养你是忤逆",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "封的妈妈家养马不当差，种地不上粮。",
+      "sentence": "妈妈家养马不需承担差役",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "封的妈妈家养马不当差，种地不上粮。",
+      "sentence": "妈妈家种地无需缴纳粮食",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "挑河垒坝永不管，自种自吃落安然。",
+      "sentence": "挑河垒坝永远不需要参与",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "挑河垒坝永不管，自种自吃落安然。",
+      "sentence": "自种自吃生活安定无忧",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "再把那七岁的孩儿封一封，那就留在皇学里读五经。",
+      "sentence": "七岁孩儿被留在皇学读五经",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "五经读上十六岁整，坐在本府成都府，九门提督的大将军。",
+      "sentence": "五经读至十六岁整",
+      "behavior_type": ""
+    },
+    {
+      "role": "",
+      "original_sentence": "五经读上十六岁整，坐在本府成都府，九门提督的大将军。",
+      "sentence": "坐在本府成都府内",
+      "behavior_type": ""
+    },
+    {
+      "role": "",
+      "original_sentence": "五经读上十六岁整，坐在本府成都府，九门提督的大将军。",
+      "sentence": "担任九门提督大将军",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "贵人回到了家廊中，坟茔里檀香祭了祖。",
+      "sentence": "贵人回到了家中的廊道",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "贵人回到了家廊中，坟茔里檀香祭了祖。",
+      "sentence": "坟茔里点燃檀香祭奠祖先",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "家里檀香祭了祖，又打了七天七夜的罗天醮。",
+      "sentence": "家中举行檀香祭祖仪式",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "家里檀香祭了祖，又打了七天七夜的罗天醮。",
+      "sentence": "连续七天七夜打罗天醮",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "罗天大醮谢尊神，后有大炮谢神灵。",
+      "sentence": "举行罗天大醮以感谢神灵",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一官一职封罢了，双双贤传念完了。",
+      "sentence": "官职封赏完毕贤传念诵结束",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "要问此曲的亘古传，任仓埋母书一桩，二十四孝的第七孝。",
+      "sentence": "任仓埋母成为二十四孝之一",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "贤人听，愚人听，贤人愚人大家听。",
+      "sentence": "贤人和愚人都在聆听",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "贤人听着此事情，说是世上的真事情。",
+      "sentence": "贤人听闻此事认为是真实的",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "心里照着两盏灯，越听越明越亮晶，家里有老人我好伺奉。",
+      "sentence": "心里有两盏灯越听越明亮",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "心里照着两盏灯，越听越明越亮晶，家里有老人我好伺奉。",
+      "sentence": "家里有老人需要好好伺奉",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "过了愚人的耳边风，还说我们唱曲儿的不通情，强编古书教育了人。",
+      "sentence": "愚人认为唱曲者不通情达理",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "翰林主子不怠慢，翰林官上造贤传。",
+      "sentence": "翰林官上撰写贤传",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "造下的贤传天下扬，造下的贤传把人劝。",
+      "sentence": "贤传被造以劝诫世人",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我把这个曲儿也唱完了，桌子上的盘子也装满了。",
+      "sentence": "曲儿已经唱完盘子装满",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "任仓",
+      "original_sentence": "任仓埋母一节一节交待清，才给你们大家散了一散心。",
+      "sentence": "任仓详细交代了埋母的经过",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "任仓埋母一节一节交待清，才给你们大家散了一散心。",
+      "sentence": "任仓给大家散心",
+      "behavior_type": 12
+    }
+  ]
+]

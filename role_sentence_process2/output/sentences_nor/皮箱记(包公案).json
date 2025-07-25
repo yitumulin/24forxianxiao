@@ -1,0 +1,2858 @@
+[
+  [
+    {
+      "role": "",
+      "original_sentence": "皮箱记(包公案)高高山上一清泉流来流去几千年。",
+      "sentence": "高山上的清泉流淌了几千年",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人人都吃泉中水愚的愚来贤的贤苦的苦来甜的甜。",
+      "sentence": "人们饮用泉水后产生不同感受",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "苦里头又打苦里说，甜里头又打甜处行。",
+      "sentence": "苦中作乐甜处行事",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "白里头又往白处说，黑里头又向黑处生。",
+      "sentence": "白处言论黑处行为形成对比",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "苦里头苦不过人老无儿女，甜里头甜不过少年小夫妻。",
+      "sentence": "人老无儿女是最为痛苦之事",
+      "behavior_type": 2
+    },
+    {
+      "role": "俞百生",
+      "original_sentence": "苦里头苦不过人老无儿女，甜里头甜不过少年小夫妻。",
+      "sentence": "少年小夫妻是最为甜蜜之事",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "白里头白不过君子的情，黑里头黑不过贼娃子的心。",
+      "sentence": "君子的情感纯洁无瑕",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘小儿",
+      "original_sentence": "白里头白不过君子的情，黑里头黑不过贼娃子的心。",
+      "sentence": "贼娃子的心思阴暗无比",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "留下一个啄木虫刨树根挖树寻根我才提个响名。",
+      "sentence": "啄木虫刨树根挖树寻根提响名",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把这些诗条对句早丢后，提起正传来表古人。",
+      "sentence": "将诗条对句丢弃后开始讲述古人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "仁宗",
+      "original_sentence": "哪一个朝里说贤书?哪一位手里论古人?宋朝的时候说贤书，仁宗的手里论古人。",
+      "sentence": "仁宗在宋朝时期谈论贤书",
+      "behavior_type": 7
+    },
+    {
+      "role": "仁宗",
+      "original_sentence": "哪一个朝里说贤书?哪一位手里论古人?宋朝的时候说贤书，仁宗的手里论古人。",
+      "sentence": "仁宗在宋朝时期论及古人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "仁宗",
+      "original_sentence": "仁宗皇帝登了殿，朝里的事情很混乱。",
+      "sentence": "仁宗皇帝登上了大殿",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "仁宗皇帝登了殿，朝里的事情很混乱。",
+      "sentence": "朝中事务显得十分混乱",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "仁宗",
+      "original_sentence": "仁宗坐的东京件梁城、左班承相王彦林右班承相李文林天波府里的杨家将地波府里的胡家兵吏部尚书叫杜文礼部天官叫刘成南阳府风出来包明公包爷的名字叫个包文拯天子赐号是明公日断阳来夜断阴阴阳的官司就断得个清大官司断者七十二小宫司就多得数不清，包爷陈州放了粮，路过来到扬州城。",
+      "sentence": "仁宗皇帝坐镇东京汴梁城",
+      "behavior_type": 4
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "仁宗坐的东京件梁城、左班承相王彦林右班承相李文林天波府里的杨家将地波府里的胡家兵吏部尚书叫杜文礼部天官叫刘成南阳府风出来包明公包爷的名字叫个包文拯天子赐号是明公日断阳来夜断阴阴阳的官司就断得个清大官司断者七十二小宫司就多得数不清，包爷陈州放了粮，路过来到扬州城。",
+      "sentence": "包文拯被天子赐号为明公",
+      "behavior_type": 7
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "仁宗坐的东京件梁城、左班承相王彦林右班承相李文林天波府里的杨家将地波府里的胡家兵吏部尚书叫杜文礼部天官叫刘成南阳府风出来包明公包爷的名字叫个包文拯天子赐号是明公日断阳来夜断阴阴阳的官司就断得个清大官司断者七十二小宫司就多得数不清，包爷陈州放了粮，路过来到扬州城。",
+      "sentence": "包文拯在陈州完成了放粮任务",
+      "behavior_type": 10
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "仁宗坐的东京件梁城、左班承相王彦林右班承相李文林天波府里的杨家将地波府里的胡家兵吏部尚书叫杜文礼部天官叫刘成南阳府风出来包明公包爷的名字叫个包文拯天子赐号是明公日断阳来夜断阴阴阳的官司就断得个清大官司断者七十二小宫司就多得数不清，包爷陈州放了粮，路过来到扬州城。",
+      "sentence": "包文拯从陈州来到扬州城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "扬州的州官叫王庆，路上迎接包大人，扬州城上把案子问。",
+      "sentence": "包文拯在扬州城审理案件",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "扬州的州官叫王庆，路上迎接包大人，扬州城上把案子问。",
+      "sentence": "州官王庆迎接包文拯大人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "他把那包爷接到扬州城，王庆的衙里安了身。",
+      "sentence": "包文拯被接到扬州城安身",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "他把那包爷接到扬州城，王庆的衙里安了身。",
+      "sentence": "王庆在衙里安排了住处",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包爷的十个牙将带得凶，十二把铜铡护他的身。",
+      "sentence": "包文拯的牙将携带铜铡保护他",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "上四把，龙头铡，中四把，虎头铡。",
+      "sentence": "包文拯拥有十二把铜铡护身",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "仁宗",
+      "original_sentence": "下四把，狗头铡，十二把铜铡是仁宗封。",
+      "sentence": "仁宗赐予十二把铜铡",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "上四把铡的是龙子龙孙，中四把铡的是文武大臣。",
+      "sentence": "上四把铡用于处置龙子龙孙",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "上四把铡的是龙子龙孙，中四把铡的是文武大臣。",
+      "sentence": "中四把铡用于处置文武大臣",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "下四把铡的是庶民百姓，十二把铜铡说分明。",
+      "sentence": "十二把铜铡用于铡庶民百姓",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王朝",
+      "original_sentence": "包爷的十个牙将也大有名王朝马汉张龙赵虎，王连王东董超薛霸南侠展昭，北侠欧阳春。",
+      "sentence": "王朝是包文拯的得力助手",
+      "behavior_type": 12
+    },
+    {
+      "role": "马汉",
+      "original_sentence": "包爷的十个牙将也大有名王朝马汉张龙赵虎，王连王东董超薛霸南侠展昭，北侠欧阳春。",
+      "sentence": "马汉是包文拯的得力助手",
+      "behavior_type": 12
+    },
+    {
+      "role": "欧阳春",
+      "original_sentence": "包爷的十个牙将也大有名王朝马汉张龙赵虎，王连王东董超薛霸南侠展昭，北侠欧阳春。",
+      "sentence": "欧阳春是包文拯的得力助手",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这十个牙将厉害得很，能给包爷助威阵。",
+      "sentence": "十个牙将能够为包爷助威",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "竹叶青，状元红，花开两枝另表人。",
+      "sentence": "竹叶青和状元红分别代表不同人",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "表的不是别的人北门外有个俞家村。",
+      "sentence": "北门外有一个俞家村",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "俞百生",
+      "original_sentence": "俞家村有个俞员外，所生个少爷叫俞百生。",
+      "sentence": "俞员外生了一个少爷叫俞百生",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "南门外又有个沈家寨沈家寨坐的个沈员外。",
+      "sentence": "南门外有个沈家寨",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "沈员外名叫沈子红，夫妻过门半辈整家中无有个戴孝根，所生姑娘叫沈翠英。",
+      "sentence": "沈员外夫妻半辈子没有子女",
+      "behavior_type": 3
+    },
+    {
+      "role": "沈翠英",
+      "original_sentence": "沈员外名叫沈子红，夫妻过门半辈整家中无有个戴孝根，所生姑娘叫沈翠英。",
+      "sentence": "沈员外夫妻生了一个女儿",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "光阴消磨快如风日月轮转催人老。",
+      "sentence": "光阴流逝速度极快",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "姑娘养了十八了员外一见喜在心。",
+      "sentence": "沈翠英年满十八员外欣喜",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "我的姑娘成了人打听着许人要配婚。",
+      "sentence": "沈翠英已长大成人准备婚配",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "许人未许给别的人许给了俞家公子俞百生。",
+      "sentence": "沈翠英被许配给俞百生",
+      "behavior_type": 3
+    },
+    {
+      "role": "俞百生",
+      "original_sentence": "许人未许给别的人许给了俞家公子俞百生。",
+      "sentence": "俞百生与沈翠英定下婚约",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "良辰日子择现成，明个的日子就抬亲。",
+      "sentence": "良辰吉日已选定明日迎亲",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "今日个出来了个污儿鬼，小名字叫个刘小儿，大名字就是叫刘成。",
+      "sentence": "刘小儿今日出现并自称刘成",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "自幼儿耍钱赌博不务正跟上光棍们学光棍，一份子家业踢鹅尽家无吃的隔夜食。",
+      "sentence": "刘小儿自幼赌博不务正业",
+      "behavior_type": 10
+    },
+    {
+      "role": "刘小儿",
+      "original_sentence": "自幼儿耍钱赌博不务正跟上光棍们学光棍，一份子家业踢鹅尽家无吃的隔夜食。",
+      "sentence": "刘小儿耗尽家产无隔夜食",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "身无穿的两件衣无奈了偷牛盗马过光阴。",
+      "sentence": "刘小儿因贫穷而偷盗为生",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "偷了银子偷了钱害怕给偷着犯了案。",
+      "sentence": "刘小儿偷窃银钱害怕犯案",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "人人曾说个个讲头一回做贼去要偷陪房(嫁妆)偷了陪房不犯案哎!哪里偷吧哪里寻忽然想起来个好事情。",
+      "sentence": "刘小儿偷窃嫁妆未留下证据",
+      "behavior_type": 8
+    },
+    {
+      "role": "刘小儿",
+      "original_sentence": "人人曾说个个讲头一回做贼去要偷陪房(嫁妆)偷了陪房不犯案哎!哪里偷吧哪里寻忽然想起来个好事情。",
+      "sentence": "刘小儿忽然想到一个好主意",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "沈员外的姑娘沈翠英许给俞家配了婚明个的日子就抬亲我把主意要拿定今夜晚去把她的陪房偷给顿到了明个娶过门，给他个莫名其妙摸不清。",
+      "sentence": "沈翠英与俞百生即将成婚",
+      "behavior_type": 3
+    },
+    {
+      "role": "刘小儿",
+      "original_sentence": "沈员外的姑娘沈翠英许给俞家配了婚明个的日子就抬亲我把主意要拿定今夜晚去把她的陪房偷给顿到了明个娶过门，给他个莫名其妙摸不清。",
+      "sentence": "刘小儿计划偷窃沈翠英嫁妆",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "他把主意拿了个定，当天夜里就动身。",
+      "sentence": "刘小儿当夜立即动身出发",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "日落西山夜黄昏，刘小儿贼头鼠脑来到沈家门。",
+      "sentence": "刘小儿夜晚偷偷来到沈家门前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "沈家里来的客人多得很，究竟他是客，究竟他是东，谁也给了个认不清。",
+      "sentence": "沈家客人众多难以辨认身份",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "悄悄儿混进沈家的门，一趟子跑到后院中。",
+      "sentence": "刘小儿悄悄混入沈家后院",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "草垛里头安了身，到了夜里二更整，各个屋里都灭了灯。",
+      "sentence": "刘小儿在草垛中藏身至二更",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "草垛里头安了身，到了夜里二更整，各个屋里都灭了灯。",
+      "sentence": "各个房间的灯光都已熄灭",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "只有伙房里灯盏明，置办酒席忙得紧。",
+      "sentence": "伙房里正在忙着置办酒席",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "刘小儿悄悄来到姑娘的小房门，门没有扣来没有。",
+      "sentence": "刘小儿悄悄来到姑娘的小房门",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "刘小儿悄悄来到姑娘的小房门，门没有扣来没有。",
+      "sentence": "姑娘的小房门没有扣上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "倘儿开开一道缝，偷偷地进了小房门。",
+      "sentence": "刘小儿悄悄进入姑娘的小房门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "耳听着姑娘呼呼囊囊睡得深，眼看着一个皮箱在地当中有一个包袱儿软得很。",
+      "sentence": "刘小儿听见姑娘熟睡的声音",
+      "behavior_type": 6
+    },
+    {
+      "role": "刘小儿",
+      "original_sentence": "耳听着姑娘呼呼囊囊睡得深，眼看着一个皮箱在地当中有一个包袱儿软得很。",
+      "sentence": "刘小儿看见地上有一个皮箱",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "听人说绸缎软得很抱着怀里就起身。",
+      "sentence": "刘小儿抱起绸缎包袱迅速离开",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "包袱抱到后门上，打开包袱我看一看。",
+      "sentence": "刘小儿将包袱抱到后门并打开",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "究竟是个啥物件能值多少银子钱。",
+      "sentence": "刘小儿想知道包袱里是何物",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "打开包袱细观看再没有偷上个啥物件。",
+      "sentence": "刘小儿打开包袱仔细查看",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘小儿",
+      "original_sentence": "打开包袱细观看再没有偷上个啥物件。",
+      "sentence": "刘小儿未偷到任何物品",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "原来是一包子破棉花，把这个能值几个钱棉花包袱子重包上，夹上包袱子往前行，二返身又来到小房中。",
+      "sentence": "发现包袱里只有一包破棉花",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "原来是一包子破棉花，把这个能值几个钱棉花包袱子重包上，夹上包袱子往前行，二返身又来到小房中。",
+      "sentence": "将棉花包袱重新包好夹起",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "原来是一包子破棉花，把这个能值几个钱棉花包袱子重包上，夹上包袱子往前行，二返身又来到小房中。",
+      "sentence": "带着包袱返回到小房中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "棉花包袱子按到皮箱里，摸给了一把还硬着哩。",
+      "sentence": "将棉花包袱放入皮箱中",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "棉花包袱子按到皮箱里，摸给了一把还硬着哩。",
+      "sentence": "摸到一把硬物",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "听人说小鞋子包袱子硬得很，抱在怀里就起身。",
+      "sentence": "某人抱着包袱起身离开",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "包袱子抱到后门上打开我再看一看究竟又偷了个啥物件，能值多少银子多少钱。",
+      "sentence": "将包袱抱到后门并打开查看",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "再没有偷上个啥物件口对口儿偷了两个空管篮.把这个值不上半个钱。",
+      "sentence": "偷了两个空管篮且不值钱",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "走走走，再偷走，这回去了细点检，值钱些的东西拿一点。",
+      "sentence": "刘小儿决定再次前往偷窃",
+      "behavior_type": 4
+    },
+    {
+      "role": "刘小儿",
+      "original_sentence": "走走走，再偷走，这回去了细点检，值钱些的东西拿一点。",
+      "sentence": "刘小儿计划仔细检查物品",
+      "behavior_type": 10
+    },
+    {
+      "role": "刘小儿",
+      "original_sentence": "走走走，再偷走，这回去了细点检，值钱些的东西拿一点。",
+      "sentence": "刘小儿准备拿走值钱物品",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夹上管蓝往前行，又来就到小房中。",
+      "sentence": "夹上管蓝向前行走又到小房中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "再说沈馨英的老母亲正在伙房里于营生由不得一阵心急眼跳了不成心又慌、眼又跳左脸不烧右脸烧。",
+      "sentence": "沈馨英母亲在伙房感到心急眼跳",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "伙房里的营生没心干，拿了灯盏往前转。",
+      "sentence": "沈翠英无心干活拿起灯盏前行",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "瞭喀姑娘沈翠英今个晚上干的啥营生。",
+      "sentence": "沈翠英今晚正在做某些事情",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "明个的俞家来抬亲还有些事情要安顿刘小儿这里瞭得真前边不远来了一盏灯，吓得刘小儿慌了神。",
+      "sentence": "刘小儿看见灯光感到惊慌失措",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这些藏也没处藏，那些蹲也没处蹲。",
+      "sentence": "这些无处藏身那些无处蹲坐",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "俏悄儿爬进皮箱中，头上把包袱子顶了个硬，爬进皮箱藏了身。",
+      "sentence": "刘小儿悄悄爬进皮箱藏身",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "再说沈翠英的老母亲，慢慢进了小房门。",
+      "sentence": "老母亲缓慢地走进了小房门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "一瞭着姑娘睡得稳，嘟嘟囔囔骂出声。",
+      "sentence": "沈翠英看见姑娘睡得很安稳",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "一瞭着姑娘睡得稳，嘟嘟囔囔骂出声。",
+      "sentence": "有人嘟嘟囔囔地骂出声来",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "这个狗巴狼吃的，怎么睡觉不操心。",
+      "sentence": "沈翠英的母亲责备她不操心睡觉",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "房门开着没有顶，皮箱也开着一道缝。",
+      "sentence": "房门敞开且皮箱未完全关闭",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "手按住皮箱锁去硬得很皮箱盖子盖不紧。",
+      "sentence": "手按住皮箱锁但盖子无法盖紧",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "老婆子的屁股大得很，一屁股坐上颠了个劲，把刘小儿锁在了皮箱中。",
+      "sentence": "刘小儿被锁在皮箱中无法动弹",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "刘小儿这里泪纷纷锁在皮箱里哭伤心。",
+      "sentence": "刘小儿被锁在皮箱中哭泣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "哭言没有别的话，赶紧把老天爷叫几声。",
+      "sentence": "刘小儿呼唤老天爷前来帮助",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "我的天大大，我年又轻，骨又嫩。",
+      "sentence": "刘小儿感叹自己年轻骨嫩",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "时运不来今个晚上我怎么这么瞬(倒霉),这个陪房没有来偷到倒叫傢把我锁在皮箱里边了大尿憋了没处尿尿下来就给它包袱里包。",
+      "sentence": "刘小儿因被锁皮箱感到非常倒霉",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘小儿",
+      "original_sentence": "时运不来今个晚上我怎么这么瞬(倒霉),这个陪房没有来偷到倒叫傢把我锁在皮箱里边了大尿憋了没处尿尿下来就给它包袱里包。",
+      "sentence": "刘小儿被锁皮箱无法找到尿处",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "小尿憋得实难肠肚子整得膨膨胀。",
+      "sentence": "刘小儿因尿憋肚子膨胀难忍",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "实在憋者没法办豁出来尿到棉花上。",
+      "sentence": "刘小儿无奈尿在棉花上",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "千难万难，左难右难刘小儿叫锁进皮箱遭了难。",
+      "sentence": "刘小儿被锁进皮箱遭遇困境",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "刘小儿在皮箱爬了一夜整挨到了第二天清早晨。",
+      "sentence": "刘小儿在皮箱中度过一整夜",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "俞百生",
+      "original_sentence": "俞家公子俞百生，打起轿子来抬亲。",
+      "sentence": "俞百生乘轿前往迎亲",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "轿子来到沈家门，迎亲客待给了半天整。",
+      "sentence": "迎亲客在沈家门前等待许久",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "新媳妇抱到轿子上，唤着叫东家们拾皮箱。",
+      "sentence": "新媳妇被抱到轿子上",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "新媳妇抱到轿子上，唤着叫东家们拾皮箱。",
+      "sentence": "有人呼唤东家拾皮箱",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "头一个皮箱不算重，一抬抬到轿车中。",
+      "sentence": "第一个皮箱被抬到轿车里",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "第二个皮箱也不重，一拾也拾到轿车中。",
+      "sentence": "第二个皮箱被抬到轿车中",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "第三个皮箱怎么这么重，八个小伙子拾不动拾不动了拾不动.硬缩子扛到车当中打起轿车起了身、赶着来到俞家门。",
+      "sentence": "八个年轻人无法抬起第三个皮箱",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "第三个皮箱怎么这么重，八个小伙子拾不动拾不动了拾不动.硬缩子扛到车当中打起轿车起了身、赶着来到俞家门。",
+      "sentence": "他们将皮箱艰难地搬到车中",
+      "behavior_type": 4
+    },
+    {
+      "role": "俞百生",
+      "original_sentence": "第三个皮箱怎么这么重，八个小伙子拾不动拾不动了拾不动.硬缩子扛到车当中打起轿车起了身、赶着来到俞家门。",
+      "sentence": "俞百生乘坐轿子返回俞家门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "新人拜罢天地把新妆、皮箱也抬到新房炕一擦一个来摆上。",
+      "sentence": "皮箱被抬到新房炕上摆放",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "妆新妆到夜子三更整，各个屋里都灭了灯。",
+      "sentence": "各个屋子里的灯都熄灭了",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "俞百生",
+      "original_sentence": "两口子睡着安静了，玩耍的时节就到了。",
+      "sentence": "俞百生与妻子安静地入睡",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "两口子睡着安静了，玩耍的时节就到了。",
+      "sentence": "玩耍的时刻即将到来",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "俞百生",
+      "original_sentence": "新郎新娘是头一遭，傢们的玩意儿闹得好。",
+      "sentence": "俞百生与新娘初次体验新婚游戏",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "给了个张生俊，莺莺躺，又来了个吕布戏貂蝉。",
+      "sentence": "张生俊与莺莺躺下后又来了吕布戏貂蝉",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "抱住脖子把嘴亲，干了个稀罕好事情。",
+      "sentence": "两人亲密接触并亲吻对方",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这等等，那等等，搂住脖子硬哼哼。",
+      "sentence": "某人搂住脖子发出声音",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "三个裁缝怪高兴包大老爷才怪得很。",
+      "sentence": "三个裁缝对包文拯感到高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "三个裁缝怪高兴包大老爷才怪得很。",
+      "sentence": "包文拯的行为令人感到奇怪",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一夜五更不成眠，又说到第二天清早上。",
+      "sentence": "一夜五更未能入睡",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "一夜五更不成眠，又说到第二天清早上。",
+      "sentence": "第二天清晨继续交谈",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "新媳妇磕罢了四方头，来的亲戚一大群，呱喊呱叫得了不成。",
+      "sentence": "新媳妇向四方磕头后亲戚聚集",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "人人都说沈翠英的针工好，都要看一看陪房做得妙不妙。",
+      "sentence": "沈翠英的针工技艺备受称赞",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "七手八脚地抬皮箱，抬上皮箱打开看，看看陪房怎么样。",
+      "sentence": "众人七手八脚地抬起了皮箱",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "七手八脚地抬皮箱，抬上皮箱打开看，看看陪房怎么样。",
+      "sentence": "他们将皮箱打开仔细查看",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "七手八脚地抬皮箱，抬上皮箱打开看，看看陪房怎么样。",
+      "sentence": "众人查看陪房的具体情况",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "头一个皮箱也不重，一抬抬到摆礼厅。",
+      "sentence": "第一个皮箱被抬到摆礼厅",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "第二个皮箱也不重，也么抬到摆礼厅。",
+      "sentence": "第二个皮箱被抬到摆礼厅",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "第三个皮箱就重得很东家们抬得怪高兴。",
+      "sentence": "第三个皮箱非常沉重",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "第三个皮箱就重得很东家们抬得怪高兴。",
+      "sentence": "东家们高兴地抬皮箱",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "沈员外不亏是个有钱人陪上的金银财宝可多得很这个皮箱怎么这么重。",
+      "sentence": "沈员外拥有许多金银财宝",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "头一个皮箱打开看五彩的绸缎都摆上。",
+      "sentence": "皮箱内摆放着五彩绸缎",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "第二个皮箱打开看金叉子、银镯子、玉石坠子银花子摆了个齐崭崭明朗朗光光堂堂扰人眼。",
+      "sentence": "第二个皮箱内摆放着金银首饰",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "第三个皮箱打开看皮箱一揭好奇怪呕地跳出个活人来。",
+      "sentence": "第三个皮箱打开后跳出活人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "东家们一见吃一惊，沈员外做事理不通。",
+      "sentence": "东家们感到非常惊讶",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "东家们一见吃一惊，沈员外做事理不通。",
+      "sentence": "沈员外行为不合常理",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "别人家的皮箱装的金银绸缎子，傢的皮箱里陪的是贼汉子。",
+      "sentence": "皮箱内装有金银绸缎等物品",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "别人家的皮箱装的金银绸缎子，傢的皮箱里陪的是贼汉子。",
+      "sentence": "皮箱内藏有贼人而非财物",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "东家们，来来来，捉陪房、捉陪房,把这个陪房捉住叫大家看。",
+      "sentence": "东家们试图捉住陪房展示给大家",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "哗啦啦来了一阵人，把刘小儿的身袂剥了个净。",
+      "sentence": "众人将刘小儿的衣服全部剥光",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "四马攒蹄绑了个硬野狐子抽筋吊到马棚中。",
+      "sentence": "刘小儿被捆绑后吊在马棚中",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三把鞭子拧一把，十根刺条归一根。",
+      "sentence": "三把鞭子被拧成了一把",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "三把鞭子拧一把，十根刺条归一根。",
+      "sentence": "十根刺条被归为了一根",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "来的人就多得很鞭子刺条下歹心。",
+      "sentence": "众人用鞭子和刺条施加暴力",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "打得刘小儿直了声怎么说这号子瞬事情。",
+      "sentence": "刘小儿被打得无法出声",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "有心说个偷路房。",
+      "sentence": "刘小儿企图辩解偷窃行为",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "恐怕像们不饶让。",
+      "sentence": "他们恐怕不会轻易放过他",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "罢罢罢，真个罂!这会子就得说假话。",
+      "sentence": "刘小儿被迫说出虚假的话语",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "东家们都骂的我是贱男人我就打贼男人上来承认爷台们，饶了我的命听我给你们说原因我自幼儿就在比家门我给沈员外当着个小茶童他又叫我传候姑娘沈恣英整整儿侍奉给了三年整像就连我好得很傢说要连我配成婚结为百年的好婚姻给过我卷心舌头儿我连你的姑娘闹过几回玩意儿他的爹爹把他许到俞家里她嚎着喊着不想去。",
+      "sentence": "刘小儿承认自己是贼男人",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘小儿",
+      "original_sentence": "东家们都骂的我是贱男人我就打贼男人上来承认爷台们，饶了我的命听我给你们说原因我自幼儿就在比家门我给沈员外当着个小茶童他又叫我传候姑娘沈恣英整整儿侍奉给了三年整像就连我好得很傢说要连我配成婚结为百年的好婚姻给过我卷心舌头儿我连你的姑娘闹过几回玩意儿他的爹爹把他许到俞家里她嚎着喊着不想去。",
+      "sentence": "刘小儿请求饶命并说原因",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘小儿",
+      "original_sentence": "东家们都骂的我是贱男人我就打贼男人上来承认爷台们，饶了我的命听我给你们说原因我自幼儿就在比家门我给沈员外当着个小茶童他又叫我传候姑娘沈恣英整整儿侍奉给了三年整像就连我好得很傢说要连我配成婚结为百年的好婚姻给过我卷心舌头儿我连你的姑娘闹过几回玩意儿他的爹爹把他许到俞家里她嚎着喊着不想去。",
+      "sentence": "刘小儿曾在沈家当茶童",
+      "behavior_type": 10
+    },
+    {
+      "role": "沈翠英",
+      "original_sentence": "东家们都骂的我是贱男人我就打贼男人上来承认爷台们，饶了我的命听我给你们说原因我自幼儿就在比家门我给沈员外当着个小茶童他又叫我传候姑娘沈恣英整整儿侍奉给了三年整像就连我好得很傢说要连我配成婚结为百年的好婚姻给过我卷心舌头儿我连你的姑娘闹过几回玩意儿他的爹爹把他许到俞家里她嚎着喊着不想去。",
+      "sentence": "沈翠英被刘小儿侍奉三年",
+      "behavior_type": 10
+    },
+    {
+      "role": "沈翠英",
+      "original_sentence": "东家们都骂的我是贱男人我就打贼男人上来承认爷台们，饶了我的命听我给你们说原因我自幼儿就在比家门我给沈员外当着个小茶童他又叫我传候姑娘沈恣英整整儿侍奉给了三年整像就连我好得很傢说要连我配成婚结为百年的好婚姻给过我卷心舌头儿我连你的姑娘闹过几回玩意儿他的爹爹把他许到俞家里她嚎着喊着不想去。",
+      "sentence": "沈翠英不愿嫁到俞家",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "东家们都骂的我是贱男人我就打贼男人上来承认爷台们，饶了我的命听我给你们说原因我自幼儿就在比家门我给沈员外当着个小茶童他又叫我传候姑娘沈恣英整整儿侍奉给了三年整像就连我好得很傢说要连我配成婚结为百年的好婚姻给过我卷心舌头儿我连你的姑娘闹过几回玩意儿他的爹爹把他许到俞家里她嚎着喊着不想去。",
+      "sentence": "刘小儿与沈翠英关系好",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "东家们都骂的我是贱男人我就打贼男人上来承认爷台们，饶了我的命听我给你们说原因我自幼儿就在比家门我给沈员外当着个小茶童他又叫我传候姑娘沈恣英整整儿侍奉给了三年整像就连我好得很傢说要连我配成婚结为百年的好婚姻给过我卷心舌头儿我连你的姑娘闹过几回玩意儿他的爹爹把他许到俞家里她嚎着喊着不想去。",
+      "sentence": "刘小儿与沈翠英闹着玩",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "她的妈妈哄着把我锁到皮箱里当成陪房抬到俞家里。",
+      "sentence": "沈翠英被锁在皮箱里抬到俞家",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "白日家我在皮箱里，到晚来给姑娘作伴儿。",
+      "sentence": "沈翠英夜晚陪伴姑娘休息",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这就是我的真实情，再没有虚言来告禀。",
+      "sentence": "他陈述了自己的真实情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "这话说得没要紧，惊动了新房里的沈翠英。",
+      "sentence": "沈翠英在新房里听到这番话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "字字句句听了个真，气得沈翠英颤兢兢。",
+      "sentence": "沈翠英听完后感到非常愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "趴到床上哭伤心。",
+      "sentence": "沈翠英趴在床上伤心哭泣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "连连把老天爷叫几声。",
+      "sentence": "沈翠英连连呼唤老天爷",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "我的天大大，我关住门儿坐，天上掉下来这么大的祸。",
+      "sentence": "沈翠英因遭遇不幸感到极度悲伤",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "就说我连他通了奸我一个黄花闺女从没有见过奸夫的面。",
+      "sentence": "沈翠英声称自己从未见过奸夫",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "我说没有这回子事，皮箱里跳出来的怎么是奸夫?这就叫个物真事不真有嘴说不清羞愧难见人难对父母亲。",
+      "sentence": "沈翠英否认自己参与奸情",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "我说没有这回子事，皮箱里跳出来的怎么是奸夫?这就叫个物真事不真有嘴说不清羞愧难见人难对父母亲。",
+      "sentence": "物真事不真导致羞愧难当",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "难对丈夫众亲朋一蹦子跳到紫泥坑万丈的清水也洗不清。",
+      "sentence": "她感到羞愧难当无法面对众人",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "难对丈夫众亲朋一蹦子跳到紫泥坑万丈的清水也洗不清。",
+      "sentence": "她跳入紫泥坑试图洗清冤屈",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一辈子抬不起头来见不了人，活着还有个啥事情。",
+      "sentence": "因羞愧而无法面对他人生活",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "脚底里的带子解两根脚底下踩了个小。",
+      "sentence": "解下脚底的两根带子",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "带子穿到房梁上，悬梁高挂寻无常。",
+      "sentence": "带子穿到房梁上悬梁高挂",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "俞百生",
+      "original_sentence": "姑娘上吊丧了命转身儿进来了俞百生。",
+      "sentence": "俞百生转身进入房间",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "姑娘上吊丧了命转身儿进来了俞百生。",
+      "sentence": "姑娘上吊后丧命",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "门一开，吓掉魂，啊哟一个坐股墩。",
+      "sentence": "开门后被吓得跌坐在地上",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "来的亲戚朋友们吃了喝了你们不操心，新房屋里不给我留个人。",
+      "sentence": "亲戚朋友们吃喝后未留人",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "妻子悬梁高挂把无常寻撇下我丈夫一场空。",
+      "sentence": "沈翠英悬梁自尽离开人世",
+      "behavior_type": 3
+    },
+    {
+      "role": "俞百生",
+      "original_sentence": "妻子悬梁高挂把无常寻撇下我丈夫一场空。",
+      "sentence": "俞百生因妻子离世悲痛欲绝",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "沈员外做事理不通想着给我们种人命。",
+      "sentence": "沈员外做事理不通想着种人命",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "罢!罢!罢!我不哭它!丢掉的东西寻不着、死掉的人也哭不活。",
+      "sentence": "丢失的物品无法找回",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "罢!罢!罢!我不哭它!丢掉的东西寻不着、死掉的人也哭不活。",
+      "sentence": "死去的人无法复活",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "厮打不如先下手他告不如我来告。",
+      "sentence": "争斗时先发制人胜于被动应对",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "厮打不如先下手他告不如我来告。",
+      "sentence": "主动控告比被动被告更为有利",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "我们扬州城坐着个包明公断的官司清得很。",
+      "sentence": "包文拯在扬州城公正断案",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "写上状子整一份，不告沈员外我不为人手提生活笔一管.先把告子写上面不告天不告地告的是岳父沈子红姑娘养着不贵重明来夜去通奸情通了奸情还不行皮箱里给我陪着个人只顾了打贼没小心，新媳妇上吊无常寻。",
+      "sentence": "写一份状子准备告发沈员外",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "写上状子整一份，不告沈员外我不为人手提生活笔一管.先把告子写上面不告天不告地告的是岳父沈子红姑娘养着不贵重明来夜去通奸情通了奸情还不行皮箱里给我陪着个人只顾了打贼没小心，新媳妇上吊无常寻。",
+      "sentence": "状子内容涉及岳父沈子红",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "写上状子整一份，不告沈员外我不为人手提生活笔一管.先把告子写上面不告天不告地告的是岳父沈子红姑娘养着不贵重明来夜去通奸情通了奸情还不行皮箱里给我陪着个人只顾了打贼没小心，新媳妇上吊无常寻。",
+      "sentence": "沈子红姑娘行为不检点",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "写上状子整一份，不告沈员外我不为人手提生活笔一管.先把告子写上面不告天不告地告的是岳父沈子红姑娘养着不贵重明来夜去通奸情通了奸情还不行皮箱里给我陪着个人只顾了打贼没小心，新媳妇上吊无常寻。",
+      "sentence": "新媳妇上吊身亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "俞百生",
+      "original_sentence": "下缀了原告是俞百生。",
+      "sentence": "俞百生作为原告提出诉讼",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "俞百生",
+      "original_sentence": "提上状子一溜风，来去就到公堂中。",
+      "sentence": "俞百生迅速前往公堂递交状子",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "鼓咚咚升堂鼓发，黑压压闪出来包家。",
+      "sentence": "包文拯听到鼓声后立即升堂",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "眼看南山云雾霁，宋王爷成龙我是虎。",
+      "sentence": "南山云雾霁后景色清晰可见",
+      "behavior_type": 1
+    },
+    {
+      "role": "仁宗",
+      "original_sentence": "眼看南山云雾霁，宋王爷成龙我是虎。",
+      "sentence": "仁宗自比猛虎以显威严",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "是龙在龙潭，哑巴拿棍赶。",
+      "sentence": "龙在龙潭中游动",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "是龙在龙潭，哑巴拿棍赶。",
+      "sentence": "哑巴用棍子驱赶",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "王朝",
+      "original_sentence": "敲打云板宣万民，王朝马汉紧后跟。",
+      "sentence": "王朝马汉紧随其后快步跟上",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "大堂口里坐下了包文拯。",
+      "sentence": "包文拯在大堂口坐下",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "白：王朝，马汉，堂下喊冤告状的是何人?报将上来。",
+      "sentence": "包文拯询问堂下告状者身份",
+      "behavior_type": 7
+    },
+    {
+      "role": "王朝",
+      "original_sentence": "白：王朝，马汉，堂下喊冤告状的是何人?报将上来。",
+      "sentence": "王朝向包文拯报告告状者",
+      "behavior_type": 7
+    },
+    {
+      "role": "马汉",
+      "original_sentence": "白：王朝，马汉，堂下喊冤告状的是何人?报将上来。",
+      "sentence": "马汉向包文拯报告告状者",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "报告大人，告状的是俞百生，吹!大胆俞百生，有状的上状，无状的口诉。",
+      "sentence": "包文拯询问告状者身份",
+      "behavior_type": 7
+    },
+    {
+      "role": "俞百生",
+      "original_sentence": "报告大人，告状的是俞百生，吹!大胆俞百生，有状的上状，无状的口诉。",
+      "sentence": "俞百生被要求陈述案情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "俞百生",
+      "original_sentence": "俞百生跪在堂下，头顶诉人，小的有冤告状。",
+      "sentence": "俞百生跪在堂下头顶诉人",
+      "behavior_type": 12
+    },
+    {
+      "role": "俞百生",
+      "original_sentence": "俞百生跪在堂下，头顶诉人，小的有冤告状。",
+      "sentence": "俞百生声称自己有冤告状",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "快将状纸呈将上来!包爷看罢诉状齿期公子俞百生，去捉贼人刘小儿。",
+      "sentence": "包文拯命令将状纸呈上",
+      "behavior_type": 7
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "快将状纸呈将上来!包爷看罢诉状齿期公子俞百生，去捉贼人刘小儿。",
+      "sentence": "包文拯看完状纸后思考",
+      "behavior_type": 5
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "快将状纸呈将上来!包爷看罢诉状齿期公子俞百生，去捉贼人刘小儿。",
+      "sentence": "包文拯指示捉拿刘小儿",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王朝",
+      "original_sentence": "报告包大人，刘小儿捉到。",
+      "sentence": "王朝向包大人报告刘小儿被捉到",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "下面所跪小儿?正是小人倒可从来是不吃好，可是实情?确是实情，好!确是是那就好办。",
+      "sentence": "刘小儿承认自己从不做好事",
+      "behavior_type": 7
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "下面所跪小儿?正是小人倒可从来是不吃好，可是实情?确是实情，好!确是是那就好办。",
+      "sentence": "包文拯确认刘小儿的供述属实",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "尸首抬到公堂中。",
+      "sentence": "尸首被抬到公堂中央",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老爷把过阴床支在公堂上，过阴褥子也铺上。",
+      "sentence": "过阴床被支在公堂上",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "老爷把过阴床支在公堂上，过阴褥子也铺上。",
+      "sentence": "过阴褥子被铺在床上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "过阴枕头也枕上，把尸首放在过阴床，过阴的被儿又盖上。",
+      "sentence": "过阴枕头被放置在尸首头部",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "过阴枕头也枕上，把尸首放在过阴床，过阴的被儿又盖上。",
+      "sentence": "尸首被安放在过阴床上",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "过阴枕头也枕上，把尸首放在过阴床，过阴的被儿又盖上。",
+      "sentence": "过阴被褥覆盖在尸首上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "脖子里勒给了聚魂带，脚头子插给了绕魂旗。",
+      "sentence": "尸首被放置于过阴床上",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "脖子里勒给了聚魂带，脚头子插给了绕魂旗。",
+      "sentence": "聚魂带系于尸首颈部",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "脖子里勒给了聚魂带，脚头子插给了绕魂旗。",
+      "sentence": "绕魂旗插在尸首脚部",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "左面个挂的叫阴的鸡，右面个挂给了勾魂的锣。",
+      "sentence": "左侧悬挂阴鸡右侧悬挂勾魂锣",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "勾魂锣，响三声，三魂七魄听得真。",
+      "sentence": "勾魂锣声清晰传入魂魄中",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "绕魂旗子绕三绕，三魂七魄都来了。",
+      "sentence": "绕魂旗子绕动三魂七魄",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "揽魂盘，把三魂七魄揽到身。",
+      "sentence": "揽魂盘将三魂七魄聚集到身上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包爷手拿狼牙棒，向左而右拨，死的能拨活。",
+      "sentence": "包文拯用狼牙棒左右拨动",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "向右而左拨，活的能拨死。",
+      "sentence": "包文拯向右拨动使活物死亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "白：老爷拿定狼牙棒，把姑娘往活里拨，拨给了七七四十九拨，再把聚魂带儿松开。",
+      "sentence": "包文拯用狼牙棒将姑娘拨活",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "白：老爷拿定狼牙棒，把姑娘往活里拨，拨给了七七四十九拨，再把聚魂带儿松开。",
+      "sentence": "松开聚魂带儿结束拨动过程",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "醒来!醒来!唱：昏沉沉走的阴曹的路，耳听得阳间有人的声。",
+      "sentence": "昏沉中听到阳间有人声",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我阴曹地府连鬼搭话耳听得阳间人叫咱。",
+      "sentence": "阴曹地府听见阳间有人呼唤",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "慢慢儿睁开一双描花的眼，怎么就到了包老爷的大堂上。",
+      "sentence": "慢慢睁开一双描花的眼睛",
+      "behavior_type": 1
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "慢慢儿睁开一双描花的眼，怎么就到了包老爷的大堂上。",
+      "sentence": "包文拯在大堂上等待审问",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "挣扎着爬到地埃尘叫声我的青天老大人。",
+      "sentence": "挣扎着爬到地上呼叫青天大人",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我冤枉冤枉真冤枉，我关住门几坐怎么就天上跌下了这么大的祸。",
+      "sentence": "我感到非常冤枉且困惑",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "就说我通了奸了吧，我实实没有见过奸夫的面。",
+      "sentence": "她声称自己从未见过奸夫",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "说没有见过奸夫的面皮箱里怎么就出来个人?那一日我把皮箱装好上了锁，啥时节锁进去一个大男人?千思万想想不通我的青天老大人我实实的实话对你明我十二岁上楼学针工针工学着到如今，从没有见过一个男学生。",
+      "sentence": "沈翠英声称从未见过奸夫的面",
+      "behavior_type": 7
+    },
+    {
+      "role": "沈翠英",
+      "original_sentence": "说没有见过奸夫的面皮箱里怎么就出来个人?那一日我把皮箱装好上了锁，啥时节锁进去一个大男人?千思万想想不通我的青天老大人我实实的实话对你明我十二岁上楼学针工针工学着到如今，从没有见过一个男学生。",
+      "sentence": "沈翠英将皮箱装好并上了锁",
+      "behavior_type": 8
+    },
+    {
+      "role": "沈翠英",
+      "original_sentence": "说没有见过奸夫的面皮箱里怎么就出来个人?那一日我把皮箱装好上了锁，啥时节锁进去一个大男人?千思万想想不通我的青天老大人我实实的实话对你明我十二岁上楼学针工针工学着到如今，从没有见过一个男学生。",
+      "sentence": "沈翠英对此事感到十分困惑",
+      "behavior_type": 5
+    },
+    {
+      "role": "沈翠英",
+      "original_sentence": "说没有见过奸夫的面皮箱里怎么就出来个人?那一日我把皮箱装好上了锁，啥时节锁进去一个大男人?千思万想想不通我的青天老大人我实实的实话对你明我十二岁上楼学针工针工学着到如今，从没有见过一个男学生。",
+      "sentence": "沈翠英向包大人陈述实情",
+      "behavior_type": 7
+    },
+    {
+      "role": "沈翠英",
+      "original_sentence": "说没有见过奸夫的面皮箱里怎么就出来个人?那一日我把皮箱装好上了锁，啥时节锁进去一个大男人?千思万想想不通我的青天老大人我实实的实话对你明我十二岁上楼学针工针工学着到如今，从没有见过一个男学生。",
+      "sentence": "沈翠英回忆自己学针工经历",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这如今皮箱里出来个祸害根千思万想我想不通。",
+      "sentence": "皮箱里出现祸害令人想不通",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我年纪轻，骨头嫩，我今个落下这个臭名声。",
+      "sentence": "年纪轻轻便背负了恶名",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "羞愧难见众亲朋，难对我的丈夫小书生。",
+      "sentence": "沈翠英因羞愧难见亲朋丈夫",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一蹦子跳到紫泥坑，万丈清水也洗不清，我只好悬梁高挂把无常寻。",
+      "sentence": "跳入紫泥坑后无法洗清冤屈",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "一蹦子跳到紫泥坑，万丈清水也洗不清，我只好悬梁高挂把无常寻。",
+      "sentence": "最终选择悬梁自尽以求解脱",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "只说好像做睡梦，又好像真正又来到人世中。",
+      "sentence": "感觉仿佛在梦境与现实之间徘徊",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "白：叫姑娘，你真正来到阳世间了。",
+      "sentence": "有人告诉姑娘她回到阳世间",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你给我说实话，你若真和刘小儿有隐情，我给你作主，你可以和他结成良缘。",
+      "sentence": "询问对方是否与刘小儿有隐情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "如若没有隐情，从实说来，老爷我自有主张。",
+      "sentence": "包文拯要求对方如实说明情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "沈翠英再三再四，实话实说，实实与刘小儿毫不相识，真正没有隐情，包大人吩咐人役把沈翠英扶进后房。",
+      "sentence": "沈翠英表示与刘小儿毫不相识",
+      "behavior_type": 7
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "沈翠英再三再四，实话实说，实实与刘小儿毫不相识，真正没有隐情，包大人吩咐人役把沈翠英扶进后房。",
+      "sentence": "包文拯命人将沈翠英扶进后房",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "与我夫人一同安息。",
+      "sentence": "与夫人一同安息",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "吩咐差役去到大街上，大街市上捉姑娘。",
+      "sentence": "包文拯命令差役前往大街捉人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "胡老三，胡老四领着两个妹子看戏去。",
+      "sentence": "胡老三和胡老四带人去看戏",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一个叫个胡秀英一个叫个胡月英，两个姑娘长得俊。",
+      "sentence": "胡秀英和胡月英相貌俊美",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "没有言传没有问抓上给了个一溜风。",
+      "sentence": "没有言传也没有询问便迅速行动",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "又到那面大街中又捉了三个姑娘们。",
+      "sentence": "在大街上又捉了三个姑娘",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "被捉的姑娘怒气生老爷们都是些糊涂虫。",
+      "sentence": "被捉的姑娘感到非常愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们的皮箱里没有藏过人捉着我们是啥事情，还有那胡老三、胡老四.丢了妹子怪着气。",
+      "sentence": "皮箱里没有藏过任何人",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "我们的皮箱里没有藏过人捉着我们是啥事情，还有那胡老三、胡老四.丢了妹子怪着气。",
+      "sentence": "胡老三胡老四因丢妹子生气",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "一溜风跑到包公府吵着闹着告状哩。",
+      "sentence": "包文拯在府中受理了告状事宜",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "问他为啥告状哩他们说分家不公来告状。",
+      "sentence": "他们因分家不公而前来告状",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说是找他的妹子哩。",
+      "sentence": "他们声称要寻找他的妹妹",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人，心里明一人打给了三闷棍。",
+      "sentence": "包文拯心里明白打了三闷棍",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "明日我要断案情，叫你们来在公堂上听。",
+      "sentence": "包文拯宣布明日将审理案件",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "我把案子断分明，你把妹子领回程。",
+      "sentence": "包文拯宣布将案件审理清楚",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "我把案子断分明，你把妹子领回程。",
+      "sentence": "要求对方将妹妹带回家中",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "我断案子你领人，说不定还给你发赏银。",
+      "sentence": "包文拯宣布断案结果并发放赏银",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "天下哪有这么的好事情，还不夹繁尻子快些滚包大人、心里明安当姑娘们在二堂里蹲陪上夫人蹲安稳悄悄儿蹲着少出声不准吵、不要闹明日个就把你们送出门赶紧打发衙役们大街市上把姑娘们的衣裳寻。",
+      "sentence": "姑娘们在二堂里安静蹲着不出声",
+      "behavior_type": 12
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "天下哪有这么的好事情，还不夹繁尻子快些滚包大人、心里明安当姑娘们在二堂里蹲陪上夫人蹲安稳悄悄儿蹲着少出声不准吵、不要闹明日个就把你们送出门赶紧打发衙役们大街市上把姑娘们的衣裳寻。",
+      "sentence": "包文拯要求姑娘们保持安静",
+      "behavior_type": 7
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "天下哪有这么的好事情，还不夹繁尻子快些滚包大人、心里明安当姑娘们在二堂里蹲陪上夫人蹲安稳悄悄儿蹲着少出声不准吵、不要闹明日个就把你们送出门赶紧打发衙役们大街市上把姑娘们的衣裳寻。",
+      "sentence": "包文拯准备明日送姑娘们出门",
+      "behavior_type": 10
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "天下哪有这么的好事情，还不夹繁尻子快些滚包大人、心里明安当姑娘们在二堂里蹲陪上夫人蹲安稳悄悄儿蹲着少出声不准吵、不要闹明日个就把你们送出门赶紧打发衙役们大街市上把姑娘们的衣裳寻。",
+      "sentence": "包文拯派衙役寻找姑娘们衣裳",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "欧阳春",
+      "original_sentence": "红衫子、绿裤子一模一样要像像的总共要下六件子六个姑娘要穿成一样的衙役们，犯了难一模一样的六套衣裳没法办这时节站出了欧阳春说是我有个办法看是行不行。",
+      "sentence": "欧阳春提出解决衣裳问题的办法",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "欧阳春",
+      "original_sentence": "赶紧抓几个好裁缝连夜赶着快些缝。",
+      "sentence": "欧阳春建议找裁缝连夜赶制衣裳",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "欧阳春",
+      "original_sentence": "六套衣裳一晚上就能缝齐整保证叫六个姑娘穿上身。",
+      "sentence": "欧阳春安排连夜缝制六套衣裳",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包爷一听连声夸，还说是欧大侠有办法。",
+      "sentence": "包文拯称赞欧阳春有办法",
+      "behavior_type": 7
+    },
+    {
+      "role": "欧阳春",
+      "original_sentence": "包爷一听连声夸，还说是欧大侠有办法。",
+      "sentence": "欧阳春提出解决问题的方案",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "就照你的说法办，明日一早依旧来断案。",
+      "sentence": "包文拯决定按照建议明日继续审案",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "欧阳春",
+      "original_sentence": "打发了几个衙役们，四街八巷里捉裁缝。",
+      "sentence": "欧阳春派遣衙役抓捕裁缝",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "来到一家裁缝铺，三个裁缝缝衣服。",
+      "sentence": "三个裁缝正在缝制衣服",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大喊了一声，太!!哒!吃不来乖乖!白：狗裁缝，你们姓啥叫啥?噢，我是个张裁缝!你喃?我是个刘裁缝么!哪个坏肚肠的无良心，告者我们裁缝是啥事情。",
+      "sentence": "有人大声询问裁缝的姓名",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "大喊了一声，太!!哒!吃不来乖乖!白：狗裁缝，你们姓啥叫啥?噢，我是个张裁缝!你喃?我是个刘裁缝么!哪个坏肚肠的无良心，告者我们裁缝是啥事情。",
+      "sentence": "张裁缝回答自己的姓氏",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "大喊了一声，太!!哒!吃不来乖乖!白：狗裁缝，你们姓啥叫啥?噢，我是个张裁缝!你喃?我是个刘裁缝么!哪个坏肚肠的无良心，告者我们裁缝是啥事情。",
+      "sentence": "刘裁缝也回答自己的姓氏",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "大喊了一声，太!!哒!吃不来乖乖!白：狗裁缝，你们姓啥叫啥?噢，我是个张裁缝!你喃?我是个刘裁缝么!哪个坏肚肠的无良心，告者我们裁缝是啥事情。",
+      "sentence": "裁缝质问为何被告发",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你连我有多大的冤仇恨，要我的多少金子多少银，不好张口了你托上个人。",
+      "sentence": "对方表达了对冤仇和金钱的愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "给我说个清楚了我给你送，你不要在包爷的堂上诬告人。",
+      "sentence": "要求对方说明情况并停止诬告",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "那个老爷包文拯，只认事情不认人。",
+      "sentence": "包文拯处理事情公正无私",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "有多少钱儿都买不下个命一路子哭到大衙门。",
+      "sentence": "金钱无法换取生命的延续",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "有多少钱儿都买不下个命一路子哭到大衙门。",
+      "sentence": "一路哭泣着前往大衙门",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "白：禀告老爷，张刘李裁缝已然抓到。",
+      "sentence": "张刘李裁缝已被抓捕归案",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "咕!大胆的张刘李裁缝，你们为何杀人?老爷，小人们冤枉，小人们实实未曾杀人。",
+      "sentence": "包文拯质问张刘李裁缝为何杀人",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "咕!大胆的张刘李裁缝，你们为何杀人?老爷，小人们冤枉，小人们实实未曾杀人。",
+      "sentence": "张刘李裁缝声称自己未曾杀人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "未曾杀人，十八份状子为何告了你们?老爷，十八份状子究竟是何人所告，小的们不知，小的们冤枉，请大人饶命。",
+      "sentence": "包文拯质问裁缝为何被十八份状子告发",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "未曾杀人，十八份状子为何告了你们?老爷，十八份状子究竟是何人所告，小的们不知，小的们冤枉，请大人饶命。",
+      "sentence": "裁缝们声称自己不知道状子来源",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "饶命!明日审案，便知吩晓。",
+      "sentence": "包文拯说明日审案便知真相",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "今天夜里，有六套女衣，赶紧缝好，将功折罪，也未可知!大老爷，遵命，遵命!小的们赶紧连夜就缝。",
+      "sentence": "要求连夜缝制六套女衣",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "今天夜里，有六套女衣，赶紧缝好，将功折罪，也未可知!大老爷，遵命，遵命!小的们赶紧连夜就缝。",
+      "sentence": "裁缝答应立即开始工作",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "唱：红绸子，绿缎子，三个裁缝赶趟子。",
+      "sentence": "三个裁缝正在匆忙赶路",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "裁的裁，剪的剪，飞针走线快些子忙。",
+      "sentence": "裁缝们正在快速缝制衣物",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "裁缝们在屋里做针工包爷在窗子低下偷偷地听，听他们背后说些啥事情。",
+      "sentence": "包文拯在窗外偷听裁缝们谈话",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "裁缝们在屋里做针工包爷在窗子低下偷偷地听，听他们背后说些啥事情。",
+      "sentence": "裁缝们在屋内进行缝制工作",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "如若说出真情话抓住真凶就上铜铡。",
+      "sentence": "包文拯表示说出真相将严惩凶手",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "听得张裁缝发了话，两个龟娃子，你们老实说，你们哪一个把人杀，赶紧交待下。",
+      "sentence": "张裁缝询问两人是否杀人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两个小徒弟，连忙齐声答，老师傅，饶咔吧。",
+      "sentence": "两个徒弟同时回答老师傅",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们人小胆怯力量弱，哪里敢把人命杀。",
+      "sentence": "他们表示自己不敢杀人",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "倒是你老汉力气大，那天夜晚你回家，师娘的贼汉子叫你当面来挤下，你手拿钢刀把奸夫杀，你杀下了人命害大家。",
+      "sentence": "老汉持刀杀害奸夫连累众人",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "快些子你自己投案吧，免得包大人动刑罚。",
+      "sentence": "包文拯要求罪犯主动投案自首",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "张裁缝一听这番话，吓得牙巴子咯啪啪。",
+      "sentence": "张裁缝听到后感到非常害怕",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "浑身抖颤忙跪下，两个小爷爷，饶命吧。",
+      "sentence": "他浑身颤抖着慌忙跪下",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "饶了吧可不能开这个玩笑话!我连个鸡儿都不敢杀，哪里敢把奸夫杀没有的事情不要胡拉搭我们赶紧做活吧，给傢把六套衣裳赶亮子缝齐备包大人偏刃子斧头给我们砍者断个赢官司把我们的狗命来饶下，就是我们的运气大包爷在窗子外头暗暗笑把这几个裁缝吓坏了。",
+      "sentence": "张裁缝请求饶恕并否认杀人",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "饶了吧可不能开这个玩笑话!我连个鸡儿都不敢杀，哪里敢把奸夫杀没有的事情不要胡拉搭我们赶紧做活吧，给傢把六套衣裳赶亮子缝齐备包大人偏刃子斧头给我们砍者断个赢官司把我们的狗命来饶下，就是我们的运气大包爷在窗子外头暗暗笑把这几个裁缝吓坏了。",
+      "sentence": "他们决定赶制六套衣裳",
+      "behavior_type": 10
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "饶了吧可不能开这个玩笑话!我连个鸡儿都不敢杀，哪里敢把奸夫杀没有的事情不要胡拉搭我们赶紧做活吧，给傢把六套衣裳赶亮子缝齐备包大人偏刃子斧头给我们砍者断个赢官司把我们的狗命来饶下，就是我们的运气大包爷在窗子外头暗暗笑把这几个裁缝吓坏了。",
+      "sentence": "包文拯在窗外暗中发笑",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "饶了吧可不能开这个玩笑话!我连个鸡儿都不敢杀，哪里敢把奸夫杀没有的事情不要胡拉搭我们赶紧做活吧，给傢把六套衣裳赶亮子缝齐备包大人偏刃子斧头给我们砍者断个赢官司把我们的狗命来饶下，就是我们的运气大包爷在窗子外头暗暗笑把这几个裁缝吓坏了。",
+      "sentence": "裁缝们被吓得惊慌失措",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一夜五更休成眠说到第二日清早间。",
+      "sentence": "一夜五更未能入眠",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "鸡儿还没有乱叫唤，六套衣裳缝齐全。",
+      "sentence": "六套衣裳已经全部缝制完成",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "早些拿上叫大人瞭，不要叫原告看着了包大人，看衣裳各个尺寸拃一遍做得好，做得妙六套衣裳缝得好你们立了大功了。",
+      "sentence": "包文拯查看衣裳各个尺寸",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "早些拿上叫大人瞭，不要叫原告看着了包大人，看衣裳各个尺寸拃一遍做得好，做得妙六套衣裳缝得好你们立了大功了。",
+      "sentence": "六套衣裳被缝制得非常好",
+      "behavior_type": 14
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "早些拿上叫大人瞭，不要叫原告看着了包大人，看衣裳各个尺寸拃一遍做得好，做得妙六套衣裳缝得好你们立了大功了。",
+      "sentence": "包文拯称赞裁缝立下大功",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "裁缝们，放宽心昨夜晚的事情莫当真我若不说你们杀了人六套衣裳你们做不成。",
+      "sentence": "包文拯安抚裁缝昨晚之事莫当真",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "如今衣裳缝齐整一人赏你们士两银赶紧拿上干营生此事万万不可对外人明。",
+      "sentence": "包文拯赏赐裁缝们十二两银子",
+      "behavior_type": 7
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "如今衣裳缝齐整一人赏你们士两银赶紧拿上干营生此事万万不可对外人明。",
+      "sentence": "包文拯告诫裁缝们保守秘密",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "刘小儿在皮箱里听了个真，你说今夜晚上怎么这么瞬。",
+      "sentence": "刘小儿在皮箱里听到了声音",
+      "behavior_type": 6
+    },
+    {
+      "role": "",
+      "original_sentence": "刘小儿在皮箱里听了个真，你说今夜晚上怎么这么瞬。",
+      "sentence": "有人询问今夜为何如此短暂",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你喊着我们把衣裳缝，你不了这么价吓唬人。",
+      "sentence": "你让我们把衣裳缝制完成",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "你喊着我们把衣裳缝，你不了这么价吓唬人。",
+      "sentence": "你不要这样吓唬我们",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人命关天的大事情昨晚夕吓乎吓死人心又跳来手又颤针都戳不到地方上。",
+      "sentence": "昨晚的事情令人感到极度恐惧",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "亏得活儿做得快才把性命换得来。",
+      "sentence": "亏得活儿做得快才把性命换得来",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "快些走，快些走，赶紧背上银子回家走。",
+      "sentence": "他们背上银子迅速离开",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "再说老爷包文拯赶紧打发手下人。",
+      "sentence": "包文拯立即命令手下人行动",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "快些给姑娘们穿身袂，头梳光，脸洗净。",
+      "sentence": "姑娘们穿好衣服梳头洗脸",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "掸上胭脂擦上粉，身上穿上的红彩子腿上套给的绿裤子六个人打扮得像像的姑娘们坐到公案边刘小儿拿到大堂上要叫他仔细看一看哪一个是连他通奸的女娇娘刘小儿、吓破胆心里吓得着了忙我明明是做贼偷嫁妆哪里连人家的姑娘来通奸?光脸子、麻脸子姑娘长得个啥样子我没有见过她的模样子这会子六个姑娘一模样像我能把哪一个认清干?好好好，罢罢罢，胡瞅冒瞭我就乱认吧冒着了算我的狗命大，冒不着了就听天由命吧。",
+      "sentence": "刘小儿因恐惧而感到极度惊慌",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘小儿",
+      "original_sentence": "掸上胭脂擦上粉，身上穿上的红彩子腿上套给的绿裤子六个人打扮得像像的姑娘们坐到公案边刘小儿拿到大堂上要叫他仔细看一看哪一个是连他通奸的女娇娘刘小儿、吓破胆心里吓得着了忙我明明是做贼偷嫁妆哪里连人家的姑娘来通奸?光脸子、麻脸子姑娘长得个啥样子我没有见过她的模样子这会子六个姑娘一模样像我能把哪一个认清干?好好好，罢罢罢，胡瞅冒瞭我就乱认吧冒着了算我的狗命大，冒不着了就听天由命吧。",
+      "sentence": "刘小儿试图辨认六个姑娘",
+      "behavior_type": 5
+    },
+    {
+      "role": "刘小儿",
+      "original_sentence": "掸上胭脂擦上粉，身上穿上的红彩子腿上套给的绿裤子六个人打扮得像像的姑娘们坐到公案边刘小儿拿到大堂上要叫他仔细看一看哪一个是连他通奸的女娇娘刘小儿、吓破胆心里吓得着了忙我明明是做贼偷嫁妆哪里连人家的姑娘来通奸?光脸子、麻脸子姑娘长得个啥样子我没有见过她的模样子这会子六个姑娘一模样像我能把哪一个认清干?好好好，罢罢罢，胡瞅冒瞭我就乱认吧冒着了算我的狗命大，冒不着了就听天由命吧。",
+      "sentence": "刘小儿决定胡乱指认姑娘",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "刘小儿，主意定，抬起一双狗眼睛，一溜子瞅给了一阵阵。",
+      "sentence": "刘小儿抬起眼睛仔细观察",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "牙一咬，眼一瞪，叫了一声包大人。",
+      "sentence": "刘小儿咬牙瞪眼呼唤包大人",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "左面的第三个就是她，她就是连我通奸的人。",
+      "sentence": "刘小儿指认左面第三位女子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "包大人，哈哈笑，你这个狗贼不得了。",
+      "sentence": "包文拯对刘小儿的言行感到可笑",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "你给我由嘴胡编腾，拉到堂下给我尻板楞。",
+      "sentence": "包文拯命令将刘小儿拉下堂",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "第三个女娃娃她姓张，她怎么连你来通奸?你胆敢给我把白话编冤屈了沈翠英好姑娘。",
+      "sentence": "沈翠英被指责与他人通奸",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘小儿",
+      "original_sentence": "第三个女娃娃她姓张，她怎么连你来通奸?你胆敢给我把白话编冤屈了沈翠英好姑娘。",
+      "sentence": "刘小儿编造谎言诬陷沈翠英",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "打打打，狠狠地打把这个狗贼往死里打。",
+      "sentence": "将狗贼狠狠地打了一顿",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "手下人，遵了命，浑身使出吃奶的劲尻板狠狠往下楞打得刘小儿直了声。",
+      "sentence": "刘小儿被手下人打得直叫出声",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "大老爷，饶了吧饶了我的狗命吧。",
+      "sentence": "刘小儿向大老爷求饶免死",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "我赶紧给你来招认字字句句是实情。",
+      "sentence": "刘小儿招认字字句句是实情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "当日我摸进沈家门，为的是偷些嫁妆银去到姑娘的绣房中，打开皮箱摸着偷，偷三偷四偷不成。",
+      "sentence": "刘小儿潜入沈家企图偷取嫁妆",
+      "behavior_type": 10
+    },
+    {
+      "role": "刘小儿",
+      "original_sentence": "当日我摸进沈家门，为的是偷些嫁妆银去到姑娘的绣房中，打开皮箱摸着偷，偷三偷四偷不成。",
+      "sentence": "刘小儿打开皮箱试图行窃",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "先偷了一包破棉花，一钱不值丢掉它。",
+      "sentence": "刘小儿偷了一包无价值的棉花",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "又偷了一对部篮子，还是值不上个啥和啥。",
+      "sentence": "刘小儿偷了一对不值钱的篮子",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "正想着再要偷个啥进来了姑娘的老妈妈。",
+      "sentence": "正想着要偷东西时老妈妈进来",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吓得我赶紧钻皮箱头上顶了些破棉花。",
+      "sentence": "某人因恐惧而迅速躲藏起来",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老婆子，尻子大，尻子一坐把皮箱压。",
+      "sentence": "老妈妈坐在皮箱上将其压住",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "压紧皮箱上了锁把我锁到皮箱中又把我抬到婆家门。",
+      "sentence": "皮箱被压紧并上了锁",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "压紧皮箱上了锁把我锁到皮箱中又把我抬到婆家门。",
+      "sentence": "皮箱被抬到了婆家门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "第二日亲戚们摆嫁妆，又把我摆到了人面前。",
+      "sentence": "亲戚们将嫁妆摆放在人前",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "打死打活不饶命，只好承认是贼男人。",
+      "sentence": "贼男人被迫承认自己的罪行",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "早知道此话出人命悔不该胡乱说奸情。",
+      "sentence": "后悔说出导致人命的话",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我本是做贼偷陪房从没有见过姑娘的面这就是我的真实言再没虚言敢对你讲。",
+      "sentence": "他承认自己是贼并陈述实情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "白：我把你个贼子，你要早承认偷陪房，告到我老爷的公堂上。",
+      "sentence": "贼子应早承认偷陪房行为",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人急了生变哩、狗急了跳墙哩，家穷了就做贼哩么。",
+      "sentence": "人在急迫情况下会做出极端行为",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "赌博生贼心，奸情出人命。",
+      "sentence": "赌博会导致产生偷窃之心",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "赌博生贼心，奸情出人命。",
+      "sentence": "奸情会引发致命的后果",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你无故害死姑娘的命，可恶的贼子。",
+      "sentence": "贼子害死姑娘令人愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "包文拯",
+      "original_sentence": "人役们，头号铜铡抬一顶，给我把这个狗贼一铡三段。",
+      "sentence": "包文拯命令人役抬铜铡处决贼子",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一份子尸首三处子送，一截子送到俞家门，俞家埋掉下半截子。",
+      "sentence": "尸首被分成三部分送往不同地方",
+      "behavior_type": 3
+    },
+    {
+      "role": "俞百生",
+      "original_sentence": "一份子尸首三处子送，一截子送到俞家门，俞家埋掉下半截子。",
+      "sentence": "俞家将下半截尸首埋葬",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "一截子送到沈家村，沈家埋掉上半截子，人头挂到大街中，把沈翠英的清白帖儿贴到三街中，沈翠英姑娘是贞洁烈女大贤人，没有和刘小儿通过奸。",
+      "sentence": "沈翠英被证明为贞洁烈女",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘小儿",
+      "original_sentence": "一截子送到沈家村，沈家埋掉上半截子，人头挂到大街中，把沈翠英的清白帖儿贴到三街中，沈翠英姑娘是贞洁烈女大贤人，没有和刘小儿通过奸。",
+      "sentence": "刘小儿被指控与沈翠英通奸",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "若发有人他不信，狗贼的人头作证明。",
+      "sentence": "若有人不信可用狗贼人头证明",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "再把胡秀英，胡月英封到胡家门，另外的三个姑娘们每人赏给了十两银，各回各的家廊中。",
+      "sentence": "将胡秀英和胡月英封到胡家门",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "再把胡秀英，胡月英封到胡家门，另外的三个姑娘们每人赏给了十两银，各回各的家廊中。",
+      "sentence": "三个姑娘每人赏十两银子",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "再把胡秀英，胡月英封到胡家门，另外的三个姑娘们每人赏给了十两银，各回各的家廊中。",
+      "sentence": "三个姑娘各自回到家中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "唱：沈翠英原一送到俞家门，重拜天地重妆新，夫妻双双得相逢。",
+      "sentence": "沈翠英被送到俞家门重新拜堂",
+      "behavior_type": 4
+    },
+    {
+      "role": "沈翠英",
+      "original_sentence": "唱：沈翠英原一送到俞家门，重拜天地重妆新，夫妻双双得相逢。",
+      "sentence": "沈翠英与俞百生再次结为夫妻",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "沈翠英",
+      "original_sentence": "不得相逢唱相逢，不得团圆唱团圆，曲曲流流到跟前。",
+      "sentence": "沈翠英与俞百生最终得以相逢",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "不得相逢唱相逢，不得团圆唱团圆，曲曲流流到跟前。",
+      "sentence": "曲曲流流最终到达了跟前",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人人都有曲曲心，天爷倒有个拐把弯。",
+      "sentence": "人人都有曲曲心",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "人人都有曲曲心，天爷倒有个拐把弯。",
+      "sentence": "天爷倒有个拐把弯",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "刘小儿",
+      "original_sentence": "白日里害人人不肯。",
+      "sentence": "刘小儿白日里不肯害人",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "到晚来害人天不容，害来害去害本身。",
+      "sentence": "害人行为最终会害到自己",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "双双念罢贤孝传，风过云散日当先，要问这曲儿的亘古传，曲名儿就叫个《皮箱记》说的是刘小儿偷陪房，是包爷陈州放粮事一段，给你们大家把心散。",
+      "sentence": "双双念完贤孝传后风过云散",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "双双念罢贤孝传，风过云散日当先，要问这曲儿的亘古传，曲名儿就叫个《皮箱记》说的是刘小儿偷陪房，是包爷陈州放粮事一段，给你们大家把心散。",
+      "sentence": "询问曲儿名字叫皮箱记",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘小儿",
+      "original_sentence": "双双念罢贤孝传，风过云散日当先，要问这曲儿的亘古传，曲名儿就叫个《皮箱记》说的是刘小儿偷陪房，是包爷陈州放粮事一段，给你们大家把心散。",
+      "sentence": "刘小儿偷走了陪房物品",
+      "behavior_type": 8
+    },
+    {
+      "role": "包文拯",
+      "original_sentence": "双双念罢贤孝传，风过云散日当先，要问这曲儿的亘古传，曲名儿就叫个《皮箱记》说的是刘小儿偷陪房，是包爷陈州放粮事一段，给你们大家把心散。",
+      "sentence": "包文拯在陈州执行放粮",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "双双念罢贤孝传，风过云散日当先，要问这曲儿的亘古传，曲名儿就叫个《皮箱记》说的是刘小儿偷陪房，是包爷陈州放粮事一段，给你们大家把心散。",
+      "sentence": "给大家讲述故事散心",
+      "behavior_type": 7
+    }
+  ]
+]

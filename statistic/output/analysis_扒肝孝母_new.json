@@ -1,0 +1,108 @@
+[
+  {
+    "roleName": "刘金华",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 5,
+      "10": 1,
+      "7": 17,
+      "1": 2,
+      "5": 3,
+      "4": 4,
+      "12": 2,
+      "2": 6,
+      "13": 9,
+      "14": 5,
+      "6": 1
+    },
+    "total_sentences": 55,
+    "entropy": 2.990448135895558
+  },
+  {
+    "roleName": "朱金彩",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "10": 7,
+      "4": 7,
+      "3": 16,
+      "7": 22,
+      "12": 7,
+      "2": 25,
+      "11": 7,
+      "13": 4,
+      "1": 8,
+      "6": 2,
+      "8": 6,
+      "5": 6
+    },
+    "total_sentences": 117,
+    "entropy": 3.2649853334239562
+  },
+  {
+    "roleName": "白狗",
+    "roleType": "灵性动物",
+    "behaviorCounts": {
+      "3": 2,
+      "11": 1,
+      "13": 3,
+      "12": 1
+    },
+    "total_sentences": 7,
+    "entropy": 1.8423709931771084
+  },
+  {
+    "roleName": "刘婆婆",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "10": 4,
+      "9": 7,
+      "7": 18,
+      "2": 9,
+      "13": 7,
+      "11": 8,
+      "3": 10,
+      "12": 2,
+      "1": 1,
+      "6": 2,
+      "5": 2,
+      "4": 1
+    },
+    "total_sentences": 71,
+    "entropy": 3.134110149129717
+  },
+  {
+    "roleName": "张八根",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "10": 1,
+      "7": 2
+    },
+    "total_sentences": 3,
+    "entropy": 0.9182958340544896
+  },
+  {
+    "roleName": "李五根",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "10": 1,
+      "7": 2
+    },
+    "total_sentences": 3,
+    "entropy": 0.9182958340544896
+  },
+  {
+    "roleName": "玉皇大帝",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "2": 4,
+      "12": 1,
+      "7": 12,
+      "5": 2,
+      "4": 1,
+      "6": 2,
+      "3": 2
+    },
+    "total_sentences": 24,
+    "entropy": 2.209147917027245
+  }
+]

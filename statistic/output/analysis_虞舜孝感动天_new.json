@@ -1,0 +1,99 @@
+[
+  {
+    "roleName": "虞舜",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "2": 11,
+      "3": 7,
+      "8": 3,
+      "4": 6,
+      "12": 2,
+      "1": 5,
+      "13": 4,
+      "11": 1,
+      "10": 3,
+      "14": 1,
+      "7": 1
+    },
+    "total_sentences": 44,
+    "entropy": 3.088194738125839
+  },
+  {
+    "roleName": "尧帝",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "3": 5,
+      "4": 1,
+      "12": 1,
+      "1": 2,
+      "2": 2,
+      "7": 2,
+      "5": 1
+    },
+    "total_sentences": 14,
+    "entropy": 2.5495234595978324
+  },
+  {
+    "roleName": "瞽瞍",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "1": 1,
+      "3": 2,
+      "2": 3,
+      "13": 2,
+      "12": 1
+    },
+    "total_sentences": 9,
+    "entropy": 2.197159723424149
+  },
+  {
+    "roleName": "象",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "3": 1,
+      "4": 1,
+      "2": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "娥皇",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "10": 1,
+      "9": 1,
+      "4": 6,
+      "12": 1,
+      "2": 4,
+      "3": 1,
+      "8": 1
+    },
+    "total_sentences": 15,
+    "entropy": 2.3395722619867225
+  },
+  {
+    "roleName": "女英",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "10": 1,
+      "9": 1,
+      "4": 5,
+      "3": 3,
+      "2": 5,
+      "12": 1,
+      "8": 1
+    },
+    "total_sentences": 17,
+    "entropy": 2.4419235206010987
+  },
+  {
+    "roleName": "大禹",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "3": 1
+    },
+    "total_sentences": 1,
+    "entropy": 0.0
+  }
+]

@@ -1,0 +1,2556 @@
+[
+  [
+    {
+      "role": "",
+      "original_sentence": "第五节凉州贤孝《三子分财》唱词太阳上来照东坡，照了东坡再照西坡。",
+      "sentence": "太阳从东坡移动到西坡",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "东坡地里的太阳多，西坡地里的阴凉多，西坡地里的古人也多。",
+      "sentence": "东坡地里的太阳光照充足",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "东坡地里的太阳多，西坡地里的阴凉多，西坡地里的古人也多。",
+      "sentence": "西坡地里的阴凉处较多",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "东坡地里的太阳多，西坡地里的阴凉多，西坡地里的古人也多。",
+      "sentence": "西坡地里的古人数量多",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人老了下着个坡坡害腰疼，三尺长的拐棍儿也捞不动。",
+      "sentence": "老人下坡时感到腰部疼痛",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要知员外的名和姓，所生者弟兄三个人。",
+      "sentence": "员外的姓名和三个儿子被提及",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一个一个的儿郎抓成了人，一个一个的儿郎们给起了名。",
+      "sentence": "员外的三个儿子都已长大成人",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "一个一个的儿郎抓成了人，一个一个的儿郎们给起了名。",
+      "sentence": "员外的三个儿子都有了名字",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "梁青",
+      "original_sentence": "大哥起名叫梁青，二哥起名叫梁忠，惟有三哥把书念，起了个学名叫梁广。",
+      "sentence": "大哥梁青被正式命名",
+      "behavior_type": 7
+    },
+    {
+      "role": "梁忠",
+      "original_sentence": "大哥起名叫梁青，二哥起名叫梁忠，惟有三哥把书念，起了个学名叫梁广。",
+      "sentence": "二哥梁忠被正式命名",
+      "behavior_type": 7
+    },
+    {
+      "role": "梁广",
+      "original_sentence": "大哥起名叫梁青，二哥起名叫梁忠，惟有三哥把书念，起了个学名叫梁广。",
+      "sentence": "三哥梁广被正式命名",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，一个一个抓成了人，一个一个的媳妇子又给娶家中。",
+      "sentence": "他们为儿子们娶了媳妇",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "梁青",
+      "original_sentence": "大哥这里才来定亲，定亲没有往旁处定，定亲定到了龙家门，定下的龙家姑娘叫个龙月英。",
+      "sentence": "梁青与龙家姑娘龙月英定亲",
+      "behavior_type": 7
+    },
+    {
+      "role": "龙月英",
+      "original_sentence": "大哥这里才来定亲，定亲没有往旁处定，定亲定到了龙家门，定下的龙家姑娘叫个龙月英。",
+      "sentence": "龙月英与梁青定下亲事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁忠",
+      "original_sentence": "二哥这里才来定亲，定亲没有往旁处定，定亲定到张家的门，定下的张家姑娘叫张翠英。",
+      "sentence": "梁忠与张翠英定下亲事",
+      "behavior_type": 3
+    },
+    {
+      "role": "张翠英",
+      "original_sentence": "二哥这里才来定亲，定亲没有往旁处定，定亲定到张家的门，定下的张家姑娘叫张翠英。",
+      "sentence": "张翠英与梁忠定下亲事",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "梁广",
+      "original_sentence": "又一个三哥来定亲，定亲没有往旁处定，定亲定到郭家的门，定下了一个搅家不贤的妻儿名叫郭丽珍。",
+      "sentence": "梁广与郭丽珍定下亲事",
+      "behavior_type": 3
+    },
+    {
+      "role": "郭丽珍",
+      "original_sentence": "又一个三哥来定亲，定亲没有往旁处定，定亲定到郭家的门，定下了一个搅家不贤的妻儿名叫郭丽珍。",
+      "sentence": "郭丽珍与梁广定下亲事",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，一个一个的媳妇子娶家中，员外生来是个心强人。",
+      "sentence": "员外生来是个心强人",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "生下了三个儿子成了人，媳妇子一们给娶家中，三头子的家财傢置下得凶。",
+      "sentence": "生下了三个儿子并为他们娶妻",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "生下了三个儿子成了人，媳妇子一们给娶家中，三头子的家财傢置下得凶。",
+      "sentence": "三头子的家财置办得十分丰厚",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大儿子生下的儿郎多，二儿子生下的姑娘儿多，三儿子男女还没生一个。",
+      "sentence": "大儿子生下的儿郎数量较多",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "大儿子生下的儿郎多，二儿子生下的姑娘儿多，三儿子男女还没生一个。",
+      "sentence": "二儿子生下的姑娘数量较多",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "大儿子生下的儿郎多，二儿子生下的姑娘儿多，三儿子男女还没生一个。",
+      "sentence": "三儿子尚未生育任何子女",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "郭丽珍",
+      "original_sentence": "娶过门来一年半，还没有给我生下个小孩郎。",
+      "sentence": "郭丽珍婚后未生育子女",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "郭丽珍",
+      "original_sentence": "生哩么不生哩？",
+      "sentence": "郭丽珍婚后未生育子女",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，肚子里的黑货也说不定，不知道我生不生。",
+      "sentence": "不确定是否能生育后代",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三儿子若果生上个小孩童，给我再加上个小孙孙，叫我老汉的心里多安心啊。",
+      "sentence": "三儿子若生子将使老汉心安",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人老了愚蠢了，一天就操开闲心了。",
+      "sentence": "人老后变得愚蠢且爱操心",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "白昼傢忧愁着还倒罢，到晚来忧愁着睡不着觉。",
+      "sentence": "白昼忧愁夜晚难以入睡",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "等不得一更梆子二更锣，等不得三更半夜过。",
+      "sentence": "等待时间漫长难熬",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一等等着五更鸡娃儿叫，喊喊叫叫把心操。",
+      "sentence": "等待五更鸡叫时操心",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "先生们喊着起来把生意干，做活的喊着起来早早你给我地上做活去，弟兄三个也撵断着起来叫地上做活去。",
+      "sentence": "先生们喊大家起来干活",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "先生们喊着起来把生意干，做活的喊着起来早早你给我地上做活去，弟兄三个也撵断着起来叫地上做活去。",
+      "sentence": "做活的人被喊去干活",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "先生们喊着起来把生意干，做活的喊着起来早早你给我地上做活去，弟兄三个也撵断着起来叫地上做活去。",
+      "sentence": "弟兄三人被催促干活",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭丽珍",
+      "original_sentence": "不贤良的三嫂太可憎，一把把丈夫拽得硬，哎叫丈夫，你慢些起，再来我们热乎乎的焐一焐，不了急着跑。",
+      "sentence": "郭丽珍用力拽住丈夫不让其起床",
+      "behavior_type": 13
+    },
+    {
+      "role": "郭丽珍",
+      "original_sentence": "不贤良的三嫂太可憎，一把把丈夫拽得硬，哎叫丈夫，你慢些起，再来我们热乎乎的焐一焐，不了急着跑。",
+      "sentence": "郭丽珍劝说丈夫多躺一会儿",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大哥他们人口多，做着做着拼不过。",
+      "sentence": "大哥他们人口多做活拼不过",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二哥傢们的姑娘多，等到一日我们的陪房嫁妆还办不抵。",
+      "sentence": "二哥家的姑娘们嫁妆准备不足",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "有为我们夫君人两个，早些儿分家落个逍遥。",
+      "sentence": "夫妻二人希望早日分家逍遥",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三哥一听怒气生，待穿衣服着恨了声狗贼人。",
+      "sentence": "三哥听闻后感到非常愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梁广",
+      "original_sentence": "我们的三辈先人三辈子了都没有分过个家，自从把你这个贱人娶进我梁家的门，你终朝明日你挑唆着要叫分家的事。",
+      "sentence": "梁广指责妻子挑唆分家",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "分里不分你又拿不定，分开个家着又怎么样，不分家着怎么样。",
+      "sentence": "讨论分家与否的利弊问题",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我思想者傍住大树烧干柴，这个才对着哩。",
+      "sentence": "思想者认为傍住大树烧干柴正确",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "家在一打里，今个我一天吃饱喝好，啥事不管，活上一天舒服一天再说。",
+      "sentence": "一天吃饱喝好不管其他事情",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你可分上个家是为哪件？",
+      "sentence": "询问分家原因",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他们嚷着不要紧，叫那个大哥二哥傢都听了个真。",
+      "sentence": "他们大声嚷叫让大哥二哥听",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大哥一听分家话，避到东庄上不进门。",
+      "sentence": "大哥听闻分家后避至东庄",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二哥一听着分家的话，蹲着那个西庄上不回城。",
+      "sentence": "二哥听闻分家后前往西庄",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大嫂一听分家话，装下粮担防天年。",
+      "sentence": "大嫂听闻分家后准备粮食储备",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "麦子偷下了好几石，等着分开了再过周正。",
+      "sentence": "麦子被偷藏了好几石",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二嫂一听着分家的话，铜钱偷下了好几串，银子偷下了好几两，等着分开了我扯鞋面。",
+      "sentence": "二嫂偷藏铜钱和银子",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三嫂说了分家的话，白面偷了二三升，清油么偷了二三斤，后锅子里再偷着烙着吃些油饼。",
+      "sentence": "三嫂偷取白面清油烙饼食用",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "她烙油饼不要紧，叫那个烧火的丫鬟瞭了个真。",
+      "sentence": "她烙油饼被烧火丫鬟看见",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叫丫头，你要紧不要给公婆说，烙熟了我先给你掰给多半个。",
+      "sentence": "丫头被告知不要向公婆透露",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "叫丫头，你要紧不要给公婆说，烙熟了我先给你掰给多半个。",
+      "sentence": "烙熟后先分给丫头多半个",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，他们三家四靠才了不成，二哥生来尖得很，走上前来把大哥尊。",
+      "sentence": "二哥走上前来向大哥表示尊敬",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叫大哥，不好了，不妙了，我们的家事情不像了。",
+      "sentence": "有人向大哥报告家中情况不妙",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁广",
+      "original_sentence": "你看我那个三兄弟狗畜生，一天那才吃喝嫖赌都占全，一天家里不给把活生干，跟上他的那个婆姨子，婆姨子的话他爱听，还吵吵闹闹鼓闹着把家来分。",
+      "sentence": "梁广整日沉迷于吃喝嫖赌",
+      "behavior_type": 11
+    },
+    {
+      "role": "梁广",
+      "original_sentence": "你看我那个三兄弟狗畜生，一天那才吃喝嫖赌都占全，一天家里不给把活生干，跟上他的那个婆姨子，婆姨子的话他爱听，还吵吵闹闹鼓闹着把家来分。",
+      "sentence": "梁广从不参与家庭劳动",
+      "behavior_type": 10
+    },
+    {
+      "role": "梁广",
+      "original_sentence": "你看我那个三兄弟狗畜生，一天那才吃喝嫖赌都占全，一天家里不给把活生干，跟上他的那个婆姨子，婆姨子的话他爱听，还吵吵闹闹鼓闹着把家来分。",
+      "sentence": "梁广只听妻子的话吵闹分家",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "啊呀，叫大哥，家不是看靠着过的。",
+      "sentence": "家不是仅靠看就能过好的",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三家四靠倒了锅灶，倒了就倒了，倒了可起去难。",
+      "sentence": "三家四靠导致锅灶倒塌",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我思想着趁早些我们把办法想，分，分就分开过。",
+      "sentence": "趁早想办法分开过日子",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，树大了分枝哩，家大了就分家哩。",
+      "sentence": "树大分枝家大分家",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "分了就分开过，我连你两个人再把决定做。",
+      "sentence": "分开后各自独立生活",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "分了就分开过，我连你两个人再把决定做。",
+      "sentence": "我们两人共同做决定",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "怎么分开为好，两个老的怎么安放为好？",
+      "sentence": "思考如何妥善分开和安置老人",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "先做下个主意，拿定了再说这号话。",
+      "sentence": "先做出决定再讨论此事",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "梁青",
+      "original_sentence": "大哥是个忠诚老实人啊，说道，二兄弟，分么怎么的个分发么？",
+      "sentence": "梁青询问二兄弟如何分配家产",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "弟兄三个哩么，刚就三一三剩一，剁得停停的，这么傢分掉，刚也对着哩吧。",
+      "sentence": "弟兄三人决定平均分配家产",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二哥是个明白人，说是大哥不行不行，你说三一三剩一分掉，也倒对着哩，一对老爹妈怎么做？",
+      "sentence": "二哥认为大哥不同意均分家产",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "该谁养活？",
+      "sentence": "父母应由谁来负责赡养",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我思想着我们的老爹妈，天上飞的雀儿子，家里偏向的小儿子。",
+      "sentence": "我思考着父母的养育之恩",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "分家么一定跟傢的小后人，跟了么就叫跟上过去吧。",
+      "sentence": "分家后跟随小儿子生活",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们娃娃们人口多，人多了没好饭，猪多了没好食。",
+      "sentence": "人口多导致食物质量下降",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "傢们么两口子过着个日子，精细些，饭么做的斟酌些，叫傢么跟上伺候去。",
+      "sentence": "两口子过着精细的日子",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "傢们么两口子过着个日子，精细些，饭么做的斟酌些，叫傢么跟上伺候去。",
+      "sentence": "做饭需要更加斟酌",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "傢们么两口子过着个日子，精细些，饭么做的斟酌些，叫傢么跟上伺候去。",
+      "sentence": "跟上伺候过去",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我说那么傢分掉吧，叫大哥，你了蹲到东庄上，我了么就蹲到西庄上，老庄子里的东西我们不要动，一们给给傢的小后人。",
+      "sentence": "大哥在东庄上居住",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "我说那么傢分掉吧，叫大哥，你了蹲到东庄上，我了么就蹲到西庄上，老庄子里的东西我们不要动，一们给给傢的小后人。",
+      "sentence": "我在西庄上居住",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "我说那么傢分掉吧，叫大哥，你了蹲到东庄上，我了么就蹲到西庄上，老庄子里的东西我们不要动，一们给给傢的小后人。",
+      "sentence": "老庄子东西留给后人",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我思想着他爹妈也满意哩，上份子田地分给叫种，调马新车大犍牛，一们给给叫傢三兄弟用。",
+      "sentence": "田地分给三兄弟使用",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们了是个庄稼人，坑坑洼洼我们垫挖着种，世上有次人哩没有次地。",
+      "sentence": "庄稼人辛勤耕作坑洼土地",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "今年庄稼不好，明年垫挖咔，换挖咔庄稼就好了。",
+      "sentence": "明年垫挖后庄稼会变好",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "种庄稼不是一年的事。",
+      "sentence": "种庄稼需要长期坚持",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我说顺这么傢分掉，一对爹妈么跟傢的小后人，跟了么就叫跟上去，跟上么伺奉去，不知道你大哥同意吗？",
+      "sentence": "询问大哥是否同意分家方案",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大哥说：兄弟呀，你说怎么好就怎么好，反正办着不了叫两个老的着气，不了把两个老的么气坏了。",
+      "sentence": "大哥表示同意兄弟的建议",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把老的么问好，傢跟谁哩，我们到那时候了再说。",
+      "sentence": "询问老人意愿后再做决定",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叫大哥，我们的那个爹妈，从小到老就是个霸家当，商量去恐怕商量不通，不给分，再不了气坏了两个老年人。",
+      "sentence": "大哥认为父母从小霸占家产",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "叫大哥，我们的那个爹妈，从小到老就是个霸家当，商量去恐怕商量不通，不给分，再不了气坏了两个老年人。",
+      "sentence": "商量分家可能无法达成一致",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "叫大哥，我们的那个爹妈，从小到老就是个霸家当，商量去恐怕商量不通，不给分，再不了气坏了两个老年人。",
+      "sentence": "担心父母因此生气受伤害",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们早些给傢拿定个主意。",
+      "sentence": "我们应早些为他们拿定主意",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说来就来，弟兄两个，拿定了主意，赶紧么请了些当家族户，当事的年老之人，请到了家廊中，商商量量把家开分。",
+      "sentence": "弟兄两人决定请家族长辈商议分家",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大哥么就分到东庄去，二哥么就分到了西庄院。",
+      "sentence": "大哥分到东庄二哥分到西庄",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "又为三兄弟年纪轻，老庄子分给叫三兄弟蹲。",
+      "sentence": "三兄弟被分到老庄子居住",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "调马新车大犍牛分给三兄弟用，上份子田地分给叫种。",
+      "sentence": "三兄弟分得调马新车大犍牛",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "调马新车大犍牛分给三兄弟用，上份子田地分给叫种。",
+      "sentence": "上份子田地分给三兄弟耕种",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "字据一写，通人言明，签名盖章，写了个分关，一分三家子啊。",
+      "sentence": "分家字据被书写并签名盖章",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "分关一写签名盖章，再就不能更改了。",
+      "sentence": "分关签名盖章后不可更改",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "爹妈的事待概没有人提叙咔，有位大哥说道，兄弟们，我们这么傢分掉了，一对爹妈怎么做哩？",
+      "sentence": "大哥询问兄弟们关于父母安排",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三个兄弟，你得做决定，谁养活哩？",
+      "sentence": "有人询问三兄弟如何赡养父母",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老二还没有顾上说，老三一个蹦子站起来，我说我们弟兄三个，谁也是十个月怀下的，奶头上奶大的，依我老三说，一对老的么谁也能养活。",
+      "sentence": "老三站起来表达了自己的意见",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "依我说，谁养活为好？",
+      "sentence": "询问谁应该负责赡养父母",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "今个的话么就说到底，一人一个月，一人一月傢来养活，看你们两个哥哥怎么着？",
+      "sentence": "建议每人每月轮流赡养父母",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老大老二一把打掉了前门牙，再没有开口说的话呀。",
+      "sentence": "老大老二打架导致前门牙掉落",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，怎么拿下的主意就不像了？",
+      "sentence": "主意与先前决定不一致",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老庄子那给傢兄弟了，东西那送给傢兄弟了，调马新车那分给了，上份子田地也分给了。",
+      "sentence": "老庄子分给了兄弟",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "老庄子那给傢兄弟了，东西那送给傢兄弟了，调马新车那分给了，上份子田地也分给了。",
+      "sentence": "东西送给了兄弟",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "老庄子那给傢兄弟了，东西那送给傢兄弟了，调马新车那分给了，上份子田地也分给了。",
+      "sentence": "调马新车分给了",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "老庄子那给傢兄弟了，东西那送给傢兄弟了，调马新车那分给了，上份子田地也分给了。",
+      "sentence": "上份子田地分给了",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "分给了分给了吧，我们自己扒。",
+      "sentence": "他们决定自己动手获取资源",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老大说：对，三兄弟，你说一人一月就一月，先由我老大来养活呀。",
+      "sentence": "老大表示愿意先承担抚养责任",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大哥这里才着了忙，就把个爹妈来请上。",
+      "sentence": "大哥急忙将父母请来",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大哥的家里么一个月，白米细面加调货。",
+      "sentence": "大哥家里每月提供白米细面",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二哥的家里一个月，早上的八宝米汤给老人泡的是蒸卷，一人两个鸡蛋。",
+      "sentence": "二哥家为老人准备八宝米汤和鸡蛋",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "后晌的揪疙瘩赛过捋面，就把爹妈好侍奉。",
+      "sentence": "后晌的揪疙瘩赛过捋面",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "后晌的揪疙瘩赛过捋面，就把爹妈好侍奉。",
+      "sentence": "他们把爹妈好生侍奉",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "挨上三哥一个月，三儿子还有个孝娘的心呀，不贤良的三嫂就太可憎，枕头上就把丈夫尊，胳膊圈圈里把丈夫的头么揽的硬，耳朵上对话给把计策定。",
+      "sentence": "三嫂用胳膊紧紧揽住丈夫的头",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "挨上三哥一个月，三儿子还有个孝娘的心呀，不贤良的三嫂就太可憎，枕头上就把丈夫尊，胳膊圈圈里把丈夫的头么揽的硬，耳朵上对话给把计策定。",
+      "sentence": "三嫂在丈夫耳边低声定下计策",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叫丈夫，叫丈夫，一对爹妈的心，他怎么偏长着。",
+      "sentence": "一对爹妈的心偏长着",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大哥的家里他不适闲，丢下柴筐捞粪筐。",
+      "sentence": "大哥在家中不停地忙碌劳作",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二哥的家里来不闲住，丢下麻绳捞线陀。",
+      "sentence": "二哥在家中不停地忙碌劳作",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "到了我们的屋里来怎么不做活，一天拐棍子捣上在邻居家里扯嗑嗑。",
+      "sentence": "在邻居家里整天闲聊不干活",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，我们夫妻们添不上两三碗水，加了一对老祸害，一顿子添着一担子多。",
+      "sentence": "夫妻们为老人添加饮食负担",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们夫妻们调上不半把把盐，一对老祸害一加上，一顿傢调着一木碗。",
+      "sentence": "夫妻们添加少量盐到食物中",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "我们夫妻们调上不半把把盐，一对老祸害一加上，一顿傢调着一木碗。",
+      "sentence": "老祸害增加了大量食物量",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们夫妻们下不上半碗儿米，加上一对老祸害，一顿傢下着二升多。",
+      "sentence": "夫妻们做饭时米量不够",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们夫妻们吃个面条饭，我们才擀着一碗面。",
+      "sentence": "夫妻二人吃了一碗面条",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那个两个祸害一加上，一顿傢挖着两升半。",
+      "sentence": "两个祸害一顿消耗两升半",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们夫妻们调不上半碗儿醋，一对祸害加得凶，一顿傢调着几马勺。",
+      "sentence": "夫妻们调醋时祸害加得太多",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们夫妻们烧不上半捆捆柴啊，加了那个两个老祸害，一顿傢煨着牛犊子大的两个大麦秸。",
+      "sentence": "夫妻烧柴不够用",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "恨着恨着把米面下上饭做上，两个老祸害吃不上。",
+      "sentence": "他们做饭时两个老人吃不上",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "牲口半揽子人半揽，活活地苦坏你男子汉。",
+      "sentence": "生活艰辛使男子汉感到痛苦",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郭丽珍",
+      "original_sentence": "吃了饭，不做活，早早地呱喊着傢的板肠饿。",
+      "sentence": "郭丽珍饭后不劳作却喊饿",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，叫丈夫，我们的好日子打着哪里过？",
+      "sentence": "询问丈夫好日子在哪里度过",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一年轮过来，我们是挨上四个月。",
+      "sentence": "一年轮过来挨上四个月",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "连轮三年就整一年，你看就把我们的家里倒的溜球子光，我们还得跟上受饥寒。",
+      "sentence": "连续三年导致家中财产尽失",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "连轮三年就整一年，你看就把我们的家里倒的溜球子光，我们还得跟上受饥寒。",
+      "sentence": "我们因此陷入饥寒交迫困境",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叫丈夫，我说祸害吃得多，我们得注意对付着。",
+      "sentence": "祸害吃得多需要被注意对付",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你把我快送到娘家去，你就在街上买着吃。",
+      "sentence": "你把我送到娘家去",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "你把我快送到娘家去，你就在街上买着吃。",
+      "sentence": "你在街上买着吃",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "梁广",
+      "original_sentence": "这个老祸害他好串门，把他扣到门外中。",
+      "sentence": "梁广经常喜欢到处串门",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "这个老祸害他好串门，把他扣到门外中。",
+      "sentence": "将其关在门外不让进入",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大门二门你给我锁钥定，各个门上把封皮封。",
+      "sentence": "将大门二门锁好并贴上封条",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把两个老狗你给我扣到门外中，三天不了给他汤水喝，看他给我们做活不做活。",
+      "sentence": "将两个老狗扣在门外三天",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你若想了这个办法还倒罢，你若不想这办法，我你的家里我不站它。",
+      "sentence": "你若不想这办法我就不站你家里",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我不是拿绳上吊就拿刀抹脖，我不是投井就落河，我在你丈夫的手里不得活。",
+      "sentence": "此人选择自杀以结束生命",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "死了的妻子不要紧，惹下的你舅佬么歪的很，叫你论官调法受五刑。",
+      "sentence": "妻子去世后情况变得复杂",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "死了的妻子不要紧，惹下的你舅佬么歪的很，叫你论官调法受五刑。",
+      "sentence": "舅佬威胁要采取法律手段",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "谁给你量着穿，谁给你丈夫端着吃？",
+      "sentence": "无人为你们提供衣物和食物",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这个色心动了往哪里去？",
+      "sentence": "色心动了不知去向何处",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三哥生来是个面耳朵，揪掉一个能行接三个。",
+      "sentence": "三哥的耳朵被揪掉一个",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "赶紧子听了个婆姨子的话，就把个婆姨送娘家。",
+      "sentence": "听信婆姨的话后送其回娘家",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "婆姨子送到娘家里，他去在街上买着吃。",
+      "sentence": "他将妻子送回娘家后上街",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "婆姨子送到娘家里，他去在街上买着吃。",
+      "sentence": "他在街上购买食物并食用",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大门二门锁钥定，各个门上把封皮封。",
+      "sentence": "大门和二门都被锁上并贴封条",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夫妻两个老人扣到了门外中啊，天天等，日日等，天天等着个夜黄昏，怎么不见儿子媳妇子开大门啊。",
+      "sentence": "夫妻两人被锁在门外等待",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "真正拷给了这么三天整，饿得爷爷苶兮兮，饿得奶奶傢怎么晃势势。",
+      "sentence": "爷爷和奶奶饿了整整三天",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夫妻两个泪纷纷，爬到那个大门上怎么哭伤心。",
+      "sentence": "夫妻二人伤心地在大门前哭泣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "开言来我不把别的尊，忙忙就把我的老天爷叫几声。",
+      "sentence": "某人呼唤老天爷表达心中所想",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的天大大，哟，哎哟。",
+      "sentence": "老人痛苦地呼唤天大大",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我就想当年给儿郎们霸庄垄，狠不得把皇姑爷给霸到家廊中。",
+      "sentence": "当年曾试图霸占庄垄",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "霸下了万贯的家财三家分，谁知道如今把我扣到了门外中。",
+      "sentence": "霸占家财后被拒之门外",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "家财好啊家财好，家财好比是祸根苗。",
+      "sentence": "家财被视为祸根苗",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "挣下的黄金哎共百斗，死去带不上半分毫。",
+      "sentence": "挣下的黄金无法带走半分毫",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "妻儿的个巧啊妻儿也巧，妻儿傢怀揣那个杀人的刀。",
+      "sentence": "妻儿怀揣着杀人的刀",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "黄泉的路上没老少，妻儿啊杀人怎么命不老。",
+      "sentence": "黄泉路上没有老少之分",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "黄泉的路上没老少，妻儿啊杀人怎么命不老。",
+      "sentence": "妻儿杀人却未受惩罚",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一窝鸡儿一窝儿穷，辈辈的鸡娃儿傢会叫鸣。",
+      "sentence": "一窝鸡儿总是贫穷",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "虽然他们都把鸣叫了，一个一个或不相同。",
+      "sentence": "它们鸣叫的方式各不相同",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "天道一世就怕秋来旱，人活一世才怕老来难。",
+      "sentence": "天道一世最怕秋季干旱",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "天道一世就怕秋来旱，人活一世才怕老来难。",
+      "sentence": "人活一世最怕老年困难",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "八十的老儿闯花园，手扳住那个花墙我就泪不干。",
+      "sentence": "老人在花园中感到悲伤",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "花开花落啊年年都有，人老了未曾再能转少年。",
+      "sentence": "花开花落年年都有",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "花开花落啊年年都有，人老了未曾再能转少年。",
+      "sentence": "人老后无法重返少年",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一泉水经常淌有苦有甜，一家人一娘生有愚有贤。",
+      "sentence": "泉水有苦有甜家人有愚有贤",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我老汉生下了三苗根，一个一个心不同。",
+      "sentence": "老汉生下三个孩子性格各异",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大儿子二儿子去到家里你看把我陪伴着就多孝顺。",
+      "sentence": "大儿子二儿子在家陪伴孝顺",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "梁广",
+      "original_sentence": "提起这个三儿子怎么太可憎啊，把我们扣到门外中，三天了不见人影影啊，哎哟。",
+      "sentence": "梁广将父母拒之门外三天不见",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "今个我就肝花心呀，饿着我就摇铃哩，肠子饿着拧绳哩，肋巴饿着搭棚哩，我的脑袋饿着怎么困痛哩，啊，哎哟。",
+      "sentence": "饥饿导致身体多处不适",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "浑身无力难扎挣，两腿发酸走不动。",
+      "sentence": "身体无力难以支撑行动",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "梁广",
+      "original_sentence": "你看这如今，怎么还是不进门。",
+      "sentence": "梁广至今仍未踏入家门",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "该下怎么办，怎么办，个人快把办法想。",
+      "sentence": "个人需要尽快想出解决办法",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "爷爷么夹了个筐筐，爬哩磨哩拾烧的。",
+      "sentence": "爷爷拿着筐子去拾烧的",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "奶奶么就爬哩磨哩，跑到当家族户借饭米。",
+      "sentence": "奶奶前往家族户借饭米",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "东庄上借了一碗面，西家里给了一个大砂锅。",
+      "sentence": "东庄借了一碗面西家给砂锅",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "奶奶加住无情火，夹住柴未儿就吹火。",
+      "sentence": "奶奶夹住柴火开始吹火",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "早晨吹到晌午过，没牙的老婆子吹不着个火。",
+      "sentence": "老婆子长时间未能点燃火",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "爷爷接着过来就吹火，一口吹着太猛了，全脸胡子怎么燎尽了。",
+      "sentence": "爷爷吹火时胡子被燎尽",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "气得爷爷颤兢兢，拿起来了个石头往掉砸锅头。",
+      "sentence": "爷爷愤怒地拿起石头砸锅",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "奶奶忙挡硬，砸不得，砸不得，锅是借上人家的，你砸掉也改不了你的恨。",
+      "sentence": "奶奶急忙阻止爷爷砸锅行为",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "走，老丈夫，我们写上个状子了告他走。",
+      "sentence": "他们决定写状子去告发他人",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "啊，老伴儿，告啥哩，腰里没一打，这个赢状子打不下。",
+      "sentence": "老伴表示无法打赢这场官司",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "天下的衙门傢朝南开，有理没钱也难进来。",
+      "sentence": "衙门朝南开有理没钱难进",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "儿子告老子也告不得，老子告儿子也告不得。",
+      "sentence": "儿子和老子都无法互相控告",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "告下就为了是受王法，再不了带累了孝顺的那两个。",
+      "sentence": "告状是为了受到法律保护",
+      "behavior_type": 7
+    },
+    {
+      "role": "梁青",
+      "original_sentence": "告下就为了是受王法，再不了带累了孝顺的那两个。",
+      "sentence": "梁青不愿连累孝顺的兄弟",
+      "behavior_type": 2
+    },
+    {
+      "role": "梁忠",
+      "original_sentence": "告下就为了是受王法，再不了带累了孝顺的那两个。",
+      "sentence": "梁忠不愿连累孝顺的兄弟",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，姊妹七八个，扳住桅杆坐。",
+      "sentence": "姊妹七八个坐在桅杆旁边",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一个惹下祸，都把皮袄脱。",
+      "sentence": "众人因惹祸而纷纷脱去皮袄",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "当是告一个，三个都得带上。",
+      "sentence": "告一个必须带上另外三个",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "告不得，告不得啊！",
+      "sentence": "他们无法进行法律诉讼",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他们正在门上谤论，过来了个邻舍看的真啊。",
+      "sentence": "邻舍看见他们在门上议论",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "甩开腿子一溜风，赶紧跑到东西庄，大哥二哥信通上。",
+      "sentence": "快速奔跑至东西庄",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "甩开腿子一溜风，赶紧跑到东西庄，大哥二哥信通上。",
+      "sentence": "向大哥二哥传递信息",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叫大哥、二哥们，两个龟娃子，你的爹爹妈妈叫你三兄弟扣到门外头，三天了两口子没有进过门。",
+      "sentence": "有人通知大哥二哥父母被关门外",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你的爹妈在大门道里爬着动哭声，你们才过着个好福分。",
+      "sentence": "父母在大门道里哭泣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大哥二哥吓得，一天傢才甩开腿子一溜风，一趟子跑到老庄门。",
+      "sentence": "大哥二哥迅速跑向老庄门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大哥搀住老父亲，二哥搀住老母亲。",
+      "sentence": "大哥搀扶着年迈的父亲",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "大哥搀住老父亲，二哥搀住老母亲。",
+      "sentence": "二哥搀扶着年迈的母亲",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，我的老爹妈，老爹妈，模样儿好像活菩萨，眼睛儿好像胡椒儿大，可怜了我的老爹妈。",
+      "sentence": "父母的模样像活菩萨",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "哎，我的老爹妈，老爹妈，模样儿好像活菩萨，眼睛儿好像胡椒儿大，可怜了我的老爹妈。",
+      "sentence": "父母的眼睛像胡椒大",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "哎，我的老爹妈，老爹妈，模样儿好像活菩萨，眼睛儿好像胡椒儿大，可怜了我的老爹妈。",
+      "sentence": "父母的情况令人怜悯",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三兄弟我把你个狗畜生，你不养活了你早吐清，你不能把爹妈拷坏到大门墩。",
+      "sentence": "三兄弟指责对方虐待父母",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁青",
+      "original_sentence": "大哥说，叫二兄，公鸡下蛋就没指望，连这个三兄弟指望着孝顺娘，我看着不是邻舍通上个信，把爹妈都饿死到大门洞。",
+      "sentence": "梁青表示三兄弟无法指望孝顺",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "大哥说，叫二兄，公鸡下蛋就没指望，连这个三兄弟指望着孝顺娘，我看着不是邻舍通上个信，把爹妈都饿死到大门洞。",
+      "sentence": "父母最终饿死在大门洞里",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "梁青",
+      "original_sentence": "走吧，你么背上老母亲，我了背上老父亲。",
+      "sentence": "梁青背着老母亲离开",
+      "behavior_type": 4
+    },
+    {
+      "role": "梁忠",
+      "original_sentence": "走吧，你么背上老母亲，我了背上老父亲。",
+      "sentence": "梁忠背着老父亲离开",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们去了快尽心竭力的好侍奉，一年他能吃我们的多少饭，四季能穿多少衣。",
+      "sentence": "他们尽心竭力地侍奉父母",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们的爹妈我们来侍奉，不靠他三兄弟这个狗畜生。",
+      "sentence": "我们决定亲自侍奉父母",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大哥背了个老父亲，二哥背了个老母亲。",
+      "sentence": "大哥背着老父亲二哥背着老母亲",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "忙忙背到家廊中，铺床叠被好侍奉。",
+      "sentence": "他们匆忙将父母背回家中",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "忙忙背到家廊中，铺床叠被好侍奉。",
+      "sentence": "他们铺床叠被准备侍奉父母",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，十二监察神察的紧，再给这个弟兄三个断庄垄。",
+      "sentence": "十二监察神正在密切监察此事",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "哎，十二监察神察的紧，再给这个弟兄三个断庄垄。",
+      "sentence": "他们再次为三兄弟划分田地",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大哥的人来傢孝父亲，庄稼打着个十五分。",
+      "sentence": "大哥背着父亲回到家中",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "大哥的人来傢孝父亲，庄稼打着个十五分。",
+      "sentence": "庄稼收成达到十五分",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "梁忠",
+      "original_sentence": "二哥人来傢孝母亲，庄稼收着二十分。",
+      "sentence": "梁忠孝顺母亲获得丰收",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "有一个三哥爹妈的身上不孝顺，种上一斗才收着五升。",
+      "sentence": "三哥对父母不孝顺导致收成差",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "场上码下了个拃拃儿垛，黄老鼠衔着给他垫窝窝。",
+      "sentence": "黄老鼠衔着物品给他垫窝窝",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "收下了几个还没处搁，装着一个葫芦里叫小老鼠子磕。",
+      "sentence": "收下的东西无处存放",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三哥那才种庄稼没收成，分给的调马犍牛，牛害蹄患马遭瘟，一个一个都死了个净。",
+      "sentence": "三哥种庄稼收成极差",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "三哥那才种庄稼没收成，分给的调马犍牛，牛害蹄患马遭瘟，一个一个都死了个净。",
+      "sentence": "分得的牛马都病死了",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "害着三哥的家里无吃用，各顾神通过个周正。",
+      "sentence": "三哥家中缺乏食物和用品",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "害着三哥的家里无吃用，各顾神通过个周正。",
+      "sentence": "各自寻求神明保佑渡过难关",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，三哥家里没吃的，没交的，开始就往掉里卖土地。",
+      "sentence": "三哥因贫困开始变卖土地",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把那个好地又卖给人，卖了银子几百两，买着吃来么买着穿。",
+      "sentence": "将好地卖出获得几百两银子",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "将将花给了多半年，就把地卖上的钱花了个光。",
+      "sentence": "卖地所得钱财很快被消耗殆尽",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "开始又卖房屋，终日卖一间，务日卖两间，连卖三年整，卖着自己都没处蹲。",
+      "sentence": "他开始出售房屋最终无处居住",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "女人认不得他男人，男人也不顾他女人，各顾神通快过个周正。",
+      "sentence": "夫妻之间互不相认且互不关心",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三哥买了个扁担，买了两根绳，深山里担柴卖柴就不进门，一个人顾着一个人。",
+      "sentence": "三哥购买扁担和绳索用于担柴",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "三哥买了个扁担，买了两根绳，深山里担柴卖柴就不进门，一个人顾着一个人。",
+      "sentence": "三哥独自在深山中担柴卖柴",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "三哥买了个扁担，买了两根绳，深山里担柴卖柴就不进门，一个人顾着一个人。",
+      "sentence": "三哥独自一人生活不回家",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三嫂害着无法办，姐姐家去借了几个钱。",
+      "sentence": "三嫂向姐姐家借了几个钱",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "买了个扁担买了两只子桶，在琉璃井上担水卖水就过光景。",
+      "sentence": "购买扁担和水桶用于担水卖水",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三嫂担水难得很，前头桶里的水有人买，后头桶里的水没人买。",
+      "sentence": "三嫂担水前后桶销售情况不同",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "为什么后头桶子里的水没人买？",
+      "sentence": "后桶水无人购买原因不明",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "到跟前人把嘴蒙住，怎么就鼻子里闻着股子尿臊气。",
+      "sentence": "有人闻到尿臊气味",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "卖来卖去卖了多少日，整整卖了整半年。",
+      "sentence": "卖水持续了整整半年时间",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "就到六月六的正晌午，雷部里的将军怪着气。",
+      "sentence": "雷部将军在正午时分感到愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "晴溜溜的天爷铺乌云，咔嚓五雷响一声，没头的孤鬼见阎君。",
+      "sentence": "天空突然布满乌云并响起雷声",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "晴溜溜的天爷铺乌云，咔嚓五雷响一声，没头的孤鬼见阎君。",
+      "sentence": "无头孤魂最终见到阎罗王",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "身子殛了个焦火棍，人头提着送到她的娘家的门。",
+      "sentence": "身体被雷击成焦炭状",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "身子殛了个焦火棍，人头提着送到她的娘家的门。",
+      "sentence": "人头被送至其娘家门前",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三哥在深山打柴不小心，狼虫虎豹围着来了一大阵。",
+      "sentence": "三哥在深山被狼虫虎豹围住",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "再的身上哪些也没有动，就把那个鼻疙瘩耳朵叫狼啃尽。",
+      "sentence": "狼啃尽了鼻疙瘩耳朵",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "为什么鼻疙瘩耳朵叫狼啃尽，他就是那个终日听老婆务日听老婆，叫狼娃子啃了个少鼻疙瘩无耳朵。",
+      "sentence": "狼啃尽了他的鼻子和耳朵",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "梁青",
+      "original_sentence": "大哥二哥的家里你看是好丰盛，一对爹妈侍奉了三年整，一竹杆挄倒了两个人。",
+      "sentence": "梁青和梁忠侍奉父母三年整",
+      "behavior_type": 10
+    },
+    {
+      "role": "梁忠",
+      "original_sentence": "大哥二哥的家里你看是好丰盛，一对爹妈侍奉了三年整，一竹杆挄倒了两个人。",
+      "sentence": "梁忠和梁青侍奉父母三年整",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "大哥二哥的家里你看是好丰盛，一对爹妈侍奉了三年整，一竹杆挄倒了两个人。",
+      "sentence": "一竹杆击倒了两个人",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "早晨起来父亲亡，没有到晌午母亲亡。",
+      "sentence": "父亲和母亲在早晨相继去世",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "请了一堂僧一堂道，柏木棺材桑木套，一棺一椁忙装了。",
+      "sentence": "请僧道准备棺材装殓",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "七七百日都做尽，一天抬了两道灵。",
+      "sentence": "一天之内抬了两道灵柩",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "梁青",
+      "original_sentence": "做超度做了七七四十九天整，把一对爹妈殡到祖坟茔。",
+      "sentence": "梁青为父母做了四十九天超度",
+      "behavior_type": 3
+    },
+    {
+      "role": "梁青",
+      "original_sentence": "做超度做了七七四十九天整，把一对爹妈殡到祖坟茔。",
+      "sentence": "梁青将父母安葬在祖坟中",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "坟茔里坛香祭了祖，家里坛香祭了祖。",
+      "sentence": "坟茔和家中都进行了祭祖仪式",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "又打七天七夜的罗天醮，罗天大醮谢尊神，后有大炮谢神灵。",
+      "sentence": "举行七天七夜的罗天大醮仪式",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "又打七天七夜的罗天醮，罗天大醮谢尊神，后有大炮谢神灵。",
+      "sentence": "用大炮感谢神灵的保佑",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大哥二哥的家里是好福分，大哥二哥的家里好名声。",
+      "sentence": "大哥二哥家里拥有好福分好名声",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这就是上清了粮草不怕官，孝顺了父母们才不怕天。",
+      "sentence": "上清粮草后不再惧怕官府",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "这就是上清了粮草不怕官，孝顺了父母们才不怕天。",
+      "sentence": "孝顺父母后不再畏惧上天",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "梁广",
+      "original_sentence": "自种自吃的乐安然，三哥因为爹妈的身上不孝顺，自己的生活自己弄，自己落下了个啥名声。",
+      "sentence": "梁广因不孝顺父母而名声败坏",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "自种自吃的乐安然，三哥因为爹妈的身上不孝顺，自己的生活自己弄，自己落下了个啥名声。",
+      "sentence": "自种自吃的生活乐得安然",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一父一母葬罢了，双双贤传给你们念完了。",
+      "sentence": "父母葬礼完毕传颂贤德事迹",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要听此曲的亘古传，《三子分财》的书一段。",
+      "sentence": "此曲传颂三子分财故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问二十四孝的哪一孝？",
+      "sentence": "询问二十四孝中的具体事例",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这是二十四孝的第五孝啊。",
+      "sentence": "这是二十四孝中的第五孝",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "贤人听，愚人听，贤人愚人大家听。",
+      "sentence": "贤人和愚人都在聆听故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "贤人听着此事情，这是世上的真事情，爹妈们老了就得好侍奉。",
+      "sentence": "贤人听着世上真实的事情",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "贤人听着此事情，这是世上的真事情，爹妈们老了就得好侍奉。",
+      "sentence": "爹妈老了需要好好侍奉",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "过了愚人的耳边风，还说唱贤孝的不通情。",
+      "sentence": "愚人认为贤孝不通情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "前朝也可有，古时生下的男女娃娃们多，这些关了草场门，那些还有个放料处。",
+      "sentence": "前朝古时生下的男女娃娃众多",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，儿子们媳妇子不孝顺，姑娘去也能占几成。",
+      "sentence": "儿子们和媳妇子不孝顺",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "哎，儿子们媳妇子不孝顺，姑娘去也能占几成。",
+      "sentence": "姑娘去也能占几成",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这个儿子不孝顺，那个儿子家去也能吃一顿。",
+      "sentence": "儿子家去也能吃一顿",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "如今的时光可不像了，娃娃们么急缺了。",
+      "sentence": "如今的时光已经不同以往",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "如今的时光可不像了，娃娃们么急缺了。",
+      "sentence": "娃娃们数量急剧减少",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你们若果爹妈的身上不孝顺，你们老了怎么弄，你们就叫谁侍奉？",
+      "sentence": "询问不孝顺者年老时如何被照顾",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "如今的情况就这个情况，那才谁也盼望着生个儿郎。",
+      "sentence": "人们都盼望能够生个儿子",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "生不下个儿郎，计划生育上也不能饶让。",
+      "sentence": "计划生育政策不允许超生",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "身怀他才有了孕，要避计划生育在外面个来打工。",
+      "sentence": "为避计划生育外出打工",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "屋里的家财都撩尽，盼下了一个男娃娃，夫妻两个转回家。",
+      "sentence": "夫妻二人终于盼得一个男娃娃",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "屋里的家财都撩尽，盼下了一个男娃娃，夫妻两个转回家。",
+      "sentence": "夫妻二人带着孩子返回家中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "回到家里再抓娃娃，把娃娃送到学堂。",
+      "sentence": "回到家中继续抓娃娃",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "回到家里再抓娃娃，把娃娃送到学堂。",
+      "sentence": "将娃娃送到学堂里去",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "读书读上十年，考去了没个情况。",
+      "sentence": "读书十年后考试没有结果",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "就在家里胡晃，就在街上流浪。",
+      "sentence": "某人在家中闲逛在街上游荡",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "傢还谈下了个婆娘，还要下个大套楼房。",
+      "sentence": "他谈下了一个婆娘并买下大套楼房",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你若不买个大套楼房，我连你就不能情愿。",
+      "sentence": "若不买楼房便不能情愿",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把小伙子害了个零干，跑到家里连娘老子谈判。",
+      "sentence": "小伙子与父母进行谈判",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "唵，我么谈下了个婆娘，今个么要下个楼房。",
+      "sentence": "谈下婆娘并要下楼房",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你若不给我买个楼房，我就出家当了和尚。",
+      "sentence": "若不买楼房就会选择出家",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把老子吓得在地下胡转，把娘们子吓了个零干，打发叫老汉们转账。",
+      "sentence": "父亲被吓得在地下团团转",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "把老子吓得在地下胡转，把娘们子吓了个零干，打发叫老汉们转账。",
+      "sentence": "母亲被吓得惊慌失措",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "把老子吓得在地下胡转，把娘们子吓了个零干，打发叫老汉们转账。",
+      "sentence": "他们要求老汉进行转账",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "亲戚朋友家跑遍，又是帮人贷款，给傢买这个楼房。",
+      "sentence": "亲戚朋友家跑遍",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "亲戚朋友家跑遍，又是帮人贷款，给傢买这个楼房。",
+      "sentence": "帮人贷款买楼房",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "儿子么买下了楼房，老汉给傢家里苦干。",
+      "sentence": "儿子已经买下了新楼房",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "儿子么买下了楼房，老汉给傢家里苦干。",
+      "sentence": "老汉在家中辛苦地劳作",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不到半年就生下了个儿郎。",
+      "sentence": "不到半年就生下了一个儿子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "年轻人图着个清闲，娃娃们送到家里老鬼给我抓上。",
+      "sentence": "年轻人追求清闲将孩子送回家",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "年轻人图着个清闲，娃娃们送到家里老鬼给我抓上。",
+      "sentence": "老人负责照顾家中的孩子",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把娘老子害得零干，又给傢苦干、还账，又给傢抓养儿郎。",
+      "sentence": "娘老子被害得一无所有",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "把娘老子害得零干，又给傢苦干、还账，又给傢抓养儿郎。",
+      "sentence": "他们辛苦劳作并偿还债务",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "把娘老子害得零干，又给傢苦干、还账，又给傢抓养儿郎。",
+      "sentence": "他们抚养并照顾年幼孩子",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不给个娃娃抚养，三月五月跑上来把娃娃去看，傢还说的把傢的娃娃缠成个土蛋，老两口子还待概不敢言传。",
+      "sentence": "老两口子不敢言传",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "虽然给儿子买下的楼房，老汉还没有闯过楼房，不知道在什么地方，想闯咔楼房还没个时间。",
+      "sentence": "老汉尚未有机会进入楼房",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "虽然给儿子买下的楼房，老汉还没有闯过楼房，不知道在什么地方，想闯咔楼房还没个时间。",
+      "sentence": "老汉不知道楼房具体位置",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "虽然给儿子买下的楼房，老汉还没有闯过楼房，不知道在什么地方，想闯咔楼房还没个时间。",
+      "sentence": "老汉没有时间去查看楼房",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "冬水浇过，天爷下哈雪了有个时间。",
+      "sentence": "冬天浇水后天降雪了",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "搭了个车跑到城上，闯咔儿子的楼房。",
+      "sentence": "乘车前往城市寻找儿子的楼房",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "去到傢的楼房门上，把泥鞋脱掉把踏鞋踏上。",
+      "sentence": "在楼房门前脱下泥鞋换上踏鞋",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老汉冻了个零干，一摸哩床上的电褥子很烫，赶紧偎到床上。",
+      "sentence": "老汉感到寒冷赶紧上床取暖",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郭丽珍",
+      "original_sentence": "媳妇子还骂着这个老猥琐，糊脏了我的床单。",
+      "sentence": "郭丽珍辱骂老汉弄脏床单",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把老汉害了个零干，眼泪就连那个雨像，悔不该来到城上。",
+      "sentence": "老汉感到极度寒冷和后悔",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "鼻子擤下来没处去，擦到个人的袖筒里。",
+      "sentence": "鼻子擤下来后擦到袖筒里",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "痰吐咔下来没处吐，拌搭咔了原亦咽下去。",
+      "sentence": "痰无处可吐只能咽下去",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把老汉给了个零干，回到家里还得抓傢的儿郎。",
+      "sentence": "老汉回到家中寻找儿子",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老汉发的愁肠，一晚夕爬不到天亮。",
+      "sentence": "老汉因忧愁而整夜难眠",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一夜爬到天亮，老汉起来进的是牛圈，老婆子进的厨房。",
+      "sentence": "老汉整夜未眠直到天亮",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "一夜爬到天亮，老汉起来进的是牛圈，老婆子进的厨房。",
+      "sentence": "老汉清晨进入牛圈劳作",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "一夜爬到天亮，老汉起来进的是牛圈，老婆子进的厨房。",
+      "sentence": "老婆子早晨进入厨房做饭",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "年轻的睡到十点，你还不敢言传。",
+      "sentence": "年轻人睡到十点不敢说话",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一言传就连你嚷仗，起来还嫌好着吃的是冰饭。",
+      "sentence": "一言传就会引发争吵",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "一言传就连你嚷仗，起来还嫌好着吃的是冰饭。",
+      "sentence": "起来还嫌吃的是冰饭",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "屋里的活生不给你苦干，就在街上流浪。",
+      "sentence": "某人在街上流浪不干活",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "情况就这么个情况，也不是我王瞎子编下的流堂，唱的都是个实际情况，如今情况就这样。",
+      "sentence": "王瞎子陈述实际情况并非编造",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "《三字分财》一节一节交代清，给你们大家才散了一散心。",
+      "sentence": "三字分财被一节节交代清楚",
+      "behavior_type": 7
+    }
+  ]
+]

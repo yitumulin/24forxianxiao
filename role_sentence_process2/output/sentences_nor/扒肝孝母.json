@@ -1,0 +1,3400 @@
+[
+  [
+    {
+      "role": "",
+      "original_sentence": "第四节凉州贤孝《扒肝孝母》唱词三九真理传天下，二十四孝说贤人。",
+      "sentence": "三九真理在天下广泛传播",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "第四节凉州贤孝《扒肝孝母》唱词三九真理传天下，二十四孝说贤人。",
+      "sentence": "二十四孝讲述贤人的故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把这些子闲言丢口后，提起正传来表古人。",
+      "sentence": "讲述者开始叙述古人的故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个朝里说贤书？",
+      "sentence": "哪个朝代讲述贤书故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个孝里么论古人？",
+      "sentence": "讨论孝道中的古人故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "列国手里说贤书，第四孝里论古人。",
+      "sentence": "列国时期讲述贤书内容",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "列国手里说贤书，第四孝里论古人。",
+      "sentence": "第四孝道讨论古人故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "问了贤人家何地？",
+      "sentence": "询问贤人居住的具体地点",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "高名上姓又在哪里？",
+      "sentence": "询问贤人的姓名和所在地",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "家住本在山西的临汾县，朱临小巷里有家院。",
+      "sentence": "家原本位于山西临汾县",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那庄里倒坐个刘百万，刘百万家中家大又强悍。",
+      "sentence": "刘百万家中拥有大量财富",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "家中生下着几苗根，一个有名的少爷叫个刘金华。",
+      "sentence": "刘百万家中生下了刘金华",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "刘金华读书成了人，劳动宾公一双人，要给学生把亲来定，定亲没有往旁处定，定亲定到朱家里来，定下了贤良小姐名叫朱金彩。",
+      "sentence": "刘金华通过读书成为有用之人",
+      "behavior_type": 3
+    },
+    {
+      "role": "刘金华",
+      "original_sentence": "刘金华读书成了人，劳动宾公一双人，要给学生把亲来定，定亲没有往旁处定，定亲定到朱家里来，定下了贤良小姐名叫朱金彩。",
+      "sentence": "刘金华决定与朱金彩定亲",
+      "behavior_type": 10
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "刘金华读书成了人，劳动宾公一双人，要给学生把亲来定，定亲没有往旁处定，定亲定到朱家里来，定下了贤良小姐名叫朱金彩。",
+      "sentence": "朱金彩被选定为刘金华配偶",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "一十六岁送过了婚，十七上娶到了刘家的门。",
+      "sentence": "朱金彩十六岁时被送到刘家",
+      "behavior_type": 4
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "一十六岁送过了婚，十七上娶到了刘家的门。",
+      "sentence": "朱金彩十七岁嫁入刘家门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "偏偏黄道日子不办亲，偏偏那黑道日子要办亲。",
+      "sentence": "他们选择在黑道日子办婚事",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "黑煞老爷打着空中过，冲散了一家人等的好缘分。",
+      "sentence": "黑煞老爷冲散了他们的缘分",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "自从那小姐到婆家，一家人等就没缘法。",
+      "sentence": "朱金彩到婆家后家人关系恶化",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "白狗",
+      "original_sentence": "众明公，细听真，妇女们长的白狗心，白狗才长的温土心。",
+      "sentence": "白狗的心脏被替换为土心",
+      "behavior_type": 3
+    },
+    {
+      "role": "白狗",
+      "original_sentence": "众明公，细听真，妇女们长的白狗心，白狗才长的温土心。",
+      "sentence": "妇女获得白狗的心脏",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "一天不给着三顿饱饭吃，三顿的饱打就免不下。",
+      "sentence": "刘婆婆不给朱金彩三顿饱饭吃",
+      "behavior_type": 10
+    },
+    {
+      "role": "刘婆婆",
+      "original_sentence": "一天不给着三顿饱饭吃，三顿的饱打就免不下。",
+      "sentence": "刘婆婆每天打朱金彩三顿饱打",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "早晨待起就一顿，不到晌午又一顿。",
+      "sentence": "早晨吃一顿不到中午又一顿",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "还有一顿紧后跟，折掇着小姐不像个人。",
+      "sentence": "小姐被折磨得不成人形",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "打里打外去搅粪，惊动了隔壁子的邻舍们。",
+      "sentence": "打里打外去搅粪惊动了邻居",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张八根",
+      "original_sentence": "那个村上有两个坏事的根，一个叫个张八根，一个叫个李五根。",
+      "sentence": "张八根在村上做了坏事",
+      "behavior_type": 10
+    },
+    {
+      "role": "李五根",
+      "original_sentence": "那个村上有两个坏事的根，一个叫个张八根，一个叫个李五根。",
+      "sentence": "李五根在村上做了坏事",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "张八根",
+      "original_sentence": "两个村上的坏事根，小事说大事，大事么说坏事。",
+      "sentence": "张八根将小事说成大事",
+      "behavior_type": 7
+    },
+    {
+      "role": "李五根",
+      "original_sentence": "两个村上的坏事根，小事说大事，大事么说坏事。",
+      "sentence": "李五根将大事说成坏事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张八根",
+      "original_sentence": "吹胀捏塌，说好变瞎，里外的呲牙子坏事的人。",
+      "sentence": "张八根经常说好话却做坏事",
+      "behavior_type": 7
+    },
+    {
+      "role": "李五根",
+      "original_sentence": "吹胀捏塌，说好变瞎，里外的呲牙子坏事的人。",
+      "sentence": "李五根经常说好话却做坏事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那天偏偏打门前一过，眼看这个小姐在搅粪。",
+      "sentence": "某人从门前经过看见小姐",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "那天偏偏打门前一过，眼看这个小姐在搅粪。",
+      "sentence": "小姐正在搅拌粪肥",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "前看后看再没别人，走上前来慢慢把刘大嫂暗暗叫给了几声。",
+      "sentence": "有人悄悄叫了刘大嫂几声",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "白：哎呀，这是我的刘大嫂，刘大嫂，只有个公公婆婆打着、指教着还倒罢了，哪有个小叔子小姑子阿伯子还有拷打人的道理啊？",
+      "sentence": "刘大嫂遭受家人不合理对待",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "再说家有十口，好不过两口么，女婿子都过来过去就拷打哩，眼看着在这个刘家门上你多会子活出个人来，叫傢们把你打都打死了，折磨都折磨死了。",
+      "sentence": "刘婆婆指使他人拷打家庭成员",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "再说家有十口，好不过两口么，女婿子都过来过去就拷打哩，眼看着在这个刘家门上你多会子活出个人来，叫傢们把你打都打死了，折磨都折磨死了。",
+      "sentence": "家庭成员遭受长期折磨致死",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "我说你啊，给傢早些儿投井落河哩么、上吊抹脖哩么，寻上个五常么你归了阴。",
+      "sentence": "刘婆婆劝对方投井上吊寻死",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "啊，我们邻舍们给上个不答应，报给这个娘家人，来上好多人，把你的老公公欻掉胡须，抓住这个阿伯子挖掉眼睛，抓住这个小叔子割掉舌头，抓住这个小姑子欻掉头发，抓住这个老婆婆好好上给顿母猪阵，大大给你小姐报个仇么，小姐心下如何？",
+      "sentence": "邻舍们不答应报给娘家人",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "啊，我们邻舍们给上个不答应，报给这个娘家人，来上好多人，把你的老公公欻掉胡须，抓住这个阿伯子挖掉眼睛，抓住这个小叔子割掉舌头，抓住这个小姑子欻掉头发，抓住这个老婆婆好好上给顿母猪阵，大大给你小姐报个仇么，小姐心下如何？",
+      "sentence": "娘家人来上好多人报仇",
+      "behavior_type": 9
+    },
+    {
+      "role": "刘婆婆",
+      "original_sentence": "啊，我们邻舍们给上个不答应，报给这个娘家人，来上好多人，把你的老公公欻掉胡须，抓住这个阿伯子挖掉眼睛，抓住这个小叔子割掉舌头，抓住这个小姑子欻掉头发，抓住这个老婆婆好好上给顿母猪阵，大大给你小姐报个仇么，小姐心下如何？",
+      "sentence": "抓住老婆婆给顿母猪阵",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "小姐思想思想、默念默念：哎，这个邻居们，想得倒好，叫我们刘家家破人亡。",
+      "sentence": "邻居们想让刘家家破人亡",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不对，不对，怎么说为好？",
+      "sentence": "思考如何表达更为恰当",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "向着公婆说，得罪了邻居们；向着邻居说，亏了公公婆婆。",
+      "sentence": "朱金彩向公婆和邻居表达矛盾",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "罢了罢了，前思后想，怎么说为好？",
+      "sentence": "经过反复思考后难以决定",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "罢了！",
+      "sentence": "她最终决定放弃争执",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "总是死灰热是土，总让打折的骨头往里撇，总要向着我的公婆说。",
+      "sentence": "朱金彩决定要向着公婆说话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，邻居二人，你听我讲来。",
+      "sentence": "邻居二人请听我讲述",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "邻居二人你仔细听，听我小姐给你们把话说分明。",
+      "sentence": "朱金彩向邻居详细说明情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "公婆们打着是好里指教我，这个事情我全不说。",
+      "sentence": "公婆们教导我处理此事",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大姑子在家半边婆，小姑子在家全管着。",
+      "sentence": "大姑子在家半边婆",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "大姑子在家半边婆，小姑子在家全管着。",
+      "sentence": "小姑子在家全管着",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "小叔子的年纪轻骨头儿嫩，他是不懂人烟的个小学生，跟上龙王爷打和声。",
+      "sentence": "小叔子年纪轻不懂人情世故",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "小叔子的年纪轻骨头儿嫩，他是不懂人烟的个小学生，跟上龙王爷打和声。",
+      "sentence": "小叔子跟随龙王爷附和声音",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "等到读书成了人，嫂子的身上还报点恩。",
+      "sentence": "读书成人后需回报嫂子恩情",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "邻居二人你听仔细啊，丈夫打妻那是个古之常理。",
+      "sentence": "邻居二人仔细听小姐说话",
+      "behavior_type": 7
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "邻居二人你听仔细啊，丈夫打妻那是个古之常理。",
+      "sentence": "朱金彩认为丈夫打妻是常理",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "磨得过来我磨着，磨不过来也我磨着。",
+      "sentence": "朱金彩持续忍耐并坚持劳作",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三十年的媳妇子磨婆婆，哪里有婆婆尽活着。",
+      "sentence": "媳妇长期忍受婆婆的压迫",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "等到一日我磨出个人，坐到床上我当大人。",
+      "sentence": "等到一日磨出个人坐到床上当大人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "当家婆，我当着，当了媳妇子我当婆婆，何必你这个邻居你挑唆我。",
+      "sentence": "刘婆婆指责邻居挑唆她当家",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我宁在阳间受贫穷，我不在阴曹做鬼魂。",
+      "sentence": "宁愿在阳间忍受贫穷的生活",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "宁在阳间苦一世，我不在阴曹做一日。",
+      "sentence": "朱金彩宁愿在阳间受苦也不去阴曹",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "你挑唆着今儿个叫我把无常寻，挑起来两家来闹事，你们才钻到了当中来当好人。",
+      "sentence": "刘婆婆挑唆他人引发两家争端",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他打呢打的我的身，磨呢磨的是我的身。",
+      "sentence": "他持续击打并磨损我的身体",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "腿肚子连的脚面筋，与着你们邻舍的啥事情？",
+      "sentence": "腿肚子连着脚面筋与邻居无关",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "邻居二人羞羞惭惭回家中，早知道小姐大贤人，悔不该上前来挑唆她。",
+      "sentence": "邻居二人因羞愧而返回家中",
+      "behavior_type": 2
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "邻居二人羞羞惭惭回家中，早知道小姐大贤人，悔不该上前来挑唆她。",
+      "sentence": "朱金彩被邻居认识到是大贤人",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "邻居二人羞羞惭惭回家中，早知道小姐大贤人，悔不该上前来挑唆她。",
+      "sentence": "邻居后悔不该挑唆朱金彩",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "只说是挑着起来是好事，今个怎么骑了个灰叫驴。",
+      "sentence": "挑唆他人闹事并非好事",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "邻居二人么羞羞惭惭回家中，小姐也赶着来到了家廊中，婆婆的面前把礼行。",
+      "sentence": "邻居二人羞惭地回到家中",
+      "behavior_type": 4
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "邻居二人么羞羞惭惭回家中，小姐也赶着来到了家廊中，婆婆的面前把礼行。",
+      "sentence": "朱金彩向刘婆婆行礼问候",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "先问母亲亲生好，再问母亲可安宁。",
+      "sentence": "刘金华问候母亲的身体状况",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘金华",
+      "original_sentence": "先问母亲亲生好，再问母亲可安宁。",
+      "sentence": "刘金华询问母亲是否安好",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "行罢问礼你坐定，开言就把妈妈问。",
+      "sentence": "朱金彩向母亲行礼并询问情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "叫妈妈：你今儿个想吃些什么饭？",
+      "sentence": "朱金彩询问母亲想吃什么饭",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "想喝些什么汤？",
+      "sentence": "朱金彩询问母亲想喝什么汤",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "吩咐你媳妇儿给你造上前。",
+      "sentence": "刘婆婆吩咐媳妇准备饭菜",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "婆婆生来是个老妖精，一见了媳妇子就黑眼疯，哟哟哟，我的这个狗贱人，我把你个狗杂种，自从把这个贱人你娶进我刘家的门，把老娘都气下了场忧泪病。",
+      "sentence": "刘婆婆对媳妇表现出极度厌恶",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘婆婆",
+      "original_sentence": "婆婆生来是个老妖精，一见了媳妇子就黑眼疯，哟哟哟，我的这个狗贱人，我把你个狗杂种，自从把这个贱人你娶进我刘家的门，把老娘都气下了场忧泪病。",
+      "sentence": "刘婆婆因媳妇进门而气病",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "我一见这个贱人我气着，我恨不得我指头往死里捅。",
+      "sentence": "刘婆婆见到贱人感到极度愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘婆婆",
+      "original_sentence": "我一见这个贱人我气着，我恨不得我指头往死里捅。",
+      "sentence": "刘婆婆想用指头捅死贱人",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "你问我想吃些啥，把老娘的病气下。",
+      "sentence": "刘婆婆因被气而生病",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "我想吃你的肝花连心当药引，你扒着来，我老娘吃上我治我的病。",
+      "sentence": "刘婆婆想吃肝花连心当药引",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "你倘是肝花连心给我来做成，就饶下你贱人的活性命。",
+      "sentence": "刘婆婆要求朱金彩献出肝脏",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "你肝花连心若果给我造不成啊，抽筋剥皮我要你的命啊，想着叫你活去那是万不能。",
+      "sentence": "刘婆婆威胁要取对方性命",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "媳妇儿闻听吓得那个啪啦啦响，直股子的眼泪洒胸前。",
+      "sentence": "朱金彩听闻后感到极度恐惧",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "双膝儿跪到那个地埃尘，忙忙把我的母亲啊我就叫几声。",
+      "sentence": "刘金华跪地呼唤母亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的老母亲哎……天凭日月人凭心，人离了肝心难活人啊。",
+      "sentence": "人离了肝心难以存活",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "大街市上的猪羊肉有多和少你吃不尽，你怎么要吃我媳妇儿的肝花连的心？",
+      "sentence": "刘婆婆质问为何要吃媳妇的肝心",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的母亲啊！",
+      "sentence": "母亲被儿子呼唤",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "扒这个肝花心啊也倒容易啊，谁给你做上叫你母亲用啊。",
+      "sentence": "刘婆婆准备扒取肝花心",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "扒这个肝花心啊也倒容易啊，谁给你做上叫你母亲用啊。",
+      "sentence": "有人询问谁来做肝花心",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "媳妇子哭了个半晌正，心死了的婆婆不吭声。",
+      "sentence": "朱金彩哭泣许久感到极度悲伤",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘婆婆",
+      "original_sentence": "媳妇子哭了个半晌正，心死了的婆婆不吭声。",
+      "sentence": "刘婆婆保持沉默未发一言",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "害得媳妇儿无法办啊，挣扎着起来就进上房。",
+      "sentence": "朱金彩挣扎着起身进入上房",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "媳妇来到上房中，手扎中指祷告上方的过往神。",
+      "sentence": "朱金彩在上房中进行祷告",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "我的苍天爷啊，你保佑保佑多保佑，运鸿啊运鸿你就多运鸿啊，保佑着我朱家女子有了孝娘的心，肝花扒下来叫娘用，治了我的母亲的个病体身。",
+      "sentence": "朱金彩祈求上天保佑母亲康复",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "媳妇若是没有这个孝娘的心，扒掉我的肝花你就要了我的命。",
+      "sentence": "朱金彩表达对孝心的重视",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "整整祷告整半晌，挣扎着起来进伙房。",
+      "sentence": "朱金彩持续祷告了很长时间",
+      "behavior_type": 12
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "整整祷告整半晌，挣扎着起来进伙房。",
+      "sentence": "朱金彩挣扎着起身进入伙房",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "再的人家收拾着种庄田，朱家女子收拾着扒肝肠，我的天啊。",
+      "sentence": "朱金彩正在准备扒肝肠",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "左手里拿了个木方盘，右手里把七寸子钢刀忙拿上。",
+      "sentence": "朱金彩左手持木盘右手握钢刀",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "行一步来到伙房中啊，手指那个心口下无情，青刀子进去透心凉，红刀子出来见阎王，肝花连心扒着搁着木方盘，小姐，你看呼噜噜一口气归了天呀！",
+      "sentence": "朱金彩在伙房中自尽身亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "小姐一时归了阴，一口怨气冲天宫，冲坏了天上的国王神，王母神坐不住斗牛宫，玉皇爷坐不住灵霄殿。",
+      "sentence": "玉皇大帝因怨气无法安坐灵霄殿",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "南斗六星把不住南天门，北斗七星把不住北天门。",
+      "sentence": "玉皇大帝无法稳定南天门和北天门",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "玉皇爷打坐灵霄殿，心急眼跳坐卧不安啊，吩咐小神快快上殿来。",
+      "sentence": "玉皇大帝心急如焚坐立不安",
+      "behavior_type": 2
+    },
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "玉皇爷打坐灵霄殿，心急眼跳坐卧不安啊，吩咐小神快快上殿来。",
+      "sentence": "玉皇大帝吩咐小神速速上殿",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "小神不敢怠慢来到了灵霄殿上，尊大神在上，叫我小神为何？",
+      "sentence": "玉皇大帝询问小神为何到来",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "小神不敢怠慢来到了灵霄殿上，尊大神在上，叫我小神为何？",
+      "sentence": "小神恭敬询问大神有何吩咐",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "白：玉皇爷吩咐了：千里眼能观九州之地，顺风耳能听万里之声，你给我打开南天门，在天爷底下你给我查看一遍，听勘一遍。",
+      "sentence": "玉皇大帝命令小神查看并听取情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "我怎么打坐灵霄殿，好像似坐卧不安？",
+      "sentence": "玉皇大帝在灵霄殿坐卧不安",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "在哪个么方向出了什么恶事？",
+      "sentence": "玉皇大帝询问恶事发生的方向",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "你给我查看一遍，哪里有这个天高不落雨，地良不长田？",
+      "sentence": "玉皇大帝命令小神查看灾情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪里有这个打僧骂道、忤逆不孝？",
+      "sentence": "哪里有打僧骂道和忤逆不孝",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "有这个害种成家、打公骂婆、撒米湮面、滚水洒地烫死了蛆虫蚂蚁？",
+      "sentence": "刘婆婆成家后打公骂婆撒米湮面",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "有这个害种成家、打公骂婆、撒米湮面、滚水洒地烫死了蛆虫蚂蚁？",
+      "sentence": "滚水洒地导致蛆虫蚂蚁被烫死",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪里有大小月妇女们身不净，洗了脏裤裆对天洒水，冲坏了太阳星君？",
+      "sentence": "妇女们行为不净冲撞了太阳星君",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪里有洗罢脸的脏水隔门往外泼，泼断后辈子孙的财路？",
+      "sentence": "脏水被泼出门外断了财路",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你给我在天爷底下查看一遍，听勘一遍去吧。",
+      "sentence": "在天爷底下查看一遍",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "千里眼能观九州之地，顺风耳能听万里之声。",
+      "sentence": "千里眼能够看见九州之地",
+      "behavior_type": 6
+    },
+    {
+      "role": "",
+      "original_sentence": "千里眼能观九州之地，顺风耳能听万里之声。",
+      "sentence": "顺风耳能够听见万里之声",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "打开了南天门，刮来黑黑彩彩好像一块乌云篷顶，在这天爷底下察了一遍，听了一遍。",
+      "sentence": "玉皇大帝打开了南天门",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "打开了南天门，刮来黑黑彩彩好像一块乌云篷顶，在这天爷底下察了一遍，听了一遍。",
+      "sentence": "乌云篷顶在天爷底下移动",
+      "behavior_type": 6
+    },
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "打开了南天门，刮来黑黑彩彩好像一块乌云篷顶，在这天爷底下察了一遍，听了一遍。",
+      "sentence": "玉皇大帝在天爷底下察看",
+      "behavior_type": 6
+    },
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "打开了南天门，刮来黑黑彩彩好像一块乌云篷顶，在这天爷底下察了一遍，听了一遍。",
+      "sentence": "玉皇大帝在天爷底下聆听",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一查查到山西临汾县朱临小巷，四位星宿落到了刘家的府，老婆婆狗叫星，媳妇子凤团星，男子天文星，公公天福星。",
+      "sentence": "四位星宿降临刘家府邸",
+      "behavior_type": 4
+    },
+    {
+      "role": "刘婆婆",
+      "original_sentence": "一查查到山西临汾县朱临小巷，四位星宿落到了刘家的府，老婆婆狗叫星，媳妇子凤团星，男子天文星，公公天福星。",
+      "sentence": "刘婆婆被称作狗叫星",
+      "behavior_type": 1
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "一查查到山西临汾县朱临小巷，四位星宿落到了刘家的府，老婆婆狗叫星，媳妇子凤团星，男子天文星，公公天福星。",
+      "sentence": "朱金彩被称作凤团星",
+      "behavior_type": 1
+    },
+    {
+      "role": "刘金华",
+      "original_sentence": "一查查到山西临汾县朱临小巷，四位星宿落到了刘家的府，老婆婆狗叫星，媳妇子凤团星，男子天文星，公公天福星。",
+      "sentence": "刘金华被称作天文星",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "一查查到山西临汾县朱临小巷，四位星宿落到了刘家的府，老婆婆狗叫星，媳妇子凤团星，男子天文星，公公天福星。",
+      "sentence": "公公被称作天福星",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "狗叫星老婆婆活着七十三岁，今年五十三岁。",
+      "sentence": "刘婆婆今年五十三岁",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "凤团星小姐活着三十六岁，今年一十六岁。",
+      "sentence": "凤团星小姐年龄为十六岁",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "狗叫星老婆婆想吃媳妇的肝花连心，无故害媳妇。",
+      "sentence": "刘婆婆企图吃掉媳妇的内脏",
+      "behavior_type": 11
+    },
+    {
+      "role": "刘婆婆",
+      "original_sentence": "狗叫星老婆婆想吃媳妇的肝花连心，无故害媳妇。",
+      "sentence": "刘婆婆无故加害自己的媳妇",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "媳妇儿一十六岁，为扒肝花就归了阴了。",
+      "sentence": "朱金彩因被取肝花而死亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "查来查去查到此事，奏报给玉皇知道。",
+      "sentence": "有人将此事奏报给玉皇大帝",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "玉皇大帝问道：你查到哪里了？",
+      "sentence": "玉皇大帝询问调查进展",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "玉皇爷在上，天爷底下细细查看了一遍，也不是天高不落雨，也没有地良不长田，也没有打僧骂道，也没有忤逆不孝，也没有害种成家、对天洒水，也没有滚水洒地，也没有撒米湮面，也没有洗罢脸的脏水隔门往外泼。",
+      "sentence": "玉皇大帝询问调查进展情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "查来查去，查到山西临汾县朱临小巷刘家庄上，四位星宿落到一家了。",
+      "sentence": "四位星宿最终落在一户人家",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "玉皇大帝问道：哪位和哪位星宿啊？",
+      "sentence": "玉皇大帝询问星宿身份",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "玉皇爷在上，男子天文星，公公天福星，老婆婆狗叫星，媳妇子凤团星，狗叫星老婆婆活着七十三岁，今年五十三岁。",
+      "sentence": "玉皇大帝询问星宿的具体身份",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "玉皇爷在上，男子天文星，公公天福星，老婆婆狗叫星，媳妇子凤团星，狗叫星老婆婆活着七十三岁，今年五十三岁。",
+      "sentence": "男子被认定为天文星转世",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "玉皇爷在上，男子天文星，公公天福星，老婆婆狗叫星，媳妇子凤团星，狗叫星老婆婆活着七十三岁，今年五十三岁。",
+      "sentence": "公公被认定为天福星转世",
+      "behavior_type": 3
+    },
+    {
+      "role": "刘婆婆",
+      "original_sentence": "玉皇爷在上，男子天文星，公公天福星，老婆婆狗叫星，媳妇子凤团星，狗叫星老婆婆活着七十三岁，今年五十三岁。",
+      "sentence": "刘婆婆被认定为狗叫星转世",
+      "behavior_type": 3
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "玉皇爷在上，男子天文星，公公天福星，老婆婆狗叫星，媳妇子凤团星，狗叫星老婆婆活着七十三岁，今年五十三岁。",
+      "sentence": "朱金彩被认定为凤团星转世",
+      "behavior_type": 3
+    },
+    {
+      "role": "刘婆婆",
+      "original_sentence": "玉皇爷在上，男子天文星，公公天福星，老婆婆狗叫星，媳妇子凤团星，狗叫星老婆婆活着七十三岁，今年五十三岁。",
+      "sentence": "刘婆婆今年五十三岁",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "凤团星小姐活着三十六岁，今年么一十六岁。",
+      "sentence": "凤团星小姐年龄为十六岁",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "狗叫星老婆婆无故害媳妇，想吃媳妇的肝花连心。",
+      "sentence": "刘婆婆无故加害媳妇企图食其内脏",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "凤团星小姐无奈了，一十六岁为扒肝花就归了阴了啊。",
+      "sentence": "朱金彩十六岁因肝花被害身亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "玉皇大帝闻听冲冲大怒，吩咐小神，你把那个星宿簿子抱过来我查一遍，你查下的和这个一样不一样。",
+      "sentence": "玉皇大帝听闻后感到非常愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "玉皇大帝闻听冲冲大怒，吩咐小神，你把那个星宿簿子抱过来我查一遍，你查下的和这个一样不一样。",
+      "sentence": "玉皇大帝吩咐小神拿星宿簿子",
+      "behavior_type": 7
+    },
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "玉皇大帝闻听冲冲大怒，吩咐小神，你把那个星宿簿子抱过来我查一遍，你查下的和这个一样不一样。",
+      "sentence": "玉皇大帝要查星宿簿子核对",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "小神把星宿簿子抱过来细查细看，小神查下的点点不错，点点不漏。",
+      "sentence": "小神仔细检查星宿簿子",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "把这老婆婆的寿数减下来二十岁给小姐安上，小姐叫活上五十六岁。",
+      "sentence": "玉皇大帝减少刘婆婆寿数二十岁",
+      "behavior_type": 3
+    },
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "把这老婆婆的寿数减下来二十岁给小姐安上，小姐叫活上五十六岁。",
+      "sentence": "玉皇大帝增加凤团星寿数二十岁",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "今年的老婆婆五十三岁，阳寿未满，她就归待阴了。",
+      "sentence": "刘婆婆五十三岁便去世了",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "又打发了那鬼卒小神两名，早报幽冥府里十殿阎君知道，去把那个山西临汾县朱临小巷刘家庄上、那个狗叫星恶妇的真魂勾在扒心地狱里叫她受罪去。",
+      "sentence": "刘婆婆被勾魂至扒心地狱受罪",
+      "behavior_type": 3
+    },
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "又打发了那鬼卒小神两名，早报幽冥府里十殿阎君知道，去把那个山西临汾县朱临小巷刘家庄上、那个狗叫星恶妇的真魂勾在扒心地狱里叫她受罪去。",
+      "sentence": "玉皇大帝派遣鬼卒通报幽冥府",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "玉皇大帝",
+      "original_sentence": "又打发了小神葫芦里倒上灵丹妙药，领上白狗舔血，快快去把那个灵丹妙药去撒在了那风团星小姐的刀口上，去叫小姐还阳还阳去吧。",
+      "sentence": "玉皇大帝命令小神撒药救小姐",
+      "behavior_type": 7
+    },
+    {
+      "role": "白狗",
+      "original_sentence": "又打发了小神葫芦里倒上灵丹妙药，领上白狗舔血，快快去把那个灵丹妙药去撒在了那风团星小姐的刀口上，去叫小姐还阳还阳去吧。",
+      "sentence": "白狗舔血帮助治疗小姐伤口",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "风团星小姐无忌无奈，小神们葫芦里带上灵丹妙药，领上白狗舔血，来到山西临汾县朱临小巷刘家庄上。",
+      "sentence": "小神们携带灵丹妙药前往刘家庄",
+      "behavior_type": ""
+    },
+    {
+      "role": "白狗",
+      "original_sentence": "风团星小姐无忌无奈，小神们葫芦里带上灵丹妙药，领上白狗舔血，来到山西临汾县朱临小巷刘家庄上。",
+      "sentence": "白狗舔舐血液协助治疗过程",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎！",
+      "sentence": "",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "血水淋淋染地红，肝花心在方盘里搁，没有肝花心了怎么能叫还阳啊，害得小神无法可办。",
+      "sentence": "血水染红地面肝花缺失",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "白狗",
+      "original_sentence": "领的白狗舔血，把白狗的肝花心拿出来给小姐对着安上，捏了个土疙瘩心给狗安上。",
+      "sentence": "白狗的肝花心被取出安给小姐",
+      "behavior_type": 13
+    },
+    {
+      "role": "白狗",
+      "original_sentence": "领的白狗舔血，把白狗的肝花心拿出来给小姐对着安上，捏了个土疙瘩心给狗安上。",
+      "sentence": "土疙瘩心被安在白狗身上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "白：肝花心给来对上，度气神娘娘给把气度上，三魂七魄给揽上身，喊了朱金彩小姐、朱金彩小姐，苏醒苏醒，明白明白，你醒来醒来。",
+      "sentence": "朱金彩小姐被唤醒并恢复意识",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "白：肝花心给来对上，度气神娘娘给把气度上，三魂七魄给揽上身，喊了朱金彩小姐、朱金彩小姐，苏醒苏醒，明白明白，你醒来醒来。",
+      "sentence": "将肝花心与小姐的身体对接",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "白：肝花心给来对上，度气神娘娘给把气度上，三魂七魄给揽上身，喊了朱金彩小姐、朱金彩小姐，苏醒苏醒，明白明白，你醒来醒来。",
+      "sentence": "三魂七魄被重新聚集于体内",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "白狗",
+      "original_sentence": "若发人人全不信，夜子深后的狗操心。",
+      "sentence": "白狗在深夜时分显得格外操心",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "不要说公公打婆婆骂，阿伯子过来就拿脚踏，小姑子上前欻头发，小叔子过来就随便打，女婿子一见给着几个响嘴巴。",
+      "sentence": "刘婆婆对家人进行暴力行为",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "不要说公公打婆婆骂，阿伯子过来就拿脚踏，小姑子上前欻头发，小叔子过来就随便打，女婿子一见给着几个响嘴巴。",
+      "sentence": "阿伯子用脚踩踏家人",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "不要说公公打婆婆骂，阿伯子过来就拿脚踏，小姑子上前欻头发，小叔子过来就随便打，女婿子一见给着几个响嘴巴。",
+      "sentence": "小姑子拉扯家人头发",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "不要说公公打婆婆骂，阿伯子过来就拿脚踏，小姑子上前欻头发，小叔子过来就随便打，女婿子一见给着几个响嘴巴。",
+      "sentence": "小叔子随意殴打家人",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "不要说公公打婆婆骂，阿伯子过来就拿脚踏，小姑子上前欻头发，小叔子过来就随便打，女婿子一见给着几个响嘴巴。",
+      "sentence": "女婿扇打家人耳光",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "昏沉沉走的哎阴曹的个路哟，忽儿听个阳间怎么有人声。",
+      "sentence": "朱金彩昏沉走在阴曹路上",
+      "behavior_type": 4
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "昏沉沉走的哎阴曹的个路哟，忽儿听个阳间怎么有人声。",
+      "sentence": "朱金彩听到阳间有人声",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "猛然阴曹有了那个鬼搭话，耳听着阳间还有人叫着，慢慢儿睁开我的一双描花的个眼哟，血水淋淋染衣裳，我的肝花心怎么就在木方盘哟。",
+      "sentence": "朱金彩听到阳间有人呼唤她",
+      "behavior_type": 6
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "猛然阴曹有了那个鬼搭话，耳听着阳间还有人叫着，慢慢儿睁开我的一双描花的个眼哟，血水淋淋染衣裳，我的肝花心怎么就在木方盘哟。",
+      "sentence": "朱金彩慢慢睁开了她的眼睛",
+      "behavior_type": 1
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "猛然阴曹有了那个鬼搭话，耳听着阳间还有人叫着，慢慢儿睁开我的一双描花的个眼哟，血水淋淋染衣裳，我的肝花心怎么就在木方盘哟。",
+      "sentence": "朱金彩发现自己的肝脏被换",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "再的人啊有个冲气病疾来不及就归了阴，我把肝花心呀扒掉了，怎么还在这个人世中？",
+      "sentence": "朱金彩因冲气病疾而离世",
+      "behavior_type": 3
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "再的人啊有个冲气病疾来不及就归了阴，我把肝花心呀扒掉了，怎么还在这个人世中？",
+      "sentence": "朱金彩的肝花心被扒掉了",
+      "behavior_type": 8
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "再的人啊有个冲气病疾来不及就归了阴，我把肝花心呀扒掉了，怎么还在这个人世中？",
+      "sentence": "朱金彩仍在人世中徘徊",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的天啊，我的老天爷。",
+      "sentence": "某人感叹老天爷的存在",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "想必是我朱家女子有了孝娘的心，天赶着就叫我把娘孝顺呀！",
+      "sentence": "朱金彩认为自己有孝顺母亲的心",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "小姐哭了半晌整，挣扎起来腰带把身缠硬。",
+      "sentence": "朱金彩哭泣后重新振作起来",
+      "behavior_type": 2
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "小姐哭了半晌整，挣扎起来腰带把身缠硬。",
+      "sentence": "朱金彩用腰带紧紧缠住身体",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "把那个肝化心入在了清水桶，清水桶里摆了个照天红。",
+      "sentence": "朱金彩将肝脏放入清水桶中",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "把那个肝化心入在了清水桶，清水桶里摆了个照天红。",
+      "sentence": "清水桶里呈现出红色景象",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大刀子切了钱儿厚，小刀子片了纸页儿薄。",
+      "sentence": "大刀子切得厚小刀子切得薄",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "灶火里把干柴湿柳忙架上，锅里么添给了水两碗。",
+      "sentence": "朱金彩在灶火里架上干柴湿柳",
+      "behavior_type": 10
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "灶火里把干柴湿柳忙架上，锅里么添给了水两碗。",
+      "sentence": "朱金彩往锅里添加了两碗水",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大香荜拨提味长，胡椒调上滚辣汤，花椒调上逼腥气，人肉本性咸，人肉上边少调盐。",
+      "sentence": "调料提味制作滚辣汤",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "滚着望着人肉烂，菊花碗里盛出了停半碗。",
+      "sentence": "滚煮人肉至烂后盛入菊花碗中",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "小姐端上人肉碗，一步一步往前撞，来就到上书房。",
+      "sentence": "小姐端着碗慢慢走向书房",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "一进了书房门，老婆婆坐床沿，哎，鼻子里闻着怎么这么香啊？",
+      "sentence": "刘婆婆在书房闻到香味",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "不知道媳妇子端的是啥吃喝啊。",
+      "sentence": "刘婆婆不知道媳妇端的是什么",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "媳妇慢慢到跟前，叫母亲：你想吃我的肝花连心当药引，我就媳妇么今儿个当真就给你造现成，你母亲吃上了病起身啊。",
+      "sentence": "朱金彩询问母亲是否想吃她的肝花",
+      "behavior_type": 7
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "媳妇慢慢到跟前，叫母亲：你想吃我的肝花连心当药引，我就媳妇么今儿个当真就给你造现成，你母亲吃上了病起身啊。",
+      "sentence": "朱金彩准备为母亲制作药引",
+      "behavior_type": 3
+    },
+    {
+      "role": "刘婆婆",
+      "original_sentence": "媳妇慢慢到跟前，叫母亲：你想吃我的肝花连心当药引，我就媳妇么今儿个当真就给你造现成，你母亲吃上了病起身啊。",
+      "sentence": "刘婆婆吃下药引后病情好转",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "老婆婆双手接住了人肉碗，呼噜汤叭吃了个光。",
+      "sentence": "刘婆婆接住碗并吃光了食物",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "哎，吃着怎么味道这么香啊？",
+      "sentence": "刘婆婆觉得人肉味道非常香",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "白：媳妇啊，你给我再端去啊，再端上这么两碗才能治掉我的病啊，这个半碗子吃上可不中用啊。",
+      "sentence": "刘婆婆要求媳妇再端两碗药",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "媳妇一听吓得个儿抖颤，说道了：老妈妈啊老妈妈，媳妇的肝花心只有一副啊，锅里我就添给了水两碗，尽头滚着人肉烂，熬成就这么尖半碗啊。",
+      "sentence": "朱金彩听闻后感到极度恐惧",
+      "behavior_type": 2
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "媳妇一听吓得个儿抖颤，说道了：老妈妈啊老妈妈，媳妇的肝花心只有一副啊，锅里我就添给了水两碗，尽头滚着人肉烂，熬成就这么尖半碗啊。",
+      "sentence": "朱金彩向刘婆婆解释情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "再就吃去么难上难，即使你母亲再想吃，我就给你大街市上取这个猪羊肉啊。",
+      "sentence": "朱金彩提议购买猪羊肉替代人肉",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "呸，我把你个狗贱人。",
+      "sentence": "表达对狗贱人的强烈不满",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "敢就是猪羊肉割着来哄老娘，你的肝花连心？",
+      "sentence": "刘婆婆质问朱金彩欺骗她",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "老娘能信吗？",
+      "sentence": "刘婆婆不相信媳妇的话",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "肝花心扒掉了，早都死掉了，你能行把肉做上叫老娘吃？",
+      "sentence": "刘婆婆声称肝花心已被扒掉",
+      "behavior_type": 3
+    },
+    {
+      "role": "刘婆婆",
+      "original_sentence": "肝花心扒掉了，早都死掉了，你能行把肉做上叫老娘吃？",
+      "sentence": "刘婆婆要求将肉做给她吃",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "为娘的说话你不听。",
+      "sentence": "刘婆婆指责儿子不听她的话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "等到我的刘金华儿子回家中，巧言伶语加白话，写个休书把你休掉吧，休掉吧。",
+      "sentence": "刘金华回家后巧言令色写休书",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "等到我的刘金华儿子回家中，巧言伶语加白话，写个休书把你休掉吧，休掉吧。",
+      "sentence": "对方要求写休书结束婚姻关系",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "媳妇一听惊一声，遂来到了小房中，腹内的疼痛怪难忍，趴着床上就起不动啊。",
+      "sentence": "朱金彩听闻后感到十分震惊",
+      "behavior_type": 2
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "媳妇一听惊一声，遂来到了小房中，腹内的疼痛怪难忍，趴着床上就起不动啊。",
+      "sentence": "朱金彩迅速进入小房间内",
+      "behavior_type": 4
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "媳妇一听惊一声，遂来到了小房中，腹内的疼痛怪难忍，趴着床上就起不动啊。",
+      "sentence": "朱金彩因腹痛无法起身",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "竹叶儿青，状元红，花开两朵另说人。",
+      "sentence": "竹叶青和状元红花开两朵",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "说人不说别的人，再说学里读书的丈夫刘金华。",
+      "sentence": "刘金华正在学堂里读书学习",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "纵然爬在桌面上来判文，一阵阵心又慌，眼又跳，左脸不烧右脸烧。",
+      "sentence": "他感到心慌且眼睛跳动",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎呀，我的家里遇下啥事了？",
+      "sentence": "家中发生了什么事情",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "赶紧在师傅的面前告了个假，抱上书包快回家。",
+      "sentence": "刘金华向师傅请假后迅速回家",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "回来就到家廊中，母亲的面前赶紧把礼行。",
+      "sentence": "刘金华在母亲面前行礼问候",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "先问的母亲亲生好，再问了母亲可安宁，行罢问礼一坐定，开言就把母亲问。",
+      "sentence": "刘金华向母亲询问近况并问安",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘金华",
+      "original_sentence": "先问的母亲亲生好，再问了母亲可安宁，行罢问礼一坐定，开言就把母亲问。",
+      "sentence": "刘金华行完礼后坐下询问母亲",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老母亲，可有大事在家中？",
+      "sentence": "询问家中是否有重要事情发生",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "为什么你双眼掉泪，为了啥事情？",
+      "sentence": "双眼掉泪是因为何事",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个当家族户得罪了你，哪个左邻右舍难为了你？",
+      "sentence": "询问是谁得罪或难为了你",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "还是那个狗贱人妻子冲撞了你？",
+      "sentence": "朱金彩是否冲撞了刘婆婆",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你这个原话给你的儿郎说仔细。",
+      "sentence": "将原话详细告诉你的儿子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "老的得罪了还倒罢，少的得罪了我跳上蹦子骂死他。",
+      "sentence": "刘婆婆对少者的冒犯极为愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "倘若是那狗贱人妻子冲撞了你，我今儿个我抽她的筋，剥她的皮，一定给你母亲么出这口气。",
+      "sentence": "刘婆婆扬言要抽筋剥皮报仇",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "母亲生来是个老妖精，巧言伶语又说得凶。",
+      "sentence": "刘婆婆说话凶狠且善于巧言",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎！",
+      "sentence": "刘婆婆愤怒地辱骂他人",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的小冤家，我的小冤家！",
+      "sentence": "我的小冤家让我感到愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "当家族户也没有得罪我，左邻右舍也没有难为我。",
+      "sentence": "当家族户和左邻右舍都未得罪我",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "敢就是你的媳妇子在家中，为娘的说话又不听，活活地能行气死人啊。",
+      "sentence": "刘婆婆指责媳妇不听她的话",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "敢就是你的媳妇子在家中，为娘的说话又不听，活活地能行气死人啊。",
+      "sentence": "媳妇的行为让人感到非常愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "太阳不落睡下了，红日三杆起来了。",
+      "sentence": "太阳未落时便已睡下",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "太阳不落睡下了，红日三杆起来了。",
+      "sentence": "太阳升起时方才起床",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "早晨睡到了大饭罢，白刷刷的毡上给我把床尿下。",
+      "sentence": "早晨睡到了大饭罢",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "早晨睡到了大饭罢，白刷刷的毡上给我把床尿下。",
+      "sentence": "白刷刷的毡上尿床",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "听着院子里人说话，睡着被窝里就对答。",
+      "sentence": "院子里有人说话被窝里对答",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "小冤家，你说叫我该骂不该骂？",
+      "sentence": "小冤家该不该被骂",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "睡着晌午了才起来，头不梳，泡牛尾，脸不洗，赛锅底。",
+      "sentence": "某人睡到中午才起床",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "睡着晌午了才起来，头不梳，泡牛尾，脸不洗，赛锅底。",
+      "sentence": "某人没有梳头洗脸",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "脖子不洗赛车轴，脚不裹好像骆驼蹄。",
+      "sentence": "脖子不洗显得非常肮脏",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两手不洗捯粪的杈，窜了东家子倒西家。",
+      "sentence": "双手未洗便四处游走",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "裹脚头子捞上丈七八，踏断带头子挽疙瘩。",
+      "sentence": "裹脚头子长度达到丈七八",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "裹脚头子捞上丈七八，踏断带头子挽疙瘩。",
+      "sentence": "踏断带头子并挽成疙瘩",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "小冤家，你说叫我该骂不该骂？",
+      "sentence": "询问对方是否应该受到责备",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "窜着这家子吃上些饭，窜着那家子喝上些汤。",
+      "sentence": "窜到各家吃饭喝汤",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "偷嘴尿床都占全，剩饭坨坨压塌炕。",
+      "sentence": "偷吃尿床行为极其恶劣",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "偷嘴尿床都占全，剩饭坨坨压塌炕。",
+      "sentence": "剩饭堆积压垮了土炕",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吃了饭，嘴一擦，蹲着屋里不干啥。",
+      "sentence": "饭后擦嘴蹲在屋里无所事事",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "热屁股塌到冷地下，长腿伸上道闲话。",
+      "sentence": "热屁股塌到冷地下长腿伸",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎！",
+      "sentence": "某人发出了一声叹息",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "小冤家，你说我该骂不该骂？",
+      "sentence": "询问对方是否应该受到责备",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "地不扫，等风刮，锅头上锈的是饭疙疤。",
+      "sentence": "地上垃圾等待风吹走",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "地不扫，等风刮，锅头上锈的是饭疙疤。",
+      "sentence": "锅头锈迹是饭疙疤",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "灶火门的灰堆不揽等着叫车往掉拉，勺上锈的是饭疙疤。",
+      "sentence": "灶火门的灰堆未被清理",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "灶火门的灰堆不揽等着叫车往掉拉，勺上锈的是饭疙疤。",
+      "sentence": "勺上锈的是饭疙疤",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "垢痂打得门响哩，抹布拧得水淌哩。",
+      "sentence": "垢痂击打门发出响声",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "垢痂打得门响哩，抹布拧得水淌哩。",
+      "sentence": "抹布被拧出水来",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "抹布头子在肩膀上搭，胳老窝里把筷子来擦咔。",
+      "sentence": "抹布头子被搭在肩膀上",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "抹布头子在肩膀上搭，胳老窝里把筷子来擦咔。",
+      "sentence": "筷子被擦咔在胳老窝里",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "鼻子擤下来锅盖上擦，裤腰里把虱子摸下来了案板上掐，你说她邋遢不邋遢？",
+      "sentence": "鼻子擤下来锅盖上擦",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "鼻子擤下来锅盖上擦，裤腰里把虱子摸下来了案板上掐，你说她邋遢不邋遢？",
+      "sentence": "裤腰里把虱子摸下来",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "鼻子擤下来锅盖上擦，裤腰里把虱子摸下来了案板上掐，你说她邋遢不邋遢？",
+      "sentence": "案板上掐虱子",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "小冤家，你快把那个邋遢婆娘休掉吧！",
+      "sentence": "有人劝小冤家休掉邋遢婆娘",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "撵掉吧！",
+      "sentence": "将那个邋遢婆娘赶走",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "你若休出家着还倒罢，不把那个邋遢婆娘休出家，老娘屋里不活她。",
+      "sentence": "刘婆婆威胁儿子休掉邋遢婆娘",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不是拿绳上吊就是拿刀抹脖，不是投井就落河，我在你娃子的手里我不能活。",
+      "sentence": "她选择以极端方式结束生命",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "气了你的老娘不要紧，惹下你的舅爷爷歪得很。",
+      "sentence": "刘婆婆因愤怒而情绪激动",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "惹下你的舅舅们不饶人，论官调法叫你受五刑。",
+      "sentence": "舅舅们不饶人并论官调法",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "刘金华听罢了此言，心情么歹着，该怎么办为好？",
+      "sentence": "刘金华听完后心情非常糟糕",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "妻子娶过门不到一年，就说是犯了啥法了？",
+      "sentence": "妻子进门未满一年被指违法",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "有心不把妻子休出门，母亲给我闯祸星。",
+      "sentence": "刘金华犹豫是否要休掉妻子",
+      "behavior_type": 5
+    },
+    {
+      "role": "刘金华",
+      "original_sentence": "有心不把妻子休出门，母亲给我闯祸星。",
+      "sentence": "刘金华因母亲行为感到困扰",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "罢了，罢了，我这辈子打光棍也甘心，我不能惹怒了我的老母亲。",
+      "sentence": "刘金华决定不惹怒老母亲",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "慢慢来到了书房中，哗啦啦推开了书箱柜。",
+      "sentence": "刘金华缓慢地走进书房中",
+      "behavior_type": 4
+    },
+    {
+      "role": "刘金华",
+      "original_sentence": "慢慢来到了书房中，哗啦啦推开了书箱柜。",
+      "sentence": "刘金华用力推开了书箱柜",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "左手里拿了纸一张，右手里提了笔一管。",
+      "sentence": "刘金华左手拿纸右手提笔",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "手拿砚台把墨砚上，哭哭溜溜再把休书写一遍呀。",
+      "sentence": "刘金华拿起砚台开始研墨",
+      "behavior_type": 14
+    },
+    {
+      "role": "刘金华",
+      "original_sentence": "手拿砚台把墨砚上，哭哭溜溜再把休书写一遍呀。",
+      "sentence": "刘金华再次书写休书",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "手拿上生活啊把墨掭，苦苦溜溜么写一番。",
+      "sentence": "刘金华手拿砚台开始研墨",
+      "behavior_type": 14
+    },
+    {
+      "role": "刘金华",
+      "original_sentence": "手拿上生活啊把墨掭，苦苦溜溜么写一番。",
+      "sentence": "刘金华流着眼泪写休书",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "一休我的朱家女偷嘴尿床，二休我的朱家女偷米转面。",
+      "sentence": "朱金彩偷嘴尿床并偷米转面",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "三休我的朱家女子根子不正，四休我的朱家女子勾魂连人。",
+      "sentence": "朱金彩被指责行为不端",
+      "behavior_type": 7
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "三休我的朱家女子根子不正，四休我的朱家女子勾魂连人。",
+      "sentence": "朱金彩被指控勾引他人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "五休我的朱家女不孝公婆，六休了朱家女子不尊丈夫。",
+      "sentence": "朱金彩被指责不孝顺公婆",
+      "behavior_type": 3
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "五休我的朱家女不孝公婆，六休了朱家女子不尊丈夫。",
+      "sentence": "朱金彩被指责不尊重丈夫",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "七休了朱家女脚趄鞋歪，八休的朱家女子说白道黑。",
+      "sentence": "朱家女脚趄鞋歪被休",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "七休了朱家女脚趄鞋歪，八休的朱家女子说白道黑。",
+      "sentence": "朱家女说白道黑被休",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "九休了朱家女不尊长上，十休的朱家女子勾溜的和尚。",
+      "sentence": "朱金彩不尊重长辈和上级",
+      "behavior_type": 5
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "九休了朱家女不尊长上，十休的朱家女子勾溜的和尚。",
+      "sentence": "朱金彩与和尚有不正当关系",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "写了休书整一封，刘金华上前来点下了上两盏灯。",
+      "sentence": "刘金华上前点亮了两盏灯",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "照着灯盏我就拜三拜，离别的娘娘们请着上来，我娶呀只当是我的个妻，朱家女子才是旁人的。",
+      "sentence": "刘金华对着灯盏拜了三拜",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘金华",
+      "original_sentence": "照着灯盏我就拜三拜，离别的娘娘们请着上来，我娶呀只当是我的个妻，朱家女子才是旁人的。",
+      "sentence": "刘金华请离别的娘娘们上来",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘金华",
+      "original_sentence": "照着灯盏我就拜三拜，离别的娘娘们请着上来，我娶呀只当是我的个妻，朱家女子才是旁人的。",
+      "sentence": "刘金华认为朱家女子是外人",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "刘金华手提休书整一封，进一步来到了小房门，啪嗒一脚踏开了门。",
+      "sentence": "刘金华手持休书来到小房门",
+      "behavior_type": 4
+    },
+    {
+      "role": "刘金华",
+      "original_sentence": "刘金华手提休书整一封，进一步来到了小房门，啪嗒一脚踏开了门。",
+      "sentence": "刘金华一脚踢开了小房门",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "妻子的疼痛怪难忍，爬到床上起不动身。",
+      "sentence": "朱金彩因疼痛难忍无法起身",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "刘金华破口叫骂：我把你个狗贱人，我把你个狗杂种，娶到家中为的叫你孝顺的伺奉我的母亲，为什么你为娘的说话永不听？",
+      "sentence": "刘金华指责妻子不孝顺母亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "这般时候了你挺着床上，你是啥事情？",
+      "sentence": "刘金华询问妻子为何躺在床上",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "给你，这不叫你休书整一封，你头顶休书滚出我的门。",
+      "sentence": "刘金华将休书递给对方并令其离开",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "路儿你两离分，反穿上罗裙你快别嫁人，你在我的家里你站不成啊。",
+      "sentence": "刘金华命令朱金彩离开家门",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "我刘金华等到一日我皇王爷的榜上得了中，门缝子我夹着往里进，缺了你这么一个狗杂种！",
+      "sentence": "刘金华在皇王爷的榜上得了中",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "我刘金华等到一日我皇王爷的榜上得了中，门缝子我夹着往里进，缺了你这么一个狗杂种！",
+      "sentence": "门缝子夹着往里进",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "我刘金华等到一日我皇王爷的榜上得了中，门缝子我夹着往里进，缺了你这么一个狗杂种！",
+      "sentence": "缺了你这么一个狗杂种",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "夫人啊一见了休书，吓得我就啪啦啦的颤哟，直股子的热泪洒胸前。",
+      "sentence": "朱金彩见到休书后感到极度恐惧",
+      "behavior_type": 2
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "夫人啊一见了休书，吓得我就啪啦啦的颤哟，直股子的热泪洒胸前。",
+      "sentence": "朱金彩因恐惧而全身颤抖不止",
+      "behavior_type": 2
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "夫人啊一见了休书，吓得我就啪啦啦的颤哟，直股子的热泪洒胸前。",
+      "sentence": "朱金彩悲伤得热泪不断流下",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "挣扎着起来，双膝跪到了地埃尘，双手拉着丈夫的袍子襟啊，头顶着怀膀子哭伤心呀。",
+      "sentence": "朱金彩跪地拉住丈夫的衣襟",
+      "behavior_type": 13
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "挣扎着起来，双膝跪到了地埃尘，双手拉着丈夫的袍子襟啊，头顶着怀膀子哭伤心呀。",
+      "sentence": "朱金彩头顶怀膀子伤心哭泣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "开言不把别的叫，忙把我的丈夫啊我就叫一叫：我的夫郎君啊夫郎君，你把我就丢下吧、丢下吧，把我就丢到你的家廊中。",
+      "sentence": "朱金彩请求丈夫将她留在家中",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "我给你丈夫提尿罐端尿盆，铺床叠被，把你好伺奉，你总比寻上一个旁人强几分。",
+      "sentence": "朱金彩为丈夫提供生活照料服务",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "你把我就丢到你家廊中，掏灰扫地、掏粪压圈、缝衣做饭，给你都干上，你总比寻上个旁人强半揽。",
+      "sentence": "朱金彩承诺承担家中所有家务活",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "给给你个三房两妾你只管娶，把我了丢到你的家里给你当奴使。",
+      "sentence": "朱金彩允许丈夫娶三房两妾",
+      "behavior_type": 7
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "给给你个三房两妾你只管娶，把我了丢到你的家里给你当奴使。",
+      "sentence": "朱金彩请求留在丈夫家中",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "红绫被儿象牙床，你们来了安眠呀，我在那个马棚底下铺麦秸，我也情愿哎！",
+      "sentence": "朱金彩情愿在马棚底下铺麦秸",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "珍馐百味的好饭来了做上你们尝，那个残汤剩饭丢下了我充饥寒。",
+      "sentence": "朱金彩为家人准备美味佳肴",
+      "behavior_type": 11
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "珍馐百味的好饭来了做上你们尝，那个残汤剩饭丢下了我充饥寒。",
+      "sentence": "朱金彩食用残羹剩饭充饥",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的夫郎君啊，我的夫君啊。",
+      "sentence": "呼唤夫郎表达深切思念之情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "那个绫罗绸缎来了你们择着你们穿，那个褐褐毯毯丢下我遮冷寒。",
+      "sentence": "朱金彩将绫罗绸缎留给你们穿",
+      "behavior_type": 8
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "那个绫罗绸缎来了你们择着你们穿，那个褐褐毯毯丢下我遮冷寒。",
+      "sentence": "朱金彩用褐褐毯毯遮冷寒",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吃饭要吃个家常的饭，穿衣要穿一个粗布衣，要妻儿要要个贤良的妻呀，我的丈夫啊！",
+      "sentence": "吃饭要吃家常饭",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "吃饭要吃个家常的饭，穿衣要穿一个粗布衣，要妻儿要要个贤良的妻呀，我的丈夫啊！",
+      "sentence": "穿衣要穿粗布衣",
+      "behavior_type": 11
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "吃饭要吃个家常的饭，穿衣要穿一个粗布衣，要妻儿要要个贤良的妻呀，我的丈夫啊！",
+      "sentence": "朱金彩希望娶贤良妻",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的夫君郎。",
+      "sentence": "我的夫君郎",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "家常饭吃着饱哩，粗布衣穿着老哩，贤良妻儿要着好哩。",
+      "sentence": "家常饭能够让人吃饱",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "家常饭吃着饱哩，粗布衣穿着老哩，贤良妻儿要着好哩。",
+      "sentence": "粗布衣可以穿得长久",
+      "behavior_type": 11
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "家常饭吃着饱哩，粗布衣穿着老哩，贤良妻儿要着好哩。",
+      "sentence": "朱金彩认为贤良妻子好",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的夫君郎。",
+      "sentence": "说话者呼唤她的夫君",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "刘金华不动情，媳妇跪着不起身。",
+      "sentence": "刘金华对媳妇的行为无动于衷",
+      "behavior_type": 2
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "刘金华不动情，媳妇跪着不起身。",
+      "sentence": "朱金彩跪在地上不肯起身",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "一把撕住青丝发，左右拿的那个嘴巴又打。",
+      "sentence": "刘婆婆抓住头发并打嘴巴",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "嘴巴打给了五个整，脸上起的指头印。",
+      "sentence": "刘金华打了对方五个耳光",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "嘴巴打给了五个整，脸上起的指头印。",
+      "sentence": "脸上留下了明显的指印",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "嘴巴打了十个整，鼻子连嘴里的那个鲜血滴淋淋染地红啊！",
+      "sentence": "刘金华打了对方十个嘴巴",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "哎呀我的丈夫，你饶了吧，饶了饶了，你就多饶我的命！",
+      "sentence": "朱金彩恳求丈夫饶恕自己",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "留情呀留情，你就多留情，高抬你的贵手你就饶下我的命。",
+      "sentence": "朱金彩恳求丈夫饶恕她的性命",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "这辈子我忘不掉丈夫的个好恩情，我的夫郎君。",
+      "sentence": "朱金彩铭记丈夫的深厚恩情",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不看经面看佛面，不看前边你看后边。",
+      "sentence": "请求对方考虑情面给予宽恕",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不看左边了看右边，不念那个鱼情你把水情念！",
+      "sentence": "不念鱼情也要念水情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "再不了念起个再的了，你念起我们一夜的夫妻百夜的恩啊，百夜的夫妻如海深，我的好丈夫！",
+      "sentence": "朱金彩请求丈夫念及夫妻恩情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "娶过门眼看就到一年整，我和我丈夫同床寝，你打我骂我，我不吭声，鹞子跟上鹰飞了，我哪些把你丈夫的心亏了？",
+      "sentence": "朱金彩与丈夫同床共寝一年整",
+      "behavior_type": 12
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "娶过门眼看就到一年整，我和我丈夫同床寝，你打我骂我，我不吭声，鹞子跟上鹰飞了，我哪些把你丈夫的心亏了？",
+      "sentence": "朱金彩忍受丈夫的打骂不吭声",
+      "behavior_type": 12
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "娶过门眼看就到一年整，我和我丈夫同床寝，你打我骂我，我不吭声，鹞子跟上鹰飞了，我哪些把你丈夫的心亏了？",
+      "sentence": "朱金彩反思是否亏欠丈夫的心",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "今个学里的读五经，壮士儿你回到家廊中，休着你的妻子我犯下你的啥罪行？",
+      "sentence": "朱金彩询问丈夫自己有何罪行",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的夫郎君！",
+      "sentence": "我的夫郎君",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "啥罪行？",
+      "sentence": "朱金彩询问丈夫自己有何罪行",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "蛇不知自毒，人不知自过，娶到家里为的叫你伺奉老母亲，一天窜着不进门，为娘的身上不孝顺，立马你滚出我刘家门，你在我的家里站不成。",
+      "sentence": "刘婆婆指责儿媳不孝顺母亲",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘婆婆",
+      "original_sentence": "蛇不知自毒，人不知自过，娶到家里为的叫你伺奉老母亲，一天窜着不进门，为娘的身上不孝顺，立马你滚出我刘家门，你在我的家里站不成。",
+      "sentence": "刘婆婆命令儿媳离开家门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "朱金彩听罢了，丈夫那个说哟，眼睛里的眼泪怎么欻啦啦地淌呀，有心给丈夫说实话，恐怕把气丈夫吓坏到这它它。",
+      "sentence": "朱金彩听完丈夫的话后流泪",
+      "behavior_type": 2
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "朱金彩听罢了，丈夫那个说哟，眼睛里的眼泪怎么欻啦啦地淌呀，有心给丈夫说实话，恐怕把气丈夫吓坏到这它它。",
+      "sentence": "朱金彩犹豫是否告诉丈夫真相",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "有心不把实话说，刘家的家里我就不能住。",
+      "sentence": "朱金彩犹豫是否说出实情",
+      "behavior_type": 5
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "有心不把实话说，刘家的家里我就不能住。",
+      "sentence": "朱金彩无法继续留在刘家",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "好丈夫啊，仔细听，你说我夫人不孝顺，母亲得下了忧泪病。",
+      "sentence": "朱金彩告诉丈夫母亲患病",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "端给这个她不吃，做给那个她不用，要吃我的肝花连心她当药引。",
+      "sentence": "朱金彩端给刘婆婆食物被拒绝",
+      "behavior_type": 11
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "端给这个她不吃，做给那个她不用，要吃我的肝花连心她当药引。",
+      "sentence": "朱金彩做给刘婆婆食物被拒绝",
+      "behavior_type": 11
+    },
+    {
+      "role": "刘婆婆",
+      "original_sentence": "端给这个她不吃，做给那个她不用，要吃我的肝花连心她当药引。",
+      "sentence": "刘婆婆要求用朱金彩肝心做药",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "无奈了把肝花心都扒给叫老娘用，你还说我妇人家不孝顺呀！",
+      "sentence": "朱金彩将肝花心扒给母亲使用",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "若发你丈夫你全不信，解开我的纽子你就看假验真。",
+      "sentence": "朱金彩解开纽子让丈夫查验",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "朱金彩纽子来解开，就把那个伤口亮出来，七寸长的刀口印子在腹内上，血水淋淋染衣裳。",
+      "sentence": "朱金彩解开纽子展示伤口",
+      "behavior_type": 1
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "朱金彩纽子来解开，就把那个伤口亮出来，七寸长的刀口印子在腹内上，血水淋淋染衣裳。",
+      "sentence": "朱金彩腹上有七寸长刀口",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "吓得那个刘金华啊吆一声，不好了，哐嘡一下给栽倒了。",
+      "sentence": "刘金华被吓得当场晕倒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "朱金彩双手抱住丈夫人，脸挨脸儿哭伤心。",
+      "sentence": "朱金彩抱住丈夫伤心哭泣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "早知道丈夫的胆量就这么儿的小，悔不该解怀让把伤口瞭。",
+      "sentence": "朱金彩后悔展示伤口给丈夫看",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "打死了我妇人不要紧，吓坏我的丈夫叫谁当成我的天啊，我的老天爷啊。",
+      "sentence": "朱金彩担心丈夫被吓坏",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "打死了我妇人是脚跟的皮，蜕掉一层哩一层儿起。",
+      "sentence": "朱金彩认为死亡如同蜕皮",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "吓坏我的丈夫是窗户纸，天阴啊下雨没个遮拦的。",
+      "sentence": "朱金彩担心丈夫受到惊吓",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的夫郎君呀！",
+      "sentence": "夫郎君未在可选角色列表中",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "打死妇人是门前材，前月烧掉了后月来。",
+      "sentence": "朱金彩被打死后很快被替代",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吓坏我的丈夫是山上的松，一斧头砍倒怎么不起身。",
+      "sentence": "丈夫被吓坏后无法起身",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的夫郎君！",
+      "sentence": "夫郎君被呼唤",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "打死我妇人是韭菜园，前道子割掉后道子长。",
+      "sentence": "韭菜园被割掉后又重新生长",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吓坏我的丈夫是草上的霜，太阳一照怎么放了光。",
+      "sentence": "丈夫被吓坏后感到非常恐惧",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的夫郎君！",
+      "sentence": "我的丈夫被称为夫郎君",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "刘金华苏醒苏醒整半晌，睁开一双读书的眼，观见我的妻儿啊，怀抱我哭心酸。",
+      "sentence": "刘金华苏醒后睁开双眼",
+      "behavior_type": 3
+    },
+    {
+      "role": "刘金华",
+      "original_sentence": "刘金华苏醒苏醒整半晌，睁开一双读书的眼，观见我的妻儿啊，怀抱我哭心酸。",
+      "sentence": "刘金华看见妻子在哭泣",
+      "behavior_type": 6
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "刘金华苏醒苏醒整半晌，睁开一双读书的眼，观见我的妻儿啊，怀抱我哭心酸。",
+      "sentence": "朱金彩抱着丈夫心酸哭",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "挣扎着起来，妻儿抱到怀当中，脸挨脸儿哭伤心。",
+      "sentence": "刘金华将妻儿抱入怀中",
+      "behavior_type": 13
+    },
+    {
+      "role": "刘金华",
+      "original_sentence": "挣扎着起来，妻儿抱到怀当中，脸挨脸儿哭伤心。",
+      "sentence": "刘金华与妻儿相拥而泣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "我的妻儿！",
+      "sentence": "刘金华呼唤他的妻子朱金彩",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "早有这个话你个说分明，嘴巴我挨的我可怜地很。",
+      "sentence": "朱金彩埋怨对方未早说明白",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的老娘怎么老天爷降给了青风剑，咱俩儿的好好儿的婚缘怎么给往断里斩啊！",
+      "sentence": "老天爷降下青风剑斩断婚缘",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "刘金华双手把妻儿扶着坐在了床沿上，回来气话对母亲讲，我的母亲啊母亲！",
+      "sentence": "刘金华将妻儿扶坐在床沿上",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘金华",
+      "original_sentence": "刘金华双手把妻儿扶着坐在了床沿上，回来气话对母亲讲，我的母亲啊母亲！",
+      "sentence": "刘金华向母亲诉说气话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "你说的那个外来的媳妇子不孝顺，肝花心扒给叫你用啊，吃了你老娘的病起身。",
+      "sentence": "刘婆婆指责媳妇不孝顺",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘婆婆",
+      "original_sentence": "你说的那个外来的媳妇子不孝顺，肝花心扒给叫你用啊，吃了你老娘的病起身。",
+      "sentence": "刘婆婆声称媳妇吃病起身",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "就说我亲生的儿子有多孝顺啊，扒我的肝花起我还疼得很呀！",
+      "sentence": "刘婆婆指责儿子孝顺却让她痛苦",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "若发你老娘你不信，我把你背到小房里观伤口。",
+      "sentence": "刘金华表示要带母亲查看伤口",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "白：刘金华把母亲背到小房中：妻儿，妻儿，你把纽子解开叫母亲看，你看你的伤口可怜不可怜。",
+      "sentence": "刘金华将母亲背到小房中",
+      "behavior_type": 13
+    },
+    {
+      "role": "刘金华",
+      "original_sentence": "白：刘金华把母亲背到小房中：妻儿，妻儿，你把纽子解开叫母亲看，你看你的伤口可怜不可怜。",
+      "sentence": "刘金华让妻儿解开纽子给母亲看",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "朱金彩说，叫丈夫：解不成，也瞭不成。",
+      "sentence": "朱金彩告诉丈夫无法解开纽子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "你一个堂堂男子汉，要瞭伤口把魂吓散，瞭咔我的伤口不要紧，吓坏了老娘叫谁担承？",
+      "sentence": "朱金彩担心丈夫看到伤口会害怕",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "老婆婆又说：媳妇子，你解开我瞭咔吧，我么说了个玩笑话，谁叫你媳妇扒肝花？",
+      "sentence": "刘婆婆要求媳妇解开伤口查看",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "真正若扒了肝花心，孝顺了老母亲，我给你四街八巷传个名。",
+      "sentence": "刘婆婆说要给媳妇传名",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "再谁家的媳妇子多孝顺，肝花心能行扒给叫婆婆用啊？",
+      "sentence": "谁家媳妇能孝顺到如此程度",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "你给我解开我瞭咔。",
+      "sentence": "刘婆婆要求朱金彩解开伤口",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "朱金彩不敢解怀啊，刘金华忙的把衣裳搂起来，血水淋淋染地染衣裳，刀口印在腹内上，吓得那个老妖婆啊哟一声栽倒地埃尘。",
+      "sentence": "朱金彩不敢解开衣服",
+      "behavior_type": 12
+    },
+    {
+      "role": "刘金华",
+      "original_sentence": "朱金彩不敢解怀啊，刘金华忙的把衣裳搂起来，血水淋淋染地染衣裳，刀口印在腹内上，吓得那个老妖婆啊哟一声栽倒地埃尘。",
+      "sentence": "刘金华迅速掀起衣服",
+      "behavior_type": 13
+    },
+    {
+      "role": "刘婆婆",
+      "original_sentence": "朱金彩不敢解怀啊，刘金华忙的把衣裳搂起来，血水淋淋染地染衣裳，刀口印在腹内上，吓得那个老妖婆啊哟一声栽倒地埃尘。",
+      "sentence": "刘婆婆因惊吓而倒地",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "阎君爷打发的鬼王魂，大鬼上前把绳拴，二鬼拿了个骨嘟锤，推的推、搡的搡啊，吓死了老娘给进了孝房。",
+      "sentence": "鬼王魂被大鬼用绳子拴住",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "阎君爷打发的鬼王魂，大鬼上前把绳拴，二鬼拿了个骨嘟锤，推的推、搡的搡啊，吓死了老娘给进了孝房。",
+      "sentence": "二鬼拿着骨嘟锤推搡鬼王魂",
+      "behavior_type": 13
+    },
+    {
+      "role": "刘婆婆",
+      "original_sentence": "阎君爷打发的鬼王魂，大鬼上前把绳拴，二鬼拿了个骨嘟锤，推的推、搡的搡啊，吓死了老娘给进了孝房。",
+      "sentence": "刘婆婆被吓死进入孝房",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "那恶妇吓死到了地埃尘，阎王爷勾上了真魂来到了十殿阎君面前。",
+      "sentence": "刘婆婆被吓得倒地身亡",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "那恶妇吓死到了地埃尘，阎王爷勾上了真魂来到了十殿阎君面前。",
+      "sentence": "阎王爷将真魂带到十殿",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "也不说恶妇归了阴，再说了阎君爷打发的鬼王魂，带上了恶妇的真魂，来到了地狱门。",
+      "sentence": "刘婆婆被阎王爷勾魂归阴",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "也不说恶妇归了阴，再说了阎君爷打发的鬼王魂，带上了恶妇的真魂，来到了地狱门。",
+      "sentence": "阎君爷派遣鬼王带走真魂",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "也不说恶妇归了阴，再说了阎君爷打发的鬼王魂，带上了恶妇的真魂，来到了地狱门。",
+      "sentence": "鬼王将恶妇带到地狱门前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "十殿阎君问道：嗨，恶妇，你阳世三间干下的啥营生？",
+      "sentence": "十殿阎君询问恶妇生前所作所为",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "给我们十殿阎君细细地讲来。",
+      "sentence": "十殿阎君要求恶妇详细讲述",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "老妖婆说道：阎君爷爷，阎君爷爷，阳世三间，就锥帮纳底，薅田拔草，缝衣做饭，抓养孙男弟子着来么。",
+      "sentence": "刘婆婆向阎君讲述阳世所做之事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "嗨，你这个恶妇，这是你阳世三间应尽的责任。",
+      "sentence": "十殿阎君质问恶妇阳世所为",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘婆婆",
+      "original_sentence": "嗨，你这个恶妇，这是你阳世三间应尽的责任。",
+      "sentence": "恶妇向阎君陈述阳世日常劳作",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "嗨，你这个恶妇，这是你阳世三间应尽的责任。",
+      "sentence": "阎君指出这是恶妇应尽责任",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "你不招你的恶果，吩咐鬼族，绑到孽境台下打着招。",
+      "sentence": "刘婆婆被绑到孽境台下受刑",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "鬼族们奉了阎君的旨意，忙忙把老妖婆的真魂绑到孽境台下，打打打，打着招。",
+      "sentence": "鬼族将刘婆婆绑到孽境台下",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "鬼族们奉了阎君的旨意，忙忙把老妖婆的真魂绑到孽境台下，打打打，打着招。",
+      "sentence": "鬼族奉命对刘婆婆进行拷打",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "幺幺招了半晌，招出来是阳世三间扒着吃过的肝花连心，扒了媳妇的肝花连心了。",
+      "sentence": "刘婆婆招认扒过媳妇的肝花连心",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘婆婆",
+      "original_sentence": "十殿阎君一听冲冲大怒，吩咐了小神：你把那个恶妇的真魂倒掉在扒心地狱门，手拿钢刀扒掉她的心啊，我看她这个恶妇她疼不啊疼。",
+      "sentence": "十殿阎君听闻后感到愤怒无比",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘婆婆",
+      "original_sentence": "十殿阎君一听冲冲大怒，吩咐了小神：你把那个恶妇的真魂倒掉在扒心地狱门，手拿钢刀扒掉她的心啊，我看她这个恶妇她疼不啊疼。",
+      "sentence": "阎君命令将恶妇倒挂地狱",
+      "behavior_type": 13
+    },
+    {
+      "role": "刘婆婆",
+      "original_sentence": "十殿阎君一听冲冲大怒，吩咐了小神：你把那个恶妇的真魂倒掉在扒心地狱门，手拿钢刀扒掉她的心啊，我看她这个恶妇她疼不啊疼。",
+      "sentence": "阎君命人用钢刀扒掉其心",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "也不说恶妇的真魂被吊在扒心地狱受罪行，再说了刘金华在阳世上，吓死了母亲，这就是赶紧么请了一堂僧，一堂道，柏木棺材桑木套，一棺一椁的忙装了。",
+      "sentence": "刘金华因惊吓导致母亲去世",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "也不说恶妇的真魂被吊在扒心地狱受罪行，再说了刘金华在阳世上，吓死了母亲，这就是赶紧么请了一堂僧，一堂道，柏木棺材桑木套，一棺一椁的忙装了。",
+      "sentence": "请来僧道为母亲办理后事",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "七七百日都做尽，把母亲殡到祖坟茔。",
+      "sentence": "刘金华将母亲安葬于祖坟",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "坟里檀香祭了祖，家里檀香祭了祖。",
+      "sentence": "坟里和家里都用檀香祭祖",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "又打了七天七夜的罗天醮，罗天大醮谢尊神，后有大炮谢神灵。",
+      "sentence": "刘金华举办了七天七夜的罗天大醮",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "又打了七天七夜的罗天醮，罗天大醮谢尊神，后有大炮谢神灵。",
+      "sentence": "后以大炮感谢神灵的庇佑",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "忙了，忙了，谁忙了？",
+      "sentence": "刘金华忙于处理母亲的后事",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "忙了地方上的乡员甲役禀农官。",
+      "sentence": "乡员甲役向农官禀报情况",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "哎，这个事儿，朝朝代代都莫经过的，媳妇子扒了肝花心孝顺了婆婆大有功，赶紧就县里的文书府里升，府里的文书道里升。",
+      "sentence": "朱金彩孝顺婆婆的行为受到表彰",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "哎，这个事儿，朝朝代代都莫经过的，媳妇子扒了肝花心孝顺了婆婆大有功，赶紧就县里的文书府里升，府里的文书道里升。",
+      "sentence": "县里将文书逐级上报至府道",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "道里的文书往上升，折子行到午朝门。",
+      "sentence": "文书被逐级上报至午朝门",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "列国天子登宝殿，打开折子观着看。",
+      "sentence": "天子打开折子仔细查看",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们在朝里坐江山，朝外出来了大贤良。",
+      "sentence": "朝外出现了一位大贤良",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "金牌宣，银牌调，把贤人么宣到了金殿上。",
+      "sentence": "金牌银牌将贤人宣至金殿",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "刘金华，听我封：你的妻子孝母亲，扒了肝花大有功，再的为民我不封，把你封到河南你做总兵。",
+      "sentence": "刘金华被皇帝封为河南总兵",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "朱金彩，听我封：孝顺了婆婆你大有功，封你总兵太太夫妇都上任。",
+      "sentence": "朱金彩因孝顺婆婆被封总兵太太",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘金华",
+      "original_sentence": "那刘金华五色纱帽头上戴，大红蟒袍穿身膀，螺丝状的靴子忙蹬上。",
+      "sentence": "刘金华穿戴整齐准备上任",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "朱金彩",
+      "original_sentence": "那朱金彩朱冠霞帔头上戴，凤凰络衣披身前，做了总兵女娘娘，夫妻二人把任上。",
+      "sentence": "朱金彩头戴朱冠霞帔身披凤凰络衣",
+      "behavior_type": 1
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "那朱金彩朱冠霞帔头上戴，凤凰络衣披身前，做了总兵女娘娘，夫妻二人把任上。",
+      "sentence": "朱金彩与丈夫一同前往上任",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "再说了把这个朱家的门上也封一封，朱家妈妈养下了贤良好姑娘，封了妈妈傢养马不当差，种地不上粮，挑河垒坝永不管，自种自吃乐安然。",
+      "sentence": "朱家被封享有特殊待遇",
+      "behavior_type": 3
+    },
+    {
+      "role": "朱金彩",
+      "original_sentence": "再说了把这个朱家的门上也封一封，朱家妈妈养下了贤良好姑娘，封了妈妈傢养马不当差，种地不上粮，挑河垒坝永不管，自种自吃乐安然。",
+      "sentence": "朱金彩母亲获得免役特权",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一官一职么封罢了，双双贤传么念完了。",
+      "sentence": "封官仪式已经全部完成",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问此曲的亘古传，这是《扒肝孝母》的书一段。",
+      "sentence": "此曲为扒肝孝母书一段",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二十四孝的哪一孝？",
+      "sentence": "二十四孝中哪一孝最为著名",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二十四孝的第四孝。",
+      "sentence": "二十四孝中的第四孝是",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "贤人听，愚人听，贤人愚人大家听。",
+      "sentence": "大家一起来听这个故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "贤人听罢知实情，这个是世上的真事情。",
+      "sentence": "贤人听完后知晓了真实情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "心里照着两盏灯，越听越明越亮晶。",
+      "sentence": "心里有两盏灯越听越明亮",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "过了愚人的耳边风，还说我们唱贤孝的不通情，强编故事笑愚人。",
+      "sentence": "愚人认为唱贤孝者不通情理",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "翰林诸子不怠慢，翰林官上造贤传，造下的贤传是天下言啊。",
+      "sentence": "翰林官员撰写贤人传记",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问此曲真名姓，《扒肝孝母》一节一节交代清啊，给你们众位就散了一散心。",
+      "sentence": "此曲名为扒肝孝母",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "要问此曲真名姓，《扒肝孝母》一节一节交代清啊，给你们众位就散了一散心。",
+      "sentence": "详细讲述故事内容",
+      "behavior_type": 7
+    }
+  ]
+]

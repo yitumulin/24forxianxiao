@@ -1,0 +1,452 @@
+[
+  [
+    {
+      "role": "汉文帝（刘恒）",
+      "original_sentence": "第二节新编凉州贤孝第二孝唱词：汉文帝亲尝汤药三九真理传天下，二十四孝表贤人。",
+      "sentence": "汉文帝亲尝汤药传颂天下",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "第二节新编凉州贤孝第二孝唱词：汉文帝亲尝汤药三九真理传天下，二十四孝表贤人。",
+      "sentence": "二十四孝表彰贤人行为",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我把这些诗条对句丢在后，拉开正传了说古人。",
+      "sentence": "我将诗条对句丢弃在后",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "我把这些诗条对句丢在后，拉开正传了说古人。",
+      "sentence": "开始讲述古人的故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个时代说贤书？",
+      "sentence": "询问哪个时代讲述贤书",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个孝里论古人？",
+      "sentence": "讨论孝道中提及古人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "汉朝时代说贤书，第二孝里论孝子。",
+      "sentence": "汉朝时代讲述贤书故事",
+      "behavior_type": 7
+    },
+    {
+      "role": "汉文帝（刘恒）",
+      "original_sentence": "汉朝时代说贤书，第二孝里论孝子。",
+      "sentence": "第二孝里讨论孝子行为",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "汉文帝（刘恒）",
+      "original_sentence": "今天不把别的唱，唱一段汉文帝尝药孝母的孝子传。",
+      "sentence": "汉文帝亲自尝药以尽孝道",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "自从盘古开天地，三皇完了传五帝。",
+      "sentence": "盘古开天辟地后三皇传五帝",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "虞舜禅位给了大禹王，大禹传位给了亲儿郎。",
+      "sentence": "虞舜将帝位禅让给大禹",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "虞舜禅位给了大禹王，大禹传位给了亲儿郎。",
+      "sentence": "大禹将帝位传给亲儿子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夏启传到了残暴的夏桀王，商汤传到了荒淫的殷纣王。",
+      "sentence": "夏启将王位传给残暴的夏桀王",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "夏启传到了残暴的夏桀王，商汤传到了荒淫的殷纣王。",
+      "sentence": "商汤将王位传给荒淫的殷纣王",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周武王讨伐的殷纣王，狐狸精妲己也归了天。",
+      "sentence": "殷纣王被周武王讨伐后死亡",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "周武王讨伐的殷纣王，狐狸精妲己也归了天。",
+      "sentence": "狐狸精妲己最终也死亡了",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周幽王烽火戏诸侯，周平王迁都到洛阳。",
+      "sentence": "周幽王点燃烽火戏弄诸侯",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "周幽王烽火戏诸侯，周平王迁都到洛阳。",
+      "sentence": "周平王将都城迁至洛阳",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "春秋五霸争天下，战国七雄归秦王。",
+      "sentence": "春秋五霸争夺天下霸权",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "春秋五霸争天下，战国七雄归秦王。",
+      "sentence": "战国七雄最终归属秦王",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘邦",
+      "original_sentence": "楚霸王宁死不过江，成就了泼皮无赖汉刘邦。",
+      "sentence": "刘邦因楚霸王不过江而成就帝业",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘邦",
+      "original_sentence": "狡兔死，走狗烹，往后的异姓不封王。",
+      "sentence": "刘邦不再分封异姓诸侯王",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘邦",
+      "original_sentence": "刘邦一朝殡了天，皇后吕雉么掌了权。",
+      "sentence": "刘邦去世后权力发生转移",
+      "behavior_type": 3
+    },
+    {
+      "role": "吕雉",
+      "original_sentence": "刘邦一朝殡了天，皇后吕雉么掌了权。",
+      "sentence": "吕雉在刘邦死后掌握大权",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "吕雉",
+      "original_sentence": "吕后一朝殡了天，周勃陈平立代王。",
+      "sentence": "吕雉去世后周勃陈平拥立代王",
+      "behavior_type": 3
+    },
+    {
+      "role": "周勃",
+      "original_sentence": "吕后一朝殡了天，周勃陈平立代王。",
+      "sentence": "周勃与陈平共同拥立代王",
+      "behavior_type": 3
+    },
+    {
+      "role": "陈平",
+      "original_sentence": "吕后一朝殡了天，周勃陈平立代王。",
+      "sentence": "陈平与周勃共同拥立代王",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "汉文帝（刘恒）",
+      "original_sentence": "代王刘恒当皇帝，这就是大名鼎鼎的汉文帝。",
+      "sentence": "刘恒继承皇位成为汉文帝",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘邦",
+      "original_sentence": "刘邦的儿子里排老三，母亲名字叫薄姬。",
+      "sentence": "刘邦的儿子中排行第三",
+      "behavior_type": 8
+    },
+    {
+      "role": "薄姬",
+      "original_sentence": "刘邦的儿子里排老三，母亲名字叫薄姬。",
+      "sentence": "薄姬是刘恒的母亲",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "薄姬",
+      "original_sentence": "薄姬说来命也苦，傢是秦朝魏王魏豹的小老婆。",
+      "sentence": "薄姬曾为魏豹之妾命运坎坷",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "魏豹",
+      "original_sentence": "魏豹一朝送了命，薄姬就被刘邦收到了皇宫里。",
+      "sentence": "魏豹去世后薄姬进入皇宫",
+      "behavior_type": 3
+    },
+    {
+      "role": "薄姬",
+      "original_sentence": "魏豹一朝送了命，薄姬就被刘邦收到了皇宫里。",
+      "sentence": "薄姬被刘邦带入皇宫中",
+      "behavior_type": 4
+    },
+    {
+      "role": "刘邦",
+      "original_sentence": "魏豹一朝送了命，薄姬就被刘邦收到了皇宫里。",
+      "sentence": "刘邦将薄姬纳入皇宫内",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "薄姬",
+      "original_sentence": "说起这个薄姬真漂亮，碰上了好色的汉刘邦。",
+      "sentence": "薄姬容貌美丽引人注目",
+      "behavior_type": 1
+    },
+    {
+      "role": "刘邦",
+      "original_sentence": "说起这个薄姬真漂亮，碰上了好色的汉刘邦。",
+      "sentence": "刘邦好色见到美女心动",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "薄姬",
+      "original_sentence": "昨夜梦见苍龙盘在肚子上，今夜就和刘邦同了房。",
+      "sentence": "薄姬梦见苍龙盘在肚子上",
+      "behavior_type": 3
+    },
+    {
+      "role": "薄姬",
+      "original_sentence": "昨夜梦见苍龙盘在肚子上，今夜就和刘邦同了房。",
+      "sentence": "薄姬与刘邦同房",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "薄姬",
+      "original_sentence": "生下了儿子叫刘恒，从此难见刘邦的面。",
+      "sentence": "薄姬生下儿子后难以见到刘邦",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "陈豨",
+      "original_sentence": "代地的陈豨做了乱，刘邦亲征平了叛。",
+      "sentence": "陈豨在代地发动叛乱",
+      "behavior_type": 9
+    },
+    {
+      "role": "刘邦",
+      "original_sentence": "代地的陈豨做了乱，刘邦亲征平了叛。",
+      "sentence": "刘邦亲自率军平定叛乱",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "汉文帝（刘恒）",
+      "original_sentence": "治国还得靠亲儿郎，刘恒八岁就封代王。",
+      "sentence": "刘恒八岁时被封为代王",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "汉文帝（刘恒）",
+      "original_sentence": "代王当了十五年，就赶上吕后殡了天。",
+      "sentence": "刘恒担任代王长达十五年",
+      "behavior_type": 12
+    },
+    {
+      "role": "吕雉",
+      "original_sentence": "代王当了十五年，就赶上吕后殡了天。",
+      "sentence": "吕后去世时刘恒仍在代地",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "汉文帝（刘恒）",
+      "original_sentence": "天上也能掉馅饼，谁料到今天的代王当皇上。",
+      "sentence": "汉文帝意外成为新任皇帝",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "薄姬",
+      "original_sentence": "亲生儿子当皇上，薄姬成了太后么也风光。",
+      "sentence": "薄姬因儿子称帝成为太后",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "汉文帝（刘恒）",
+      "original_sentence": "文帝是个孝顺郎，伺候母亲么不怠慢。",
+      "sentence": "汉文帝刘恒孝顺母亲从不怠慢",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "汉文帝（刘恒）",
+      "original_sentence": "母亲突然把病患，这可急坏了小皇上。",
+      "sentence": "汉文帝因母亲患病感到非常焦急",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "汉文帝（刘恒）",
+      "original_sentence": "母亲一病整三年，刘恒伺候了整三年。",
+      "sentence": "刘恒连续三年照顾患病的母亲",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "汉文帝（刘恒）",
+      "original_sentence": "天天烧火熬药汤，日夜守护在病床前。",
+      "sentence": "汉文帝日夜守护在母亲病床前",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "汉文帝（刘恒）",
+      "original_sentence": "烧上小火儿慢慢熬，熬好汤药先自己尝。",
+      "sentence": "刘恒用小火慢慢熬制汤药",
+      "behavior_type": 11
+    },
+    {
+      "role": "汉文帝（刘恒）",
+      "original_sentence": "烧上小火儿慢慢熬，熬好汤药先自己尝。",
+      "sentence": "刘恒亲自品尝熬好的汤药",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "汉文帝（刘恒）",
+      "original_sentence": "苦不苦，烫不烫，不苦不烫了再给母亲端。",
+      "sentence": "刘恒将汤药亲自尝过后端给母亲",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "汉文帝（刘恒）",
+      "original_sentence": "谁说久病床前无孝子，你看人家汉文帝。",
+      "sentence": "汉文帝是久病床前的孝子典范",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "汉文帝（刘恒）",
+      "original_sentence": "治国理政好皇上，文景之治美名扬。",
+      "sentence": "汉文帝治国理政开创文景之治",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "汉文帝（刘恒）",
+      "original_sentence": "伺候母亲尝药汤，名字可上了孝子榜。",
+      "sentence": "汉文帝因孝行被列入孝子榜",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，这段子贤孝么已唱完，故事么一节一节交代全。",
+      "sentence": "这段故事已经全部讲述完毕",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问唱的是那一段？",
+      "sentence": "询问唱的是哪一段内容",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二十四孝里的第二篇。",
+      "sentence": "二十四孝包含第二篇内容",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问曲儿是啥名堂？",
+      "sentence": "询问这首曲子的名称是什么",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "汉文帝（刘恒）",
+      "original_sentence": "汉文帝尝药孝亲娘。",
+      "sentence": "汉文帝为母亲亲自尝药",
+      "behavior_type": 3
+    }
+  ]
+]

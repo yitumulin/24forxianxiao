@@ -1,0 +1,7996 @@
+[
+  {
+    "roleName": "梁青",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 4,
+      "2": 1,
+      "4": 1,
+      "10": 1,
+      "3": 2
+    },
+    "total_sentences": 9,
+    "entropy": 2.058813890331201
+  },
+  {
+    "roleName": "梁忠",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 1,
+      "3": 1,
+      "2": 1,
+      "4": 1,
+      "8": 1,
+      "10": 1
+    },
+    "total_sentences": 6,
+    "entropy": 2.584962500721156
+  },
+  {
+    "roleName": "梁广",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "7": 4,
+      "3": 1,
+      "11": 1,
+      "10": 1,
+      "2": 2,
+      "12": 1
+    },
+    "total_sentences": 10,
+    "entropy": 2.321928094887362
+  },
+  {
+    "roleName": "郭丽珍",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "3": 3,
+      "13": 1,
+      "7": 2,
+      "11": 1
+    },
+    "total_sentences": 7,
+    "entropy": 1.8423709931771084
+  },
+  {
+    "roleName": "郯子",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "2": 4,
+      "7": 4,
+      "10": 4,
+      "3": 2,
+      "12": 2,
+      "4": 3,
+      "5": 1,
+      "13": 2,
+      "11": 1,
+      "8": 1,
+      "1": 1
+    },
+    "total_sentences": 25,
+    "entropy": 3.2536606896881852
+  },
+  {
+    "roleName": "郯子父母",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "3": 3,
+      "1": 1
+    },
+    "total_sentences": 4,
+    "entropy": 0.8112781244591328
+  },
+  {
+    "roleName": "猎人",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "13": 1,
+      "7": 4,
+      "5": 1,
+      "4": 1,
+      "9": 1,
+      "2": 1
+    },
+    "total_sentences": 9,
+    "entropy": 2.2810361125534233
+  },
+  {
+    "roleName": "老莱子",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "10": 6,
+      "7": 5,
+      "14": 2,
+      "4": 2,
+      "8": 1,
+      "2": 5,
+      "13": 4,
+      "11": 1,
+      "1": 1
+    },
+    "total_sentences": 27,
+    "entropy": 2.8760335779708557
+  },
+  {
+    "roleName": "老莱子父",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "2": 6,
+      "1": 1,
+      "13": 1
+    },
+    "total_sentences": 8,
+    "entropy": 1.061278124459133
+  },
+  {
+    "roleName": "老莱子母",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "1": 2,
+      "2": 4
+    },
+    "total_sentences": 6,
+    "entropy": 0.9182958340544896
+  },
+  {
+    "roleName": "刘金华",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 5,
+      "10": 1,
+      "7": 17,
+      "1": 2,
+      "5": 3,
+      "4": 4,
+      "12": 2,
+      "2": 6,
+      "13": 9,
+      "14": 5,
+      "6": 1
+    },
+    "total_sentences": 55,
+    "entropy": 2.990448135895558
+  },
+  {
+    "roleName": "朱金彩",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "10": 7,
+      "4": 7,
+      "3": 16,
+      "7": 22,
+      "12": 7,
+      "2": 25,
+      "11": 7,
+      "13": 4,
+      "1": 8,
+      "6": 2,
+      "8": 6,
+      "5": 6
+    },
+    "total_sentences": 117,
+    "entropy": 3.2649853334239562
+  },
+  {
+    "roleName": "白狗",
+    "roleType": "灵性动物",
+    "behaviorCounts": {
+      "3": 2,
+      "11": 1,
+      "13": 3,
+      "12": 1
+    },
+    "total_sentences": 7,
+    "entropy": 1.8423709931771084
+  },
+  {
+    "roleName": "刘婆婆",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "10": 4,
+      "9": 7,
+      "7": 18,
+      "2": 9,
+      "13": 7,
+      "11": 8,
+      "3": 10,
+      "12": 2,
+      "1": 1,
+      "6": 2,
+      "5": 2,
+      "4": 1
+    },
+    "total_sentences": 71,
+    "entropy": 3.134110149129717
+  },
+  {
+    "roleName": "张八根",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "10": 1,
+      "7": 2
+    },
+    "total_sentences": 3,
+    "entropy": 0.9182958340544896
+  },
+  {
+    "roleName": "李五根",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "10": 1,
+      "7": 2
+    },
+    "total_sentences": 3,
+    "entropy": 0.9182958340544896
+  },
+  {
+    "roleName": "玉皇大帝",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "2": 4,
+      "12": 1,
+      "7": 12,
+      "5": 2,
+      "4": 1,
+      "6": 2,
+      "3": 2
+    },
+    "total_sentences": 24,
+    "entropy": 2.209147917027245
+  },
+  {
+    "roleName": "路爱青",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "8": 1,
+      "2": 8,
+      "3": 5,
+      "7": 7,
+      "13": 2,
+      "12": 2,
+      "5": 1,
+      "11": 2,
+      "4": 3,
+      "1": 1
+    },
+    "total_sentences": 32,
+    "entropy": 2.93699961153114
+  },
+  {
+    "roleName": "陶氏",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "2": 41,
+      "3": 6,
+      "7": 16,
+      "14": 2,
+      "10": 24,
+      "12": 15,
+      "1": 10,
+      "8": 3,
+      "11": 3,
+      "5": 5,
+      "4": 5,
+      "13": 5,
+      "6": 1
+    },
+    "total_sentences": 136,
+    "entropy": 3.062684580061995
+  },
+  {
+    "roleName": "路不平",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "10": 5,
+      "8": 4,
+      "4": 24,
+      "7": 24,
+      "5": 6,
+      "3": 14,
+      "13": 17,
+      "2": 10,
+      "12": 8,
+      "1": 9,
+      "11": 5,
+      "9": 3,
+      "6": 1
+    },
+    "total_sentences": 130,
+    "entropy": 3.3292863771677146
+  },
+  {
+    "roleName": "小黄犬",
+    "roleType": "灵性动物",
+    "behaviorCounts": {
+      "11": 2,
+      "2": 3,
+      "4": 13,
+      "7": 2,
+      "13": 8,
+      "10": 3,
+      "6": 2
+    },
+    "total_sentences": 33,
+    "entropy": 2.3893792302626617
+  },
+  {
+    "roleName": "姚翠萍",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "10": 2,
+      "7": 6,
+      "12": 1,
+      "1": 1,
+      "2": 2,
+      "4": 6,
+      "3": 2
+    },
+    "total_sentences": 20,
+    "entropy": 2.4709505944546684
+  },
+  {
+    "roleName": "潘仁",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "10": 32,
+      "2": 12,
+      "7": 32,
+      "3": 15,
+      "11": 3,
+      "4": 16,
+      "5": 7,
+      "12": 7,
+      "9": 4,
+      "1": 4,
+      "13": 9,
+      "8": 12,
+      "14": 12
+    },
+    "total_sentences": 165,
+    "entropy": 3.3648119694940566
+  },
+  {
+    "roleName": "三大财神",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 7,
+      "4": 5,
+      "13": 1,
+      "14": 3,
+      "3": 1,
+      "8": 1,
+      "5": 1
+    },
+    "total_sentences": 19,
+    "entropy": 2.3523479118118216
+  },
+  {
+    "roleName": "玉帝",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "8": 1,
+      "2": 1,
+      "10": 1,
+      "7": 3,
+      "3": 2
+    },
+    "total_sentences": 8,
+    "entropy": 2.1556390622295662
+  },
+  {
+    "roleName": "二郎神",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "14": 5,
+      "1": 10,
+      "13": 8,
+      "9": 8,
+      "2": 7,
+      "4": 34,
+      "12": 2,
+      "10": 4,
+      "7": 19,
+      "3": 2,
+      "5": 5,
+      "11": 1,
+      "8": 1,
+      "6": 1
+    },
+    "total_sentences": 107,
+    "entropy": 3.0987155311666594
+  },
+  {
+    "roleName": "斧王庙老妖",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "13": 2,
+      "12": 2,
+      "11": 5,
+      "2": 2,
+      "4": 2,
+      "6": 2,
+      "1": 1
+    },
+    "total_sentences": 16,
+    "entropy": 2.649397470347699
+  },
+  {
+    "roleName": "王母娘娘",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 3,
+      "2": 3
+    },
+    "total_sentences": 6,
+    "entropy": 1.0
+  },
+  {
+    "roleName": "云华仙女",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "4": 1,
+      "3": 3,
+      "2": 5,
+      "6": 3,
+      "1": 1,
+      "7": 3,
+      "11": 1,
+      "12": 1
+    },
+    "total_sentences": 18,
+    "entropy": 2.7324637247241332
+  },
+  {
+    "roleName": "杨天佑",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "3": 2,
+      "2": 2
+    },
+    "total_sentences": 4,
+    "entropy": 1.0
+  },
+  {
+    "roleName": "丁郎",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "5": 18,
+      "7": 32,
+      "12": 11,
+      "4": 25,
+      "2": 42,
+      "10": 4,
+      "13": 8,
+      "9": 5,
+      "3": 20,
+      "11": 1,
+      "14": 3,
+      "6": 1,
+      "8": 2,
+      "1": 4
+    },
+    "total_sentences": 176,
+    "entropy": 3.1384701174645957
+  },
+  {
+    "roleName": "丁百万",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "12": 2,
+      "7": 6,
+      "2": 4,
+      "3": 6,
+      "4": 1,
+      "13": 1
+    },
+    "total_sentences": 20,
+    "entropy": 2.2709505944546686
+  },
+  {
+    "roleName": "康氏",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "3": 16,
+      "2": 28,
+      "10": 16,
+      "12": 6,
+      "14": 1,
+      "7": 18,
+      "1": 10,
+      "8": 6,
+      "11": 2,
+      "13": 2,
+      "4": 8
+    },
+    "total_sentences": 113,
+    "entropy": 3.015723928777116
+  },
+  {
+    "roleName": "王秀英",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "3": 3,
+      "2": 11,
+      "10": 6,
+      "13": 4,
+      "9": 9,
+      "1": 2,
+      "7": 15,
+      "11": 2,
+      "4": 2
+    },
+    "total_sentences": 54,
+    "entropy": 2.8020894603373714
+  },
+  {
+    "roleName": "山神爷",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "2": 2,
+      "14": 6,
+      "7": 2,
+      "4": 3,
+      "13": 1
+    },
+    "total_sentences": 14,
+    "entropy": 2.074164743022575
+  },
+  {
+    "roleName": "土地爷",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "2": 2,
+      "14": 3,
+      "7": 2,
+      "4": 1,
+      "13": 1
+    },
+    "total_sentences": 9,
+    "entropy": 2.197159723424149
+  },
+  {
+    "roleName": "玉皇大帝",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 6
+    },
+    "total_sentences": 6,
+    "entropy": 0.0
+  },
+  {
+    "roleName": "张彦",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "5": 12,
+      "2": 30,
+      "3": 12,
+      "7": 26,
+      "10": 2,
+      "14": 3,
+      "13": 1,
+      "9": 1,
+      "4": 4,
+      "6": 2,
+      "1": 4,
+      "12": 1
+    },
+    "total_sentences": 98,
+    "entropy": 2.734994149631584
+  },
+  {
+    "roleName": "白玉楼",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "4": 8,
+      "7": 31,
+      "2": 36,
+      "12": 4,
+      "3": 8,
+      "5": 5,
+      "1": 4,
+      "6": 4,
+      "9": 1,
+      "10": 4,
+      "14": 2
+    },
+    "total_sentences": 107,
+    "entropy": 2.6918686111828927
+  },
+  {
+    "roleName": "钱赛花",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "7": 9,
+      "2": 1,
+      "12": 1,
+      "13": 1,
+      "4": 1
+    },
+    "total_sentences": 13,
+    "entropy": 1.5058762556041068
+  },
+  {
+    "roleName": "周刚",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "10": 2,
+      "4": 2,
+      "7": 1,
+      "8": 1,
+      "2": 1
+    },
+    "total_sentences": 7,
+    "entropy": 2.2359263506290326
+  },
+  {
+    "roleName": "江夏",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "7": 7,
+      "2": 3,
+      "13": 3,
+      "4": 1,
+      "1": 1
+    },
+    "total_sentences": 15,
+    "entropy": 1.9628066316931743
+  },
+  {
+    "roleName": "刘蕊莲",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "6": 3,
+      "10": 1,
+      "4": 1,
+      "7": 2,
+      "3": 1,
+      "12": 1
+    },
+    "total_sentences": 9,
+    "entropy": 2.4193819456463714
+  },
+  {
+    "roleName": "金秀容",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "1": 2,
+      "6": 1,
+      "5": 1,
+      "2": 5,
+      "12": 1,
+      "13": 1,
+      "3": 1,
+      "7": 1
+    },
+    "total_sentences": 13,
+    "entropy": 2.6535442970305683
+  },
+  {
+    "roleName": "金驸马",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "2": 2,
+      "4": 1,
+      "10": 1,
+      "7": 3,
+      "3": 3,
+      "9": 2
+    },
+    "total_sentences": 12,
+    "entropy": 2.4591479170272446
+  },
+  {
+    "roleName": "蒋员外",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "8": 2,
+      "12": 3,
+      "10": 2,
+      "7": 7,
+      "2": 6,
+      "5": 1,
+      "11": 1,
+      "13": 2,
+      "3": 3,
+      "14": 1
+    },
+    "total_sentences": 28,
+    "entropy": 2.997675119805565
+  },
+  {
+    "roleName": "蒋菊英",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "4": 1,
+      "2": 6,
+      "7": 4,
+      "8": 1,
+      "1": 1,
+      "13": 1
+    },
+    "total_sentences": 14,
+    "entropy": 2.128085278891394
+  },
+  {
+    "roleName": "蒋秀英",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "4": 4,
+      "7": 4,
+      "1": 1,
+      "13": 2,
+      "10": 1,
+      "2": 2
+    },
+    "total_sentences": 14,
+    "entropy": 2.3787834934861753
+  },
+  {
+    "roleName": "蒋丑英",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "1": 1,
+      "7": 4,
+      "8": 4,
+      "4": 2,
+      "13": 3,
+      "14": 1,
+      "10": 2,
+      "3": 1
+    },
+    "total_sentences": 18,
+    "entropy": 2.7946534735443413
+  },
+  {
+    "roleName": "杨相公",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 13,
+      "2": 5,
+      "13": 4,
+      "1": 1,
+      "10": 7,
+      "4": 3,
+      "6": 1,
+      "5": 2,
+      "8": 3,
+      "14": 2,
+      "3": 1
+    },
+    "total_sentences": 42,
+    "entropy": 2.99049322589778
+  },
+  {
+    "roleName": "蒋家奶奶",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "7": 13,
+      "2": 8,
+      "10": 2,
+      "13": 2,
+      "4": 4,
+      "1": 6,
+      "5": 1
+    },
+    "total_sentences": 36,
+    "entropy": 2.4028280197711696
+  },
+  {
+    "roleName": "玉皇大帝",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "2": 2,
+      "7": 5
+    },
+    "total_sentences": 7,
+    "entropy": 0.863120568566631
+  },
+  {
+    "roleName": "火德真君",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "4": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1
+    },
+    "total_sentences": 4,
+    "entropy": 2.0
+  },
+  {
+    "roleName": "杨金通",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 6,
+      "3": 1,
+      "2": 2,
+      "12": 1,
+      "13": 3,
+      "4": 2,
+      "10": 1
+    },
+    "total_sentences": 16,
+    "entropy": 2.48345859334435
+  },
+  {
+    "roleName": "孟宗",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 5,
+      "7": 4,
+      "12": 1,
+      "2": 10,
+      "5": 1,
+      "4": 4,
+      "13": 3,
+      "11": 2,
+      "14": 1,
+      "10": 3
+    },
+    "total_sentences": 34,
+    "entropy": 2.959854122790417
+  },
+  {
+    "roleName": "孙权",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "8": 1,
+      "10": 1,
+      "2": 1,
+      "9": 1,
+      "5": 1,
+      "3": 1
+    },
+    "total_sentences": 6,
+    "entropy": 2.584962500721156
+  },
+  {
+    "roleName": "孟母",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "12": 1,
+      "10": 1,
+      "2": 2,
+      "3": 3,
+      "11": 2,
+      "7": 3,
+      "14": 2,
+      "5": 1
+    },
+    "total_sentences": 15,
+    "entropy": 2.872905595320056
+  },
+  {
+    "roleName": "梁青",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 4,
+      "2": 1,
+      "4": 1,
+      "10": 1,
+      "3": 2
+    },
+    "total_sentences": 9,
+    "entropy": 2.058813890331201
+  },
+  {
+    "roleName": "梁忠",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 1,
+      "3": 1,
+      "2": 1,
+      "4": 1,
+      "8": 1,
+      "10": 1
+    },
+    "total_sentences": 6,
+    "entropy": 2.584962500721156
+  },
+  {
+    "roleName": "梁广",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "7": 4,
+      "3": 1,
+      "11": 1,
+      "10": 1,
+      "2": 2,
+      "12": 1
+    },
+    "total_sentences": 10,
+    "entropy": 2.321928094887362
+  },
+  {
+    "roleName": "郭丽珍",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "3": 3,
+      "13": 1,
+      "7": 2,
+      "11": 1
+    },
+    "total_sentences": 7,
+    "entropy": 1.8423709931771084
+  },
+  {
+    "roleName": "周百玉",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "8": 2,
+      "7": 12,
+      "10": 5,
+      "2": 10,
+      "13": 4,
+      "5": 2,
+      "11": 6,
+      "12": 3,
+      "4": 5,
+      "3": 1
+    },
+    "total_sentences": 50,
+    "entropy": 3.0094007015168938
+  },
+  {
+    "roleName": "康氏夫人",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "3": 8,
+      "8": 2,
+      "12": 1,
+      "4": 2,
+      "7": 10,
+      "2": 6,
+      "10": 3,
+      "5": 1,
+      "13": 2,
+      "14": 1
+    },
+    "total_sentences": 36,
+    "entropy": 2.850926572126645
+  },
+  {
+    "roleName": "周苗郎（田小郎）",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 25,
+      "3": 8,
+      "12": 2,
+      "2": 13,
+      "5": 19,
+      "11": 1,
+      "8": 4,
+      "4": 14,
+      "13": 2,
+      "6": 3,
+      "1": 4,
+      "10": 1,
+      "14": 3
+    },
+    "total_sentences": 99,
+    "entropy": 3.0765739155466414
+  },
+  {
+    "roleName": "周文选",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "5": 11,
+      "7": 38,
+      "4": 15,
+      "12": 5,
+      "13": 6,
+      "2": 14,
+      "10": 7,
+      "8": 2,
+      "3": 5,
+      "11": 3
+    },
+    "total_sentences": 106,
+    "entropy": 2.817385085991803
+  },
+  {
+    "roleName": "柳迎春",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "3": 23,
+      "5": 14,
+      "1": 14,
+      "7": 68,
+      "10": 21,
+      "4": 51,
+      "12": 16,
+      "2": 65,
+      "11": 15,
+      "6": 4,
+      "13": 25,
+      "14": 8,
+      "8": 3,
+      "9": 2
+    },
+    "total_sentences": 329,
+    "entropy": 3.2706481708223043
+  },
+  {
+    "roleName": "周豺/周彪",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "7": 4,
+      "4": 2,
+      "8": 2
+    },
+    "total_sentences": 8,
+    "entropy": 1.5
+  },
+  {
+    "roleName": "田继翰",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "6": 1,
+      "7": 4,
+      "4": 3,
+      "13": 2,
+      "2": 1
+    },
+    "total_sentences": 11,
+    "entropy": 2.1180782093497093
+  },
+  {
+    "roleName": "周三/周四",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "7": 1,
+      "13": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "张屠汉/刘屠汉/徐屠汉",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "13": 1,
+      "7": 5,
+      "11": 1,
+      "10": 1
+    },
+    "total_sentences": 8,
+    "entropy": 1.5487949406953985
+  },
+  {
+    "roleName": "王润",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "2": 6,
+      "7": 14,
+      "12": 2,
+      "10": 4,
+      "3": 2,
+      "6": 2,
+      "4": 2,
+      "11": 1
+    },
+    "total_sentences": 33,
+    "entropy": 2.474310970475623
+  },
+  {
+    "roleName": "李武举",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "12": 1,
+      "8": 5,
+      "7": 26,
+      "2": 10,
+      "4": 6,
+      "13": 5,
+      "5": 3,
+      "3": 3,
+      "10": 3,
+      "1": 10,
+      "9": 10,
+      "6": 2
+    },
+    "total_sentences": 84,
+    "entropy": 3.0963293992313763
+  },
+  {
+    "roleName": "杨良",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "12": 2,
+      "7": 6,
+      "10": 2,
+      "2": 5,
+      "13": 3
+    },
+    "total_sentences": 18,
+    "entropy": 2.1769081691685783
+  },
+  {
+    "roleName": "张栋",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "7": 8,
+      "8": 3,
+      "4": 1,
+      "2": 3,
+      "5": 1,
+      "13": 1
+    },
+    "total_sentences": 17,
+    "entropy": 2.116299605701696
+  },
+  {
+    "roleName": "王定保",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "1": 8,
+      "3": 16,
+      "7": 32,
+      "6": 1,
+      "5": 13,
+      "14": 2,
+      "12": 7,
+      "10": 6,
+      "8": 13,
+      "2": 14,
+      "4": 8,
+      "11": 2,
+      "13": 7
+    },
+    "total_sentences": 129,
+    "entropy": 3.287761011286756
+  },
+  {
+    "roleName": "张存姐",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "14": 2,
+      "7": 20,
+      "12": 6,
+      "6": 1,
+      "2": 8,
+      "13": 1,
+      "8": 2,
+      "10": 1,
+      "11": 1,
+      "3": 2,
+      "4": 4,
+      "1": 2
+    },
+    "total_sentences": 50,
+    "entropy": 2.8048894517332403
+  },
+  {
+    "roleName": "张银姐",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "12": 1,
+      "7": 38,
+      "10": 5,
+      "2": 15,
+      "3": 3,
+      "6": 1,
+      "5": 4,
+      "4": 10,
+      "13": 8,
+      "8": 3,
+      "1": 3
+    },
+    "total_sentences": 91,
+    "entropy": 2.6713310316845766
+  },
+  {
+    "roleName": "刘龙",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "7": 9,
+      "5": 3,
+      "13": 2,
+      "6": 1,
+      "10": 1
+    },
+    "total_sentences": 16,
+    "entropy": 1.7947367178034825
+  },
+  {
+    "roleName": "郑英裁缝",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "1": 1,
+      "7": 5,
+      "4": 2,
+      "14": 5,
+      "5": 1,
+      "8": 2,
+      "9": 2,
+      "13": 1,
+      "10": 1
+    },
+    "total_sentences": 20,
+    "entropy": 2.860964047443681
+  },
+  {
+    "roleName": "马武",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 1,
+      "10": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "杨六郎",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "12": 2,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 0.9182958340544896
+  },
+  {
+    "roleName": "柳敖",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "7": 3,
+      "8": 2,
+      "2": 1,
+      "4": 2,
+      "13": 3
+    },
+    "total_sentences": 11,
+    "entropy": 2.2312702546075758
+  },
+  {
+    "roleName": "康东",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 12,
+      "12": 5,
+      "11": 3,
+      "3": 4,
+      "8": 1,
+      "2": 6,
+      "13": 2,
+      "4": 9,
+      "1": 6,
+      "5": 3,
+      "10": 2
+    },
+    "total_sentences": 53,
+    "entropy": 3.1677725204301366
+  },
+  {
+    "roleName": "柳秀英",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "12": 5,
+      "4": 10,
+      "7": 15,
+      "2": 3,
+      "1": 5,
+      "13": 1,
+      "3": 6
+    },
+    "total_sentences": 45,
+    "entropy": 2.4850401332548877
+  },
+  {
+    "roleName": "店主人",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "7": 27,
+      "4": 5,
+      "12": 3,
+      "5": 1,
+      "6": 1,
+      "8": 1
+    },
+    "total_sentences": 38,
+    "entropy": 1.4388093414695347
+  },
+  {
+    "roleName": "康东义",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "1": 1,
+      "5": 4,
+      "14": 6,
+      "6": 1,
+      "3": 1,
+      "10": 1,
+      "4": 3,
+      "7": 1
+    },
+    "total_sentences": 18,
+    "entropy": 2.5996659733039564
+  },
+  {
+    "roleName": "康东诚",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "1": 1,
+      "14": 1,
+      "6": 1,
+      "5": 3,
+      "7": 2,
+      "3": 1,
+      "10": 1,
+      "4": 3
+    },
+    "total_sentences": 13,
+    "entropy": 2.8150724101159437
+  },
+  {
+    "roleName": "王祥",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 3,
+      "7": 4,
+      "10": 5,
+      "4": 5,
+      "2": 10,
+      "6": 2,
+      "8": 1,
+      "1": 3,
+      "12": 1,
+      "13": 3,
+      "11": 2
+    },
+    "total_sentences": 39,
+    "entropy": 3.1648067213176927
+  },
+  {
+    "roleName": "继母娘",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "3": 4,
+      "11": 1
+    },
+    "total_sentences": 5,
+    "entropy": 0.7219280948873623
+  },
+  {
+    "roleName": "老龙王",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "6": 2,
+      "1": 1,
+      "5": 1,
+      "3": 1,
+      "7": 1,
+      "14": 1
+    },
+    "total_sentences": 7,
+    "entropy": 2.5216406363433186
+  },
+  {
+    "roleName": "韩文公",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "12": 2,
+      "7": 8,
+      "8": 3,
+      "2": 7,
+      "10": 1,
+      "6": 2,
+      "5": 1
+    },
+    "total_sentences": 24,
+    "entropy": 2.401363669197544
+  },
+  {
+    "roleName": "韩湘子",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "3": 2,
+      "4": 11,
+      "12": 2,
+      "7": 18,
+      "5": 1,
+      "1": 3,
+      "8": 2,
+      "6": 1,
+      "2": 1,
+      "13": 4,
+      "14": 1
+    },
+    "total_sentences": 46,
+    "entropy": 2.6568818401192877
+  },
+  {
+    "roleName": "张千李万",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "12": 2,
+      "7": 1,
+      "13": 6,
+      "4": 1,
+      "10": 1,
+      "5": 1
+    },
+    "total_sentences": 12,
+    "entropy": 2.125814583693911
+  },
+  {
+    "roleName": "沈万三",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "7": 2,
+      "11": 1
+    },
+    "total_sentences": 3,
+    "entropy": 0.9182958340544896
+  },
+  {
+    "roleName": "东海龙王",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 4,
+      "12": 1,
+      "8": 1,
+      "4": 1
+    },
+    "total_sentences": 7,
+    "entropy": 1.6644977792004614
+  },
+  {
+    "roleName": "高丽国王",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "7": 3,
+      "10": 1,
+      "3": 1,
+      "4": 1
+    },
+    "total_sentences": 6,
+    "entropy": 1.7924812503605778
+  },
+  {
+    "roleName": "魏奎元",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "12": 1,
+      "7": 7,
+      "4": 7,
+      "6": 1,
+      "5": 2,
+      "2": 7,
+      "11": 1,
+      "13": 2,
+      "8": 3,
+      "10": 2,
+      "3": 2
+    },
+    "total_sentences": 35,
+    "entropy": 3.080444706505733
+  },
+  {
+    "roleName": "兰玉莲",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "10": 6,
+      "1": 2,
+      "4": 3,
+      "12": 3,
+      "13": 3,
+      "2": 10,
+      "7": 11,
+      "11": 1,
+      "3": 2,
+      "6": 1,
+      "14": 1
+    },
+    "total_sentences": 43,
+    "entropy": 2.9833004229648594
+  },
+  {
+    "roleName": "阎王爷",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "12": 2,
+      "13": 1,
+      "7": 2,
+      "2": 1,
+      "4": 2
+    },
+    "total_sentences": 8,
+    "entropy": 2.25
+  },
+  {
+    "roleName": "张百万",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "8": 7,
+      "7": 8,
+      "2": 1,
+      "5": 3,
+      "1": 1,
+      "10": 1,
+      "14": 1,
+      "3": 2
+    },
+    "total_sentences": 24,
+    "entropy": 2.4846970025308774
+  },
+  {
+    "roleName": "蒋氏夫人",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "12": 1,
+      "3": 9,
+      "2": 3,
+      "7": 5,
+      "1": 1,
+      "10": 1,
+      "13": 1,
+      "8": 1
+    },
+    "total_sentences": 22,
+    "entropy": 2.418801937292702
+  },
+  {
+    "roleName": "张世云",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 4,
+      "5": 14,
+      "7": 14,
+      "12": 4,
+      "4": 23,
+      "2": 8,
+      "13": 10,
+      "10": 5,
+      "14": 1,
+      "11": 1,
+      "6": 1,
+      "8": 2,
+      "1": 1
+    },
+    "total_sentences": 88,
+    "entropy": 3.0790136160209953
+  },
+  {
+    "roleName": "张世登",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "3": 5,
+      "5": 5,
+      "10": 6,
+      "7": 21,
+      "2": 3,
+      "4": 21,
+      "13": 3,
+      "12": 2,
+      "1": 1,
+      "9": 2
+    },
+    "total_sentences": 69,
+    "entropy": 2.677855431934178
+  },
+  {
+    "roleName": "蒋玉珍",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "7": 14,
+      "4": 3,
+      "2": 2,
+      "3": 1,
+      "8": 1,
+      "10": 2,
+      "1": 1
+    },
+    "total_sentences": 24,
+    "entropy": 1.9992184835974094
+  },
+  {
+    "roleName": "妖婆子",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "7": 12,
+      "3": 10,
+      "5": 11,
+      "2": 8,
+      "8": 2,
+      "4": 4,
+      "9": 2,
+      "10": 3,
+      "1": 1,
+      "13": 3,
+      "11": 2,
+      "14": 2
+    },
+    "total_sentences": 60,
+    "entropy": 3.1768513661607733
+  },
+  {
+    "roleName": "王敖老祖",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 7,
+      "13": 4,
+      "4": 1
+    },
+    "total_sentences": 12,
+    "entropy": 1.2806721295208872
+  },
+  {
+    "roleName": "张宝通",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "14": 2,
+      "5": 6,
+      "4": 6,
+      "12": 1,
+      "7": 10,
+      "1": 1
+    },
+    "total_sentences": 26,
+    "entropy": 2.152792373620804
+  },
+  {
+    "roleName": "太白金星",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 1,
+      "4": 1,
+      "5": 1,
+      "14": 1
+    },
+    "total_sentences": 4,
+    "entropy": 2.0
+  },
+  {
+    "roleName": "郭顺万",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "12": 1,
+      "10": 1,
+      "7": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "郭巨",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 41,
+      "5": 12,
+      "3": 28,
+      "10": 20,
+      "11": 4,
+      "13": 18,
+      "4": 21,
+      "2": 15,
+      "14": 7,
+      "8": 9,
+      "12": 3,
+      "6": 2,
+      "1": 1
+    },
+    "total_sentences": 181,
+    "entropy": 3.2315582974625072
+  },
+  {
+    "roleName": "白秀英",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "7": 32,
+      "3": 19,
+      "2": 24,
+      "13": 12,
+      "10": 13,
+      "8": 3,
+      "11": 3,
+      "12": 7,
+      "4": 2,
+      "14": 1,
+      "6": 1,
+      "1": 3
+    },
+    "total_sentences": 120,
+    "entropy": 2.9252977949575385
+  },
+  {
+    "roleName": "长寿郎",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "3": 7,
+      "14": 1,
+      "11": 2,
+      "4": 4,
+      "8": 1,
+      "7": 2,
+      "13": 1
+    },
+    "total_sentences": 18,
+    "entropy": 2.411509198419911
+  },
+  {
+    "roleName": "郭秋万",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "11": 1,
+      "3": 2,
+      "10": 2,
+      "7": 10,
+      "4": 2,
+      "9": 1,
+      "13": 1,
+      "2": 1,
+      "8": 2
+    },
+    "total_sentences": 22,
+    "entropy": 2.5858279391430417
+  },
+  {
+    "roleName": "明朝天子",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "7": 5,
+      "14": 1,
+      "8": 1
+    },
+    "total_sentences": 7,
+    "entropy": 1.1488348542809166
+  },
+  {
+    "roleName": "杨福公",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "8": 2,
+      "2": 15,
+      "1": 3,
+      "11": 5,
+      "7": 3,
+      "5": 7,
+      "4": 2,
+      "3": 2,
+      "13": 1
+    },
+    "total_sentences": 40,
+    "entropy": 2.6875716232049935
+  },
+  {
+    "roleName": "杨文达",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "3": 3,
+      "10": 2,
+      "4": 6,
+      "7": 5,
+      "11": 2,
+      "5": 2,
+      "2": 2,
+      "13": 8,
+      "14": 1,
+      "1": 1
+    },
+    "total_sentences": 32,
+    "entropy": 3.0039280318460246
+  },
+  {
+    "roleName": "王桂花",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "3": 5,
+      "1": 2,
+      "10": 5,
+      "2": 11,
+      "13": 8,
+      "11": 7,
+      "4": 9,
+      "7": 18,
+      "12": 2,
+      "8": 1
+    },
+    "total_sentences": 68,
+    "entropy": 2.9622791905557873
+  },
+  {
+    "roleName": "杨小娃",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 8,
+      "5": 2,
+      "7": 17,
+      "4": 17,
+      "12": 3,
+      "2": 11,
+      "13": 8,
+      "1": 3,
+      "14": 5,
+      "10": 7,
+      "11": 1
+    },
+    "total_sentences": 82,
+    "entropy": 3.0917180492438296
+  },
+  {
+    "roleName": "俞百生",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "12": 2,
+      "10": 1,
+      "7": 2,
+      "8": 1
+    },
+    "total_sentences": 15,
+    "entropy": 2.656564762130954
+  },
+  {
+    "roleName": "刘小儿",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "2": 7,
+      "3": 2,
+      "10": 7,
+      "11": 1,
+      "8": 12,
+      "5": 2,
+      "4": 8,
+      "6": 2,
+      "13": 5,
+      "7": 11,
+      "1": 5,
+      "12": 1,
+      "9": 1
+    },
+    "total_sentences": 64,
+    "entropy": 3.2875695676352463
+  },
+  {
+    "roleName": "仁宗",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "7": 2,
+      "4": 2,
+      "8": 1,
+      "2": 1
+    },
+    "total_sentences": 6,
+    "entropy": 1.9182958340544893
+  },
+  {
+    "roleName": "包文拯",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 33,
+      "10": 7,
+      "4": 2,
+      "8": 2,
+      "2": 2,
+      "12": 2,
+      "5": 3,
+      "3": 1,
+      "13": 1
+    },
+    "total_sentences": 53,
+    "entropy": 1.9756303055934696
+  },
+  {
+    "roleName": "王朝",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "12": 1,
+      "4": 1,
+      "7": 2
+    },
+    "total_sentences": 4,
+    "entropy": 1.5
+  },
+  {
+    "roleName": "欧阳春",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "12": 1,
+      "7": 2,
+      "14": 2,
+      "10": 1
+    },
+    "total_sentences": 6,
+    "entropy": 1.9182958340544893
+  },
+  {
+    "roleName": "沈翠英",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "3": 7,
+      "2": 9,
+      "10": 3,
+      "7": 8,
+      "12": 3,
+      "14": 1,
+      "13": 1,
+      "8": 1,
+      "5": 2,
+      "4": 1
+    },
+    "total_sentences": 36,
+    "entropy": 2.8451865438947848
+  },
+  {
+    "roleName": "曾参",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 1,
+      "10": 2,
+      "8": 1,
+      "13": 2,
+      "5": 1,
+      "2": 4,
+      "4": 2,
+      "7": 1
+    },
+    "total_sentences": 14,
+    "entropy": 2.8073549220576037
+  },
+  {
+    "roleName": "曾母",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "7": 3,
+      "13": 2,
+      "5": 1
+    },
+    "total_sentences": 6,
+    "entropy": 1.4591479170272448
+  },
+  {
+    "roleName": "孙权",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "12": 2,
+      "2": 4,
+      "7": 5,
+      "8": 3,
+      "6": 1,
+      "5": 1
+    },
+    "total_sentences": 16,
+    "entropy": 2.3522170014624826
+  },
+  {
+    "roleName": "蒋钦",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "2": 1,
+      "13": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "周泰",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "2": 1,
+      "13": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "程普",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 1,
+      "13": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "黄盖",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 1,
+      "13": 1,
+      "4": 1,
+      "3": 1
+    },
+    "total_sentences": 4,
+    "entropy": 2.0
+  },
+  {
+    "roleName": "韩当",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 1,
+      "13": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "甘宁",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 1,
+      "13": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "鲁肃",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 24,
+      "10": 2,
+      "2": 3,
+      "5": 2,
+      "3": 2
+    },
+    "total_sentences": 33,
+    "entropy": 1.383970255132053
+  },
+  {
+    "roleName": "关羽",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 2,
+      "7": 8,
+      "3": 2,
+      "6": 1,
+      "2": 4,
+      "4": 4,
+      "8": 1,
+      "10": 1,
+      "5": 2,
+      "1": 5,
+      "13": 1
+    },
+    "total_sentences": 31,
+    "entropy": 3.095820811211494
+  },
+  {
+    "roleName": "周仓",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 6,
+      "13": 3,
+      "2": 3,
+      "4": 2
+    },
+    "total_sentences": 14,
+    "entropy": 1.877387064296613
+  },
+  {
+    "roleName": "关平",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "2": 1,
+      "7": 2
+    },
+    "total_sentences": 3,
+    "entropy": 0.9182958340544896
+  },
+  {
+    "roleName": "目连僧",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 2,
+      "10": 1
+    },
+    "total_sentences": 3,
+    "entropy": 0.9182958340544896
+  },
+  {
+    "roleName": "包文拯",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 47,
+      "4": 15,
+      "2": 4,
+      "10": 9,
+      "12": 5,
+      "13": 3,
+      "5": 1,
+      "9": 3,
+      "1": 1,
+      "6": 1,
+      "3": 1,
+      "11": 1
+    },
+    "total_sentences": 91,
+    "entropy": 2.3614454593775824
+  },
+  {
+    "roleName": "银山花",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "9": 1,
+      "12": 6,
+      "3": 8,
+      "2": 13,
+      "1": 2,
+      "7": 12,
+      "5": 1,
+      "11": 1,
+      "4": 2
+    },
+    "total_sentences": 46,
+    "entropy": 2.5967132310827736
+  },
+  {
+    "roleName": "王风龙",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "10": 2,
+      "3": 3,
+      "2": 17,
+      "7": 8,
+      "4": 1,
+      "12": 1,
+      "9": 1,
+      "5": 1,
+      "8": 2
+    },
+    "total_sentences": 36,
+    "entropy": 2.329876229125111
+  },
+  {
+    "roleName": "王丁郎",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 5,
+      "5": 5,
+      "3": 11,
+      "10": 2,
+      "2": 20,
+      "4": 11,
+      "12": 5,
+      "11": 7,
+      "13": 5,
+      "1": 5,
+      "8": 1
+    },
+    "total_sentences": 77,
+    "entropy": 3.1207379129760047
+  },
+  {
+    "roleName": "杨文举",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "2": 9,
+      "1": 2,
+      "7": 38,
+      "10": 8,
+      "4": 5,
+      "13": 16,
+      "3": 4,
+      "5": 1,
+      "8": 4,
+      "9": 1,
+      "11": 1
+    },
+    "total_sentences": 89,
+    "entropy": 2.593034430985793
+  },
+  {
+    "roleName": "刘青",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 1,
+      "4": 1,
+      "13": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "虞舜",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "2": 11,
+      "3": 7,
+      "8": 3,
+      "4": 6,
+      "12": 2,
+      "1": 5,
+      "13": 4,
+      "11": 1,
+      "10": 3,
+      "14": 1,
+      "7": 1
+    },
+    "total_sentences": 44,
+    "entropy": 3.088194738125839
+  },
+  {
+    "roleName": "尧帝",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "3": 5,
+      "4": 1,
+      "12": 1,
+      "1": 2,
+      "2": 2,
+      "7": 2,
+      "5": 1
+    },
+    "total_sentences": 14,
+    "entropy": 2.5495234595978324
+  },
+  {
+    "roleName": "瞽瞍",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "1": 1,
+      "3": 2,
+      "2": 3,
+      "13": 2,
+      "12": 1
+    },
+    "total_sentences": 9,
+    "entropy": 2.197159723424149
+  },
+  {
+    "roleName": "象",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "3": 1,
+      "4": 1,
+      "2": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "娥皇",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "10": 1,
+      "9": 1,
+      "4": 6,
+      "12": 1,
+      "2": 4,
+      "3": 1,
+      "8": 1
+    },
+    "total_sentences": 15,
+    "entropy": 2.3395722619867225
+  },
+  {
+    "roleName": "女英",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "10": 1,
+      "9": 1,
+      "4": 5,
+      "3": 3,
+      "2": 5,
+      "12": 1,
+      "8": 1
+    },
+    "total_sentences": 17,
+    "entropy": 2.4419235206010987
+  },
+  {
+    "roleName": "闵子骞",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 2,
+      "7": 4,
+      "2": 4,
+      "4": 2,
+      "13": 1,
+      "1": 1,
+      "10": 1
+    },
+    "total_sentences": 15,
+    "entropy": 2.5735572622751848
+  },
+  {
+    "roleName": "闵父",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "3": 2,
+      "4": 2,
+      "2": 8,
+      "7": 5,
+      "13": 3,
+      "5": 1
+    },
+    "total_sentences": 21,
+    "entropy": 2.279720852464461
+  },
+  {
+    "roleName": "后母",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "2": 5,
+      "11": 4,
+      "10": 2,
+      "14": 5,
+      "13": 1,
+      "7": 2,
+      "8": 3,
+      "4": 1
+    },
+    "total_sentences": 23,
+    "entropy": 2.7855546320988784
+  },
+  {
+    "roleName": "吕洞宾",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "3": 5,
+      "7": 39,
+      "5": 7,
+      "6": 3,
+      "4": 19,
+      "12": 1,
+      "11": 1,
+      "1": 1,
+      "2": 8,
+      "8": 1,
+      "10": 1,
+      "14": 1,
+      "13": 1
+    },
+    "total_sentences": 88,
+    "entropy": 2.5178711445229873
+  },
+  {
+    "roleName": "王母",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "12": 3,
+      "1": 1,
+      "7": 18,
+      "2": 4,
+      "8": 3,
+      "9": 1,
+      "4": 3,
+      "3": 1
+    },
+    "total_sentences": 34,
+    "entropy": 2.2250124726488094
+  },
+  {
+    "roleName": "观音菩萨",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "6": 1,
+      "12": 5,
+      "2": 1,
+      "7": 4,
+      "13": 2,
+      "14": 5
+    },
+    "total_sentences": 18,
+    "entropy": 2.3244093931715555
+  },
+  {
+    "roleName": "善财童子",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 17,
+      "4": 6,
+      "13": 1,
+      "3": 1
+    },
+    "total_sentences": 25,
+    "entropy": 1.2439904575514165
+  },
+  {
+    "roleName": "侯梅英",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "4": 53,
+      "5": 17,
+      "7": 92,
+      "6": 6,
+      "2": 39,
+      "1": 8,
+      "12": 12,
+      "14": 2,
+      "10": 7,
+      "3": 16,
+      "8": 11,
+      "13": 13,
+      "9": 34
+    },
+    "total_sentences": 310,
+    "entropy": 3.0932887630267594
+  },
+  {
+    "roleName": "唐王李世民",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "4": 14,
+      "7": 14,
+      "2": 10,
+      "12": 2,
+      "5": 3,
+      "14": 2,
+      "9": 1,
+      "1": 2
+    },
+    "total_sentences": 48,
+    "entropy": 2.447876953457614
+  },
+  {
+    "roleName": "赵协天",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "8": 2,
+      "4": 2,
+      "3": 1,
+      "9": 2,
+      "11": 1,
+      "2": 1
+    },
+    "total_sentences": 9,
+    "entropy": 2.5032583347756456
+  },
+  {
+    "roleName": "张全",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "4": 3,
+      "7": 6,
+      "2": 3,
+      "3": 3,
+      "10": 5,
+      "12": 2,
+      "13": 4,
+      "1": 1,
+      "6": 1,
+      "9": 5,
+      "14": 1,
+      "11": 2
+    },
+    "total_sentences": 36,
+    "entropy": 3.364543933117563
+  },
+  {
+    "roleName": "张兰英",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "3": 8,
+      "10": 2,
+      "7": 34,
+      "5": 10,
+      "13": 8,
+      "2": 22,
+      "4": 30,
+      "6": 7,
+      "9": 7,
+      "8": 1,
+      "12": 5,
+      "1": 4
+    },
+    "total_sentences": 138,
+    "entropy": 3.0475111204527736
+  },
+  {
+    "roleName": "骊山老母",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "14": 2,
+      "5": 2,
+      "7": 5,
+      "8": 2,
+      "13": 2
+    },
+    "total_sentences": 13,
+    "entropy": 2.1920058354921066
+  },
+  {
+    "roleName": "王有志",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "7": 3,
+      "5": 1,
+      "4": 3,
+      "2": 2,
+      "9": 1,
+      "10": 1
+    },
+    "total_sentences": 11,
+    "entropy": 2.413088436425758
+  },
+  {
+    "roleName": "龙文进",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "3": 31,
+      "7": 94,
+      "4": 70,
+      "1": 21,
+      "10": 4,
+      "2": 36,
+      "8": 16,
+      "13": 16,
+      "5": 26,
+      "12": 14,
+      "6": 5,
+      "9": 7,
+      "11": 5,
+      "14": 7
+    },
+    "total_sentences": 352,
+    "entropy": 3.200471771380846
+  },
+  {
+    "roleName": "周振邦",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "8": 8,
+      "4": 10,
+      "10": 2,
+      "1": 5,
+      "13": 1,
+      "2": 8,
+      "7": 11,
+      "12": 1,
+      "3": 2,
+      "9": 1
+    },
+    "total_sentences": 49,
+    "entropy": 2.862002308843357
+  },
+  {
+    "roleName": "崔金莲",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "8": 6,
+      "4": 18,
+      "10": 1,
+      "3": 6,
+      "7": 23,
+      "1": 3,
+      "12": 4,
+      "11": 1,
+      "13": 3,
+      "2": 15,
+      "5": 2,
+      "6": 1,
+      "9": 1
+    },
+    "total_sentences": 84,
+    "entropy": 2.9609691017980286
+  },
+  {
+    "roleName": "太白金星",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "5": 2,
+      "7": 1,
+      "13": 3,
+      "10": 1,
+      "6": 2,
+      "14": 3
+    },
+    "total_sentences": 12,
+    "entropy": 2.4591479170272446
+  },
+  {
+    "roleName": "王荣贵",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "3": 2,
+      "4": 7,
+      "2": 3,
+      "7": 4,
+      "8": 1,
+      "11": 2,
+      "9": 1,
+      "10": 1
+    },
+    "total_sentences": 21,
+    "entropy": 2.6586806629422504
+  },
+  {
+    "roleName": "卢桂英",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "1": 3,
+      "2": 10,
+      "7": 8,
+      "4": 4,
+      "5": 1,
+      "12": 1,
+      "3": 1
+    },
+    "total_sentences": 28,
+    "entropy": 2.308277477377708
+  },
+  {
+    "roleName": "杨金定",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "3": 3,
+      "7": 9,
+      "5": 1,
+      "12": 2,
+      "2": 18,
+      "6": 1,
+      "1": 2,
+      "4": 3,
+      "13": 1
+    },
+    "total_sentences": 40,
+    "entropy": 2.394484343805628
+  },
+  {
+    "roleName": "李三娘",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "14": 8,
+      "10": 22,
+      "2": 75,
+      "5": 4,
+      "7": 56,
+      "4": 12,
+      "1": 15,
+      "8": 5,
+      "12": 13,
+      "13": 16,
+      "3": 20,
+      "6": 4
+    },
+    "total_sentences": 250,
+    "entropy": 2.9967538819291377
+  },
+  {
+    "roleName": "刘高/刘知远",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 43,
+      "5": 6,
+      "10": 19,
+      "3": 14,
+      "8": 8,
+      "9": 14,
+      "4": 41,
+      "2": 17,
+      "12": 7,
+      "1": 6,
+      "13": 6
+    },
+    "total_sentences": 181,
+    "entropy": 3.0801041468444628
+  },
+  {
+    "roleName": "李宏信",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "3": 1,
+      "7": 11,
+      "13": 4,
+      "2": 3,
+      "10": 7,
+      "4": 2,
+      "6": 2,
+      "1": 1,
+      "12": 1,
+      "9": 1
+    },
+    "total_sentences": 33,
+    "entropy": 2.788026853856121
+  },
+  {
+    "roleName": "一丈青（张秀英）",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "3": 3,
+      "10": 32,
+      "2": 8,
+      "7": 27,
+      "4": 4,
+      "1": 3,
+      "13": 7,
+      "6": 3,
+      "11": 3,
+      "9": 2,
+      "12": 2
+    },
+    "total_sentences": 94,
+    "entropy": 2.6923229259173107
+  },
+  {
+    "roleName": "月娘娘",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "7": 14,
+      "1": 1,
+      "4": 2,
+      "2": 5,
+      "13": 6,
+      "6": 1,
+      "5": 1,
+      "3": 1
+    },
+    "total_sentences": 31,
+    "entropy": 2.295409717239449
+  },
+  {
+    "roleName": "土地公公",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "10": 3,
+      "4": 2,
+      "2": 1,
+      "1": 1,
+      "7": 1
+    },
+    "total_sentences": 8,
+    "entropy": 2.1556390622295662
+  },
+  {
+    "roleName": "郭石匠",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "7": 6,
+      "6": 2,
+      "12": 1,
+      "10": 2,
+      "4": 5,
+      "1": 1,
+      "13": 6,
+      "5": 1,
+      "2": 3,
+      "3": 1,
+      "8": 2,
+      "11": 1
+    },
+    "total_sentences": 31,
+    "entropy": 3.2321292786044826
+  },
+  {
+    "roleName": "刘化王（咬脐郎）",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "4": 16,
+      "3": 2,
+      "5": 10,
+      "7": 15,
+      "10": 4,
+      "12": 3,
+      "2": 4,
+      "6": 2,
+      "13": 4,
+      "9": 1,
+      "8": 3,
+      "1": 1
+    },
+    "total_sentences": 65,
+    "entropy": 3.0480229686080187
+  },
+  {
+    "roleName": "李太师",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "10": 1,
+      "13": 3,
+      "7": 13,
+      "2": 1,
+      "5": 1,
+      "1": 1,
+      "4": 3,
+      "3": 1
+    },
+    "total_sentences": 24,
+    "entropy": 2.1843170282144424
+  },
+  {
+    "roleName": "李健",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "3": 11,
+      "2": 6,
+      "7": 30,
+      "4": 22,
+      "5": 4,
+      "10": 4,
+      "12": 3,
+      "8": 9,
+      "11": 3,
+      "1": 3,
+      "6": 1,
+      "9": 2,
+      "13": 3,
+      "14": 1
+    },
+    "total_sentences": 102,
+    "entropy": 3.099615427174947
+  },
+  {
+    "roleName": "陈龙",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "7": 71,
+      "10": 11,
+      "4": 25,
+      "13": 18,
+      "14": 2,
+      "11": 2,
+      "2": 4,
+      "12": 8,
+      "9": 4,
+      "3": 5,
+      "8": 3,
+      "6": 3,
+      "1": 1
+    },
+    "total_sentences": 157,
+    "entropy": 2.6388228919557273
+  },
+  {
+    "roleName": "陈虎",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "7": 53,
+      "10": 9,
+      "4": 16,
+      "13": 11,
+      "14": 2,
+      "11": 2,
+      "2": 4,
+      "12": 6,
+      "9": 3,
+      "1": 2,
+      "3": 3,
+      "8": 1,
+      "5": 1
+    },
+    "total_sentences": 113,
+    "entropy": 2.6327240339329347
+  },
+  {
+    "roleName": "陈子良",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "7": 113,
+      "5": 4,
+      "9": 11,
+      "10": 7,
+      "2": 18,
+      "8": 3,
+      "13": 5,
+      "3": 7,
+      "11": 13,
+      "1": 3,
+      "4": 5
+    },
+    "total_sentences": 189,
+    "entropy": 2.2081135259050444
+  },
+  {
+    "roleName": "陈秀英",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "14": 2,
+      "11": 3,
+      "2": 24,
+      "12": 9,
+      "4": 35,
+      "7": 49,
+      "6": 3,
+      "5": 3,
+      "10": 6,
+      "3": 6,
+      "1": 1,
+      "8": 3,
+      "13": 3
+    },
+    "total_sentences": 147,
+    "entropy": 2.7778485318807262
+  },
+  {
+    "roleName": "李金童",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "5": 6,
+      "4": 8,
+      "12": 3,
+      "2": 3,
+      "1": 2,
+      "7": 9,
+      "6": 2,
+      "10": 4,
+      "3": 3,
+      "14": 1,
+      "9": 1,
+      "8": 1
+    },
+    "total_sentences": 43,
+    "entropy": 3.2331539983346986
+  },
+  {
+    "roleName": "王知县",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 24,
+      "12": 3,
+      "2": 5,
+      "10": 5,
+      "1": 1,
+      "11": 1,
+      "14": 1,
+      "4": 2,
+      "13": 1,
+      "9": 1,
+      "8": 1,
+      "3": 1
+    },
+    "total_sentences": 46,
+    "entropy": 2.479795250223429
+  },
+  {
+    "roleName": "太白金星",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 3,
+      "10": 2,
+      "4": 1,
+      "13": 1,
+      "2": 1,
+      "14": 2
+    },
+    "total_sentences": 10,
+    "entropy": 2.4464393446710155
+  },
+  {
+    "roleName": "周婶婶",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "10": 1,
+      "3": 1,
+      "8": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "徐长金",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "12": 5,
+      "4": 15,
+      "2": 17,
+      "5": 5,
+      "7": 34,
+      "3": 14,
+      "1": 10,
+      "6": 3,
+      "8": 3,
+      "11": 2,
+      "13": 9,
+      "10": 8
+    },
+    "total_sentences": 125,
+    "entropy": 3.167027527368034
+  },
+  {
+    "roleName": "任母",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "10": 5,
+      "4": 5,
+      "7": 15,
+      "1": 8,
+      "2": 20,
+      "13": 4,
+      "3": 3,
+      "12": 3,
+      "8": 1,
+      "11": 2,
+      "5": 2
+    },
+    "total_sentences": 68,
+    "entropy": 2.9437720061756982
+  },
+  {
+    "roleName": "任仓",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "5": 6,
+      "7": 17,
+      "6": 3,
+      "3": 6,
+      "10": 6,
+      "4": 17,
+      "13": 17,
+      "11": 2,
+      "2": 2,
+      "9": 2,
+      "12": 2
+    },
+    "total_sentences": 80,
+    "entropy": 2.975117877150967
+  },
+  {
+    "roleName": "任仓子",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "2": 3,
+      "13": 2
+    },
+    "total_sentences": 5,
+    "entropy": 0.9709505944546686
+  },
+  {
+    "roleName": "玉皇大帝",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 6,
+      "3": 1,
+      "12": 1
+    },
+    "total_sentences": 8,
+    "entropy": 1.061278124459133
+  },
+  {
+    "roleName": "黄香",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 2,
+      "10": 10,
+      "2": 8,
+      "7": 3,
+      "5": 4,
+      "1": 2,
+      "11": 1,
+      "12": 1,
+      "13": 4
+    },
+    "total_sentences": 35,
+    "entropy": 2.7871639183439063
+  },
+  {
+    "roleName": "黄父",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "2": 3,
+      "7": 1
+    },
+    "total_sentences": 4,
+    "entropy": 0.8112781244591328
+  },
+  {
+    "roleName": "秦雪梅",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "12": 9,
+      "4": 9,
+      "1": 13,
+      "5": 4,
+      "2": 38,
+      "14": 2,
+      "13": 4,
+      "7": 36,
+      "6": 2,
+      "3": 5,
+      "10": 12
+    },
+    "total_sentences": 134,
+    "entropy": 2.847192903833399
+  },
+  {
+    "roleName": "尚公子",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "5": 5,
+      "4": 12,
+      "12": 4,
+      "6": 6,
+      "13": 1,
+      "14": 2,
+      "2": 17,
+      "7": 21,
+      "3": 18,
+      "8": 1,
+      "1": 1,
+      "10": 1
+    },
+    "total_sentences": 89,
+    "entropy": 2.914799164753039
+  },
+  {
+    "roleName": "秦相",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "7": 19,
+      "10": 3,
+      "2": 5,
+      "3": 1,
+      "6": 1,
+      "8": 1
+    },
+    "total_sentences": 30,
+    "entropy": 1.6710522378742385
+  },
+  {
+    "roleName": "爱玉儿",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "2": 11,
+      "1": 2,
+      "10": 1,
+      "13": 3,
+      "7": 9,
+      "3": 3,
+      "12": 2,
+      "4": 1
+    },
+    "total_sentences": 32,
+    "entropy": 2.497098505552562
+  },
+  {
+    "roleName": "尚奶奶",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "7": 14,
+      "5": 1,
+      "13": 1,
+      "10": 1,
+      "1": 1,
+      "2": 4,
+      "4": 1,
+      "8": 2
+    },
+    "total_sentences": 25,
+    "entropy": 2.1117374334224666
+  },
+  {
+    "roleName": "蔡儒魁",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "7": 9,
+      "10": 1,
+      "1": 3,
+      "4": 1,
+      "2": 3
+    },
+    "total_sentences": 17,
+    "entropy": 1.8498687225851778
+  },
+  {
+    "roleName": "秦奶奶",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "7": 3,
+      "2": 1
+    },
+    "total_sentences": 4,
+    "entropy": 0.8112781244591328
+  },
+  {
+    "roleName": "尚罗儿",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 14,
+      "5": 7,
+      "6": 1,
+      "2": 11,
+      "9": 4,
+      "4": 10,
+      "12": 3,
+      "13": 4,
+      "10": 1,
+      "3": 3,
+      "1": 2,
+      "8": 3
+    },
+    "total_sentences": 63,
+    "entropy": 3.1758173104271537
+  },
+  {
+    "roleName": "林英女",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "12": 4,
+      "2": 11,
+      "10": 3,
+      "13": 3,
+      "14": 6,
+      "7": 13,
+      "3": 1,
+      "5": 4,
+      "1": 9,
+      "4": 4,
+      "6": 1,
+      "11": 1
+    },
+    "total_sentences": 60,
+    "entropy": 3.1784182762338653
+  },
+  {
+    "roleName": "韩湘子",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "5": 2,
+      "4": 8,
+      "1": 2,
+      "3": 2,
+      "7": 13,
+      "6": 7,
+      "12": 1,
+      "14": 1
+    },
+    "total_sentences": 36,
+    "entropy": 2.454447201713495
+  },
+  {
+    "roleName": "小丫鬟",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "6": 2,
+      "4": 1,
+      "7": 1,
+      "10": 1
+    },
+    "total_sentences": 5,
+    "entropy": 1.9219280948873623
+  },
+  {
+    "roleName": "小哥哥",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 7,
+      "3": 2,
+      "2": 1
+    },
+    "total_sentences": 10,
+    "entropy": 1.1567796494470395
+  },
+  {
+    "roleName": "林妹子",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "2": 5,
+      "11": 1,
+      "1": 1,
+      "13": 1,
+      "3": 1,
+      "12": 1,
+      "4": 1
+    },
+    "total_sentences": 11,
+    "entropy": 2.4040097573248604
+  },
+  {
+    "roleName": "婆婆",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "13": 1,
+      "9": 2,
+      "10": 1
+    },
+    "total_sentences": 4,
+    "entropy": 1.5
+  },
+  {
+    "roleName": "杨百顺",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "7": 6,
+      "2": 2,
+      "1": 2,
+      "5": 2,
+      "10": 3,
+      "8": 2
+    },
+    "total_sentences": 17,
+    "entropy": 2.424835634986198
+  },
+  {
+    "roleName": "杨生元",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "7": 16,
+      "5": 6,
+      "3": 11,
+      "12": 2,
+      "4": 11,
+      "1": 1,
+      "2": 3,
+      "14": 4,
+      "8": 2,
+      "10": 2,
+      "9": 1
+    },
+    "total_sentences": 59,
+    "entropy": 2.9271827423023336
+  },
+  {
+    "roleName": "左金莲",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "7": 13,
+      "1": 9,
+      "10": 1,
+      "2": 13,
+      "5": 2,
+      "6": 1,
+      "4": 15,
+      "13": 3,
+      "8": 4,
+      "3": 3
+    },
+    "total_sentences": 64,
+    "entropy": 2.8304079433890017
+  },
+  {
+    "roleName": "玉皇爷",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 7
+    },
+    "total_sentences": 7,
+    "entropy": 0.0
+  },
+  {
+    "roleName": "张三爷",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "12": 1,
+      "7": 15,
+      "4": 9,
+      "13": 3,
+      "11": 1,
+      "3": 1,
+      "5": 1,
+      "6": 1
+    },
+    "total_sentences": 32,
+    "entropy": 2.128513392210248
+  },
+  {
+    "roleName": "周武举",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "7": 5,
+      "8": 2,
+      "2": 4,
+      "3": 2,
+      "9": 3,
+      "12": 1,
+      "4": 2
+    },
+    "total_sentences": 19,
+    "entropy": 2.649794462043571
+  },
+  {
+    "roleName": "白志春",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "7": 6,
+      "10": 2,
+      "4": 2,
+      "5": 2,
+      "13": 2
+    },
+    "total_sentences": 14,
+    "entropy": 2.1280852788913944
+  },
+  {
+    "roleName": "董永",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 10,
+      "14": 3,
+      "7": 5,
+      "4": 11,
+      "2": 8,
+      "12": 6,
+      "10": 13,
+      "1": 1,
+      "11": 1,
+      "8": 3,
+      "5": 2
+    },
+    "total_sentences": 63,
+    "entropy": 3.0882650731378716
+  },
+  {
+    "roleName": "七仙女",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 6,
+      "4": 7,
+      "1": 1,
+      "13": 1,
+      "12": 1,
+      "14": 2,
+      "10": 1
+    },
+    "total_sentences": 19,
+    "entropy": 2.292071752457787
+  },
+  {
+    "roleName": "董父",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "12": 2,
+      "2": 1,
+      "13": 2,
+      "5": 1,
+      "8": 1,
+      "7": 4,
+      "3": 7
+    },
+    "total_sentences": 18,
+    "entropy": 2.4115091984199104
+  },
+  {
+    "roleName": "付员外",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "8": 2,
+      "7": 1,
+      "9": 2
+    },
+    "total_sentences": 5,
+    "entropy": 1.5219280948873621
+  },
+  {
+    "roleName": "仲由",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "14": 1,
+      "7": 2,
+      "2": 10,
+      "12": 3,
+      "10": 2,
+      "11": 3,
+      "4": 7,
+      "13": 3,
+      "1": 2,
+      "3": 3,
+      "5": 3,
+      "8": 1,
+      "9": 2
+    },
+    "total_sentences": 42,
+    "entropy": 3.37695544863366
+  },
+  {
+    "roleName": "孔子",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "8": 2,
+      "7": 1,
+      "11": 1
+    },
+    "total_sentences": 4,
+    "entropy": 1.5
+  },
+  {
+    "roleName": "卫庄公（蒉聩）",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "7": 2,
+      "4": 2,
+      "2": 2,
+      "9": 2,
+      "8": 1,
+      "3": 1,
+      "12": 1
+    },
+    "total_sentences": 11,
+    "entropy": 2.7321588913645702
+  },
+  {
+    "roleName": "卫出公（辄）",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "4": 2,
+      "12": 2,
+      "3": 1
+    },
+    "total_sentences": 5,
+    "entropy": 1.5219280948873621
+  },
+  {
+    "roleName": "孔悝",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "10": 1,
+      "8": 2,
+      "9": 1,
+      "12": 1
+    },
+    "total_sentences": 5,
+    "entropy": 1.9219280948873623
+  },
+  {
+    "roleName": "陆绩",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 3,
+      "7": 5,
+      "14": 1,
+      "8": 2,
+      "5": 2,
+      "4": 2,
+      "11": 3,
+      "2": 3,
+      "13": 1,
+      "1": 1
+    },
+    "total_sentences": 23,
+    "entropy": 3.137722696016699
+  },
+  {
+    "roleName": "孙坚",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 1,
+      "3": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "袁术",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "8": 1,
+      "3": 2,
+      "4": 3,
+      "2": 3,
+      "11": 1,
+      "7": 2
+    },
+    "total_sentences": 12,
+    "entropy": 2.4591479170272446
+  },
+  {
+    "roleName": "陆康",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "8": 1,
+      "12": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "叶氏（婆婆）",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "3": 2,
+      "2": 15,
+      "7": 12,
+      "11": 7,
+      "13": 7,
+      "10": 3,
+      "14": 1,
+      "5": 1,
+      "12": 1
+    },
+    "total_sentences": 49,
+    "entropy": 2.600816673630482
+  },
+  {
+    "roleName": "王小林",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 8,
+      "5": 8,
+      "7": 12,
+      "14": 4,
+      "2": 5,
+      "4": 4,
+      "13": 2,
+      "10": 3,
+      "12": 1,
+      "1": 1
+    },
+    "total_sentences": 48,
+    "entropy": 2.9727942093616946
+  },
+  {
+    "roleName": "王桂花",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "3": 2,
+      "14": 1,
+      "7": 7,
+      "10": 2,
+      "6": 2,
+      "5": 1,
+      "4": 3,
+      "13": 1,
+      "2": 2,
+      "11": 6,
+      "8": 1
+    },
+    "total_sentences": 28,
+    "entropy": 3.096063959168546
+  },
+  {
+    "roleName": "马金花",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "3": 2,
+      "4": 2,
+      "2": 3,
+      "10": 8,
+      "7": 4,
+      "13": 1,
+      "1": 1,
+      "8": 1
+    },
+    "total_sentences": 22,
+    "entropy": 2.606936732175321
+  },
+  {
+    "roleName": "梅县长",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "12": 2,
+      "8": 2,
+      "10": 4,
+      "7": 15,
+      "13": 2,
+      "3": 4,
+      "2": 7,
+      "4": 1,
+      "9": 3
+    },
+    "total_sentences": 40,
+    "entropy": 2.6966848226200004
+  },
+  {
+    "roleName": "李特生",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "10": 3,
+      "2": 4,
+      "13": 2,
+      "9": 1,
+      "8": 2,
+      "7": 6,
+      "4": 3,
+      "3": 2
+    },
+    "total_sentences": 23,
+    "entropy": 2.8270597817677143
+  },
+  {
+    "roleName": "王之清",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "10": 3,
+      "2": 6,
+      "13": 5,
+      "9": 1,
+      "5": 1,
+      "7": 3,
+      "3": 2
+    },
+    "total_sentences": 21,
+    "entropy": 2.552832161679204
+  },
+  {
+    "roleName": "齐飞卿",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "5": 3,
+      "7": 27,
+      "3": 9,
+      "2": 11,
+      "12": 3,
+      "10": 1,
+      "1": 2,
+      "4": 21,
+      "14": 10,
+      "13": 6,
+      "8": 2
+    },
+    "total_sentences": 95,
+    "entropy": 2.891513163991093
+  },
+  {
+    "roleName": "陆富基",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 64,
+      "4": 36,
+      "9": 3,
+      "2": 25,
+      "12": 7,
+      "10": 2,
+      "5": 5,
+      "14": 1,
+      "1": 7,
+      "6": 1,
+      "13": 8,
+      "3": 9,
+      "8": 2,
+      "11": 3
+    },
+    "total_sentences": 173,
+    "entropy": 2.7920535791000636
+  },
+  {
+    "roleName": "杨成绪",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 23,
+      "4": 4,
+      "2": 11,
+      "11": 1,
+      "10": 2,
+      "14": 2,
+      "5": 2,
+      "1": 3,
+      "6": 1,
+      "8": 1,
+      "3": 1
+    },
+    "total_sentences": 51,
+    "entropy": 2.5184927871384564
+  },
+  {
+    "roleName": "贺藩台",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "2": 13,
+      "7": 17,
+      "5": 4,
+      "3": 7,
+      "10": 3,
+      "1": 2,
+      "9": 1,
+      "4": 8,
+      "12": 2,
+      "13": 1
+    },
+    "total_sentences": 58,
+    "entropy": 2.7890334676507336
+  },
+  {
+    "roleName": "孙铁匠",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "4": 5,
+      "12": 3,
+      "8": 1,
+      "11": 1,
+      "14": 2,
+      "9": 1,
+      "13": 2,
+      "2": 6,
+      "10": 2,
+      "7": 7,
+      "5": 1
+    },
+    "total_sentences": 31,
+    "entropy": 3.0985257479568604
+  },
+  {
+    "roleName": "齐豁子",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "8": 1,
+      "2": 2,
+      "3": 1,
+      "10": 1,
+      "14": 2,
+      "11": 1,
+      "7": 1,
+      "4": 1
+    },
+    "total_sentences": 10,
+    "entropy": 2.9219280948873623
+  },
+  {
+    "roleName": "梁山伯",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "7": 44,
+      "4": 29,
+      "12": 4,
+      "14": 1,
+      "5": 8,
+      "6": 4,
+      "2": 30,
+      "13": 8,
+      "1": 6,
+      "3": 10,
+      "11": 5
+    },
+    "total_sentences": 149,
+    "entropy": 2.8390218468069026
+  },
+  {
+    "roleName": "梁员外",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "12": 3,
+      "8": 3,
+      "3": 2,
+      "2": 16,
+      "4": 5,
+      "7": 21,
+      "13": 2,
+      "14": 1,
+      "10": 1
+    },
+    "total_sentences": 54,
+    "entropy": 2.3964045140686965
+  },
+  {
+    "roleName": "祝员外",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "12": 2,
+      "4": 3,
+      "13": 1,
+      "14": 1,
+      "3": 1,
+      "2": 12,
+      "7": 16,
+      "10": 4,
+      "1": 1,
+      "11": 1,
+      "8": 1
+    },
+    "total_sentences": 43,
+    "entropy": 2.594301091659834
+  },
+  {
+    "roleName": "祝英台",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "7": 47,
+      "4": 13,
+      "12": 6,
+      "14": 9,
+      "2": 28,
+      "6": 2,
+      "10": 4,
+      "5": 9,
+      "1": 10,
+      "13": 3,
+      "3": 4
+    },
+    "total_sentences": 135,
+    "entropy": 2.8374087550980773
+  },
+  {
+    "roleName": "师娘",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "7": 2,
+      "13": 2
+    },
+    "total_sentences": 4,
+    "entropy": 1.0
+  },
+  {
+    "roleName": "马兰春之子",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "12": 1,
+      "7": 3,
+      "2": 4,
+      "10": 1,
+      "4": 2,
+      "1": 1
+    },
+    "total_sentences": 12,
+    "entropy": 2.355388542207534
+  },
+  {
+    "roleName": "汉文帝（刘恒）",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 7,
+      "7": 1,
+      "12": 3,
+      "2": 3,
+      "11": 2,
+      "13": 1,
+      "14": 1
+    },
+    "total_sentences": 18,
+    "entropy": 2.4387439204017474
+  },
+  {
+    "roleName": "刘邦",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "3": 3,
+      "8": 1,
+      "13": 1,
+      "2": 1,
+      "4": 1
+    },
+    "total_sentences": 7,
+    "entropy": 2.1280852788913944
+  },
+  {
+    "roleName": "吕雉",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "10": 1,
+      "3": 2
+    },
+    "total_sentences": 3,
+    "entropy": 0.9182958340544896
+  },
+  {
+    "roleName": "薄姬",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "8": 1,
+      "7": 1,
+      "4": 1,
+      "1": 1,
+      "3": 4
+    },
+    "total_sentences": 8,
+    "entropy": 2.0
+  },
+  {
+    "roleName": "包公",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "3": 3,
+      "4": 8,
+      "2": 4,
+      "7": 18,
+      "5": 1,
+      "10": 2,
+      "13": 1,
+      "12": 1,
+      "11": 1,
+      "1": 2
+    },
+    "total_sentences": 41,
+    "entropy": 2.5328315771028382
+  },
+  {
+    "roleName": "三鹦",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 9,
+      "1": 2,
+      "2": 17,
+      "10": 4,
+      "7": 9,
+      "4": 18,
+      "11": 6,
+      "12": 4,
+      "5": 1,
+      "13": 2,
+      "8": 1,
+      "9": 1
+    },
+    "total_sentences": 74,
+    "entropy": 3.0052108878248154
+  },
+  {
+    "roleName": "老黄鹦",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "2": 9,
+      "14": 2,
+      "3": 14,
+      "10": 2,
+      "11": 3,
+      "7": 4,
+      "12": 3,
+      "5": 3,
+      "4": 2
+    },
+    "total_sentences": 42,
+    "entropy": 2.7709613173435774
+  },
+  {
+    "roleName": "八鸽子",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "14": 1,
+      "4": 1,
+      "7": 1,
+      "11": 2
+    },
+    "total_sentences": 5,
+    "entropy": 1.9219280948873623
+  },
+  {
+    "roleName": "野鸽子",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "14": 1,
+      "4": 1,
+      "7": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "张玉梅",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "7": 13,
+      "1": 11,
+      "6": 1,
+      "10": 1,
+      "13": 1,
+      "2": 2
+    },
+    "total_sentences": 29,
+    "entropy": 1.817999473029487
+  },
+  {
+    "roleName": "达摩祖师",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "4": 3,
+      "7": 4,
+      "5": 1
+    },
+    "total_sentences": 8,
+    "entropy": 1.4056390622295665
+  },
+  {
+    "roleName": "蒋员外",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "8": 2,
+      "12": 3,
+      "10": 2,
+      "7": 7,
+      "2": 6,
+      "5": 1,
+      "11": 1,
+      "13": 2,
+      "3": 3,
+      "14": 1
+    },
+    "total_sentences": 28,
+    "entropy": 2.997675119805565
+  },
+  {
+    "roleName": "蒋菊英",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "4": 1,
+      "2": 6,
+      "7": 4,
+      "8": 1,
+      "1": 1,
+      "13": 1
+    },
+    "total_sentences": 14,
+    "entropy": 2.128085278891394
+  },
+  {
+    "roleName": "蒋秀英",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "4": 4,
+      "7": 4,
+      "1": 1,
+      "13": 2,
+      "10": 1,
+      "2": 2
+    },
+    "total_sentences": 14,
+    "entropy": 2.3787834934861753
+  },
+  {
+    "roleName": "蒋丑英",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "1": 1,
+      "7": 4,
+      "8": 4,
+      "4": 2,
+      "13": 3,
+      "14": 1,
+      "10": 2,
+      "3": 1
+    },
+    "total_sentences": 18,
+    "entropy": 2.7946534735443413
+  },
+  {
+    "roleName": "杨相公",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 13,
+      "2": 5,
+      "13": 4,
+      "1": 1,
+      "10": 7,
+      "4": 3,
+      "6": 1,
+      "5": 2,
+      "8": 3,
+      "14": 2,
+      "3": 1
+    },
+    "total_sentences": 42,
+    "entropy": 2.99049322589778
+  },
+  {
+    "roleName": "蒋家奶奶",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "7": 13,
+      "2": 8,
+      "10": 2,
+      "13": 2,
+      "4": 4,
+      "1": 6,
+      "5": 1
+    },
+    "total_sentences": 36,
+    "entropy": 2.4028280197711696
+  },
+  {
+    "roleName": "玉皇大帝",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "2": 2,
+      "7": 5
+    },
+    "total_sentences": 7,
+    "entropy": 0.863120568566631
+  },
+  {
+    "roleName": "火德真君",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "4": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1
+    },
+    "total_sentences": 4,
+    "entropy": 2.0
+  },
+  {
+    "roleName": "杨金通",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 6,
+      "3": 1,
+      "2": 2,
+      "12": 1,
+      "13": 3,
+      "4": 2,
+      "10": 1
+    },
+    "total_sentences": 16,
+    "entropy": 2.48345859334435
+  },
+  {
+    "roleName": "虞舜",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "2": 11,
+      "3": 7,
+      "8": 3,
+      "4": 6,
+      "12": 2,
+      "1": 5,
+      "13": 4,
+      "11": 1,
+      "10": 3,
+      "14": 1,
+      "7": 1
+    },
+    "total_sentences": 44,
+    "entropy": 3.088194738125839
+  },
+  {
+    "roleName": "尧帝",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "3": 5,
+      "4": 1,
+      "12": 1,
+      "1": 2,
+      "2": 2,
+      "7": 2,
+      "5": 1
+    },
+    "total_sentences": 14,
+    "entropy": 2.5495234595978324
+  },
+  {
+    "roleName": "瞽瞍",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "1": 1,
+      "3": 2,
+      "2": 3,
+      "13": 2,
+      "12": 1
+    },
+    "total_sentences": 9,
+    "entropy": 2.197159723424149
+  },
+  {
+    "roleName": "象",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "3": 1,
+      "4": 1,
+      "2": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "娥皇",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "10": 1,
+      "9": 1,
+      "4": 6,
+      "12": 1,
+      "2": 4,
+      "3": 1,
+      "8": 1
+    },
+    "total_sentences": 15,
+    "entropy": 2.3395722619867225
+  },
+  {
+    "roleName": "女英",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "10": 1,
+      "9": 1,
+      "4": 5,
+      "3": 3,
+      "2": 5,
+      "12": 1,
+      "8": 1
+    },
+    "total_sentences": 17,
+    "entropy": 2.4419235206010987
+  },
+  {
+    "roleName": "梁山伯",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "7": 44,
+      "4": 29,
+      "12": 4,
+      "14": 1,
+      "5": 8,
+      "6": 4,
+      "2": 30,
+      "13": 8,
+      "1": 6,
+      "3": 10,
+      "11": 5
+    },
+    "total_sentences": 149,
+    "entropy": 2.8390218468069026
+  },
+  {
+    "roleName": "梁员外",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "12": 3,
+      "8": 3,
+      "3": 2,
+      "2": 16,
+      "4": 5,
+      "7": 21,
+      "13": 2,
+      "14": 1,
+      "10": 1
+    },
+    "total_sentences": 54,
+    "entropy": 2.3964045140686965
+  },
+  {
+    "roleName": "祝员外",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "12": 2,
+      "4": 3,
+      "13": 1,
+      "14": 1,
+      "3": 1,
+      "2": 12,
+      "7": 16,
+      "10": 4,
+      "1": 1,
+      "11": 1,
+      "8": 1
+    },
+    "total_sentences": 43,
+    "entropy": 2.594301091659834
+  },
+  {
+    "roleName": "祝英台",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "7": 47,
+      "4": 13,
+      "12": 6,
+      "14": 9,
+      "2": 28,
+      "6": 2,
+      "10": 4,
+      "5": 9,
+      "1": 10,
+      "13": 3,
+      "3": 4
+    },
+    "total_sentences": 135,
+    "entropy": 2.8374087550980773
+  },
+  {
+    "roleName": "师娘",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "7": 2,
+      "13": 2
+    },
+    "total_sentences": 4,
+    "entropy": 1.0
+  },
+  {
+    "roleName": "马兰春之子",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "12": 1,
+      "7": 3,
+      "2": 4,
+      "10": 1,
+      "4": 2,
+      "1": 1
+    },
+    "total_sentences": 12,
+    "entropy": 2.355388542207534
+  },
+  {
+    "roleName": "陆绩",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 3,
+      "7": 5,
+      "14": 1,
+      "8": 2,
+      "5": 2,
+      "4": 2,
+      "11": 3,
+      "2": 3,
+      "13": 1,
+      "1": 1
+    },
+    "total_sentences": 23,
+    "entropy": 3.137722696016699
+  },
+  {
+    "roleName": "孙坚",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 1,
+      "3": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "袁术",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "8": 1,
+      "3": 2,
+      "4": 3,
+      "2": 3,
+      "11": 1,
+      "7": 2
+    },
+    "total_sentences": 12,
+    "entropy": 2.4591479170272446
+  },
+  {
+    "roleName": "陆康",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "8": 1,
+      "12": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "刘金华",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 5,
+      "10": 1,
+      "7": 17,
+      "1": 2,
+      "5": 3,
+      "4": 4,
+      "12": 2,
+      "2": 6,
+      "13": 9,
+      "14": 5,
+      "6": 1
+    },
+    "total_sentences": 55,
+    "entropy": 2.990448135895558
+  },
+  {
+    "roleName": "朱金彩",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "10": 7,
+      "4": 7,
+      "3": 16,
+      "7": 22,
+      "12": 7,
+      "2": 25,
+      "11": 7,
+      "13": 4,
+      "1": 8,
+      "6": 2,
+      "8": 6,
+      "5": 6
+    },
+    "total_sentences": 117,
+    "entropy": 3.2649853334239562
+  },
+  {
+    "roleName": "白狗",
+    "roleType": "灵性动物",
+    "behaviorCounts": {
+      "3": 2,
+      "11": 1,
+      "13": 3,
+      "12": 1
+    },
+    "total_sentences": 7,
+    "entropy": 1.8423709931771084
+  },
+  {
+    "roleName": "刘婆婆",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "10": 4,
+      "9": 7,
+      "7": 18,
+      "2": 9,
+      "13": 7,
+      "11": 8,
+      "3": 10,
+      "12": 2,
+      "1": 1,
+      "6": 2,
+      "5": 2,
+      "4": 1
+    },
+    "total_sentences": 71,
+    "entropy": 3.134110149129717
+  },
+  {
+    "roleName": "张八根",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "10": 1,
+      "7": 2
+    },
+    "total_sentences": 3,
+    "entropy": 0.9182958340544896
+  },
+  {
+    "roleName": "李五根",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "10": 1,
+      "7": 2
+    },
+    "total_sentences": 3,
+    "entropy": 0.9182958340544896
+  },
+  {
+    "roleName": "玉皇大帝",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "2": 4,
+      "12": 1,
+      "7": 12,
+      "5": 2,
+      "4": 1,
+      "6": 2,
+      "3": 2
+    },
+    "total_sentences": 24,
+    "entropy": 2.209147917027245
+  },
+  {
+    "roleName": "包文拯",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 47,
+      "4": 15,
+      "2": 4,
+      "10": 9,
+      "12": 5,
+      "13": 3,
+      "5": 1,
+      "9": 3,
+      "1": 1,
+      "6": 1,
+      "3": 1,
+      "11": 1
+    },
+    "total_sentences": 91,
+    "entropy": 2.3614454593775824
+  },
+  {
+    "roleName": "银山花",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "9": 1,
+      "12": 6,
+      "3": 8,
+      "2": 13,
+      "1": 2,
+      "7": 12,
+      "5": 1,
+      "11": 1,
+      "4": 2
+    },
+    "total_sentences": 46,
+    "entropy": 2.5967132310827736
+  },
+  {
+    "roleName": "王风龙",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "10": 2,
+      "3": 3,
+      "2": 17,
+      "7": 8,
+      "4": 1,
+      "12": 1,
+      "9": 1,
+      "5": 1,
+      "8": 2
+    },
+    "total_sentences": 36,
+    "entropy": 2.329876229125111
+  },
+  {
+    "roleName": "王丁郎",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 5,
+      "5": 5,
+      "3": 11,
+      "10": 2,
+      "2": 20,
+      "4": 11,
+      "12": 5,
+      "11": 7,
+      "13": 5,
+      "1": 5,
+      "8": 1
+    },
+    "total_sentences": 77,
+    "entropy": 3.1207379129760047
+  },
+  {
+    "roleName": "杨文举",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "2": 9,
+      "1": 2,
+      "7": 38,
+      "10": 8,
+      "4": 5,
+      "13": 16,
+      "3": 4,
+      "5": 1,
+      "8": 4,
+      "9": 1,
+      "11": 1
+    },
+    "total_sentences": 89,
+    "entropy": 2.593034430985793
+  },
+  {
+    "roleName": "刘青",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 1,
+      "4": 1,
+      "13": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "秦雪梅",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "12": 9,
+      "4": 9,
+      "1": 13,
+      "5": 4,
+      "2": 38,
+      "14": 2,
+      "13": 4,
+      "7": 36,
+      "6": 2,
+      "3": 5,
+      "10": 12
+    },
+    "total_sentences": 134,
+    "entropy": 2.847192903833399
+  },
+  {
+    "roleName": "尚公子",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "5": 5,
+      "4": 12,
+      "12": 4,
+      "6": 6,
+      "13": 1,
+      "14": 2,
+      "2": 17,
+      "7": 21,
+      "3": 18,
+      "8": 1,
+      "1": 1,
+      "10": 1
+    },
+    "total_sentences": 89,
+    "entropy": 2.914799164753039
+  },
+  {
+    "roleName": "秦相",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "7": 19,
+      "10": 3,
+      "2": 5,
+      "3": 1,
+      "6": 1,
+      "8": 1
+    },
+    "total_sentences": 30,
+    "entropy": 1.6710522378742385
+  },
+  {
+    "roleName": "爱玉儿",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "2": 11,
+      "1": 2,
+      "10": 1,
+      "13": 3,
+      "7": 9,
+      "3": 3,
+      "12": 2,
+      "4": 1
+    },
+    "total_sentences": 32,
+    "entropy": 2.497098505552562
+  },
+  {
+    "roleName": "尚奶奶",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "7": 14,
+      "5": 1,
+      "13": 1,
+      "10": 1,
+      "1": 1,
+      "2": 4,
+      "4": 1,
+      "8": 2
+    },
+    "total_sentences": 25,
+    "entropy": 2.1117374334224666
+  },
+  {
+    "roleName": "蔡儒魁",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "7": 9,
+      "10": 1,
+      "1": 3,
+      "4": 1,
+      "2": 3
+    },
+    "total_sentences": 17,
+    "entropy": 1.8498687225851778
+  },
+  {
+    "roleName": "秦奶奶",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "7": 3,
+      "2": 1
+    },
+    "total_sentences": 4,
+    "entropy": 0.8112781244591328
+  },
+  {
+    "roleName": "尚罗儿",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 14,
+      "5": 7,
+      "6": 1,
+      "2": 11,
+      "9": 4,
+      "4": 10,
+      "12": 3,
+      "13": 4,
+      "10": 1,
+      "3": 3,
+      "1": 2,
+      "8": 3
+    },
+    "total_sentences": 63,
+    "entropy": 3.1758173104271537
+  },
+  {
+    "roleName": "周百玉",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "8": 2,
+      "7": 12,
+      "10": 5,
+      "2": 10,
+      "13": 4,
+      "5": 2,
+      "11": 6,
+      "12": 3,
+      "4": 5,
+      "3": 1
+    },
+    "total_sentences": 50,
+    "entropy": 3.0094007015168938
+  },
+  {
+    "roleName": "康氏夫人",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "3": 8,
+      "8": 2,
+      "12": 1,
+      "4": 2,
+      "7": 10,
+      "2": 6,
+      "10": 3,
+      "5": 1,
+      "13": 2,
+      "14": 1
+    },
+    "total_sentences": 36,
+    "entropy": 2.850926572126645
+  },
+  {
+    "roleName": "周苗郎（田小郎）",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 25,
+      "3": 8,
+      "12": 2,
+      "2": 13,
+      "5": 19,
+      "11": 1,
+      "8": 4,
+      "4": 14,
+      "13": 2,
+      "6": 3,
+      "1": 4,
+      "10": 1,
+      "14": 3
+    },
+    "total_sentences": 99,
+    "entropy": 3.0765739155466414
+  },
+  {
+    "roleName": "周文选",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "5": 11,
+      "7": 38,
+      "4": 15,
+      "12": 5,
+      "13": 6,
+      "2": 14,
+      "10": 7,
+      "8": 2,
+      "3": 5,
+      "11": 3
+    },
+    "total_sentences": 106,
+    "entropy": 2.817385085991803
+  },
+  {
+    "roleName": "柳迎春",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "3": 23,
+      "5": 14,
+      "1": 14,
+      "7": 68,
+      "10": 21,
+      "4": 51,
+      "12": 16,
+      "2": 65,
+      "11": 15,
+      "6": 4,
+      "13": 25,
+      "14": 8,
+      "8": 3,
+      "9": 2
+    },
+    "total_sentences": 329,
+    "entropy": 3.2706481708223043
+  },
+  {
+    "roleName": "周豺/周彪",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "7": 4,
+      "4": 2,
+      "8": 2
+    },
+    "total_sentences": 8,
+    "entropy": 1.5
+  },
+  {
+    "roleName": "田继翰",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "6": 1,
+      "7": 4,
+      "4": 3,
+      "13": 2,
+      "2": 1
+    },
+    "total_sentences": 11,
+    "entropy": 2.1180782093497093
+  },
+  {
+    "roleName": "周三/周四",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "7": 1,
+      "13": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "张屠汉/刘屠汉/徐屠汉",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "13": 1,
+      "7": 5,
+      "11": 1,
+      "10": 1
+    },
+    "total_sentences": 8,
+    "entropy": 1.5487949406953985
+  },
+  {
+    "roleName": "老莱子",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "10": 6,
+      "7": 5,
+      "14": 2,
+      "4": 2,
+      "8": 1,
+      "2": 5,
+      "13": 4,
+      "11": 1,
+      "1": 1
+    },
+    "total_sentences": 27,
+    "entropy": 2.8760335779708557
+  },
+  {
+    "roleName": "老莱子父",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "2": 6,
+      "1": 1,
+      "13": 1
+    },
+    "total_sentences": 8,
+    "entropy": 1.061278124459133
+  },
+  {
+    "roleName": "老莱子母",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "1": 2,
+      "2": 4
+    },
+    "total_sentences": 6,
+    "entropy": 0.9182958340544896
+  },
+  {
+    "roleName": "吕洞宾",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "3": 5,
+      "7": 39,
+      "5": 7,
+      "6": 3,
+      "4": 19,
+      "12": 1,
+      "11": 1,
+      "1": 1,
+      "2": 8,
+      "8": 1,
+      "10": 1,
+      "14": 1,
+      "13": 1
+    },
+    "total_sentences": 88,
+    "entropy": 2.5178711445229873
+  },
+  {
+    "roleName": "王母",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "12": 3,
+      "1": 1,
+      "7": 18,
+      "2": 4,
+      "8": 3,
+      "9": 1,
+      "4": 3,
+      "3": 1
+    },
+    "total_sentences": 34,
+    "entropy": 2.2250124726488094
+  },
+  {
+    "roleName": "观音菩萨",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "6": 1,
+      "12": 5,
+      "2": 1,
+      "7": 4,
+      "13": 2,
+      "14": 5
+    },
+    "total_sentences": 18,
+    "entropy": 2.3244093931715555
+  },
+  {
+    "roleName": "善财童子",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 17,
+      "4": 6,
+      "13": 1,
+      "3": 1
+    },
+    "total_sentences": 25,
+    "entropy": 1.2439904575514165
+  },
+  {
+    "roleName": "侯梅英",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "4": 53,
+      "5": 17,
+      "7": 92,
+      "6": 6,
+      "2": 39,
+      "1": 8,
+      "12": 12,
+      "14": 2,
+      "10": 7,
+      "3": 16,
+      "8": 11,
+      "13": 13,
+      "9": 34
+    },
+    "total_sentences": 310,
+    "entropy": 3.0932887630267594
+  },
+  {
+    "roleName": "唐王李世民",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "4": 14,
+      "7": 14,
+      "2": 10,
+      "12": 2,
+      "5": 3,
+      "14": 2,
+      "9": 1,
+      "1": 2
+    },
+    "total_sentences": 48,
+    "entropy": 2.447876953457614
+  },
+  {
+    "roleName": "赵协天",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "8": 2,
+      "4": 2,
+      "3": 1,
+      "9": 2,
+      "11": 1,
+      "2": 1
+    },
+    "total_sentences": 9,
+    "entropy": 2.5032583347756456
+  },
+  {
+    "roleName": "张全",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "4": 3,
+      "7": 6,
+      "2": 3,
+      "3": 3,
+      "10": 5,
+      "12": 2,
+      "13": 4,
+      "1": 1,
+      "6": 1,
+      "9": 5,
+      "14": 1,
+      "11": 2
+    },
+    "total_sentences": 36,
+    "entropy": 3.364543933117563
+  },
+  {
+    "roleName": "张兰英",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "3": 8,
+      "10": 2,
+      "7": 34,
+      "5": 10,
+      "13": 8,
+      "2": 22,
+      "4": 30,
+      "6": 7,
+      "9": 7,
+      "8": 1,
+      "12": 5,
+      "1": 4
+    },
+    "total_sentences": 138,
+    "entropy": 3.0475111204527736
+  },
+  {
+    "roleName": "骊山老母",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "14": 2,
+      "5": 2,
+      "7": 5,
+      "8": 2,
+      "13": 2
+    },
+    "total_sentences": 13,
+    "entropy": 2.1920058354921066
+  },
+  {
+    "roleName": "王有志",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "7": 3,
+      "5": 1,
+      "4": 3,
+      "2": 2,
+      "9": 1,
+      "10": 1
+    },
+    "total_sentences": 11,
+    "entropy": 2.413088436425758
+  },
+  {
+    "roleName": "龙文进",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "3": 31,
+      "7": 94,
+      "4": 70,
+      "1": 21,
+      "10": 4,
+      "2": 36,
+      "8": 16,
+      "13": 16,
+      "5": 26,
+      "12": 14,
+      "6": 5,
+      "9": 7,
+      "11": 5,
+      "14": 7
+    },
+    "total_sentences": 352,
+    "entropy": 3.200471771380846
+  },
+  {
+    "roleName": "周振邦",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "8": 8,
+      "4": 10,
+      "10": 2,
+      "1": 5,
+      "13": 1,
+      "2": 8,
+      "7": 11,
+      "12": 1,
+      "3": 2,
+      "9": 1
+    },
+    "total_sentences": 49,
+    "entropy": 2.862002308843357
+  },
+  {
+    "roleName": "崔金莲",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "8": 6,
+      "4": 18,
+      "10": 1,
+      "3": 6,
+      "7": 23,
+      "1": 3,
+      "12": 4,
+      "11": 1,
+      "13": 3,
+      "2": 15,
+      "5": 2,
+      "6": 1,
+      "9": 1
+    },
+    "total_sentences": 84,
+    "entropy": 2.9609691017980286
+  },
+  {
+    "roleName": "太白金星",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "5": 2,
+      "7": 1,
+      "13": 3,
+      "10": 1,
+      "6": 2,
+      "14": 3
+    },
+    "total_sentences": 12,
+    "entropy": 2.4591479170272446
+  },
+  {
+    "roleName": "王荣贵",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "3": 2,
+      "4": 7,
+      "2": 3,
+      "7": 4,
+      "8": 1,
+      "11": 2,
+      "9": 1,
+      "10": 1
+    },
+    "total_sentences": 21,
+    "entropy": 2.6586806629422504
+  },
+  {
+    "roleName": "卢桂英",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "1": 3,
+      "2": 10,
+      "7": 8,
+      "4": 4,
+      "5": 1,
+      "12": 1,
+      "3": 1
+    },
+    "total_sentences": 28,
+    "entropy": 2.308277477377708
+  },
+  {
+    "roleName": "杨金定",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "3": 3,
+      "7": 9,
+      "5": 1,
+      "12": 2,
+      "2": 18,
+      "6": 1,
+      "1": 2,
+      "4": 3,
+      "13": 1
+    },
+    "total_sentences": 40,
+    "entropy": 2.394484343805628
+  },
+  {
+    "roleName": "玉帝",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "8": 1,
+      "2": 1,
+      "10": 1,
+      "7": 3,
+      "3": 2
+    },
+    "total_sentences": 8,
+    "entropy": 2.1556390622295662
+  },
+  {
+    "roleName": "二郎神",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "14": 5,
+      "1": 10,
+      "13": 8,
+      "9": 8,
+      "2": 7,
+      "4": 34,
+      "12": 2,
+      "10": 4,
+      "7": 19,
+      "3": 2,
+      "5": 5,
+      "11": 1,
+      "8": 1,
+      "6": 1
+    },
+    "total_sentences": 107,
+    "entropy": 3.0987155311666594
+  },
+  {
+    "roleName": "斧王庙老妖",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "13": 2,
+      "12": 2,
+      "11": 5,
+      "2": 2,
+      "4": 2,
+      "6": 2,
+      "1": 1
+    },
+    "total_sentences": 16,
+    "entropy": 2.649397470347699
+  },
+  {
+    "roleName": "王母娘娘",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 3,
+      "2": 3
+    },
+    "total_sentences": 6,
+    "entropy": 1.0
+  },
+  {
+    "roleName": "云华仙女",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "4": 1,
+      "3": 3,
+      "2": 5,
+      "6": 3,
+      "1": 1,
+      "7": 3,
+      "11": 1,
+      "12": 1
+    },
+    "total_sentences": 18,
+    "entropy": 2.7324637247241332
+  },
+  {
+    "roleName": "杨天佑",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "3": 2,
+      "2": 2
+    },
+    "total_sentences": 4,
+    "entropy": 1.0
+  },
+  {
+    "roleName": "魏奎元",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "12": 1,
+      "7": 7,
+      "4": 7,
+      "6": 1,
+      "5": 2,
+      "2": 7,
+      "11": 1,
+      "13": 2,
+      "8": 3,
+      "10": 2,
+      "3": 2
+    },
+    "total_sentences": 35,
+    "entropy": 3.080444706505733
+  },
+  {
+    "roleName": "兰玉莲",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "10": 6,
+      "1": 2,
+      "4": 3,
+      "12": 3,
+      "13": 3,
+      "2": 10,
+      "7": 11,
+      "11": 1,
+      "3": 2,
+      "6": 1,
+      "14": 1
+    },
+    "total_sentences": 43,
+    "entropy": 2.9833004229648594
+  },
+  {
+    "roleName": "阎王爷",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "12": 2,
+      "13": 1,
+      "7": 2,
+      "2": 1,
+      "4": 2
+    },
+    "total_sentences": 8,
+    "entropy": 2.25
+  },
+  {
+    "roleName": "小哥哥",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 7,
+      "3": 2,
+      "2": 1
+    },
+    "total_sentences": 10,
+    "entropy": 1.1567796494470395
+  },
+  {
+    "roleName": "林妹子",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "2": 5,
+      "11": 1,
+      "1": 1,
+      "13": 1,
+      "3": 1,
+      "12": 1,
+      "4": 1
+    },
+    "total_sentences": 11,
+    "entropy": 2.4040097573248604
+  },
+  {
+    "roleName": "婆婆",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "13": 1,
+      "9": 2,
+      "10": 1
+    },
+    "total_sentences": 4,
+    "entropy": 1.5
+  },
+  {
+    "roleName": "黄香",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 2,
+      "10": 10,
+      "2": 8,
+      "7": 3,
+      "5": 4,
+      "1": 2,
+      "11": 1,
+      "12": 1,
+      "13": 4
+    },
+    "total_sentences": 35,
+    "entropy": 2.7871639183439063
+  },
+  {
+    "roleName": "黄父",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "2": 3,
+      "7": 1
+    },
+    "total_sentences": 4,
+    "entropy": 0.8112781244591328
+  },
+  {
+    "roleName": "郯子",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "2": 4,
+      "7": 4,
+      "10": 4,
+      "3": 2,
+      "12": 2,
+      "4": 3,
+      "5": 1,
+      "13": 2,
+      "11": 1,
+      "8": 1,
+      "1": 1
+    },
+    "total_sentences": 25,
+    "entropy": 3.2536606896881852
+  },
+  {
+    "roleName": "郯子父母",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "3": 3,
+      "1": 1
+    },
+    "total_sentences": 4,
+    "entropy": 0.8112781244591328
+  },
+  {
+    "roleName": "猎人",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "13": 1,
+      "7": 4,
+      "5": 1,
+      "4": 1,
+      "9": 1,
+      "2": 1
+    },
+    "total_sentences": 9,
+    "entropy": 2.2810361125534233
+  },
+  {
+    "roleName": "路爱青",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "8": 1,
+      "2": 8,
+      "3": 5,
+      "7": 7,
+      "13": 2,
+      "12": 2,
+      "5": 1,
+      "11": 2,
+      "4": 3,
+      "1": 1
+    },
+    "total_sentences": 32,
+    "entropy": 2.93699961153114
+  },
+  {
+    "roleName": "陶氏",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "2": 41,
+      "3": 6,
+      "7": 16,
+      "14": 2,
+      "10": 24,
+      "12": 15,
+      "1": 10,
+      "8": 3,
+      "11": 3,
+      "5": 5,
+      "4": 5,
+      "13": 5,
+      "6": 1
+    },
+    "total_sentences": 136,
+    "entropy": 3.062684580061995
+  },
+  {
+    "roleName": "路不平",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "10": 5,
+      "8": 4,
+      "4": 24,
+      "7": 24,
+      "5": 6,
+      "3": 14,
+      "13": 17,
+      "2": 10,
+      "12": 8,
+      "1": 9,
+      "11": 5,
+      "9": 3,
+      "6": 1
+    },
+    "total_sentences": 130,
+    "entropy": 3.3292863771677146
+  },
+  {
+    "roleName": "小黄犬",
+    "roleType": "灵性动物",
+    "behaviorCounts": {
+      "11": 2,
+      "2": 3,
+      "4": 13,
+      "7": 2,
+      "13": 8,
+      "10": 3,
+      "6": 2
+    },
+    "total_sentences": 33,
+    "entropy": 2.3893792302626617
+  },
+  {
+    "roleName": "姚翠萍",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "10": 2,
+      "7": 6,
+      "12": 1,
+      "1": 1,
+      "2": 2,
+      "4": 6,
+      "3": 2
+    },
+    "total_sentences": 20,
+    "entropy": 2.4709505944546684
+  },
+  {
+    "roleName": "潘仁",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "10": 32,
+      "2": 12,
+      "7": 32,
+      "3": 15,
+      "11": 3,
+      "4": 16,
+      "5": 7,
+      "12": 7,
+      "9": 4,
+      "1": 4,
+      "13": 9,
+      "8": 12,
+      "14": 12
+    },
+    "total_sentences": 165,
+    "entropy": 3.3648119694940566
+  },
+  {
+    "roleName": "三大财神",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 7,
+      "4": 5,
+      "13": 1,
+      "14": 3,
+      "3": 1,
+      "8": 1,
+      "5": 1
+    },
+    "total_sentences": 19,
+    "entropy": 2.3523479118118216
+  },
+  {
+    "roleName": "马武",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 1,
+      "10": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "杨六郎",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "12": 2,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 0.9182958340544896
+  },
+  {
+    "roleName": "汉文帝（刘恒）",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 7,
+      "7": 1,
+      "12": 3,
+      "2": 3,
+      "11": 2,
+      "13": 1,
+      "14": 1
+    },
+    "total_sentences": 18,
+    "entropy": 2.4387439204017474
+  },
+  {
+    "roleName": "刘邦",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "3": 3,
+      "8": 1,
+      "13": 1,
+      "2": 1,
+      "4": 1
+    },
+    "total_sentences": 7,
+    "entropy": 2.1280852788913944
+  },
+  {
+    "roleName": "吕雉",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "10": 1,
+      "3": 2
+    },
+    "total_sentences": 3,
+    "entropy": 0.9182958340544896
+  },
+  {
+    "roleName": "薄姬",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "8": 1,
+      "7": 1,
+      "4": 1,
+      "1": 1,
+      "3": 4
+    },
+    "total_sentences": 8,
+    "entropy": 2.0
+  },
+  {
+    "roleName": "孟宗",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 5,
+      "7": 4,
+      "12": 1,
+      "2": 10,
+      "5": 1,
+      "4": 4,
+      "13": 3,
+      "11": 2,
+      "14": 1,
+      "10": 3
+    },
+    "total_sentences": 34,
+    "entropy": 2.959854122790417
+  },
+  {
+    "roleName": "孙权",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "8": 1,
+      "10": 1,
+      "2": 1,
+      "9": 1,
+      "5": 1,
+      "3": 1
+    },
+    "total_sentences": 6,
+    "entropy": 2.584962500721156
+  },
+  {
+    "roleName": "孟母",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "12": 1,
+      "10": 1,
+      "2": 2,
+      "3": 3,
+      "11": 2,
+      "7": 3,
+      "14": 2,
+      "5": 1
+    },
+    "total_sentences": 15,
+    "entropy": 2.872905595320056
+  },
+  {
+    "roleName": "俞百生",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "12": 2,
+      "10": 1,
+      "7": 2,
+      "8": 1
+    },
+    "total_sentences": 15,
+    "entropy": 2.656564762130954
+  },
+  {
+    "roleName": "刘小儿",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "2": 7,
+      "3": 2,
+      "10": 7,
+      "11": 1,
+      "8": 12,
+      "5": 2,
+      "4": 8,
+      "6": 2,
+      "13": 5,
+      "7": 11,
+      "1": 5,
+      "12": 1,
+      "9": 1
+    },
+    "total_sentences": 64,
+    "entropy": 3.2875695676352463
+  },
+  {
+    "roleName": "仁宗",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "7": 2,
+      "4": 2,
+      "8": 1,
+      "2": 1
+    },
+    "total_sentences": 6,
+    "entropy": 1.9182958340544893
+  },
+  {
+    "roleName": "包文拯",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 33,
+      "10": 7,
+      "4": 2,
+      "8": 2,
+      "2": 2,
+      "12": 2,
+      "5": 3,
+      "3": 1,
+      "13": 1
+    },
+    "total_sentences": 53,
+    "entropy": 1.9756303055934696
+  },
+  {
+    "roleName": "王朝",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "12": 1,
+      "4": 1,
+      "7": 2
+    },
+    "total_sentences": 4,
+    "entropy": 1.5
+  },
+  {
+    "roleName": "欧阳春",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "12": 1,
+      "7": 2,
+      "14": 2,
+      "10": 1
+    },
+    "total_sentences": 6,
+    "entropy": 1.9182958340544893
+  },
+  {
+    "roleName": "沈翠英",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "3": 7,
+      "2": 9,
+      "10": 3,
+      "7": 8,
+      "12": 3,
+      "14": 1,
+      "13": 1,
+      "8": 1,
+      "5": 2,
+      "4": 1
+    },
+    "total_sentences": 36,
+    "entropy": 2.8451865438947848
+  },
+  {
+    "roleName": "王润",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "2": 6,
+      "7": 14,
+      "12": 2,
+      "10": 4,
+      "3": 2,
+      "6": 2,
+      "4": 2,
+      "11": 1
+    },
+    "total_sentences": 33,
+    "entropy": 2.474310970475623
+  },
+  {
+    "roleName": "李武举",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "12": 1,
+      "8": 5,
+      "7": 26,
+      "2": 10,
+      "4": 6,
+      "13": 5,
+      "5": 3,
+      "3": 3,
+      "10": 3,
+      "1": 10,
+      "9": 10,
+      "6": 2
+    },
+    "total_sentences": 84,
+    "entropy": 3.0963293992313763
+  },
+  {
+    "roleName": "杨良",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "12": 2,
+      "7": 6,
+      "10": 2,
+      "2": 5,
+      "13": 3
+    },
+    "total_sentences": 18,
+    "entropy": 2.1769081691685783
+  },
+  {
+    "roleName": "张栋",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "7": 8,
+      "8": 3,
+      "4": 1,
+      "2": 3,
+      "5": 1,
+      "13": 1
+    },
+    "total_sentences": 17,
+    "entropy": 2.116299605701696
+  },
+  {
+    "roleName": "王定保",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "1": 8,
+      "3": 16,
+      "7": 32,
+      "6": 1,
+      "5": 13,
+      "14": 2,
+      "12": 7,
+      "10": 6,
+      "8": 13,
+      "2": 14,
+      "4": 8,
+      "11": 2,
+      "13": 7
+    },
+    "total_sentences": 129,
+    "entropy": 3.287761011286756
+  },
+  {
+    "roleName": "张存姐",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "14": 2,
+      "7": 20,
+      "12": 6,
+      "6": 1,
+      "2": 8,
+      "13": 1,
+      "8": 2,
+      "10": 1,
+      "11": 1,
+      "3": 2,
+      "4": 4,
+      "1": 2
+    },
+    "total_sentences": 50,
+    "entropy": 2.8048894517332403
+  },
+  {
+    "roleName": "张银姐",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "12": 1,
+      "7": 38,
+      "10": 5,
+      "2": 15,
+      "3": 3,
+      "6": 1,
+      "5": 4,
+      "4": 10,
+      "13": 8,
+      "8": 3,
+      "1": 3
+    },
+    "total_sentences": 91,
+    "entropy": 2.6713310316845766
+  },
+  {
+    "roleName": "刘龙",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "7": 9,
+      "5": 3,
+      "13": 2,
+      "6": 1,
+      "10": 1
+    },
+    "total_sentences": 16,
+    "entropy": 1.7947367178034825
+  },
+  {
+    "roleName": "郑英裁缝",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "1": 1,
+      "7": 5,
+      "4": 2,
+      "14": 5,
+      "5": 1,
+      "8": 2,
+      "9": 2,
+      "13": 1,
+      "10": 1
+    },
+    "total_sentences": 20,
+    "entropy": 2.860964047443681
+  },
+  {
+    "roleName": "仲由",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "14": 1,
+      "7": 2,
+      "2": 10,
+      "12": 3,
+      "10": 2,
+      "11": 3,
+      "4": 7,
+      "13": 3,
+      "1": 2,
+      "3": 3,
+      "5": 3,
+      "8": 1,
+      "9": 2
+    },
+    "total_sentences": 42,
+    "entropy": 3.37695544863366
+  },
+  {
+    "roleName": "孔子",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "8": 2,
+      "7": 1,
+      "11": 1
+    },
+    "total_sentences": 4,
+    "entropy": 1.5
+  },
+  {
+    "roleName": "卫庄公（蒉聩）",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "7": 2,
+      "4": 2,
+      "2": 2,
+      "9": 2,
+      "8": 1,
+      "3": 1,
+      "12": 1
+    },
+    "total_sentences": 11,
+    "entropy": 2.7321588913645702
+  },
+  {
+    "roleName": "卫出公（辄）",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "4": 2,
+      "12": 2,
+      "3": 1
+    },
+    "total_sentences": 5,
+    "entropy": 1.5219280948873621
+  },
+  {
+    "roleName": "孔悝",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "10": 1,
+      "8": 2,
+      "9": 1,
+      "12": 1
+    },
+    "total_sentences": 5,
+    "entropy": 1.9219280948873623
+  },
+  {
+    "roleName": "林英女",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "12": 4,
+      "2": 11,
+      "10": 3,
+      "13": 3,
+      "14": 6,
+      "7": 13,
+      "3": 1,
+      "5": 4,
+      "1": 9,
+      "4": 4,
+      "6": 1,
+      "11": 1
+    },
+    "total_sentences": 60,
+    "entropy": 3.1784182762338653
+  },
+  {
+    "roleName": "韩湘子",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "5": 2,
+      "4": 8,
+      "1": 2,
+      "3": 2,
+      "7": 13,
+      "6": 7,
+      "12": 1,
+      "14": 1
+    },
+    "total_sentences": 36,
+    "entropy": 2.454447201713495
+  },
+  {
+    "roleName": "小丫鬟",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "6": 2,
+      "4": 1,
+      "7": 1,
+      "10": 1
+    },
+    "total_sentences": 5,
+    "entropy": 1.9219280948873623
+  },
+  {
+    "roleName": "李三娘",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "14": 8,
+      "10": 22,
+      "2": 75,
+      "5": 4,
+      "7": 56,
+      "4": 12,
+      "1": 15,
+      "8": 5,
+      "12": 13,
+      "13": 16,
+      "3": 20,
+      "6": 4
+    },
+    "total_sentences": 250,
+    "entropy": 2.9967538819291377
+  },
+  {
+    "roleName": "刘高/刘知远",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 43,
+      "5": 6,
+      "10": 19,
+      "3": 14,
+      "8": 8,
+      "9": 14,
+      "4": 41,
+      "2": 17,
+      "12": 7,
+      "1": 6,
+      "13": 6
+    },
+    "total_sentences": 181,
+    "entropy": 3.0801041468444628
+  },
+  {
+    "roleName": "李宏信",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "3": 1,
+      "7": 11,
+      "13": 4,
+      "2": 3,
+      "10": 7,
+      "4": 2,
+      "6": 2,
+      "1": 1,
+      "12": 1,
+      "9": 1
+    },
+    "total_sentences": 33,
+    "entropy": 2.788026853856121
+  },
+  {
+    "roleName": "一丈青（张秀英）",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "3": 3,
+      "10": 32,
+      "2": 8,
+      "7": 27,
+      "4": 4,
+      "1": 3,
+      "13": 7,
+      "6": 3,
+      "11": 3,
+      "9": 2,
+      "12": 2
+    },
+    "total_sentences": 94,
+    "entropy": 2.6923229259173107
+  },
+  {
+    "roleName": "月娘娘",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "7": 14,
+      "1": 1,
+      "4": 2,
+      "2": 5,
+      "13": 6,
+      "6": 1,
+      "5": 1,
+      "3": 1
+    },
+    "total_sentences": 31,
+    "entropy": 2.295409717239449
+  },
+  {
+    "roleName": "土地公公",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "10": 3,
+      "4": 2,
+      "2": 1,
+      "1": 1,
+      "7": 1
+    },
+    "total_sentences": 8,
+    "entropy": 2.1556390622295662
+  },
+  {
+    "roleName": "郭石匠",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "7": 6,
+      "6": 2,
+      "12": 1,
+      "10": 2,
+      "4": 5,
+      "1": 1,
+      "13": 6,
+      "5": 1,
+      "2": 3,
+      "3": 1,
+      "8": 2,
+      "11": 1
+    },
+    "total_sentences": 31,
+    "entropy": 3.2321292786044826
+  },
+  {
+    "roleName": "刘化王（咬脐郎）",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "4": 16,
+      "3": 2,
+      "5": 10,
+      "7": 15,
+      "10": 4,
+      "12": 3,
+      "2": 4,
+      "6": 2,
+      "13": 4,
+      "9": 1,
+      "8": 3,
+      "1": 1
+    },
+    "total_sentences": 65,
+    "entropy": 3.0480229686080187
+  },
+  {
+    "roleName": "李太师",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "10": 1,
+      "13": 3,
+      "7": 13,
+      "2": 1,
+      "5": 1,
+      "1": 1,
+      "4": 3,
+      "3": 1
+    },
+    "total_sentences": 24,
+    "entropy": 2.1843170282144424
+  },
+  {
+    "roleName": "杨百顺",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "7": 6,
+      "2": 2,
+      "1": 2,
+      "5": 2,
+      "10": 3,
+      "8": 2
+    },
+    "total_sentences": 17,
+    "entropy": 2.424835634986198
+  },
+  {
+    "roleName": "杨生元",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "7": 16,
+      "5": 6,
+      "3": 11,
+      "12": 2,
+      "4": 11,
+      "1": 1,
+      "2": 3,
+      "14": 4,
+      "8": 2,
+      "10": 2,
+      "9": 1
+    },
+    "total_sentences": 59,
+    "entropy": 2.9271827423023336
+  },
+  {
+    "roleName": "左金莲",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "7": 13,
+      "1": 9,
+      "10": 1,
+      "2": 13,
+      "5": 2,
+      "6": 1,
+      "4": 15,
+      "13": 3,
+      "8": 4,
+      "3": 3
+    },
+    "total_sentences": 64,
+    "entropy": 2.8304079433890017
+  },
+  {
+    "roleName": "玉皇爷",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 7
+    },
+    "total_sentences": 7,
+    "entropy": 0.0
+  },
+  {
+    "roleName": "张三爷",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "12": 1,
+      "7": 15,
+      "4": 9,
+      "13": 3,
+      "11": 1,
+      "3": 1,
+      "5": 1,
+      "6": 1
+    },
+    "total_sentences": 32,
+    "entropy": 2.128513392210248
+  },
+  {
+    "roleName": "周武举",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "7": 5,
+      "8": 2,
+      "2": 4,
+      "3": 2,
+      "9": 3,
+      "12": 1,
+      "4": 2
+    },
+    "total_sentences": 19,
+    "entropy": 2.649794462043571
+  },
+  {
+    "roleName": "白志春",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "7": 6,
+      "10": 2,
+      "4": 2,
+      "5": 2,
+      "13": 2
+    },
+    "total_sentences": 14,
+    "entropy": 2.1280852788913944
+  },
+  {
+    "roleName": "柳敖",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "7": 3,
+      "8": 2,
+      "2": 1,
+      "4": 2,
+      "13": 3
+    },
+    "total_sentences": 11,
+    "entropy": 2.2312702546075758
+  },
+  {
+    "roleName": "康东",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 12,
+      "12": 5,
+      "11": 3,
+      "3": 4,
+      "8": 1,
+      "2": 6,
+      "13": 2,
+      "4": 9,
+      "1": 6,
+      "5": 3,
+      "10": 2
+    },
+    "total_sentences": 53,
+    "entropy": 3.1677725204301366
+  },
+  {
+    "roleName": "柳秀英",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "12": 5,
+      "4": 10,
+      "7": 15,
+      "2": 3,
+      "1": 5,
+      "13": 1,
+      "3": 6
+    },
+    "total_sentences": 45,
+    "entropy": 2.4850401332548877
+  },
+  {
+    "roleName": "店主人",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "7": 27,
+      "4": 5,
+      "12": 3,
+      "5": 1,
+      "6": 1,
+      "8": 1
+    },
+    "total_sentences": 38,
+    "entropy": 1.4388093414695347
+  },
+  {
+    "roleName": "康东义",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "1": 1,
+      "5": 4,
+      "14": 6,
+      "6": 1,
+      "3": 1,
+      "10": 1,
+      "4": 3,
+      "7": 1
+    },
+    "total_sentences": 18,
+    "entropy": 2.5996659733039564
+  },
+  {
+    "roleName": "康东诚",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "1": 1,
+      "14": 1,
+      "6": 1,
+      "5": 3,
+      "7": 2,
+      "3": 1,
+      "10": 1,
+      "4": 3
+    },
+    "total_sentences": 13,
+    "entropy": 2.8150724101159437
+  },
+  {
+    "roleName": "包公",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "3": 3,
+      "4": 8,
+      "2": 4,
+      "7": 18,
+      "5": 1,
+      "10": 2,
+      "13": 1,
+      "12": 1,
+      "11": 1,
+      "1": 2
+    },
+    "total_sentences": 41,
+    "entropy": 2.5328315771028382
+  },
+  {
+    "roleName": "三鹦",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 9,
+      "1": 2,
+      "2": 17,
+      "10": 4,
+      "7": 9,
+      "4": 18,
+      "11": 6,
+      "12": 4,
+      "5": 1,
+      "13": 2,
+      "8": 1,
+      "9": 1
+    },
+    "total_sentences": 74,
+    "entropy": 3.0052108878248154
+  },
+  {
+    "roleName": "老黄鹦",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "2": 9,
+      "14": 2,
+      "3": 14,
+      "10": 2,
+      "11": 3,
+      "7": 4,
+      "12": 3,
+      "5": 3,
+      "4": 2
+    },
+    "total_sentences": 42,
+    "entropy": 2.7709613173435774
+  },
+  {
+    "roleName": "八鸽子",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "14": 1,
+      "4": 1,
+      "7": 1,
+      "11": 2
+    },
+    "total_sentences": 5,
+    "entropy": 1.9219280948873623
+  },
+  {
+    "roleName": "野鸽子",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "14": 1,
+      "4": 1,
+      "7": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "张玉梅",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "7": 13,
+      "1": 11,
+      "6": 1,
+      "10": 1,
+      "13": 1,
+      "2": 2
+    },
+    "total_sentences": 29,
+    "entropy": 1.817999473029487
+  },
+  {
+    "roleName": "达摩祖师",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "4": 3,
+      "7": 4,
+      "5": 1
+    },
+    "total_sentences": 8,
+    "entropy": 1.4056390622295665
+  },
+  {
+    "roleName": "郭顺万",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "12": 1,
+      "10": 1,
+      "7": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "郭巨",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 41,
+      "5": 12,
+      "3": 28,
+      "10": 20,
+      "11": 4,
+      "13": 18,
+      "4": 21,
+      "2": 15,
+      "14": 7,
+      "8": 9,
+      "12": 3,
+      "6": 2,
+      "1": 1
+    },
+    "total_sentences": 181,
+    "entropy": 3.2315582974625072
+  },
+  {
+    "roleName": "白秀英",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "7": 32,
+      "3": 19,
+      "2": 24,
+      "13": 12,
+      "10": 13,
+      "8": 3,
+      "11": 3,
+      "12": 7,
+      "4": 2,
+      "14": 1,
+      "6": 1,
+      "1": 3
+    },
+    "total_sentences": 120,
+    "entropy": 2.9252977949575385
+  },
+  {
+    "roleName": "长寿郎",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "3": 7,
+      "14": 1,
+      "11": 2,
+      "4": 4,
+      "8": 1,
+      "7": 2,
+      "13": 1
+    },
+    "total_sentences": 18,
+    "entropy": 2.411509198419911
+  },
+  {
+    "roleName": "郭秋万",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "11": 1,
+      "3": 2,
+      "10": 2,
+      "7": 10,
+      "4": 2,
+      "9": 1,
+      "13": 1,
+      "2": 1,
+      "8": 2
+    },
+    "total_sentences": 22,
+    "entropy": 2.5858279391430417
+  },
+  {
+    "roleName": "张百万",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "8": 7,
+      "7": 8,
+      "2": 1,
+      "5": 3,
+      "1": 1,
+      "10": 1,
+      "14": 1,
+      "3": 2
+    },
+    "total_sentences": 24,
+    "entropy": 2.4846970025308774
+  },
+  {
+    "roleName": "蒋氏夫人",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "12": 1,
+      "3": 9,
+      "2": 3,
+      "7": 5,
+      "1": 1,
+      "10": 1,
+      "13": 1,
+      "8": 1
+    },
+    "total_sentences": 22,
+    "entropy": 2.418801937292702
+  },
+  {
+    "roleName": "张世云",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 4,
+      "5": 14,
+      "7": 14,
+      "12": 4,
+      "4": 23,
+      "2": 8,
+      "13": 10,
+      "10": 5,
+      "14": 1,
+      "11": 1,
+      "6": 1,
+      "8": 2,
+      "1": 1
+    },
+    "total_sentences": 88,
+    "entropy": 3.0790136160209953
+  },
+  {
+    "roleName": "张世登",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "3": 5,
+      "5": 5,
+      "10": 6,
+      "7": 21,
+      "2": 3,
+      "4": 21,
+      "13": 3,
+      "12": 2,
+      "1": 1,
+      "9": 2
+    },
+    "total_sentences": 69,
+    "entropy": 2.677855431934178
+  },
+  {
+    "roleName": "蒋玉珍",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "7": 14,
+      "4": 3,
+      "2": 2,
+      "3": 1,
+      "8": 1,
+      "10": 2,
+      "1": 1
+    },
+    "total_sentences": 24,
+    "entropy": 1.9992184835974094
+  },
+  {
+    "roleName": "妖婆子",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "7": 12,
+      "3": 10,
+      "5": 11,
+      "2": 8,
+      "8": 2,
+      "4": 4,
+      "9": 2,
+      "10": 3,
+      "1": 1,
+      "13": 3,
+      "11": 2,
+      "14": 2
+    },
+    "total_sentences": 60,
+    "entropy": 3.1768513661607733
+  },
+  {
+    "roleName": "王敖老祖",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 7,
+      "13": 4,
+      "4": 1
+    },
+    "total_sentences": 12,
+    "entropy": 1.2806721295208872
+  },
+  {
+    "roleName": "张宝通",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "14": 2,
+      "5": 6,
+      "4": 6,
+      "12": 1,
+      "7": 10,
+      "1": 1
+    },
+    "total_sentences": 26,
+    "entropy": 2.152792373620804
+  },
+  {
+    "roleName": "太白金星",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 1,
+      "4": 1,
+      "5": 1,
+      "14": 1
+    },
+    "total_sentences": 4,
+    "entropy": 2.0
+  },
+  {
+    "roleName": "叶氏（婆婆）",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "3": 2,
+      "2": 15,
+      "7": 12,
+      "11": 7,
+      "13": 7,
+      "10": 3,
+      "14": 1,
+      "5": 1,
+      "12": 1
+    },
+    "total_sentences": 49,
+    "entropy": 2.600816673630482
+  },
+  {
+    "roleName": "王小林",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 8,
+      "5": 8,
+      "7": 12,
+      "14": 4,
+      "2": 5,
+      "4": 4,
+      "13": 2,
+      "10": 3,
+      "12": 1,
+      "1": 1
+    },
+    "total_sentences": 48,
+    "entropy": 2.9727942093616946
+  },
+  {
+    "roleName": "王桂花",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "3": 2,
+      "14": 1,
+      "7": 7,
+      "10": 2,
+      "6": 2,
+      "5": 1,
+      "4": 3,
+      "13": 1,
+      "2": 2,
+      "11": 6,
+      "8": 1
+    },
+    "total_sentences": 28,
+    "entropy": 3.096063959168546
+  },
+  {
+    "roleName": "马金花",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "3": 2,
+      "4": 2,
+      "2": 3,
+      "10": 8,
+      "7": 4,
+      "13": 1,
+      "1": 1,
+      "8": 1
+    },
+    "total_sentences": 22,
+    "entropy": 2.606936732175321
+  },
+  {
+    "roleName": "明朝天子",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "7": 5,
+      "14": 1,
+      "8": 1
+    },
+    "total_sentences": 7,
+    "entropy": 1.1488348542809166
+  },
+  {
+    "roleName": "杨福公",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "8": 2,
+      "2": 15,
+      "1": 3,
+      "11": 5,
+      "7": 3,
+      "5": 7,
+      "4": 2,
+      "3": 2,
+      "13": 1
+    },
+    "total_sentences": 40,
+    "entropy": 2.6875716232049935
+  },
+  {
+    "roleName": "杨文达",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "3": 3,
+      "10": 2,
+      "4": 6,
+      "7": 5,
+      "11": 2,
+      "5": 2,
+      "2": 2,
+      "13": 8,
+      "14": 1,
+      "1": 1
+    },
+    "total_sentences": 32,
+    "entropy": 3.0039280318460246
+  },
+  {
+    "roleName": "王桂花",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "3": 5,
+      "1": 2,
+      "10": 5,
+      "2": 11,
+      "13": 8,
+      "11": 7,
+      "4": 9,
+      "7": 18,
+      "12": 2,
+      "8": 1
+    },
+    "total_sentences": 68,
+    "entropy": 2.9622791905557873
+  },
+  {
+    "roleName": "杨小娃",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 8,
+      "5": 2,
+      "7": 17,
+      "4": 17,
+      "12": 3,
+      "2": 11,
+      "13": 8,
+      "1": 3,
+      "14": 5,
+      "10": 7,
+      "11": 1
+    },
+    "total_sentences": 82,
+    "entropy": 3.0917180492438296
+  },
+  {
+    "roleName": "张彦",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "5": 12,
+      "2": 30,
+      "3": 12,
+      "7": 26,
+      "10": 2,
+      "14": 3,
+      "13": 1,
+      "9": 1,
+      "4": 4,
+      "6": 2,
+      "1": 4,
+      "12": 1
+    },
+    "total_sentences": 98,
+    "entropy": 2.734994149631584
+  },
+  {
+    "roleName": "白玉楼",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "4": 8,
+      "7": 31,
+      "2": 36,
+      "12": 4,
+      "3": 8,
+      "5": 5,
+      "1": 4,
+      "6": 4,
+      "9": 1,
+      "10": 4,
+      "14": 2
+    },
+    "total_sentences": 107,
+    "entropy": 2.6918686111828927
+  },
+  {
+    "roleName": "钱赛花",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "7": 9,
+      "2": 1,
+      "12": 1,
+      "13": 1,
+      "4": 1
+    },
+    "total_sentences": 13,
+    "entropy": 1.5058762556041068
+  },
+  {
+    "roleName": "周刚",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "10": 2,
+      "4": 2,
+      "7": 1,
+      "8": 1,
+      "2": 1
+    },
+    "total_sentences": 7,
+    "entropy": 2.2359263506290326
+  },
+  {
+    "roleName": "江夏",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "7": 7,
+      "2": 3,
+      "13": 3,
+      "4": 1,
+      "1": 1
+    },
+    "total_sentences": 15,
+    "entropy": 1.9628066316931743
+  },
+  {
+    "roleName": "刘蕊莲",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "6": 3,
+      "10": 1,
+      "4": 1,
+      "7": 2,
+      "3": 1,
+      "12": 1
+    },
+    "total_sentences": 9,
+    "entropy": 2.4193819456463714
+  },
+  {
+    "roleName": "金秀容",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "1": 2,
+      "6": 1,
+      "5": 1,
+      "2": 5,
+      "12": 1,
+      "13": 1,
+      "3": 1,
+      "7": 1
+    },
+    "total_sentences": 13,
+    "entropy": 2.6535442970305683
+  },
+  {
+    "roleName": "金驸马",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "2": 2,
+      "4": 1,
+      "10": 1,
+      "7": 3,
+      "3": 3,
+      "9": 2
+    },
+    "total_sentences": 12,
+    "entropy": 2.4591479170272446
+  },
+  {
+    "roleName": "闵子骞",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 2,
+      "7": 4,
+      "2": 4,
+      "4": 2,
+      "13": 1,
+      "1": 1,
+      "10": 1
+    },
+    "total_sentences": 15,
+    "entropy": 2.5735572622751848
+  },
+  {
+    "roleName": "闵父",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "3": 2,
+      "4": 2,
+      "2": 8,
+      "7": 5,
+      "13": 3,
+      "5": 1
+    },
+    "total_sentences": 21,
+    "entropy": 2.279720852464461
+  },
+  {
+    "roleName": "后母",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "2": 5,
+      "11": 4,
+      "10": 2,
+      "14": 5,
+      "13": 1,
+      "7": 2,
+      "8": 3,
+      "4": 1
+    },
+    "total_sentences": 23,
+    "entropy": 2.7855546320988784
+  },
+  {
+    "roleName": "李健",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "3": 11,
+      "2": 6,
+      "7": 30,
+      "4": 22,
+      "5": 4,
+      "10": 4,
+      "12": 3,
+      "8": 9,
+      "11": 3,
+      "1": 3,
+      "6": 1,
+      "9": 2,
+      "13": 3,
+      "14": 1
+    },
+    "total_sentences": 102,
+    "entropy": 3.099615427174947
+  },
+  {
+    "roleName": "陈龙",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "7": 71,
+      "10": 11,
+      "4": 25,
+      "13": 18,
+      "14": 2,
+      "11": 2,
+      "2": 4,
+      "12": 8,
+      "9": 4,
+      "3": 5,
+      "8": 3,
+      "6": 3,
+      "1": 1
+    },
+    "total_sentences": 157,
+    "entropy": 2.6388228919557273
+  },
+  {
+    "roleName": "陈虎",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "7": 53,
+      "10": 9,
+      "4": 16,
+      "13": 11,
+      "14": 2,
+      "11": 2,
+      "2": 4,
+      "12": 6,
+      "9": 3,
+      "1": 2,
+      "3": 3,
+      "8": 1,
+      "5": 1
+    },
+    "total_sentences": 113,
+    "entropy": 2.6327240339329347
+  },
+  {
+    "roleName": "陈子良",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "7": 113,
+      "5": 4,
+      "9": 11,
+      "10": 7,
+      "2": 18,
+      "8": 3,
+      "13": 5,
+      "3": 7,
+      "11": 13,
+      "1": 3,
+      "4": 5
+    },
+    "total_sentences": 189,
+    "entropy": 2.2081135259050444
+  },
+  {
+    "roleName": "陈秀英",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "14": 2,
+      "11": 3,
+      "2": 24,
+      "12": 9,
+      "4": 35,
+      "7": 49,
+      "6": 3,
+      "5": 3,
+      "10": 6,
+      "3": 6,
+      "1": 1,
+      "8": 3,
+      "13": 3
+    },
+    "total_sentences": 147,
+    "entropy": 2.7778485318807262
+  },
+  {
+    "roleName": "李金童",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "5": 6,
+      "4": 8,
+      "12": 3,
+      "2": 3,
+      "1": 2,
+      "7": 9,
+      "6": 2,
+      "10": 4,
+      "3": 3,
+      "14": 1,
+      "9": 1,
+      "8": 1
+    },
+    "total_sentences": 43,
+    "entropy": 3.2331539983346986
+  },
+  {
+    "roleName": "王知县",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 24,
+      "12": 3,
+      "2": 5,
+      "10": 5,
+      "1": 1,
+      "11": 1,
+      "14": 1,
+      "4": 2,
+      "13": 1,
+      "9": 1,
+      "8": 1,
+      "3": 1
+    },
+    "total_sentences": 46,
+    "entropy": 2.479795250223429
+  },
+  {
+    "roleName": "太白金星",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 3,
+      "10": 2,
+      "4": 1,
+      "13": 1,
+      "2": 1,
+      "14": 2
+    },
+    "total_sentences": 10,
+    "entropy": 2.4464393446710155
+  },
+  {
+    "roleName": "周婶婶",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "10": 1,
+      "3": 1,
+      "8": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "丁郎",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "5": 18,
+      "7": 32,
+      "12": 11,
+      "4": 25,
+      "2": 42,
+      "10": 4,
+      "13": 8,
+      "9": 5,
+      "3": 20,
+      "11": 1,
+      "14": 3,
+      "6": 1,
+      "8": 2,
+      "1": 4
+    },
+    "total_sentences": 176,
+    "entropy": 3.1384701174645957
+  },
+  {
+    "roleName": "丁百万",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "12": 2,
+      "7": 6,
+      "2": 4,
+      "3": 6,
+      "4": 1,
+      "13": 1
+    },
+    "total_sentences": 20,
+    "entropy": 2.2709505944546686
+  },
+  {
+    "roleName": "康氏",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "3": 16,
+      "2": 28,
+      "10": 16,
+      "12": 6,
+      "14": 1,
+      "7": 18,
+      "1": 10,
+      "8": 6,
+      "11": 2,
+      "13": 2,
+      "4": 8
+    },
+    "total_sentences": 113,
+    "entropy": 3.015723928777116
+  },
+  {
+    "roleName": "王秀英",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "3": 3,
+      "2": 11,
+      "10": 6,
+      "13": 4,
+      "9": 9,
+      "1": 2,
+      "7": 15,
+      "11": 2,
+      "4": 2
+    },
+    "total_sentences": 54,
+    "entropy": 2.8020894603373714
+  },
+  {
+    "roleName": "山神爷",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "2": 2,
+      "14": 6,
+      "7": 2,
+      "4": 3,
+      "13": 1
+    },
+    "total_sentences": 14,
+    "entropy": 2.074164743022575
+  },
+  {
+    "roleName": "土地爷",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "2": 2,
+      "14": 3,
+      "7": 2,
+      "4": 1,
+      "13": 1
+    },
+    "total_sentences": 9,
+    "entropy": 2.197159723424149
+  },
+  {
+    "roleName": "玉皇大帝",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 6
+    },
+    "total_sentences": 6,
+    "entropy": 0.0
+  },
+  {
+    "roleName": "曾参",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 1,
+      "10": 2,
+      "8": 1,
+      "13": 2,
+      "5": 1,
+      "2": 4,
+      "4": 2,
+      "7": 1
+    },
+    "total_sentences": 14,
+    "entropy": 2.8073549220576037
+  },
+  {
+    "roleName": "曾母",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "7": 3,
+      "13": 2,
+      "5": 1
+    },
+    "total_sentences": 6,
+    "entropy": 1.4591479170272448
+  },
+  {
+    "roleName": "董永",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 10,
+      "14": 3,
+      "7": 5,
+      "4": 11,
+      "2": 8,
+      "12": 6,
+      "10": 13,
+      "1": 1,
+      "11": 1,
+      "8": 3,
+      "5": 2
+    },
+    "total_sentences": 63,
+    "entropy": 3.0882650731378716
+  },
+  {
+    "roleName": "七仙女",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 6,
+      "4": 7,
+      "1": 1,
+      "13": 1,
+      "12": 1,
+      "14": 2,
+      "10": 1
+    },
+    "total_sentences": 19,
+    "entropy": 2.292071752457787
+  },
+  {
+    "roleName": "董父",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "12": 2,
+      "2": 1,
+      "13": 2,
+      "5": 1,
+      "8": 1,
+      "7": 4,
+      "3": 7
+    },
+    "total_sentences": 18,
+    "entropy": 2.4115091984199104
+  },
+  {
+    "roleName": "付员外",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "8": 2,
+      "7": 1,
+      "9": 2
+    },
+    "total_sentences": 5,
+    "entropy": 1.5219280948873621
+  },
+  {
+    "roleName": "徐长金",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "12": 5,
+      "4": 15,
+      "2": 17,
+      "5": 5,
+      "7": 34,
+      "3": 14,
+      "1": 10,
+      "6": 3,
+      "8": 3,
+      "11": 2,
+      "13": 9,
+      "10": 8
+    },
+    "total_sentences": 125,
+    "entropy": 3.167027527368034
+  },
+  {
+    "roleName": "任母",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "10": 5,
+      "4": 5,
+      "7": 15,
+      "1": 8,
+      "2": 20,
+      "13": 4,
+      "3": 3,
+      "12": 3,
+      "8": 1,
+      "11": 2,
+      "5": 2
+    },
+    "total_sentences": 68,
+    "entropy": 2.9437720061756982
+  },
+  {
+    "roleName": "任仓",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "5": 6,
+      "7": 17,
+      "6": 3,
+      "3": 6,
+      "10": 6,
+      "4": 17,
+      "13": 17,
+      "11": 2,
+      "2": 2,
+      "9": 2,
+      "12": 2
+    },
+    "total_sentences": 80,
+    "entropy": 2.975117877150967
+  },
+  {
+    "roleName": "任仓子",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "2": 3,
+      "13": 2
+    },
+    "total_sentences": 5,
+    "entropy": 0.9709505944546686
+  },
+  {
+    "roleName": "玉皇大帝",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 6,
+      "3": 1,
+      "12": 1
+    },
+    "total_sentences": 8,
+    "entropy": 1.061278124459133
+  },
+  {
+    "roleName": "王祥",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 3,
+      "7": 4,
+      "10": 5,
+      "4": 5,
+      "2": 10,
+      "6": 2,
+      "8": 1,
+      "1": 3,
+      "12": 1,
+      "13": 3,
+      "11": 2
+    },
+    "total_sentences": 39,
+    "entropy": 3.1648067213176927
+  },
+  {
+    "roleName": "继母娘",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "3": 4,
+      "11": 1
+    },
+    "total_sentences": 5,
+    "entropy": 0.7219280948873623
+  },
+  {
+    "roleName": "老龙王",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "6": 2,
+      "1": 1,
+      "5": 1,
+      "3": 1,
+      "7": 1,
+      "14": 1
+    },
+    "total_sentences": 7,
+    "entropy": 2.5216406363433186
+  },
+  {
+    "roleName": "梅县长",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "12": 2,
+      "8": 2,
+      "10": 4,
+      "7": 15,
+      "13": 2,
+      "3": 4,
+      "2": 7,
+      "4": 1,
+      "9": 3
+    },
+    "total_sentences": 40,
+    "entropy": 2.6966848226200004
+  },
+  {
+    "roleName": "李特生",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "10": 3,
+      "2": 4,
+      "13": 2,
+      "9": 1,
+      "8": 2,
+      "7": 6,
+      "4": 3,
+      "3": 2
+    },
+    "total_sentences": 23,
+    "entropy": 2.8270597817677143
+  },
+  {
+    "roleName": "王之清",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "10": 3,
+      "2": 6,
+      "13": 5,
+      "9": 1,
+      "5": 1,
+      "7": 3,
+      "3": 2
+    },
+    "total_sentences": 21,
+    "entropy": 2.552832161679204
+  },
+  {
+    "roleName": "齐飞卿",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "5": 3,
+      "7": 27,
+      "3": 9,
+      "2": 11,
+      "12": 3,
+      "10": 1,
+      "1": 2,
+      "4": 21,
+      "14": 10,
+      "13": 6,
+      "8": 2
+    },
+    "total_sentences": 95,
+    "entropy": 2.891513163991093
+  },
+  {
+    "roleName": "陆富基",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 64,
+      "4": 36,
+      "9": 3,
+      "2": 25,
+      "12": 7,
+      "10": 2,
+      "5": 5,
+      "14": 1,
+      "1": 7,
+      "6": 1,
+      "13": 8,
+      "3": 9,
+      "8": 2,
+      "11": 3
+    },
+    "total_sentences": 173,
+    "entropy": 2.7920535791000636
+  },
+  {
+    "roleName": "杨成绪",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 23,
+      "4": 4,
+      "2": 11,
+      "11": 1,
+      "10": 2,
+      "14": 2,
+      "5": 2,
+      "1": 3,
+      "6": 1,
+      "8": 1,
+      "3": 1
+    },
+    "total_sentences": 51,
+    "entropy": 2.5184927871384564
+  },
+  {
+    "roleName": "贺藩台",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "2": 13,
+      "7": 17,
+      "5": 4,
+      "3": 7,
+      "10": 3,
+      "1": 2,
+      "9": 1,
+      "4": 8,
+      "12": 2,
+      "13": 1
+    },
+    "total_sentences": 58,
+    "entropy": 2.7890334676507336
+  },
+  {
+    "roleName": "孙铁匠",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "4": 5,
+      "12": 3,
+      "8": 1,
+      "11": 1,
+      "14": 2,
+      "9": 1,
+      "13": 2,
+      "2": 6,
+      "10": 2,
+      "7": 7,
+      "5": 1
+    },
+    "total_sentences": 31,
+    "entropy": 3.0985257479568604
+  },
+  {
+    "roleName": "齐豁子",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "8": 1,
+      "2": 2,
+      "3": 1,
+      "10": 1,
+      "14": 2,
+      "11": 1,
+      "7": 1,
+      "4": 1
+    },
+    "total_sentences": 10,
+    "entropy": 2.9219280948873623
+  },
+  {
+    "roleName": "韩文公",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "12": 2,
+      "7": 8,
+      "8": 3,
+      "2": 7,
+      "10": 1,
+      "6": 2,
+      "5": 1
+    },
+    "total_sentences": 24,
+    "entropy": 2.401363669197544
+  },
+  {
+    "roleName": "韩湘子",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "3": 2,
+      "4": 11,
+      "12": 2,
+      "7": 18,
+      "5": 1,
+      "1": 3,
+      "8": 2,
+      "6": 1,
+      "2": 1,
+      "13": 4,
+      "14": 1
+    },
+    "total_sentences": 46,
+    "entropy": 2.6568818401192877
+  },
+  {
+    "roleName": "张千李万",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "12": 2,
+      "7": 1,
+      "13": 6,
+      "4": 1,
+      "10": 1,
+      "5": 1
+    },
+    "total_sentences": 12,
+    "entropy": 2.125814583693911
+  },
+  {
+    "roleName": "沈万三",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "7": 2,
+      "11": 1
+    },
+    "total_sentences": 3,
+    "entropy": 0.9182958340544896
+  },
+  {
+    "roleName": "东海龙王",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 4,
+      "12": 1,
+      "8": 1,
+      "4": 1
+    },
+    "total_sentences": 7,
+    "entropy": 1.6644977792004614
+  },
+  {
+    "roleName": "高丽国王",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "7": 3,
+      "10": 1,
+      "3": 1,
+      "4": 1
+    },
+    "total_sentences": 6,
+    "entropy": 1.7924812503605778
+  },
+  {
+    "roleName": "目连僧",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 2,
+      "10": 1
+    },
+    "total_sentences": 3,
+    "entropy": 0.9182958340544896
+  },
+  {
+    "roleName": "孙权",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "12": 2,
+      "2": 4,
+      "7": 5,
+      "8": 3,
+      "6": 1,
+      "5": 1
+    },
+    "total_sentences": 16,
+    "entropy": 2.3522170014624826
+  },
+  {
+    "roleName": "蒋钦",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "2": 1,
+      "13": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "周泰",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "2": 1,
+      "13": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "程普",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 1,
+      "13": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "黄盖",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 1,
+      "13": 1,
+      "4": 1,
+      "3": 1
+    },
+    "total_sentences": 4,
+    "entropy": 2.0
+  },
+  {
+    "roleName": "韩当",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 1,
+      "13": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "甘宁",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 1,
+      "13": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "鲁肃",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 24,
+      "10": 2,
+      "2": 3,
+      "5": 2,
+      "3": 2
+    },
+    "total_sentences": 33,
+    "entropy": 1.383970255132053
+  },
+  {
+    "roleName": "关羽",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 2,
+      "7": 8,
+      "3": 2,
+      "6": 1,
+      "2": 4,
+      "4": 4,
+      "8": 1,
+      "10": 1,
+      "5": 2,
+      "1": 5,
+      "13": 1
+    },
+    "total_sentences": 31,
+    "entropy": 3.095820811211494
+  },
+  {
+    "roleName": "周仓",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 6,
+      "13": 3,
+      "2": 3,
+      "4": 2
+    },
+    "total_sentences": 14,
+    "entropy": 1.877387064296613
+  },
+  {
+    "roleName": "关平",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "2": 1,
+      "7": 2
+    },
+    "total_sentences": 3,
+    "entropy": 0.9182958340544896
+  }
+]

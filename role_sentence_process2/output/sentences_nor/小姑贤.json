@@ -1,0 +1,3020 @@
+[
+  [
+    {
+      "role": "",
+      "original_sentence": "第八节凉州贤孝《小姑贤》唱词天上的云多了日不明，海里的鱼多了水不清。",
+      "sentence": "天上的云朵使得阳光不明亮",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "第八节凉州贤孝《小姑贤》唱词天上的云多了日不明，海里的鱼多了水不清。",
+      "sentence": "海里的鱼儿使得水质不清澈",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "山上的花多开不尽，地上的人多了心不公。",
+      "sentence": "山上的花多开不尽",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "山上的花多开不尽，地上的人多了心不公。",
+      "sentence": "地上的人多了心不公",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "日不明尽叫乌云遮定，水不清尽叫那个金鱼染浑。",
+      "sentence": "乌云遮住了太阳的光芒",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "日不明尽叫乌云遮定，水不清尽叫那个金鱼染浑。",
+      "sentence": "金鱼染浑了清澈的水",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "花不尽就叫它四季常青，地不平就叫高山占定。",
+      "sentence": "花不尽使其保持四季常青",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "花不尽就叫它四季常青，地不平就叫高山占定。",
+      "sentence": "地不平被高山占据",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人心不公才遗戥秤，遗下的那个戥秤才陟人的心。",
+      "sentence": "人心不公导致戥秤被遗弃",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "人心不公才遗戥秤，遗下的那个戥秤才陟人的心。",
+      "sentence": "遗弃的戥秤影响人心",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我把这些诗条对句丢口后，提起个正传么表古人。",
+      "sentence": "我讲述古人故事以继续正传",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个朝里我说贤书，哪个手里我论古人？",
+      "sentence": "讨论贤书和古人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "列国书上就说贤书，第八孝里论古人。",
+      "sentence": "列国书上记载贤书内容",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "列国书上就说贤书，第八孝里论古人。",
+      "sentence": "第八孝里讨论古人故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我问贤人家何地，高名上姓在哪里？",
+      "sentence": "询问贤人的家乡和姓名",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "家住在贵州的马王县，马王县里么有家园。",
+      "sentence": "马王县里有家园",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那庄倒坐个王员外，王员外家大富豪总财东。",
+      "sentence": "王员外家是当地的大富豪",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "就把叶氏夫人娶过门，家中所生两苗根。",
+      "sentence": "叶氏夫人被娶进家门生育两子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "所生了男孩儿叫王小林，所生了女儿叫王桂花。",
+      "sentence": "叶氏夫人生下男孩王小林",
+      "behavior_type": 3
+    },
+    {
+      "role": "王桂花",
+      "original_sentence": "所生了男孩儿叫王小林，所生了女儿叫王桂花。",
+      "sentence": "叶氏夫人生下女儿王桂花",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "小林在学里读五经，桂花在楼上么学针工。",
+      "sentence": "王小林在学校里研读五经",
+      "behavior_type": 5
+    },
+    {
+      "role": "王桂花",
+      "original_sentence": "小林在学里读五经，桂花在楼上么学针工。",
+      "sentence": "王桂花在楼上学习针线活",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "王小林有心不把此事行，惹下母亲么了不成。",
+      "sentence": "王小林决定不执行此事",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "王小林有心不把此事行，惹下母亲么了不成。",
+      "sentence": "惹下母亲后果很严重",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "马金花",
+      "original_sentence": "定亲没有往旁处定，定亲么定到了马家的家，定下了贤良的小姐叫马金花。",
+      "sentence": "马金花与王小林定下亲事",
+      "behavior_type": 3
+    },
+    {
+      "role": "王小林",
+      "original_sentence": "定亲没有往旁处定，定亲么定到了马家的家，定下了贤良的小姐叫马金花。",
+      "sentence": "王小林与马金花定下亲事",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "马金花",
+      "original_sentence": "一十六岁送过了婚，十七上娶到了王家的门。",
+      "sentence": "马金花十六岁时被送出成婚",
+      "behavior_type": 4
+    },
+    {
+      "role": "马金花",
+      "original_sentence": "一十六岁送过了婚，十七上娶到了王家的门。",
+      "sentence": "马金花十七岁嫁入王家门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "黄道日子不办亲，偏偏黑道日子要办亲。",
+      "sentence": "有人在黑道日子举办婚礼",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "黑煞老爷打空中过，冲坏了婆媳好缘分。",
+      "sentence": "黑煞老爷破坏了婆媳关系",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "马金花",
+      "original_sentence": "自从小姐到婆家，婆媳二人傢没缘法。",
+      "sentence": "马金花与婆婆关系不和睦",
+      "behavior_type": 2
+    },
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "自从小姐到婆家，婆媳二人傢没缘法。",
+      "sentence": "叶氏与媳妇关系不和睦",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "马金花",
+      "original_sentence": "新娶的媳妇马金花，孝崇了母亲的饭和茶。",
+      "sentence": "马金花为母亲准备饭菜和茶水",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "马金花",
+      "original_sentence": "媳妇儿来到了书房中，忙把我的母亲么叫几声，母亲面前把礼行，开言叫声老母亲。",
+      "sentence": "马金花在书房中呼唤母亲",
+      "behavior_type": 7
+    },
+    {
+      "role": "马金花",
+      "original_sentence": "媳妇儿来到了书房中，忙把我的母亲么叫几声，母亲面前把礼行，开言叫声老母亲。",
+      "sentence": "马金花向母亲行礼问候",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "马金花",
+      "original_sentence": "你今个想吃些什么饭，想喝些什么汤，吩咐你的媳妇子给你造上前。",
+      "sentence": "马金花询问婆婆想吃什么饭菜",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "马金花",
+      "original_sentence": "媳妇我一天能做着吃上八样子饭，媳妇也不发烦。",
+      "sentence": "马金花每天能做八样饭菜",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "婆婆生来是个老妖精，巧言伶语说得凶，一见媳妇子黑眼疯，呸，我把你个狗贱人，我把你个狗杂种。",
+      "sentence": "叶氏对媳妇恶语相向",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "你说的八样子饭你不发烦，为娘的嘛，我一天要着吃你的十六样子饭，吩咐这个贱人给我造上前。",
+      "sentence": "叶氏要求媳妇做十六样饭菜",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "头顿不吃你别的饭，吃你的珍珠儿扑翠花。",
+      "sentence": "叶氏要求吃珍珠扑翠花",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "二顿我不吃别的饭，吃你的鱼儿乱钻沙。",
+      "sentence": "叶氏第二顿要吃鱼儿乱钻沙",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "三顿不吃你别的饭，吃你的猴儿倒上杆。",
+      "sentence": "叶氏要求吃猴儿倒上杆",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "四顿不吃你别的饭，吃你的蜘蛛来吊线。",
+      "sentence": "叶氏要求吃蜘蛛吊线饭",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "五顿不吃你别的饭，吃你的针扎荷包给我配丝线。",
+      "sentence": "叶氏要求吃针扎荷包配丝线",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "六顿不吃你别的饭，吃你的精肚子雀儿过棉毡。",
+      "sentence": "六顿不吃别的饭只吃精肚子雀儿",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "七顿不吃你别的饭，吃你的黑驴子翻滚不见面。",
+      "sentence": "七顿饭不吃别的食物",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "八顿我不吃你别的饭，我想吃你的空壳郎拌面汤。",
+      "sentence": "八顿不吃别的饭想吃拌面汤",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "九顿不吃你别的饭，吃你的癞蛤蟆钻淄泥。",
+      "sentence": "九顿饭不吃别的只吃癞蛤蟆",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十顿不吃你别的饭，吃你的红嘴绿毛饭。",
+      "sentence": "十顿不吃别的饭只吃红嘴绿毛饭",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十一顿不吃你别的饭，吃你的关爷骑马不踩镫的好茶饭。",
+      "sentence": "十一顿饭不吃别的食物",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十二顿不吃你别的饭，吃你的刽子手上炕鳖跳崖的好茶饭。",
+      "sentence": "十二顿饭不吃别的食物",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十三顿不吃你别的饭，吃你的手拉羊皮的饭。",
+      "sentence": "十三顿只吃手拉羊皮的饭",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十四顿不吃你别的饭，吃你的沙拉拉儿的茕茕饭。",
+      "sentence": "十四顿饭只吃特定食物",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十五顿不吃你别的饭，吃你的筒筒子菜柳叶儿面。",
+      "sentence": "十五顿只吃筒筒子菜柳叶儿面",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十六顿不吃别的饭，吃你的秃葫芦给我顶的方砖。",
+      "sentence": "十六顿饭只吃特定食物",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "媳妇儿闻听么母亲要着吃的是珍珠扑翠花，年轻骨嫩的不懂啥，婆婆的茶饭没有来学下。",
+      "sentence": "媳妇听闻母亲要吃珍珠扑翠花",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "转过来挖了碗老豆面，拨了些豆面拨疙瘩。",
+      "sentence": "转过来挖了碗老豆面",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "转过来挖了碗老豆面，拨了些豆面拨疙瘩。",
+      "sentence": "拨了些豆面拨疙瘩",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "饭儿端进书房门，忙把母亲叫几声。",
+      "sentence": "将饭端进书房并呼唤母亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叫母亲，你想吃些我的珍珠扑翠花，给你，你吃吧，这个刚就叫个珍珠扑翠花。",
+      "sentence": "询问母亲是否想吃珍珠扑翠花",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "婆婆一见怒气生，呸，我把你个狗贱人，我把你个狗杂种，我说的东你拐的西，我说的东门楼子，你拐的是老娘屁股上的瘊子。",
+      "sentence": "叶氏见到后感到非常愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "婆婆一见怒气生，呸，我把你个狗贱人，我把你个狗杂种，我说的东你拐的西，我说的东门楼子，你拐的是老娘屁股上的瘊子。",
+      "sentence": "叶氏指责对方不听话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "我给你说的东门楼子西吊桥，你拐的是老娘裤裆里钻进来的黑虼蚤。",
+      "sentence": "叶氏指责媳妇误解她的意思",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "我吃的珍珠扑翠花，谁叫你拨的豆面拨疙瘩。",
+      "sentence": "叶氏对豆面拨疙瘩感到愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "蹬掉桌子打掉碗，方盘子摔到当天院。",
+      "sentence": "叶氏愤怒地摔碎了碗和盘子",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "叫丫环，快来你给我煮白米，煮上一锅白米我吃上顿，美美的生一肚子蛆，我到明个早上了慢慢消停我再收拾啊你。",
+      "sentence": "叶氏命令丫环煮一锅白米",
+      "behavior_type": 11
+    },
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "叫丫环，快来你给我煮白米，煮上一锅白米我吃上顿，美美的生一肚子蛆，我到明个早上了慢慢消停我再收拾啊你。",
+      "sentence": "叶氏计划明天收拾丫环",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一夜五更休成眠，说到了第二天的清早上。",
+      "sentence": "一夜五更未能入睡",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "一夜五更休成眠，说到了第二天的清早上。",
+      "sentence": "第二天清晨到来",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "老婆婆的心肠那么狠，刺梅条子砍几捆，打马的皮鞭捋了十多根。",
+      "sentence": "叶氏心肠狠毒砍刺梅条子",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "老婆婆的心肠那么狠，刺梅条子砍几捆，打马的皮鞭捋了十多根。",
+      "sentence": "老婆婆捋了十多根打马鞭",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "黑醋舀了多半盆，盐末子砸了那么多半升。",
+      "sentence": "叶氏舀了黑醋并砸了盐末子",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "来是又到小房中，三把鞭子并一把，十根刺条并一根。",
+      "sentence": "叶氏将鞭子和刺条合并在一起",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "媳妇子的身袂歘了个尽，鞭子的个条子傢就下歹心。",
+      "sentence": "叶氏用鞭子抽打媳妇的身体",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "鞭子的个下去龙摆尾，条子的个下去呀虎翻身。",
+      "sentence": "叶氏用鞭子和刺条抽打媳妇",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "鞭子的个一打一个紫不绺，条子的个下去怎么血淋淋。",
+      "sentence": "鞭子抽打导致皮肤出现紫痕",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "鞭子的个一打一个紫不绺，条子的个下去怎么血淋淋。",
+      "sentence": "刺条抽打导致血液不断流出",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "鞭子条子本来没有一斤重，打到的个身上啊怎么有千斤。",
+      "sentence": "鞭打使人感到痛苦万分",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "打到前心里后心也疼，打到左边右边也疼。",
+      "sentence": "被打者感到全身疼痛难忍",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "打到前心好象掏掉心，打到后心好象打断了筋。",
+      "sentence": "被打者感到极度痛苦",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "浑身上打成一个血淋淋，盐未子撒上拿的黑醋喷，疼得那个媳妇儿直了声。",
+      "sentence": "媳妇儿因疼痛而发出惨叫",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "开言不把别的尊，忙忙把我的母亲啊就叫几声。",
+      "sentence": "开言不把别的尊叫母亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的老母亲啊，你就饶命饶命多饶命，留情留情你就多留情。",
+      "sentence": "媳妇请求母亲饶命留情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "就是你个打死我媳妇儿也是不要紧，气坏了你母亲又叫谁担承？",
+      "sentence": "叶氏因愤怒而打死媳妇儿",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "就是你个打死我媳妇儿也是不要紧，气坏了你母亲又叫谁担承？",
+      "sentence": "气坏母亲无人承担责任",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "打死了我媳妇，脚跟上的皮蜕掉一层儿一层儿起。",
+      "sentence": "叶氏将媳妇打得皮开肉绽",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "气坏你母亲是窗户纸，天阴下雨糊不住。",
+      "sentence": "叶氏婆婆生气导致身体不适",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "我的母亲，我的老母亲，打死我媳妇门前的柴，前月烧掉就后月来。",
+      "sentence": "叶氏打死媳妇门前的柴",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "我的母亲，我的老母亲，打死我媳妇门前的柴，前月烧掉就后月来。",
+      "sentence": "前月烧掉后月又再来",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "气坏了你母亲是山上的松啊，一斧头砍倒就不起身。",
+      "sentence": "叶氏的行为导致母亲气坏",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的老母亲，打死我媳妇是韭菜园，前道子割掉就后道子长。",
+      "sentence": "打死媳妇后韭菜园重新生长",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "气坏了你母亲是草上的霜啊，太阳一照就放了光。",
+      "sentence": "叶氏因愤怒而情绪失控",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "我的母亲啊，我的老母亲啊，就是我们媳妇子的年纪儿轻，母亲的这些茶饭么没有来学通。",
+      "sentence": "叶氏认为媳妇未能学会做饭",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "希望着你母亲给我说分明，我再给你母亲啊造现成，我的老母亲啊！",
+      "sentence": "希望母亲能够说明情况",
+      "behavior_type": ""
+    },
+    {
+      "role": "",
+      "original_sentence": "希望着你母亲给我说分明，我再给你母亲啊造现成，我的老母亲啊！",
+      "sentence": "我将为母亲准备现成",
+      "behavior_type": ""
+    },
+    {
+      "role": "",
+      "original_sentence": "希望着你母亲给我说分明，我再给你母亲啊造现成，我的老母亲啊！",
+      "sentence": "我的老母亲年纪已大",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "哎，母亲生来心肠狠，鞭条丢到地埃尘，手指贱人恨几声，我把你个狗贱人，我把你个狗杂种，娘家的门上把骆驼放，放猪放羊你理不断。",
+      "sentence": "叶氏愤怒地辱骂贱人",
+      "behavior_type": 2
+    },
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "哎，母亲生来心肠狠，鞭条丢到地埃尘，手指贱人恨几声，我把你个狗贱人，我把你个狗杂种，娘家的门上把骆驼放，放猪放羊你理不断。",
+      "sentence": "叶氏指责贱人放牧",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "你这个茶饭没有来学通，为娘的说给你你不懂啊。",
+      "sentence": "叶氏指责媳妇不懂烹饪技巧",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "等到一日我的那个王小林儿子转回家，巧言伶语给说白话，写上封休书把这个贱人休掉吧。",
+      "sentence": "王小林回家后巧言欺骗妻子",
+      "behavior_type": 7
+    },
+    {
+      "role": "王小林",
+      "original_sentence": "等到一日我的那个王小林儿子转回家，巧言伶语给说白话，写上封休书把这个贱人休掉吧。",
+      "sentence": "王小林写休书欲休掉妻子",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "马金花",
+      "original_sentence": "重说他一个会带钥匙子能当家，顶你这个两个马家丫头马金花。",
+      "sentence": "马金花能够持家且会管理钥匙",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "娘把话说分明，哎，打罢了来到书房中。",
+      "sentence": "叶氏将话语清晰地表达出来",
+      "behavior_type": 7
+    },
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "娘把话说分明，哎，打罢了来到书房中。",
+      "sentence": "叶氏完成打骂后前往书房",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "马金花",
+      "original_sentence": "媳妇来到小房中，浑身的疼痛怪难忍，爬到床边起不动身。",
+      "sentence": "马金花浑身疼痛难忍无法起身",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "竹叶青，状元红，花开两朵另表人。",
+      "sentence": "竹叶青和状元红花开两朵",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "此话不表别的人，一句话说到南学中。",
+      "sentence": "话题转移到南学中",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "再说读书的王小林，正爬在桌面上来判文，一阵阵心急眼跳了不成，心又慌，眼又跳，左眼烧了右眼烧，哎，不知我的家里遇下啥事了。",
+      "sentence": "王小林感到心慌眼跳不安",
+      "behavior_type": 2
+    },
+    {
+      "role": "王小林",
+      "original_sentence": "再说读书的王小林，正爬在桌面上来判文，一阵阵心急眼跳了不成，心又慌，眼又跳，左眼烧了右眼烧，哎，不知我的家里遇下啥事了。",
+      "sentence": "王小林担心家里出事了",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "师傅的面前告了个假，抱上了书本子快回家。",
+      "sentence": "王小林向师傅请假后匆忙回家",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "回来就到书房中，母亲的那个面前把礼行。",
+      "sentence": "王小林向母亲行礼问安",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "先问母亲么请示着好，再问了母亲可安宁。",
+      "sentence": "王小林向母亲请安并询问近况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "行罢问礼一坐定，开言就把母亲问。",
+      "sentence": "王小林向母亲行礼后询问情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "哎，叫母亲，可有大事在家中？",
+      "sentence": "王小林询问母亲家中是否有大事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你双眼掉泪为了啥事情？",
+      "sentence": "双眼掉泪是因为什么事情",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个当家族户得罪了你？",
+      "sentence": "询问母亲为何双眼掉泪",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个左邻右舍们难为了你？",
+      "sentence": "询问邻居是否为难了你",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "还是这个狗贱人妻子么冲撞了你？",
+      "sentence": "妻子是否冲撞了你",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你的冤话么给你的儿郎要说仔细。",
+      "sentence": "冤话要向儿郎仔细说明",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老的惹了你，我当还道罢，少的惹了你，我跳上蹦子骂死他。",
+      "sentence": "年长者冒犯你我会不计较",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "老的惹了你，我当还道罢，少的惹了你，我跳上蹦子骂死他。",
+      "sentence": "年幼者冒犯你我会痛骂他",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "当若是狗贱人妻儿冲撞了你，我今个抽了她的筋，剥了她的皮，一定给你母亲么出这口气。",
+      "sentence": "若是狗贱人妻儿冲撞了你",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "当若是狗贱人妻儿冲撞了你，我今个抽了她的筋，剥了她的皮，一定给你母亲么出这口气。",
+      "sentence": "我今个抽了她的筋剥了她的皮",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "当若是狗贱人妻儿冲撞了你，我今个抽了她的筋，剥了她的皮，一定给你母亲么出这口气。",
+      "sentence": "一定给你母亲出这口气",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "婆婆生来是个老妖精，巧言伶语说得凶。",
+      "sentence": "叶氏婆婆巧言伶语说话凶狠",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哟，我的小冤家，我的小冤家，当家族户也没有得罪我，左邻右舍也没有难为我。",
+      "sentence": "家族和邻居都没有得罪我",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "刚就是你的媳妇子在家中，为娘的说话永不听，活活地能行气死人。",
+      "sentence": "叶氏因媳妇不听她的话而愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "太阳不落睡下了，红日三杆起来了。",
+      "sentence": "太阳未落便已睡下",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "太阳不落睡下了，红日三杆起来了。",
+      "sentence": "红日高升方才起床",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "早上睡到大饭罢，白刷刷的毡上把床尿下。",
+      "sentence": "早上睡到大饭罢尿床",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "小冤家，你说叫我该骂不该骂？",
+      "sentence": "叶氏质问小冤家是否该骂",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "睡着晌午了才起来，头不梳，脬牛尾，脸不洗，赛锅底。",
+      "sentence": "她起床后未梳头未洗脸",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "脖子不洗赛车轴，脚不裹好象个骆驼蹄。",
+      "sentence": "脖子不洗显得非常肮脏",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "脖子不洗赛车轴，脚不裹好象个骆驼蹄。",
+      "sentence": "脚不裹看起来像骆驼蹄",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两手不洗是铫粪的叉，一天价闯了东家子捯西家。",
+      "sentence": "两手不洗整天东奔西走",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "裹脚头子捞上丈七八，踏断带子绾疙瘩。",
+      "sentence": "裹脚头子长度达到丈七八",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "小冤家，你说叫我该骂不该骂？",
+      "sentence": "询问对方是否应该被责备",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "串着这家子吃上些饭，串着那家子喝上些汤，偷嘴尿床都占全，剩饭陀罗压塌山。",
+      "sentence": "串门吃饭喝汤偷嘴尿床",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吃了饭，嘴一擦，蹲着屋里给你不干啥，热屁股拓到冷地下，长抻腿儿傢倒闲话。",
+      "sentence": "饭后擦嘴蹲在屋里无所事事",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "吃了饭，嘴一擦，蹲着屋里给你不干啥，热屁股拓到冷地下，长抻腿儿傢倒闲话。",
+      "sentence": "热屁股贴在冰冷的地面上",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "吃了饭，嘴一擦，蹲着屋里给你不干啥，热屁股拓到冷地下，长抻腿儿傢倒闲话。",
+      "sentence": "伸直腿儿闲聊打发时间",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "小冤家，你说叫我该骂不该骂？",
+      "sentence": "询问是否应该责骂小冤家",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "地不扫，等风刮，锅头上锈的是饭疙巴。",
+      "sentence": "地面未被清扫等待风吹",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "地不扫，等风刮，锅头上锈的是饭疙巴。",
+      "sentence": "锅头上锈迹斑斑饭疙巴",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "灶门上的灰堆不揽等着叫车往掉拉，勺子上也锈的是饭疙巴。",
+      "sentence": "灶门上的灰堆未被清理",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "灶门上的灰堆不揽等着叫车往掉拉，勺子上也锈的是饭疙巴。",
+      "sentence": "勺子上锈有饭疙巴",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "垢甲打着个门响哩，抺布子拧得个水淌哩。",
+      "sentence": "垢甲敲打着门发出响声",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "垢甲打着个门响哩，抺布子拧得个水淌哩。",
+      "sentence": "抹布被拧出水来流淌",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "抺布头子在肩膀上搭，胳捞洼里把筷子来擦咔。",
+      "sentence": "抹布搭在肩膀上擦拭筷子",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你说他邋遢不邋遢？",
+      "sentence": "他表现出非常邋遢的行为",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎我说邋遢真邋遢，时时刻刻我看着她，鼻子擤下来锅盖上擦，裤腰里把虱子摸下来案板上掐，你说她邋遢不邋遢？",
+      "sentence": "鼻子擤下来锅盖上擦",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "哎我说邋遢真邋遢，时时刻刻我看着她，鼻子擤下来锅盖上擦，裤腰里把虱子摸下来案板上掐，你说她邋遢不邋遢？",
+      "sentence": "裤腰里把虱子摸下来案板上掐",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "小冤家，你快把那个邋遢婆姨你休掉吧，休掉吧，早上休掉个穿红的，后晌就给我的娃娃说一个挂绿的。",
+      "sentence": "建议休掉邋遢的婆姨",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你若是休出去还倒罢！",
+      "sentence": "休出去后事情就结束了",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你不把那个邋遢婆姨你休出家，我么家里我不活它。",
+      "sentence": "要求休掉邋遢的妻子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我不是拿绳上吊就拿刀抺脖，不是投井就落河，我在你娃子的手里么不能活。",
+      "sentence": "她选择结束自己的生命",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "死了你老娘不要紧，惹下你的舅舅也歪得很。",
+      "sentence": "死亡不会带来严重后果",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "死了你老娘不要紧，惹下你的舅舅也歪得很。",
+      "sentence": "舅舅对此感到非常愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "惹下你的外爷爷不饶人，论官调法受恶刑。",
+      "sentence": "外爷爷不饶人论官调法",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "小林读书成了人，劳动冰公一双人，要给学生把亲来定。",
+      "sentence": "王小林通过读书成长为人",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "小林读书成了人，劳动冰公一双人，要给学生把亲来定。",
+      "sentence": "劳动冰公一双人定亲事",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "哎我这辈子打光棍也甘心，今个不能惹怒了我老母亲。",
+      "sentence": "王小林不愿惹怒自己的老母亲",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "走着来到了书房中，哗啦推开书箱柜。",
+      "sentence": "王小林走到书房推开书箱柜",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "左手拿过纸一张，右手里提了么笔一管。",
+      "sentence": "王小林左手拿纸右手提笔",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "手拿砚台把墨研上，哭哭流流我把休书写。",
+      "sentence": "王小林研墨准备写休书",
+      "behavior_type": 14
+    },
+    {
+      "role": "王小林",
+      "original_sentence": "手拿砚台把墨研上，哭哭流流我把休书写。",
+      "sentence": "王小林流着泪写休书",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "手拿的生活呀把墨掭，字字行行我写一番。",
+      "sentence": "王小林手持砚台研墨书写",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "马金花",
+      "original_sentence": "一休你马家女偷嘴尿床，二休你马家女子偷米转面。",
+      "sentence": "马金花被指责偷嘴尿床",
+      "behavior_type": 10
+    },
+    {
+      "role": "马金花",
+      "original_sentence": "一休你马家女偷嘴尿床，二休你马家女子偷米转面。",
+      "sentence": "马金花被指责偷米转面",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三休你马家女根子不正，四休你马家女勾魂恋人。",
+      "sentence": "三休马家女根子不正",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "三休你马家女根子不正，四休你马家女勾魂恋人。",
+      "sentence": "四休马家女勾魂恋人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "马金花",
+      "original_sentence": "五休你马家女不孝公婆，六休你马家女子不尊丈夫。",
+      "sentence": "马金花被指责不孝顺公婆",
+      "behavior_type": 10
+    },
+    {
+      "role": "马金花",
+      "original_sentence": "五休你马家女不孝公婆，六休你马家女子不尊丈夫。",
+      "sentence": "马金花被指责不尊重丈夫",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "七休你马家女脚斜鞋歪，八休你马家女说白道黑。",
+      "sentence": "马家女脚斜鞋歪行为不端",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "七休你马家女脚斜鞋歪，八休你马家女说白道黑。",
+      "sentence": "马家女说白道黑言语不实",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "九休你马家女不尊长上，十休你马家女子勾溜下的和尚。",
+      "sentence": "马家女不尊重长辈和上级",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "九休你马家女不尊长上，十休你马家女子勾溜下的和尚。",
+      "sentence": "马家女勾引和尚行为不端",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "写了休书整一封，小林上前就点上两盏灯。",
+      "sentence": "王小林上前点亮了两盏灯",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "照住那个灯盏我就拜三拜，历届的神仙们么请着出来。",
+      "sentence": "照住灯盏拜三拜请神仙出来",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我娶她只当是我的妻，马家女子才是旁人的。",
+      "sentence": "我娶她只当是我的妻子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "王小林赶着走来赶着行，提了休书来到小房门，咔嚓一脚踏开了小房门。",
+      "sentence": "王小林快步走向小房门",
+      "behavior_type": 4
+    },
+    {
+      "role": "王小林",
+      "original_sentence": "王小林赶着走来赶着行，提了休书来到小房门，咔嚓一脚踏开了小房门。",
+      "sentence": "王小林一脚踢开了小房门",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "妻子疼痛怪难忍，爬到床上么起不动身。",
+      "sentence": "妻子疼痛难忍无法起身",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "王小林一看怒气生，我把你个贱人狗杂种，挺到床边你是啥事情？",
+      "sentence": "王小林看到后感到非常愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "给你，这不叫你的休书，你头顶休书你滚出我的门。",
+      "sentence": "王小林命令对方带着休书离开",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "一条路儿两离分，你快你反穿罗裙你别嫁人，你在我的家里么站不成。",
+      "sentence": "王小林要求对方离开家门",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "我王小林等到读书我成了人，皇王的榜上我得了中，门缝子轧着轧着往里进，缺不了你这么一个狗杂种。",
+      "sentence": "王小林通过读书最终功成名就",
+      "behavior_type": 3
+    },
+    {
+      "role": "王小林",
+      "original_sentence": "我王小林等到读书我成了人，皇王的榜上我得了中，门缝子轧着轧着往里进，缺不了你这么一个狗杂种。",
+      "sentence": "王小林在皇榜上成功获得功名",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "我王小林等到读书我成了人，皇王的榜上我得了中，门缝子轧着轧着往里进，缺不了你这么一个狗杂种。",
+      "sentence": "门缝被轧着逐渐向内部推进",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "我王小林等到读书我成了人，皇王的榜上我得了中，门缝子轧着轧着往里进，缺不了你这么一个狗杂种。",
+      "sentence": "缺少你这样一个无用的人物",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夫人一见休书吓得么就啪拉拉颤，直股子的热泪怎么洒胸前。",
+      "sentence": "夫人见到休书感到非常恐惧",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "挣扎起来双膝跪到地埃尘，双手捉住丈夫的前捞襟，头抵着怀里怎么哭伤心。",
+      "sentence": "挣扎起来双膝跪到地埃尘",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "挣扎起来双膝跪到地埃尘，双手捉住丈夫的前捞襟，头抵着怀里怎么哭伤心。",
+      "sentence": "双手捉住丈夫的前捞襟",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "挣扎起来双膝跪到地埃尘，双手捉住丈夫的前捞襟，头抵着怀里怎么哭伤心。",
+      "sentence": "头抵着怀里怎么哭伤心",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "开言不把别的尊，忙把我的丈夫啊我就叫几声。",
+      "sentence": "开言不把别的尊",
+      "behavior_type": 7
+    },
+    {
+      "role": "王桂花",
+      "original_sentence": "开言不把别的尊，忙把我的丈夫啊我就叫几声。",
+      "sentence": "王桂花呼唤丈夫几声",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的夫郎君啊，你把我就丢下吧来，你就丢下吧，你把我丢到你的家廊中。",
+      "sentence": "你将我丢弃在你的家中",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "王桂花",
+      "original_sentence": "我给你丈夫提尿罐么，端尿盆，铺床叠被把你好侍奉，你总比寻上一个旁人总强几分。",
+      "sentence": "王桂花为丈夫提供日常照料服务",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "马金花",
+      "original_sentence": "你把我丢到你的家，掏灰扫地，浇粪压圈，缝衣做饭，端汤供水把你好侍奉，你总比寻上一个旁人强几分。",
+      "sentence": "马金花承诺为丈夫做家务",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的夫郎君，哎我的夫君啊。",
+      "sentence": "妻子呼唤丈夫表达深情",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你就三房两妻你只管里娶，把我了丢到你的家里我给你当奴使。",
+      "sentence": "三房两妻只管娶",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "红绫被儿象牙床，你们来了共安眠。",
+      "sentence": "红绫被儿与象牙床共安眠",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我在那个马棚底下铺麦草，我也情愿。",
+      "sentence": "马棚底下铺麦草也情愿",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "好茶美饭做上你们来了尝，那个残汤剩饭丢下我就充饥寒。",
+      "sentence": "好茶美饭供他人享用",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "好茶美饭做上你们来了尝，那个残汤剩饭丢下我就充饥寒。",
+      "sentence": "残汤剩饭留给自己充饥",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的夫郎君啊！",
+      "sentence": "说话者称呼她的夫郎君",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "绫罗绸缎来了你们择着穿，那个褐褐毯毯丢下我遮冷寒。",
+      "sentence": "绫罗绸缎供你们选择穿着",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "绫罗绸缎来了你们择着穿，那个褐褐毯毯丢下我遮冷寒。",
+      "sentence": "褐褐毯毯留给我抵御寒冷",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的夫君郎啊！",
+      "sentence": "我的夫君郎啊",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吃饭就要吃家常的饭，穿衣去要穿粗布衣，要妻要要个贤良的妻，我的丈夫啊。",
+      "sentence": "吃饭要选择家常便饭",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "吃饭就要吃家常的饭，穿衣去要穿粗布衣，要妻要要个贤良的妻，我的丈夫啊。",
+      "sentence": "穿衣要选择粗布衣服",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "吃饭就要吃家常的饭，穿衣去要穿粗布衣，要妻要要个贤良的妻，我的丈夫啊。",
+      "sentence": "娶妻要选择贤良之人",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "家常饭吃上饱哩，粗布衣穿者老哩，贤良妻要上好哩呀，哎……娶过门不到一月整，夫妻们就没有脸儿红啊，你在学里读五经，家里我犯下了啥罪行？",
+      "sentence": "家常饭吃得饱粗布衣穿得老",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "家常饭吃上饱哩，粗布衣穿者老哩，贤良妻要上好哩呀，哎……娶过门不到一月整，夫妻们就没有脸儿红啊，你在学里读五经，家里我犯下了啥罪行？",
+      "sentence": "贤良妻娶得好夫妻没红过脸",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "家常饭吃上饱哩，粗布衣穿者老哩，贤良妻要上好哩呀，哎……娶过门不到一月整，夫妻们就没有脸儿红啊，你在学里读五经，家里我犯下了啥罪行？",
+      "sentence": "丈夫读书妻子不知犯了何罪",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪些没有把你丈夫伺奉到？",
+      "sentence": "询问是否未将丈夫伺奉好",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "鹞子跟上鹰飞了，哪些把你丈夫的心亏了。",
+      "sentence": "鹞子跟随鹰飞走了",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "鹞子跟上鹰飞了，哪些把你丈夫的心亏了。",
+      "sentence": "哪些亏待了丈夫的心",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "啊，我的夫君郎哎啊。",
+      "sentence": "我的夫君郎啊",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你就不看经面看佛面，不看前面看后面。",
+      "sentence": "不看经面也要看佛面",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不看左边看右边，不念鱼情你把水情念。",
+      "sentence": "不看左边看右边不念鱼情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "再不了念起个再的了，你念起我们一夜夫妻百夜的恩啊，百夜的个夫妻如海深，我的夫君郎啊。",
+      "sentence": "再不了念起个再的了",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "再不了念起个再的了，你念起我们一夜夫妻百夜的恩啊，百夜的个夫妻如海深，我的夫君郎啊。",
+      "sentence": "你念起我们一夜夫妻百夜的恩",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "再不了念起个再的了，你念起我们一夜夫妻百夜的恩啊，百夜的个夫妻如海深，我的夫君郎啊。",
+      "sentence": "百夜的个夫妻如海深",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "夫人跪前跪后，跪左跪右，苦苦哀告，好话说了多和少，哭着给小林心软了。",
+      "sentence": "王小林被夫人的哀求打动心软",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "小林扑通坐到了小房炕，脸挨墙皮儿暗思想：就说的娶过门不到一月整，我的母亲要把我好好夫妻两离分，有心不把妻子休出门，母亲给我家里闯祸行。",
+      "sentence": "王小林坐在炕上思考母亲的决定",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "有心把妻子休出门，就说的，偷了米了么转了面吧，没有转下个米捎连面褡褡，就说的勾搭了旁人了吧，没有抹下个帽子脱下个鞋。",
+      "sentence": "王小林考虑是否将妻子休出门",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "有心把妻子休出门，就说的，偷了米了么转了面吧，没有转下个米捎连面褡褡，就说的勾搭了旁人了吧，没有抹下个帽子脱下个鞋。",
+      "sentence": "没有偷米也没有转面",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "有心把妻子休出门，就说的，偷了米了么转了面吧，没有转下个米捎连面褡褡，就说的勾搭了旁人了吧，没有抹下个帽子脱下个鞋。",
+      "sentence": "没有勾搭旁人也没有脱鞋",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "没有挤到屋里，没有证据，只是难办。",
+      "sentence": "没有证据导致事情难以处理",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "也不说王小林作难辞色，哎，就有干活的人哩。",
+      "sentence": "王小林感到十分为难",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "也不说王小林作难辞色，哎，就有干活的人哩。",
+      "sentence": "有人正在干活",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "王桂花",
+      "original_sentence": "她嫂子哭着不要紧，一声哭得太高了，惊动楼上的王桂花贤德小姑听着了。",
+      "sentence": "王桂花听到哭声后有所察觉",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "王桂花",
+      "original_sentence": "耳听嫂嫂动哭声，今个的这个母亲又拷打着嫂子又是啥事情？",
+      "sentence": "王桂花听到嫂嫂的哭声",
+      "behavior_type": 6
+    },
+    {
+      "role": "王桂花",
+      "original_sentence": "耳听嫂嫂动哭声，今个的这个母亲又拷打着嫂子又是啥事情？",
+      "sentence": "王桂花思考母亲的行为",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "王桂花",
+      "original_sentence": "针线活撂在了高楼中，甩开腿子我下楼厅。",
+      "sentence": "王桂花放下针线活快速下楼",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "王桂花",
+      "original_sentence": "桂花么来到了小房的中，一脚踏进了小房门，看见旁边站的是老母亲，哎，观见哥哥坐床边，嫂子跪到地下哭的泪涟涟，地下搁着怎么纸一张。",
+      "sentence": "王桂花走进房间看见母亲",
+      "behavior_type": 4
+    },
+    {
+      "role": "王小林",
+      "original_sentence": "桂花么来到了小房的中，一脚踏进了小房门，看见旁边站的是老母亲，哎，观见哥哥坐床边，嫂子跪到地下哭的泪涟涟，地下搁着怎么纸一张。",
+      "sentence": "王小林坐在床边沉默不语",
+      "behavior_type": 12
+    },
+    {
+      "role": "马金花",
+      "original_sentence": "桂花么来到了小房的中，一脚踏进了小房门，看见旁边站的是老母亲，哎，观见哥哥坐床边，嫂子跪到地下哭的泪涟涟，地下搁着怎么纸一张。",
+      "sentence": "马金花跪在地上哭泣不止",
+      "behavior_type": 2
+    },
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "桂花么来到了小房的中，一脚踏进了小房门，看见旁边站的是老母亲，哎，观见哥哥坐床边，嫂子跪到地下哭的泪涟涟，地下搁着怎么纸一张。",
+      "sentence": "叶氏站在旁边冷眼旁观",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "王桂花",
+      "original_sentence": "拿着起来细细看，才写下的休书整一封，写的都是这个假事情。",
+      "sentence": "王桂花拿起休书仔细查看",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王桂花",
+      "original_sentence": "噌噌噌扯成碎纷纷，丢着火里给他化灰尘。",
+      "sentence": "王桂花将休书撕碎并丢入火中",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "回来给哥哥把礼行，叫哥哥，嫂嫂本是个新娶的。",
+      "sentence": "王小林向哥哥行礼并说明情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王桂花",
+      "original_sentence": "嫂嫂做了几碗好茶饭，今个你逼住叫嫂嫂跪到地下哭哭流流为哪般？",
+      "sentence": "王桂花质问哥哥为何逼嫂嫂下跪",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哥哥这里不好说，母亲的上前就接上。",
+      "sentence": "哥哥在此处难以启齿",
+      "behavior_type": 7
+    },
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "哥哥这里不好说，母亲的上前就接上。",
+      "sentence": "母亲立即上前接话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "哟，我的小冤家，我说把这个狗贱人嫂子休掉吧！",
+      "sentence": "叶氏要求将嫂子休掉",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吃了饭锅不洗，锅搁下叫你娃娃洗，她怎么跑上串门去。",
+      "sentence": "饭后未洗锅便搁置一旁",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "吃了饭锅不洗，锅搁下叫你娃娃洗，她怎么跑上串门去。",
+      "sentence": "孩子未洗锅便外出串门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "原把原饭端到书房里去，说，母亲，你来，你的女儿做下的你尝一尝，她端起饭，哎，尝一尝，我的姑娘就是人又俊，手儿巧，做下的茶饭就是好。",
+      "sentence": "叶氏将饭端到书房让母亲品尝",
+      "behavior_type": 7
+    },
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "原把原饭端到书房里去，说，母亲，你来，你的女儿做下的你尝一尝，她端起饭，哎，尝一尝，我的姑娘就是人又俊，手儿巧，做下的茶饭就是好。",
+      "sentence": "叶氏称赞女儿手艺非常出色",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "嫂嫂生来年纪儿轻，骨头儿嫩，前月傢才娶过门。",
+      "sentence": "嫂嫂年纪轻轻骨头嫩",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "时时想的是娘家人，串上几个门来人熟悉，人熟了就不想娘家了。",
+      "sentence": "时常想念娘家的人",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "时时想的是娘家人，串上几个门来人熟悉，人熟了就不想娘家了。",
+      "sentence": "串门是为了熟悉他人",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "时时想的是娘家人，串上几个门来人熟悉，人熟了就不想娘家了。",
+      "sentence": "熟悉后不再想念娘家",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哟哟哟！",
+      "sentence": "",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的这个喂狗的，喂狼的，害瘟的，害癀的，碱水缸里歇凉的，你怎么不向着我母亲说，向着你的嫂子说着些啥事情？",
+      "sentence": "他为何不向着母亲说话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "对对对，母亲，母亲，向着你说，向着你说。",
+      "sentence": "母亲向着你说了一些话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我问你我今年个十几了？",
+      "sentence": "询问对方自己今年十几岁",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "刚就十六了么。",
+      "sentence": "年龄刚满十六岁",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我明年个十几了？",
+      "sentence": "询问自己明年年龄是多少",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不知道！",
+      "sentence": "对方表示不知道此事",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，糊涂了，糊涂了，我今年十七了。",
+      "sentence": "说话者表示自己今年十七岁",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我向着你母亲说着为咋家，你的家里有人的，人的家里就有你的，我明年一十八岁，一十八你就把我许婆家。",
+      "sentence": "我向你母亲说明家庭情况",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "我向着你母亲说着为咋家，你的家里有人的，人的家里就有你的，我明年一十八岁，一十八你就把我许婆家。",
+      "sentence": "你的家里有家庭成员存在",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "我向着你母亲说着为咋家，你的家里有人的，人的家里就有你的，我明年一十八岁，一十八你就把我许婆家。",
+      "sentence": "家庭成员家里也有你存在",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "我向着你母亲说着为咋家，你的家里有人的，人的家里就有你的，我明年一十八岁，一十八你就把我许婆家。",
+      "sentence": "我明年将会年满十八周岁",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "我向着你母亲说着为咋家，你的家里有人的，人的家里就有你的，我明年一十八岁，一十八你就把我许婆家。",
+      "sentence": "十八岁时你将为我找婆家",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "如果去遇上个善公善婆了还倒罢，如果去遇上个公公恶阎罗，如果去遇上个婆婆学了你这个样儿的恶结果，叫人家把我打着撵上来，你再给傢驮着送上去，你的这个老脸往哪里入？",
+      "sentence": "遇到恶公婆会遭受虐待",
+      "behavior_type": 2
+    },
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "如果去遇上个善公善婆了还倒罢，如果去遇上个公公恶阎罗，如果去遇上个婆婆学了你这个样儿的恶结果，叫人家把我打着撵上来，你再给傢驮着送上去，你的这个老脸往哪里入？",
+      "sentence": "婆婆的行为会导致不良后果",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "如果去遇上个善公善婆了还倒罢，如果去遇上个公公恶阎罗，如果去遇上个婆婆学了你这个样儿的恶结果，叫人家把我打着撵上来，你再给傢驮着送上去，你的这个老脸往哪里入？",
+      "sentence": "被打后会被送回原处",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，叫哥哥，好好给傢连嫂嫂过去吧。",
+      "sentence": "哥哥和嫂嫂一起过去吧",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你若听了我妹子的话，你要把嫂嫂丢在家。",
+      "sentence": "你听了妹子的话要把嫂嫂丢在家",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你若不听我妹子的话，休了你把嫂子休掉吧！",
+      "sentence": "你若不听劝告就休掉嫂子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你若把嫂嫂丢在家还倒罢，你今个若果把嫂子休出家，把你光棍当一个八十八，谁家的丫头子叫你说？",
+      "sentence": "你若把嫂嫂丢在家还倒罢",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "你若把嫂嫂丢在家还倒罢，你今个若果把嫂子休出家，把你光棍当一个八十八，谁家的丫头子叫你说？",
+      "sentence": "你今个若果把嫂子休出家",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "你若把嫂嫂丢在家还倒罢，你今个若果把嫂子休出家，把你光棍当一个八十八，谁家的丫头子叫你说？",
+      "sentence": "把你光棍当一个八十八",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "你若把嫂嫂丢在家还倒罢，你今个若果把嫂子休出家，把你光棍当一个八十八，谁家的丫头子叫你说？",
+      "sentence": "谁家的丫头子叫你说",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "谁家的寡妇子去嫁你？",
+      "sentence": "没有人愿意嫁给一个光棍",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "鼓在屋里响，响声在外传。",
+      "sentence": "鼓声在屋内响起并传到外面",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "哎，母亲做事就理不端，时时步步想着连嫂子寻蛆惹祸端。",
+      "sentence": "叶氏总是故意找茬惹事端",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "第一次，嫂子来扫院，前院后院打扫得清清凉净把水洒上，母亲她上前又去看一遍，她骂着：狗贱人，狗杂种，不细心，扫下的院子是驴毬画门神，手提皮鞭劈头架脑把嫂子打一顿。",
+      "sentence": "叶氏用皮鞭殴打嫂子",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我实在我看着心里痛，把那个母亲搡者圈在书房里。",
+      "sentence": "将母亲推入书房中",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我说她扫得不好我来扫，将没有搭给一扫帚，也没有搭给一笤帚，也没有洒上个水珠儿。",
+      "sentence": "未进行清扫且未洒水",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我说，来母亲开开门你看，你的姑娘扫下得怎么样？",
+      "sentence": "姑娘询问母亲对打扫的评价",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "她怎么说来，哟，我的桂花姑娘人细心，手儿巧，扫下的院子就是好么。",
+      "sentence": "叶氏称赞王桂花扫院细心",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "第二次，嫂子做下的好茶饭，端到书房里她不尝，她说的啥：呸！",
+      "sentence": "叶氏拒绝品尝嫂子做的茶饭",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "蒸锅水味道，污水气，这个饭我没心吃。",
+      "sentence": "叶氏嫌弃饭菜味道难闻",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "王桂花",
+      "original_sentence": "啊，我一看怪着气，对，你没心吃，我这个狗贱人嫂子，做下的这个猪汤狗食我都没心用，我来给你母亲做一顿。",
+      "sentence": "王桂花对嫂子做的饭感到愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "王桂花",
+      "original_sentence": "啊，我一看怪着气，对，你没心吃，我这个狗贱人嫂子，做下的这个猪汤狗食我都没心用，我来给你母亲做一顿。",
+      "sentence": "王桂花拒绝食用嫂子做的饭",
+      "behavior_type": 11
+    },
+    {
+      "role": "王桂花",
+      "original_sentence": "啊，我一看怪着气，对，你没心吃，我这个狗贱人嫂子，做下的这个猪汤狗食我都没心用，我来给你母亲做一顿。",
+      "sentence": "王桂花决定亲自为母亲做饭",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "我原把她圈到书房里，害怕她跟上伙房里去，我原把那个饭端到伙房里，也没有加些盐，也没有加些醋。",
+      "sentence": "叶氏将饭端到伙房并未调味",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "啊，老母亲，吃了饭，锅不洗，锅搁下，我来洗，我说给叫嫂子串门去。",
+      "sentence": "母亲吃完饭没有洗锅",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "啊，老母亲，吃了饭，锅不洗，锅搁下，我来洗，我说给叫嫂子串门去。",
+      "sentence": "母亲将锅搁下让我洗",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "啊，老母亲，吃了饭，锅不洗，锅搁下，我来洗，我说给叫嫂子串门去。",
+      "sentence": "我告诉嫂子去串门",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "双手端起饭，呼噜呼噜喝给了那么五六碗。",
+      "sentence": "双手端起饭并快速喝下",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "说是哥哥，你说叫你在着怎么办?王小林听来听去看来看去,叫妹子把母亲说着她做下的实事情，哎呀，回来给妹妹把礼行，叫妹妹：就是吧，就是吧，我今个要听你妹子的话，我要把妻子么留在家，我么学里读五经，五经四书来读通，皇王的榜上得了中，好好把你妹妹谢落着封一封。",
+      "sentence": "王小林告诉妹妹要听从她的话",
+      "behavior_type": 7
+    },
+    {
+      "role": "王小林",
+      "original_sentence": "说是哥哥，你说叫你在着怎么办?王小林听来听去看来看去,叫妹子把母亲说着她做下的实事情，哎呀，回来给妹妹把礼行，叫妹妹：就是吧，就是吧，我今个要听你妹子的话，我要把妻子么留在家，我么学里读五经，五经四书来读通，皇王的榜上得了中，好好把你妹妹谢落着封一封。",
+      "sentence": "王小林决定将妻子留在家中",
+      "behavior_type": 5
+    },
+    {
+      "role": "王小林",
+      "original_sentence": "说是哥哥，你说叫你在着怎么办?王小林听来听去看来看去,叫妹子把母亲说着她做下的实事情，哎呀，回来给妹妹把礼行，叫妹妹：就是吧，就是吧，我今个要听你妹子的话，我要把妻子么留在家，我么学里读五经，五经四书来读通，皇王的榜上得了中，好好把你妹妹谢落着封一封。",
+      "sentence": "王小林计划学习五经四书",
+      "behavior_type": 14
+    },
+    {
+      "role": "王小林",
+      "original_sentence": "说是哥哥，你说叫你在着怎么办?王小林听来听去看来看去,叫妹子把母亲说着她做下的实事情，哎呀，回来给妹妹把礼行，叫妹妹：就是吧，就是吧，我今个要听你妹子的话，我要把妻子么留在家，我么学里读五经，五经四书来读通，皇王的榜上得了中，好好把你妹妹谢落着封一封。",
+      "sentence": "王小林希望皇榜得中后感谢妹妹",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "你知道母亲的性格，你喊着叫你嫂嫂好好伺奉老母亲，再不了惹怒了老母亲，我么上学读五经。",
+      "sentence": "王小林要求嫂嫂好好侍奉母亲",
+      "behavior_type": 7
+    },
+    {
+      "role": "王小林",
+      "original_sentence": "你知道母亲的性格，你喊着叫你嫂嫂好好伺奉老母亲，再不了惹怒了老母亲，我么上学读五经。",
+      "sentence": "王小林决定上学攻读五经",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "王小林上学把书念，王桂花把嫂子领到高楼上，给我的嫂嫂教茶饭。",
+      "sentence": "王小林前往学校读书学习",
+      "behavior_type": 10
+    },
+    {
+      "role": "王桂花",
+      "original_sentence": "王小林上学把书念，王桂花把嫂子领到高楼上，给我的嫂嫂教茶饭。",
+      "sentence": "王桂花教导嫂子学习烹饪",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王桂花",
+      "original_sentence": "哎，叫声嫂嫂听我言，听我给你就说茶饭，你么就句句字字你记心上。",
+      "sentence": "王桂花教导嫂嫂学习烹饪技巧",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王桂花",
+      "original_sentence": "吃你的个珍珠扑翠花，珍子下上了调葱花，碎碎切些斜花面，油盐酱醋你调周全，珍子面旗儿往上端，那就叫珍珠扑翠花。",
+      "sentence": "王桂花教导嫂嫂制作珍珠扑翠花",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "王桂花",
+      "original_sentence": "吃你的鱼儿么乱钻沙，把那个黄米么滚成个沙枣花。",
+      "sentence": "王桂花教嫂子制作鱼儿乱钻沙",
+      "behavior_type": 11
+    },
+    {
+      "role": "王桂花",
+      "original_sentence": "吃你的鱼儿么乱钻沙，把那个黄米么滚成个沙枣花。",
+      "sentence": "王桂花教嫂子制作黄米沙枣花",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "王桂花",
+      "original_sentence": "风干馍馍给他来泡下，那就叫鱼儿乱钻沙。",
+      "sentence": "王桂花用风干馍馍泡制食物",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "王桂花",
+      "original_sentence": "吃你的猴儿么倒上杆，黄米汤锅里你下挂面。",
+      "sentence": "王桂花教导嫂子制作黄米挂面",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "黄米子爬到挂面上，那就叫猴儿倒上杆。",
+      "sentence": "黄米子被放入挂面中",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吃你的蜘蛛来吊线，黄米稠饭来做上，木耳醒上把菜炒上，清油辣子给他来泼上，黄米稠饭端两碗，那就叫个蜘蛛来吊线。",
+      "sentence": "黄米稠饭端上桌",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吃你的针扎荷包配丝线，鸡蛋打上下挂面，挂面子驮到了鸡蛋上，那就叫个针扎荷包配丝线。",
+      "sentence": "鸡蛋挂面搭配针扎荷包丝线",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吃你的精肚儿雀儿子过棉毡，芽麦子煮上把炒面拌，那就叫精肚儿雀儿子过棉毡。",
+      "sentence": "芽麦子煮上后拌入炒面",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吃你的黑驴子翻滚不见面，山药萝卜麻腐拌，几个水饺子端两碗，那就叫黑驴子翻滚不见面。",
+      "sentence": "黑驴子翻滚不见面",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吃你的空壳郎拌面汤，十冬腊月才能做上。",
+      "sentence": "空壳郎拌面汤在十冬腊月制作",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十冬腊月的天气寒，你把冰块子抱到案板上。",
+      "sentence": "十冬腊月天气寒冷抱冰块到案板",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一刀两剁，剁成个碎纷纷了把面缠上，下着那个锅里的冰化掉，那就叫个空壳郎拌面汤。",
+      "sentence": "将面剁碎后缠上下锅煮",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要吃你的癞蛤蟆钻淄泥，珍子稠饭给他攮馍馍，那就叫个癞蛤蟆钻淄泥。",
+      "sentence": "癞蛤蟆钻淄泥与珍子稠饭搭配",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吃你的个红嘴绿毛饭，山药么切成个剪剪儿，你把那个葫萝卜切成个片片儿，小菠菜儿给他连根根子来调上，油盐酱醋调齐全，素烩菜给她端一碗，这就叫个红嘴绿毛饭。",
+      "sentence": "红嘴绿毛饭由多种蔬菜制成",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吃你的关老爷骑马不踩镫的好茶饭，那个捋面捋上给她往上端，那就叫个关老爷骑马不踩镫的好茶饭。",
+      "sentence": "吃关老爷骑马不踩镫的好茶饭",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吃你的刽子手上炕鳖跳崖的好茶饭，羊肉切碎滚了汤，细细儿的那个长面来擀上。",
+      "sentence": "将羊肉切碎滚汤并擀制长面",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "羊肉臊子来浇面，筷子一绕面往上，羊肉疙珍它就往下钻，那就叫个刽子手上炕鳖跳崖的好茶饭。",
+      "sentence": "羊肉臊子浇在面条上",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吃你的个手拉羊皮的饭，白面倒到案板上，擀薄了不要用切刀，锅里你就把汤炝上。",
+      "sentence": "白面被擀薄后放入锅中煮",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "油盐酱醋调齐全，下带了你缠到那个擀杖上。",
+      "sentence": "油盐酱醋已经调配齐全",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "油盐酱醋调齐全，下带了你缠到那个擀杖上。",
+      "sentence": "将面团缠绕在擀面杖上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大一片，小一片，大片子小片子你手撕上，那就叫个手拉羊皮饭。",
+      "sentence": "手撕大片小片制作羊皮饭",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吃你的茕茕儿饭，山药葫萝卜把黑面掺，清油炼滚来浇上，那就把拨拉子端一碗，那就叫个茕茕儿饭。",
+      "sentence": "山药胡萝卜掺黑面制成拨拉子",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要吃你的筒筒子菜柳叶儿面，碎碎切些斜花面，当年葱秧子长调上，中面旗儿往上端，那就叫筒筒子菜柳叶儿面。",
+      "sentence": "制作筒筒子菜柳叶儿面",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吃你的秃葫芦顶方砖，麦仁慢慢来煮烂，随后下些方块子面。",
+      "sentence": "麦仁煮烂后加入方块子面",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "方块子顶着麦仁上，那就叫秃葫芦顶方砖。",
+      "sentence": "方块子面覆盖在麦仁上",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "样样儿的茶饭教齐全，吩咐嫂子下厨房。",
+      "sentence": "教授了多种茶饭的制作方法",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "样样儿的茶饭教齐全，吩咐嫂子下厨房。",
+      "sentence": "指示嫂子前往厨房准备食物",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "看她母亲要着吃的什么饭，你有什么做不上，你来把小姑儿问一遍。",
+      "sentence": "询问小姑关于做饭的事情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "此话说的不要紧，王小林在学读五经。",
+      "sentence": "王小林正在学习五经",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "皇王爷开了科场门，邀着叫举子们要上京。",
+      "sentence": "皇王爷开启科场邀请举子们",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "王小林上京么盼功名，举子们调在学院中。",
+      "sentence": "王小林前往京城追求功名",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "王小林上京么盼功名，举子们调在学院中。",
+      "sentence": "举子们被安排在学院中",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "文才好的造文章，武艺高的下校场。",
+      "sentence": "文才好的举子们撰写文章",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "文才好的造文章，武艺高的下校场。",
+      "sentence": "武艺高的举子们前往校场",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "文一场，武一场，文武三场下了三百六十个众学生。",
+      "sentence": "众多学生参加文武三场考试",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "再没有取上别的人，取上了公子王小林。",
+      "sentence": "王小林被选中成为唯一录取者",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "插花状元是头一名，正宫娘娘来插花。",
+      "sentence": "正宫娘娘为状元插花",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "百子百宫来插花，插花银子么一千两。",
+      "sentence": "百子百宫参与插花活动",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "百子百宫来插花，插花银子么一千两。",
+      "sentence": "插花银子共计一千两",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "头戴了乌纱帽，身穿了状元袍。",
+      "sentence": "王小林头戴乌纱帽身穿状元袍",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "正宫娘娘给插金花，待插花着开言问，叫声了状元王学生，你家里再是什么人，家里行下了什么阴功积下了什么德，年轻骨嫩你中状元？",
+      "sentence": "正宫娘娘询问状元家庭情况",
+      "behavior_type": 7
+    },
+    {
+      "role": "王小林",
+      "original_sentence": "正宫娘娘给插金花，待插花着开言问，叫声了状元王学生，你家里再是什么人，家里行下了什么阴功积下了什么德，年轻骨嫩你中状元？",
+      "sentence": "正宫娘娘询问王小林家庭情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "回来给娘娘把礼行，叫娘娘：家里有我的老双亲，再有我的贤德妹妹王桂花，有我的那聪明伶俐的妻子叫个马金花，我把那个金花娶到我家乡，傢婆媳二个不投缘。",
+      "sentence": "王小林向娘娘介绍家中成员",
+      "behavior_type": 7
+    },
+    {
+      "role": "王桂花",
+      "original_sentence": "回来给娘娘把礼行，叫娘娘：家里有我的老双亲，再有我的贤德妹妹王桂花，有我的那聪明伶俐的妻子叫个马金花，我把那个金花娶到我家乡，傢婆媳二个不投缘。",
+      "sentence": "王桂花是王小林的贤德妹妹",
+      "behavior_type": 8
+    },
+    {
+      "role": "马金花",
+      "original_sentence": "回来给娘娘把礼行，叫娘娘：家里有我的老双亲，再有我的贤德妹妹王桂花，有我的那聪明伶俐的妻子叫个马金花，我把那个金花娶到我家乡，傢婆媳二个不投缘。",
+      "sentence": "马金花是王小林的聪明妻子",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "回来给娘娘把礼行，叫娘娘：家里有我的老双亲，再有我的贤德妹妹王桂花，有我的那聪明伶俐的妻子叫个马金花，我把那个金花娶到我家乡，傢婆媳二个不投缘。",
+      "sentence": "婆媳二人关系不和睦",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "叶氏（婆婆）",
+      "original_sentence": "我的母亲一天就在家里胡吵嚷，吵嚷者要叫我把妻子要休出门。",
+      "sentence": "叶氏在家中不断吵闹要求休妻",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王桂花",
+      "original_sentence": "我已经把休书都写现成，那个桂花小姑贤德人，骂了我哥哥劝母亲，劝着我把个妻子留在家廊中。",
+      "sentence": "王桂花劝哥哥留下妻子",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "我已经把休书都写现成，那个桂花小姑贤德人，骂了我哥哥劝母亲，劝着我把个妻子留在家廊中。",
+      "sentence": "休书已经准备完毕",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "马金花",
+      "original_sentence": "我们夫妻双双得相逢，何必有点阴功叫我把状元中。",
+      "sentence": "马金花与丈夫相逢感到欣慰",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人人曾说个个讲，休前妻，没饭吃，休了妻子的没有好的路，休了妻子断了路，等到老了就没好处。",
+      "sentence": "休妻者将面临生活困境",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "言罢话说起，一定把你爹妈封一封。",
+      "sentence": "言罢话说起要封赏爹妈",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人到老来没处封，爹妈封进养老宫，养老宫里受皇恩。",
+      "sentence": "人到老年无处可封",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "人到老来没处封，爹妈封进养老宫，养老宫里受皇恩。",
+      "sentence": "父母被封进养老宫",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "人到老来没处封，爹妈封进养老宫，养老宫里受皇恩。",
+      "sentence": "养老宫中享受皇恩",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "日供米，月供面，每年的仓麦子十八石。",
+      "sentence": "每年提供十八石仓麦子",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "麦子茶钱银子六两三，衣裳烂了在朝里换。",
+      "sentence": "麦子茶钱银子共有六两三",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "麦子茶钱银子六两三，衣裳烂了在朝里换。",
+      "sentence": "衣裳烂了可以在朝里更换",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "马金花",
+      "original_sentence": "再把这个马金花及王桂花宣到了金殿中，马金花听我封，状元太太，封到了南京城。",
+      "sentence": "马金花被宣到金殿听封",
+      "behavior_type": 7
+    },
+    {
+      "role": "王桂花",
+      "original_sentence": "再把这个马金花及王桂花宣到了金殿中，马金花听我封，状元太太，封到了南京城。",
+      "sentence": "王桂花被宣到金殿听封",
+      "behavior_type": 7
+    },
+    {
+      "role": "马金花",
+      "original_sentence": "再把这个马金花及王桂花宣到了金殿中，马金花听我封，状元太太，封到了南京城。",
+      "sentence": "马金花被封为状元太太",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "女中堂里我坐不稳，再把你的娘家门府封一封。",
+      "sentence": "女中堂里坐不稳需封娘家门府",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "妈妈养下的贤良好姑娘，一块金匾挂到娘家门。",
+      "sentence": "一块金匾被挂在娘家门上",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "马金花",
+      "original_sentence": "封了妈妈家养马不当差，种地不上粮。",
+      "sentence": "马金花被封为状元太太",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "封了妈妈家养马不当差，种地不上粮。",
+      "sentence": "妈妈家养马无需当差",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "挑河垒坝都不管，自种自吃乐安然。",
+      "sentence": "挑河垒坝都不管自种自吃",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "王桂花",
+      "original_sentence": "桂花姑娘听我封，劝了你哥哥的功劳重，封你昭阳做正宫。",
+      "sentence": "王桂花听到被封为昭阳正宫",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王桂花",
+      "original_sentence": "珠冠霞帔头上戴，凤凰络衣披身前，做了正宫女娘娘。",
+      "sentence": "王桂花穿戴珠冠霞帔和凤凰络衣",
+      "behavior_type": 4
+    },
+    {
+      "role": "王桂花",
+      "original_sentence": "珠冠霞帔头上戴，凤凰络衣披身前，做了正宫女娘娘。",
+      "sentence": "王桂花成为正宫女娘娘",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "贵人几个往前送，送到家里檀香祭祖。",
+      "sentence": "贵人将祭品送到家中进行祭祖",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "州官送的州官送，县官送的县官送。",
+      "sentence": "州官和县官分别进行护送",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "州官送着八十里，县官送着一百二。",
+      "sentence": "州官送行距离达到八十里",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "州官送着八十里，县官送着一百二。",
+      "sentence": "县官送行距离达到一百二",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "清水洒街黄土垫，黄土垫着二寸半。",
+      "sentence": "清水洒街黄土垫二寸半",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "红绿彩纸挂得凶，蓝布围子围得硬。",
+      "sentence": "红绿彩纸被挂得十分显眼",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "红绿彩纸挂得凶，蓝布围子围得硬。",
+      "sentence": "蓝布围子被围得非常牢固",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "咚咚鼓，啪啪锣，半截子喇叭往嘴里挈，喧天鼓乐地回家中。",
+      "sentence": "鼓乐喧天地回到家中",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "有钱的说话么高声叫，穷汉人说话吓一跳。",
+      "sentence": "有钱人说话声音特别大",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "有钱的说话么高声叫，穷汉人说话吓一跳。",
+      "sentence": "穷人说话让人感到害怕",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "骆驼虽大毛绳套，狗娃子虽小铁绳套。",
+      "sentence": "骆驼和狗娃子都被绳子套住",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "猪有拦墙鸡有罩，猫儿守的是锅夹道。",
+      "sentence": "猪有拦墙鸡有罩猫守锅夹道",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "娃娃刮喊就不了哄，哎，悄悄拿上妞妞哄。",
+      "sentence": "娃娃悄悄拿上妞妞哄",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老母猪吃食不了叫哼哼，不了么惊动新贵人。",
+      "sentence": "老母猪吃食时发出哼哼声",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "老母猪吃食不了叫哼哼，不了么惊动新贵人。",
+      "sentence": "不要惊动新来的贵人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "贵人送到了家廊中，坟茔里檀香祭了祖。",
+      "sentence": "贵人被送到了家廊中",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "贵人送到了家廊中，坟茔里檀香祭了祖。",
+      "sentence": "坟茔里檀香用于祭祖",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "家里檀香祭了祖，又打了七天七夜的罗天醮。",
+      "sentence": "家中举行了祭祖仪式",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "家里檀香祭了祖，又打了七天七夜的罗天醮。",
+      "sentence": "连续七天七夜打醮",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "罗天大醮谢尊神，后有大炮谢神灵。",
+      "sentence": "罗天大醮用于感谢尊神",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "罗天大醮谢尊神，后有大炮谢神灵。",
+      "sentence": "大炮用于感谢神灵",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一官一职封罢了，双双贤传念完了。",
+      "sentence": "官员完成了官职的封赏",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "一官一职封罢了，双双贤传念完了。",
+      "sentence": "贤传故事被完整地诵读",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要听贤孝亘古传，大牌便叫个《小姑贤》。",
+      "sentence": "大牌便叫个《小姑贤》",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二十四孝的哪一孝？",
+      "sentence": "询问二十四孝中的具体孝行",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二十四孝的第八孝。",
+      "sentence": "二十四孝中的第八孝被提及",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "王小林",
+      "original_sentence": "王小林休妻没有休掉是啥事情？",
+      "sentence": "王小林休妻未果引发疑问",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "就是小姑儿劝了。",
+      "sentence": "小姑儿进行了劝解行为",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "贤德小姑劝着留到家廊中，行下的阴功把状元中。",
+      "sentence": "贤德小姑劝说留在家中",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "贤德小姑劝着留到家廊中，行下的阴功把状元中。",
+      "sentence": "行善积德最终中了状元",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "双双念罢贤孝传，风过云散月当先。",
+      "sentence": "风过云散月亮出现",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "《小姑贤》一节一节交待清，给你们众位就散了一散心。",
+      "sentence": "小姑贤故事被详细讲述",
+      "behavior_type": 7
+    }
+  ]
+]

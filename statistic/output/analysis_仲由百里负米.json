@@ -1,0 +1,81 @@
+[
+  {
+    "roleName": "仲由",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "14": 1,
+      "7": 2,
+      "2": 10,
+      "12": 3,
+      "10": 2,
+      "11": 3,
+      "4": 7,
+      "13": 3,
+      "1": 2,
+      "3": 3,
+      "5": 3,
+      "8": 1,
+      "9": 2
+    },
+    "total_sentences": 42,
+    "entropy": 3.37695544863366
+  },
+  {
+    "roleName": "孔子",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "8": 2,
+      "7": 1,
+      "11": 1
+    },
+    "total_sentences": 4,
+    "entropy": 1.5
+  },
+  {
+    "roleName": "卫庄公（蒉聩）",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "7": 2,
+      "4": 2,
+      "2": 2,
+      "9": 2,
+      "8": 1,
+      "3": 1,
+      "12": 1
+    },
+    "total_sentences": 11,
+    "entropy": 2.7321588913645702
+  },
+  {
+    "roleName": "卫出公（辄）",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "4": 2,
+      "12": 2,
+      "3": 1
+    },
+    "total_sentences": 5,
+    "entropy": 1.5219280948873621
+  },
+  {
+    "roleName": "孔悝",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "10": 1,
+      "8": 2,
+      "9": 1,
+      "12": 1
+    },
+    "total_sentences": 5,
+    "entropy": 1.9219280948873623
+  },
+  {
+    "roleName": "子羔",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "13": 1
+    },
+    "total_sentences": 1,
+    "entropy": 0.0
+  }
+]

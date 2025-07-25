@@ -1,0 +1,4800 @@
+[
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦雪梅吊孝大明一统震环宇成皇掌朝把贤人提。",
+      "sentence": "秦雪梅为大明一统吊孝震环宇",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "秦雪梅吊孝大明一统震环宇成皇掌朝把贤人提。",
+      "sentence": "成皇掌朝提拔贤人治理国家",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人生世上就由命荣华富贵天造定千年的方地转北斗，国王的江山转他人。",
+      "sentence": "人生由命富贵天定",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "人生世上就由命荣华富贵天造定千年的方地转北斗，国王的江山转他人。",
+      "sentence": "江山易主北斗转移",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "真命天子登金殿风调雨顺太平年。",
+      "sentence": "真命天子登上金殿天下太平",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "按下国家休提表，我把秦尚两家往前明。",
+      "sentence": "现在开始讲述秦尚两家的故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "秦尚两家同把官来做，他二人指腹结成亲。",
+      "sentence": "秦尚两家共同担任官职",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "秦尚两家同把官来做，他二人指腹结成亲。",
+      "sentence": "他们二人指腹为婚",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "可怜尚家时运不顺，家财三起儿火灾焚。",
+      "sentence": "尚家遭遇三次火灾损失惨重",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "尚公子再不能在学堂里把书念，再不能皇榜上盼功名。",
+      "sentence": "尚公子无法继续在学堂读书",
+      "behavior_type": 5
+    },
+    {
+      "role": "尚公子",
+      "original_sentence": "尚公子再不能在学堂里把书念，再不能皇榜上盼功名。",
+      "sentence": "尚公子无法在皇榜上盼功名",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "秦尚两家同商议，送尚公子秦府里读五经。",
+      "sentence": "尚公子被送往秦府学习五经",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "读书读了三年整，三月清明到来临。",
+      "sentence": "尚公子在秦府读书已有三年",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "读书读了三年整，三月清明到来临。",
+      "sentence": "三月清明时节已经到来",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三月清明二月半，先生放假去踩青。",
+      "sentence": "先生在清明时节放假去踏青",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "再把秦雪梅往前明。",
+      "sentence": "秦雪梅被要求向前移动",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "泰雪梅容貌生得俊，伺候爹娘很孝顺。",
+      "sentence": "秦雪梅容貌生得十分俊俏",
+      "behavior_type": 1
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "泰雪梅容貌生得俊，伺候爹娘很孝顺。",
+      "sentence": "秦雪梅对父母非常孝顺",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "礼义廉耻她知道，三从四德心里明。",
+      "sentence": "秦雪梅知晓礼义廉耻和三从四德",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦雪梅坐绣阁思前想后，想起了终身事好不烦心。",
+      "sentence": "秦雪梅因终身事感到烦心",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "想从前尚家里时运不顺，把家财三起儿火烧一空。",
+      "sentence": "尚家遭遇火灾导致家财尽失",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "多亏我老母亲体谅人情留他在秦府里苦读五经读书读了三年整是愚是贤不知情。",
+      "sentence": "尚公子在秦府苦读五经三年整",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "多亏我老母亲体谅人情留他在秦府里苦读五经读书读了三年整是愚是贤不知情。",
+      "sentence": "尚公子的贤愚情况尚不明确",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "丫鬟走上前开言便问口称姑娘你细听。",
+      "sentence": "丫鬟走上前向姑娘询问事情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "坐绣阁终日里长嘘短叹问姑娘你为的那桩事情?再不要请姑娘落泪伤心主仆们花园里观赏花红。",
+      "sentence": "秦雪梅在绣阁中长嘘短叹",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "坐绣阁终日里长嘘短叹问姑娘你为的那桩事情?再不要请姑娘落泪伤心主仆们花园里观赏花红。",
+      "sentence": "主仆们前往花园观赏花红",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "姑娘一听怒气生，丫鬟你讲话理不通。",
+      "sentence": "秦雪梅听闻后感到非常愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "姑娘一听怒气生，丫鬟你讲话理不通。",
+      "sentence": "丫鬟说话不合情理",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "奴家我妙龄已到十七整，不再是小丫头玩耍人。",
+      "sentence": "奴家已到十七岁不再是丫头",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "岂能无事游园观花红，闲情逸致误青春。",
+      "sentence": "秦雪梅拒绝游园观花浪费青春",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "丫鬟有语开言道，口称姑娘你细听。",
+      "sentence": "丫鬟开口向姑娘说话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "今天是三月清明二月半，尚姑爷他到野外去散心，花园里面无别人姑娘一听多高兴忙叫丫鬟你当听给我抬过梳拢架、穿戴整齐再动身左面抬过梳拢架右面掌过净水盆。",
+      "sentence": "尚公子到野外去散心",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "今天是三月清明二月半，尚姑爷他到野外去散心，花园里面无别人姑娘一听多高兴忙叫丫鬟你当听给我抬过梳拢架、穿戴整齐再动身左面抬过梳拢架右面掌过净水盆。",
+      "sentence": "花园里面没有其他人",
+      "behavior_type": 12
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "今天是三月清明二月半，尚姑爷他到野外去散心，花园里面无别人姑娘一听多高兴忙叫丫鬟你当听给我抬过梳拢架、穿戴整齐再动身左面抬过梳拢架右面掌过净水盆。",
+      "sentence": "秦雪梅听后感到高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "今天是三月清明二月半，尚姑爷他到野外去散心，花园里面无别人姑娘一听多高兴忙叫丫鬟你当听给我抬过梳拢架、穿戴整齐再动身左面抬过梳拢架右面掌过净水盆。",
+      "sentence": "秦雪梅穿戴整齐准备",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "象牙的梳子金笔子青铜的镜子照乌云。",
+      "sentence": "象牙梳子金笔子青铜镜照乌云",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "江南的好粉擦了脸，苏州的胭脂荡口唇。",
+      "sentence": "秦雪梅用江南好粉擦脸",
+      "behavior_type": 1
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "江南的好粉擦了脸，苏州的胭脂荡口唇。",
+      "sentence": "秦雪梅用苏州胭脂涂唇",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "左梳右挽盘龙髻，右梳左挽水波云。",
+      "sentence": "秦雪梅左右梳理头发盘成发髻",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "前梳狮子鸳鸯对，后梳童儿拜观音。",
+      "sentence": "秦雪梅前梳狮子鸳鸯对后梳童儿拜观音",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "头顶里青丝长得长，梳定一对鹦哥儿闹嚷嚷。",
+      "sentence": "头顶青丝长梳成一对鹦哥",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "鬓间的青丝如墨染，梳定一对蝴蝶儿戏水莲。",
+      "sentence": "鬓间青丝乌黑梳成蝴蝶戏水",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "鸳鸯堆里人说话，水波云间鲤翻身。",
+      "sentence": "有人在鸳鸯堆里说话",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "鸳鸯堆里人说话，水波云间鲤翻身。",
+      "sentence": "鲤鱼在水波云间翻身",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三元牌子八宝全，鬓间里斜插的水红莲。",
+      "sentence": "鬓间斜插着一朵水红莲",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "上身穿的金丝绣花袄，八幅罗裙紧系腰。",
+      "sentence": "上身穿金丝绣花袄系八幅罗裙",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "豆绿丝带红绸裤，裙带上拴的响铃悬。",
+      "sentence": "豆绿丝带红绸裤裙带上拴响铃悬",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "小小金莲二寸半，花绣鞋上绣牡丹。",
+      "sentence": "小小金莲二寸半花绣鞋上绣牡丹",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "姑娘打扮身齐整，身穿一件素兰衫，白绫子的裙子系腰间。",
+      "sentence": "姑娘身穿素兰衫白绫裙",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "头上的青丝梳大辫，两耳下坠的镂金环。",
+      "sentence": "头上的青丝被梳成大辫子",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "头上的青丝梳大辫，两耳下坠的镂金环。",
+      "sentence": "两耳下坠着镂金耳环",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "丫鬟打扮身齐整，伺候姑娘下了亭。",
+      "sentence": "丫鬟打扮整齐后开始伺候姑娘",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不为别事操心上，只为丈夫小尚郎。",
+      "sentence": "不为别事操心只为丈夫尚郎",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "穿楼过亭往前走，转步来到花园门。",
+      "sentence": "穿过楼亭向前来到花园门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哗啦啦推开门两扇，桃红柳绿甚清闲。",
+      "sentence": "推开门后看到桃红柳绿",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "红花儿开得胭脂染，白花儿开得赛粉团。",
+      "sentence": "红花白花盛开颜色鲜艳",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "黄花儿开得黄似金，黑花儿开得赛乌云。",
+      "sentence": "黄黑花朵盛开色彩鲜明",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "蓝花儿开得似青天，山青水秀耐人观。",
+      "sentence": "蓝花儿开放时颜色如同青天",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "野外的黄花铺锦绣，梅兰菊竹四季长。",
+      "sentence": "野外的黄花铺满锦绣四季常青",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "竹子兰草茉莉盘，百合相伴金丝莲。",
+      "sentence": "竹子兰草茉莉盘百合相伴金丝莲",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "蜂儿采蜜声不断，蝴蝶儿盘旋在百花间。",
+      "sentence": "蜂儿不断采蜜蝴蝶盘旋花间",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "栀子丹桂香满园，太湖石下的串枝莲。",
+      "sentence": "栀子丹桂香满园太湖石下串枝莲",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "打泡儿风吹虞美人，兰蛾儿低头在池中。",
+      "sentence": "兰蛾儿低头在池中",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "萱草花一旁黄似金，千层芙蓉藕花心。",
+      "sentence": "萱草花呈现出金黄色泽",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "龙爪芍药真好看白玉盆里紫花繁雪里梅还比梅芳俊，紫檀花儿转紫金水仙花儿真清秀俊秀清香美人仙八角花开直坠地海棠玉兰在两边牡丹花开碗口大.石榴儿开得火样红。",
+      "sentence": "龙爪芍药在白玉盆中盛开",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "龙爪芍药真好看白玉盆里紫花繁雪里梅还比梅芳俊，紫檀花儿转紫金水仙花儿真清秀俊秀清香美人仙八角花开直坠地海棠玉兰在两边牡丹花开碗口大.石榴儿开得火样红。",
+      "sentence": "雪里梅比梅花更加芬芳",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "龙爪芍药真好看白玉盆里紫花繁雪里梅还比梅芳俊，紫檀花儿转紫金水仙花儿真清秀俊秀清香美人仙八角花开直坠地海棠玉兰在两边牡丹花开碗口大.石榴儿开得火样红。",
+      "sentence": "紫檀花儿转变为紫金色",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "龙爪芍药真好看白玉盆里紫花繁雪里梅还比梅芳俊，紫檀花儿转紫金水仙花儿真清秀俊秀清香美人仙八角花开直坠地海棠玉兰在两边牡丹花开碗口大.石榴儿开得火样红。",
+      "sentence": "水仙花儿显得格外清秀",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "龙爪芍药真好看白玉盆里紫花繁雪里梅还比梅芳俊，紫檀花儿转紫金水仙花儿真清秀俊秀清香美人仙八角花开直坠地海棠玉兰在两边牡丹花开碗口大.石榴儿开得火样红。",
+      "sentence": "八角花儿直直地坠地",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "龙爪芍药真好看白玉盆里紫花繁雪里梅还比梅芳俊，紫檀花儿转紫金水仙花儿真清秀俊秀清香美人仙八角花开直坠地海棠玉兰在两边牡丹花开碗口大.石榴儿开得火样红。",
+      "sentence": "海棠玉兰在两侧开放",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "龙爪芍药真好看白玉盆里紫花繁雪里梅还比梅芳俊，紫檀花儿转紫金水仙花儿真清秀俊秀清香美人仙八角花开直坠地海棠玉兰在两边牡丹花开碗口大.石榴儿开得火样红。",
+      "sentence": "牡丹花开得像碗口大",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "龙爪芍药真好看白玉盆里紫花繁雪里梅还比梅芳俊，紫檀花儿转紫金水仙花儿真清秀俊秀清香美人仙八角花开直坠地海棠玉兰在两边牡丹花开碗口大.石榴儿开得火样红。",
+      "sentence": "石榴花儿红得像火样",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "向日葵紧跟太阳转，早东晚西午朝南。",
+      "sentence": "向日葵随着太阳方向转动",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "花园的景致，无心观观一观园中的果树林，一溜酸杏桑木果桑树底下去歇荫。",
+      "sentence": "花园景致无心观赏果树林",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "榆树底下桑槐树枣儿树上绕天红。",
+      "sentence": "榆树底下桑槐树枣儿树红",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "青杨树跟定黄柏树黄柏树底下梧桐生。",
+      "sentence": "青杨树与黄柏树共同生长",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "园中的树果懒观看玉浆池旁再游览。",
+      "sentence": "园中的果树无人愿意观看",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "园中的树果懒观看玉浆池旁再游览。",
+      "sentence": "玉浆池旁再次进行游览",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "鸳鸯对对水面上玩五色鲤鱼水中游。",
+      "sentence": "鸳鸯在水面上成对游玩",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "鸳鸯对对水面上玩五色鲤鱼水中游。",
+      "sentence": "五色鲤鱼在水中游动",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叫丫鬟捧过笔墨砚玉浆池上留诗联。",
+      "sentence": "丫鬟在玉浆池上准备笔墨砚",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "上写着绿树荫浓夏日长，绿彩倒映水池溏。",
+      "sentence": "绿树荫浓夏日长倒映水池溏",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "满园的鲜花繁花舞，朵朵花儿喷喷香。",
+      "sentence": "满园鲜花盛开香气四溢",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "留罢诗联起身动，一心到书馆里把书观抬起头来观着看粉壁墙上写诗联这一旁老龙口吐水那一旁雄虎下山峰这一旁春夏并秋冬那一旁荷花别样红这一旁鲤鱼游莲池，那一旁孝子并贤孙粉壁墙上景懒观哗啦啦推开两扇门中间里摆着玩，月瓶山边水来水边云尚姑爷作画仿古贤俞伯牙抚琴江心岸。",
+      "sentence": "尚公子留诗后起身前往书馆",
+      "behavior_type": 4
+    },
+    {
+      "role": "尚公子",
+      "original_sentence": "留罢诗联起身动，一心到书馆里把书观抬起头来观着看粉壁墙上写诗联这一旁老龙口吐水那一旁雄虎下山峰这一旁春夏并秋冬那一旁荷花别样红这一旁鲤鱼游莲池，那一旁孝子并贤孙粉壁墙上景懒观哗啦啦推开两扇门中间里摆着玩，月瓶山边水来水边云尚姑爷作画仿古贤俞伯牙抚琴江心岸。",
+      "sentence": "尚公子抬头观看墙上诗联",
+      "behavior_type": 5
+    },
+    {
+      "role": "尚公子",
+      "original_sentence": "留罢诗联起身动，一心到书馆里把书观抬起头来观着看粉壁墙上写诗联这一旁老龙口吐水那一旁雄虎下山峰这一旁春夏并秋冬那一旁荷花别样红这一旁鲤鱼游莲池，那一旁孝子并贤孙粉壁墙上景懒观哗啦啦推开两扇门中间里摆着玩，月瓶山边水来水边云尚姑爷作画仿古贤俞伯牙抚琴江心岸。",
+      "sentence": "尚公子观察粉壁墙上景物",
+      "behavior_type": 6
+    },
+    {
+      "role": "尚公子",
+      "original_sentence": "留罢诗联起身动，一心到书馆里把书观抬起头来观着看粉壁墙上写诗联这一旁老龙口吐水那一旁雄虎下山峰这一旁春夏并秋冬那一旁荷花别样红这一旁鲤鱼游莲池，那一旁孝子并贤孙粉壁墙上景懒观哗啦啦推开两扇门中间里摆着玩，月瓶山边水来水边云尚姑爷作画仿古贤俞伯牙抚琴江心岸。",
+      "sentence": "尚公子推开两扇中间的门",
+      "behavior_type": 13
+    },
+    {
+      "role": "尚公子",
+      "original_sentence": "留罢诗联起身动，一心到书馆里把书观抬起头来观着看粉壁墙上写诗联这一旁老龙口吐水那一旁雄虎下山峰这一旁春夏并秋冬那一旁荷花别样红这一旁鲤鱼游莲池，那一旁孝子并贤孙粉壁墙上景懒观哗啦啦推开两扇门中间里摆着玩，月瓶山边水来水边云尚姑爷作画仿古贤俞伯牙抚琴江心岸。",
+      "sentence": "尚公子仿古贤作画抚琴",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "钟子期听音在山前，姜太公钓鱼渭水岸。",
+      "sentence": "钟子期在山前聆听音乐",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "钟子期听音在山前，姜太公钓鱼渭水岸。",
+      "sentence": "姜太公在渭水岸钓鱼",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周文王访贤到河边。",
+      "sentence": "周文王前往河边寻访贤能",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "臣坐轿船君拉纤八百步行走纤绳断。",
+      "sentence": "臣坐轿船行走八百步纤绳断",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "君臣缘分此时现我保你的江山八百年。",
+      "sentence": "君臣缘分在此时显现",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "观罢书案抬头看，墨笔丹青排两边。",
+      "sentence": "尚公子抬头看见墨笔丹青排列",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这一旁吕布戏貂蝉，那一旁昭君和北番。",
+      "sentence": "吕布与貂蝉在一旁嬉戏玩耍",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "这一旁吕布戏貂蝉，那一旁昭君和北番。",
+      "sentence": "昭君与北番在另一旁交谈",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "悲声哭到雁门关。",
+      "sentence": "有人悲伤地哭泣到雁门关",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "观转丹青抬头看，见一美人轴儿挂中间。",
+      "sentence": "抬头看见一幅美人图画",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "画中美人好面善，似曾相识又相见。",
+      "sentence": "画中美人看起来似曾相识",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "千思万想想不起，不知哪里见过面。",
+      "sentence": "无法想起在哪里见过面",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "丫鬟有语开言道，口尊姑娘你细想。",
+      "sentence": "丫鬟开口请姑娘仔细思考",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你知道吕布戏貂蝉，你懂得昭君和北番。",
+      "sentence": "提及吕布戏貂蝉昭君和北番",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这个轴儿不知情，好比姑娘一般同。",
+      "sentence": "轴儿与姑娘相似却不知情",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "穿戴打扮一样俊，若是姑娘你不信，打开菱花照乌云。",
+      "sentence": "穿戴打扮一样俊俏美丽",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "姑娘打开菱花镜，照见镜里一美人。",
+      "sentence": "姑娘打开镜子照见美人",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "杏眼桃腮杨柳腰，好比奴家一般身。",
+      "sentence": "杏眼桃腮杨柳腰似奴家身",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "观罢轴儿怒气生暗把尚公子怨一声。",
+      "sentence": "观罢轴儿后对尚公子心生怒气",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "莫非公子你不学好是一个贪花爱色的人。",
+      "sentence": "尚公子被指责贪花爱色",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "你不该偷画奴家的容貌影，挂在书馆里散淫心。",
+      "sentence": "尚公子偷画奴家容貌挂在书馆",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "假如爹娘晓此事，绣阁里羞坏女花童。",
+      "sentence": "爹娘知晓此事会感到羞耻",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "丫鬟有语开言道，再叫姑娘你细听。",
+      "sentence": "丫鬟开口向姑娘细说",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你背后莫把尚姑爷怨，纸上的婚姻配三分。",
+      "sentence": "纸上的婚姻配三分",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老太太反口把他问，清风儿一遁影无踪。",
+      "sentence": "老太太反口向他提出疑问",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "老太太反口把他问，清风儿一遁影无踪。",
+      "sentence": "清风儿瞬间消失无踪影",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "此轴儿本是老道人送，它不是尚姑爷描画成。",
+      "sentence": "此轴画由老道人赠送",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "菇娘说既然如此不怪他，快快把画儿来撤下。",
+      "sentence": "既然如此不怪他快快撤下画",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "撤下拿去仙阁藏，待我闲暇细观赏。",
+      "sentence": "将画撤下并拿去仙阁收藏",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "姑娘说罢转回身见一张牙床在屋当中。",
+      "sentence": "姑娘转身看见屋中有张牙床",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "上铺绛纱紫花毯红缎子的褥子铺上边。",
+      "sentence": "床铺上铺着绛纱紫花毯",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "鸳鸯枕上描牡丹针工是奴家亲手缝。",
+      "sentence": "秦雪梅亲手缝制了鸳鸯枕上的牡丹",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "铺盖被窝齐整整可惜配不了鸳鸯枕可怜尚公子一个人孤孤零零受苦辛。",
+      "sentence": "尚公子独自一人感到孤苦伶仃",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "若是皇榜得高中荣华富贵享不尽。",
+      "sentence": "尚公子高中后享受荣华富贵",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夫妻共卧牙床上你欢我爱叙温情。",
+      "sentence": "夫妻共同卧于牙床叙温情",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你作诗，我答对作诗答对多趣味。",
+      "sentence": "作诗答对是一种有趣的交流方式",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "琴瑟相调美夫妻鸾凤和鸣常相随。",
+      "sentence": "秦雪梅与尚公子感情和睦",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "观罢牙床观书案，转步来到书案前。",
+      "sentence": "尚公子从牙床走到书案前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "打开一篇文章看，陈词滥调没名堂。",
+      "sentence": "打开文章后发现内容陈词滥调",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "字儿写得不端正，文章句句屁不通。",
+      "sentence": "字迹不端正文章内容不通顺",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他写下如此拙劣文，怎做国家的栋梁臣。",
+      "sentence": "他写下了一篇拙劣的文章",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我爹爹眼力何等高怎把他瞧到眼窝中莫说是奴家他不配府里的丫鬟他也配不成。",
+      "sentence": "爹爹眼力高看不上他",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "小奴家好比牡丹花，鲜花怎插在粪坑中。",
+      "sentence": "秦雪梅自比牡丹花不愿被玷污",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "姑娘观罢怒气生文章摔到地埃尘。",
+      "sentence": "秦雪梅看完文章后非常愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "姑娘观罢怒气生文章摔到地埃尘。",
+      "sentence": "秦雪梅将文章摔到地上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "一摔摔出了文章签。",
+      "sentence": "秦雪梅将文章摔到地上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "文章签上写姓名。",
+      "sentence": "文章签上写有姓名",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "黄学生的文章叫他改错观文章错怪人。",
+      "sentence": "黄学生的文章被错误地修改了",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "文章拾到桌面上，打开尚郎的锦绣文。",
+      "sentence": "文章被拾起并放在桌面上",
+      "behavior_type": 13
+    },
+    {
+      "role": "尚公子",
+      "original_sentence": "文章拾到桌面上，打开尚郎的锦绣文。",
+      "sentence": "尚公子的锦绣文章被打开",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "有心提笔往下联字字句句有才情。",
+      "sentence": "秦雪梅提笔续写尚郎文章",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "字体工整写得端文采飞扬有黄金。",
+      "sentence": "尚公子的字体工整文采飞扬",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "心儿里直把爹爹恨，你本是嫌贫爱富的人。",
+      "sentence": "心中对父亲充满怨恨之情",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "小冤家好比牡丹花，有母亲插在净水瓶。",
+      "sentence": "小冤家被母亲插在净水瓶",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "清清静静来抚养，百般护持百般疼。",
+      "sentence": "清清静静地抚养并百般护持",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "有朝一日花蕾放，定要攀个书香门。",
+      "sentence": "有朝一日花蕾绽放定要攀书香门",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "按下姑娘且不表，再把丫鬟往前明。",
+      "sentence": "暂且不提及姑娘的行为举止",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "按下姑娘且不表，再把丫鬟往前明。",
+      "sentence": "转而描述丫鬟的言行表现",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "秋香有语开言道。",
+      "sentence": "秋香开口向对方说话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "再叫腊梅你细听。",
+      "sentence": "腊梅被要求仔细聆听",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "姑娘书馆里把文观，咱们牡丹底下把棋玩。",
+      "sentence": "姑娘在书馆里阅读文章",
+      "behavior_type": 6
+    },
+    {
+      "role": "",
+      "original_sentence": "姑娘书馆里把文观，咱们牡丹底下把棋玩。",
+      "sentence": "她们在牡丹底下下棋玩",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你占红，我占黑棋摆红黑见输赢，这边厢姑娘观文章那边厢尚公子踩青转回程。",
+      "sentence": "双方用红黑棋子进行对弈",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "你占红，我占黑棋摆红黑见输赢，这边厢姑娘观文章那边厢尚公子踩青转回程。",
+      "sentence": "姑娘在书馆里阅读文章",
+      "behavior_type": 5
+    },
+    {
+      "role": "尚公子",
+      "original_sentence": "你占红，我占黑棋摆红黑见输赢，这边厢姑娘观文章那边厢尚公子踩青转回程。",
+      "sentence": "尚公子外出散步后返回",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "花园门儿开两扇莫非是先生来阅卷。",
+      "sentence": "花园门开两扇先生来阅卷",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "莫非岳父把文观尚公子低头进花园耳听得书馆里有人声。",
+      "sentence": "岳父观文尚公子低头进花园",
+      "behavior_type": ""
+    },
+    {
+      "role": "尚公子",
+      "original_sentence": "莫非岳父把文观尚公子低头进花园耳听得书馆里有人声。",
+      "sentence": "尚公子低头走进花园",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "莫非岳父把文观尚公子低头进花园耳听得书馆里有人声。",
+      "sentence": "书馆里传来人声",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "听她的声音嘈杂响吱吱呀呀的女娇娘。",
+      "sentence": "听到女娇娘发出嘈杂声响",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "舌尖儿舔开窗棂纸，梅花园里仔细观梅花园里观着看书案上坐着一位女天仙。",
+      "sentence": "尚公子舔开窗纸仔细观察",
+      "behavior_type": 6
+    },
+    {
+      "role": "",
+      "original_sentence": "舌尖儿舔开窗棂纸，梅花园里仔细观梅花园里观着看书案上坐着一位女天仙。",
+      "sentence": "梅花园里坐着一位女天仙",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "头上的青丝乌云一团两耳下又坠着福宝金环。",
+      "sentence": "秦雪梅头上青丝如乌云般垂落",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "眉毛弯弯雕弓一般鬓间里斜别着水红金莲。",
+      "sentence": "秦雪梅的眉毛弯弯如雕弓",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "面如三月桃花瓣，小小鼻儿赛悬胆。",
+      "sentence": "面容如桃花瓣鼻儿似悬胆",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "樱桃小口糯米牙糯米银牙尖对尖。",
+      "sentence": "秦雪梅拥有樱桃小口和糯米牙",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "绣花袄儿身上穿八幅罗裙系腰间。",
+      "sentence": "秦雪梅身穿绣花袄系罗裙",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "绿丝带红绸裤甚是好看，裙带上还有响铃悬。",
+      "sentence": "绿丝带红绸裤裙带上悬响铃",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不知金莲有多大，书案遮定看不见。",
+      "sentence": "无法看见金莲的具体大小",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "尚公子正在把姑娘看，秦雪梅书馆里自开言天啊，你保佑我丈夫皇榜得高中、秦雪梅头上凤冠悬尚公子一听多高兴，原是我妻子暗祷天乘此时快快往里进问一问姑娘是何情秦雪梅正在观文卷耳听得脚步儿轻声响。",
+      "sentence": "尚公子正在观察那位姑娘",
+      "behavior_type": 6
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "尚公子正在把姑娘看，秦雪梅书馆里自开言天啊，你保佑我丈夫皇榜得高中、秦雪梅头上凤冠悬尚公子一听多高兴，原是我妻子暗祷天乘此时快快往里进问一问姑娘是何情秦雪梅正在观文卷耳听得脚步儿轻声响。",
+      "sentence": "秦雪梅在书馆里自言自语",
+      "behavior_type": 7
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "尚公子正在把姑娘看，秦雪梅书馆里自开言天啊，你保佑我丈夫皇榜得高中、秦雪梅头上凤冠悬尚公子一听多高兴，原是我妻子暗祷天乘此时快快往里进问一问姑娘是何情秦雪梅正在观文卷耳听得脚步儿轻声响。",
+      "sentence": "秦雪梅祈祷丈夫高中皇榜",
+      "behavior_type": 5
+    },
+    {
+      "role": "尚公子",
+      "original_sentence": "尚公子正在把姑娘看，秦雪梅书馆里自开言天啊，你保佑我丈夫皇榜得高中、秦雪梅头上凤冠悬尚公子一听多高兴，原是我妻子暗祷天乘此时快快往里进问一问姑娘是何情秦雪梅正在观文卷耳听得脚步儿轻声响。",
+      "sentence": "尚公子听到后感到高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "尚公子",
+      "original_sentence": "尚公子正在把姑娘看，秦雪梅书馆里自开言天啊，你保佑我丈夫皇榜得高中、秦雪梅头上凤冠悬尚公子一听多高兴，原是我妻子暗祷天乘此时快快往里进问一问姑娘是何情秦雪梅正在观文卷耳听得脚步儿轻声响。",
+      "sentence": "尚公子迅速走进书馆内",
+      "behavior_type": 4
+    },
+    {
+      "role": "尚公子",
+      "original_sentence": "尚公子正在把姑娘看，秦雪梅书馆里自开言天啊，你保佑我丈夫皇榜得高中、秦雪梅头上凤冠悬尚公子一听多高兴，原是我妻子暗祷天乘此时快快往里进问一问姑娘是何情秦雪梅正在观文卷耳听得脚步儿轻声响。",
+      "sentence": "尚公子询问姑娘的情况",
+      "behavior_type": 7
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "尚公子正在把姑娘看，秦雪梅书馆里自开言天啊，你保佑我丈夫皇榜得高中、秦雪梅头上凤冠悬尚公子一听多高兴，原是我妻子暗祷天乘此时快快往里进问一问姑娘是何情秦雪梅正在观文卷耳听得脚步儿轻声响。",
+      "sentence": "秦雪梅正在阅读文卷",
+      "behavior_type": 5
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "尚公子正在把姑娘看，秦雪梅书馆里自开言天啊，你保佑我丈夫皇榜得高中、秦雪梅头上凤冠悬尚公子一听多高兴，原是我妻子暗祷天乘此时快快往里进问一问姑娘是何情秦雪梅正在观文卷耳听得脚步儿轻声响。",
+      "sentence": "秦雪梅听到轻微脚步声",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "急忙忙抬头观着看，看见尚公子到眼前。",
+      "sentence": "秦雪梅抬头看见尚公子",
+      "behavior_type": 4
+    },
+    {
+      "role": "尚公子",
+      "original_sentence": "急忙忙抬头观着看，看见尚公子到眼前。",
+      "sentence": "尚公子走到秦雪梅面前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "尚公子进到书馆中秦雪梅扔下文卷就起身。",
+      "sentence": "尚公子进入书馆中",
+      "behavior_type": 4
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "尚公子进到书馆中秦雪梅扔下文卷就起身。",
+      "sentence": "秦雪梅放下文卷起身",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "尚公子手挽手儿忙拦定再叫姑娘你细听。",
+      "sentence": "尚公子挽手拦住姑娘细听",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "你若要回去早些回，我一来就走为何情?叫姑娘端端打坐在牙床上，听我把过去的冤枉给你诉分明。",
+      "sentence": "尚公子询问姑娘为何要离开",
+      "behavior_type": 7
+    },
+    {
+      "role": "尚公子",
+      "original_sentence": "你若要回去早些回，我一来就走为何情?叫姑娘端端打坐在牙床上，听我把过去的冤枉给你诉分明。",
+      "sentence": "尚公子请姑娘坐下听他诉说",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "可怜我尚家人时运不顺，三起儿大火家财烧尽。",
+      "sentence": "尚家遭遇大火导致家财尽失",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "家贫穷再不能去读五经，再不能皇榜上高盼功名。",
+      "sentence": "尚公子因家贫无法继续攻读五经",
+      "behavior_type": 3
+    },
+    {
+      "role": "尚公子",
+      "original_sentence": "家贫穷再不能去读五经，再不能皇榜上高盼功名。",
+      "sentence": "尚公子无法在皇榜上获得功名",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "多亏了老岳母贤德人，留在我秦府里读五经。",
+      "sentence": "尚公子因岳母贤德留在秦府",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "我岳父老大人心肠太狠，从小的定亲事忘个干净。",
+      "sentence": "尚公子指责岳父心肠狠毒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "他要我早些儿离你家门，婚姻事他给我另寻别门。",
+      "sentence": "秦相要求我离开并另寻婚姻",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "姑娘你是愚是贤不知情。",
+      "sentence": "无法判断姑娘是否贤愚",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "今日见了姑娘面，才知道姑娘你是明理人。",
+      "sentence": "尚公子认为姑娘是明理人",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "既然你来到书馆中天作之合情意深千载难逢的好机缘咱二人书馆里配对成亲。",
+      "sentence": "尚公子提议在书馆中成亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "姑娘一听怒气生尚公子讲话理不通。",
+      "sentence": "秦雪梅听闻后感到非常愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "尚公子",
+      "original_sentence": "姑娘一听怒气生尚公子讲话理不通。",
+      "sentence": "尚公子说话不讲道理",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你不要在书馆刁野撒狂，有几辈酒色徒对你细明。",
+      "sentence": "有几辈酒色徒对你细明",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "殷纣王宠妲己建修楼亭杀文武害忠良天地寒心。",
+      "sentence": "殷纣王宠妲己杀害忠良",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周幽王宠褒姒朝运不顺骊山上杀诸侯大失民心。",
+      "sentence": "周幽王宠褒姒导致朝运不顺",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "周幽王宠褒姒朝运不顺骊山上杀诸侯大失民心。",
+      "sentence": "骊山上杀诸侯大失民心",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "这几辈酒色徒你也知晓有几辈真君子对你细明。",
+      "sentence": "尚公子列举酒色徒与真君子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "柳下惠坐怀行不乱怀抱着美色女不动淫心。",
+      "sentence": "柳下惠坐怀不乱保持君子风度",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "汉关羽坐曹营美色不动到后来玉泉山上直奔天庭。",
+      "sentence": "关羽在曹营中不为美色所动",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "汉关羽坐曹营美色不动到后来玉泉山上直奔天庭。",
+      "sentence": "关羽后来直奔玉泉山天庭",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "姑娘你讲的句句实情这几辈真君子不提都明。",
+      "sentence": "姑娘讲述的内容完全符合事实",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "今日里你骗奴书馆上当，到后来反说奴不良之人。",
+      "sentence": "今日欺骗他人到后来反被指责",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "公子说只要我俩书馆里成亲我学生绝不负一片真情。",
+      "sentence": "尚公子承诺绝不辜负一片真情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "按下姑娘暂不表，再把丫鬟说分明。",
+      "sentence": "现在开始讲述丫鬟的故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "秋香有语开言道，再叫腊梅你细听。",
+      "sentence": "秋香呼唤腊梅仔细聆听",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "眼前日落西山天色晚，我们快请姑娘回房中。",
+      "sentence": "天色已晚应尽快返回房中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "丫鬟们即刻起了身，转步来到书馆门。",
+      "sentence": "丫鬟们起身走向书馆门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "公子耳听丫鬟到，赶紧离开姑娘身。",
+      "sentence": "尚公子听到丫鬟来立即离开",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "丫鬟进门开言道，姑娘公子你当听。",
+      "sentence": "丫鬟进门后向姑娘公子说话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "眼看今日天色晚，快请姑娘回家中。",
+      "sentence": "天色已晚应当尽快回家",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "丫鬟说罢转回身，一步迈出书馆门。",
+      "sentence": "丫鬟转身离开了书馆",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "姑娘不便再久留，相随丫鬟转回程。",
+      "sentence": "姑娘跟随丫鬟离开书馆",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "路途之中有交谈，秋香开言说分明。",
+      "sentence": "秋香在途中向他人说明情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "书馆之中无外人，姑娘公子情意深，莫非今日配鸳凤。",
+      "sentence": "书馆中姑娘公子情意深厚",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我看你身上的衣服不齐整，头上的青丝乱纷纷。",
+      "sentence": "衣服不齐整青丝乱纷纷",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "莫非一时乱方寸，苟且越轨有举动。",
+      "sentence": "一时慌乱导致行为越轨",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "姑娘一听怒气生，大骂丫鬟嘴闭紧。",
+      "sentence": "姑娘听闻后感到非常愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "姑娘一听怒气生，大骂丫鬟嘴闭紧。",
+      "sentence": "姑娘大声呵斥丫鬟闭嘴",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "适才你们到哪里野去了，害我在书馆苦苦等。",
+      "sentence": "在书馆中长时间等待他人",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "左等不来右不见面，千呼万唤无踪影。",
+      "sentence": "长时间等待却始终未见人影",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "来了不往好处想，反诬姑娘行不正。",
+      "sentence": "对方未往好处想反诬姑娘",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大胆奴才你小心，回去家法不容情。",
+      "sentence": "奴才回家后将受到家法处置",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "糖致香开言道博声姚娘你当听，头里我谠了一句玩奖话。",
+      "sentence": "糖致香向姚娘说了一句玩笑话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "彝娘千万莫当真，玩笑虽然是丑话。",
+      "sentence": "玩笑话虽然丑陋但不必当真",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "道理句句是真情，尚家姑爷才学高。",
+      "sentence": "尚公子才学高超句句真情",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "一表人才长得好，姑娘美貌似天仙。",
+      "sentence": "尚公子一表人才相貌出众",
+      "behavior_type": 1
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "一表人才长得好，姑娘美貌似天仙。",
+      "sentence": "秦雪梅姑娘美貌似天仙",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "知书达理人人晓，你和姑爷配成双。",
+      "sentence": "秦雪梅与尚公子十分般配",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "天造地设的美姻缘，我们说了句玩笑话。",
+      "sentence": "他们说了句玩笑话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "羞羞答答你为哪般，她们一说三笑回家转。",
+      "sentence": "她们说笑后转身回家",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "书馆里冷落了尚家郎。",
+      "sentence": "尚公子在书馆中被冷落",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "我和公子配成亲，不枉娘养我一世的人。",
+      "sentence": "爱玉儿与尚公子结为夫妻",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "我和公子配成亲，不枉娘养我一世的人。",
+      "sentence": "不枉母亲养育之恩",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "我和姑娘正在交情处，却被她二人来搅乱。",
+      "sentence": "尚公子与姑娘交谈时被人打断",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "眼睁睁搅乱鸳鸯梦，实在扫兴又荒唐。",
+      "sentence": "尚公子因鸳鸯梦被搅乱而愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "我和姑娘有缘分，不在朝朝暮暮间。",
+      "sentence": "尚公子认为与姑娘有缘分",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "转身来观美人画，画轴儿踪影全不见。",
+      "sentence": "尚公子转身发现美人画不见了",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "这下可急坏了尚公子，从此得下病一场。",
+      "sentence": "尚公子因焦急而患上疾病",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "一场大病缠在身，奄奄一息病沉重，忙坏了秦相府里的人。",
+      "sentence": "尚公子因大病而奄奄一息",
+      "behavior_type": 3
+    },
+    {
+      "role": "秦相",
+      "original_sentence": "一场大病缠在身，奄奄一息病沉重，忙坏了秦相府里的人。",
+      "sentence": "秦相府里的人为此忙碌",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "秦相急忙安排定再把家童叫一声。",
+      "sentence": "秦相急忙安排家童前来",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "尚公子送到尚府里去，单等得病痊愈再来读五经。",
+      "sentence": "尚公子被送回尚府等待痊愈",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "尚公子送到尚府里去，单等得病痊愈再来读五经。",
+      "sentence": "等待病愈后再继续研读五经",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "家童们",
+      "original_sentence": "家童们一听不怠慢，急忙忙送公子到尚府门。",
+      "sentence": "家童们迅速送公子到尚府",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吓坏了上下一帮人。",
+      "sentence": "众人听闻后感到极度恐慌",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "赶忙延医来诊病，汤药吃了数不清。",
+      "sentence": "赶忙请医生来诊治病情",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "赶忙延医来诊病，汤药吃了数不清。",
+      "sentence": "服用了大量汤药治疗",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "针灸服药病不好，火罐拔了也不成。",
+      "sentence": "尚公子的病情始终未见好转",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "尚奶奶",
+      "original_sentence": "尚奶奶有语开言道。",
+      "sentence": "尚奶奶开口说话表达意见",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚奶奶",
+      "original_sentence": "再叫我儿你细听，如今得的什么病?赶紧给为娘说分明。",
+      "sentence": "尚奶奶询问儿子得了什么病",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "尚公子闻听母亲问，未曾开言泪纷纷。",
+      "sentence": "尚公子听闻母亲询问后流泪",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "叫声母亲老大人，莫怪孩儿不孝敬。",
+      "sentence": "尚公子向母亲表达歉意",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "孩儿自是太多情，如今得下的相思病。",
+      "sentence": "尚公子因多情患上相思病",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "梦牵魂绕扯不断，秦雪梅是我的意中人。",
+      "sentence": "尚公子深爱着秦雪梅",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "若能与她见一面，孩儿的疾病能起身。",
+      "sentence": "尚公子认为见面能治愈疾病",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "若是见不上她的面，孩儿到阴间也不甘心。",
+      "sentence": "尚公子因无法见面而不甘心",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尚奶奶",
+      "original_sentence": "尚奶奶一听不消停，赶紧请媒人去说亲。",
+      "sentence": "尚奶奶立即请媒人去说亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "秦相是嫌贫爱富的人张口闭口不答应。",
+      "sentence": "秦相因嫌贫爱富而拒绝答应",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "尚公子三年皇榜高得中我女儿和他定成亲。",
+      "sentence": "尚公子高中皇榜后定下亲事",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "尚公子三年若是不把状元中他另想旁问另娶人我女儿与他结亲万不能。",
+      "sentence": "尚公子若未中状元则另娶他人",
+      "behavior_type": 3
+    },
+    {
+      "role": "秦相",
+      "original_sentence": "尚公子三年若是不把状元中他另想旁问另娶人我女儿与他结亲万不能。",
+      "sentence": "秦相拒绝女儿与尚公子结亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚奶奶",
+      "original_sentence": "尚奶奶听罢，无奈何忽然一计转，在心上我家的爱玉儿丫鬟长得俊比起秦雪梅不差半毫分。",
+      "sentence": "尚奶奶心生一计想到爱玉儿",
+      "behavior_type": 5
+    },
+    {
+      "role": "爱玉儿",
+      "original_sentence": "尚奶奶听罢，无奈何忽然一计转，在心上我家的爱玉儿丫鬟长得俊比起秦雪梅不差半毫分。",
+      "sentence": "爱玉儿容貌不逊于秦雪梅",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "尚奶奶",
+      "original_sentence": "何不如此这般来圆和以李代桃配鸾凤尚奶奶即便开言道再把爱玉儿丫鬟叫一声你和我家公子两相配喜结良缘冲病身。",
+      "sentence": "尚奶奶提议让爱玉儿与公子成婚",
+      "behavior_type": 7
+    },
+    {
+      "role": "尚奶奶",
+      "original_sentence": "何不如此这般来圆和以李代桃配鸾凤尚奶奶即便开言道再把爱玉儿丫鬟叫一声你和我家公子两相配喜结良缘冲病身。",
+      "sentence": "尚奶奶呼唤爱玉儿前来商议",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚奶奶",
+      "original_sentence": "到以后我家公子皇榜得高中，你和她秦雪梅姐妹相称。",
+      "sentence": "尚奶奶提议爱玉儿与秦雪梅姐妹相称",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚奶奶",
+      "original_sentence": "她为大来你为二都是我儿的贤内助。",
+      "sentence": "尚奶奶宣布她们都是贤内助",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "爱玉儿一听真高兴喜在眉梢笑在心。",
+      "sentence": "爱玉儿听闻后感到非常高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "我和公子两相配，不枉我在阳世走一程。",
+      "sentence": "爱玉儿认为与公子相配不枉此生",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "蔡儒魁",
+      "original_sentence": "这一旁蔡学生发了话，骂一声尚罗儿理不通。",
+      "sentence": "蔡儒魁指责尚罗儿不讲道理",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "这一旁蔡学生发了话，骂一声尚罗儿理不通。",
+      "sentence": "有人指责尚罗儿不讲道理",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "即便是公子三年五年不高中，也要和公子白头到老不变心。",
+      "sentence": "爱玉儿愿与公子白头偕老不变心",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "爱玉儿打扮身齐整，尚奶奶送到病房中。",
+      "sentence": "爱玉儿精心打扮整齐",
+      "behavior_type": 1
+    },
+    {
+      "role": "尚奶奶",
+      "original_sentence": "爱玉儿打扮身齐整，尚奶奶送到病房中。",
+      "sentence": "尚奶奶将爱玉儿送到病房",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "尚公子在牙床上昏沉沉，尚奶奶悄悄开言道，再叫我儿你听根苗。",
+      "sentence": "尚公子在牙床上昏昏沉沉",
+      "behavior_type": 12
+    },
+    {
+      "role": "尚奶奶",
+      "original_sentence": "尚公子在牙床上昏沉沉，尚奶奶悄悄开言道，再叫我儿你听根苗。",
+      "sentence": "尚奶奶悄悄对儿子说话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚奶奶",
+      "original_sentence": "我儿你睁开双眼观着看，原来是秦雪梅到了我尚府门。",
+      "sentence": "尚奶奶告诉尚公子秦雪梅来了",
+      "behavior_type": 7
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "我儿你睁开双眼观着看，原来是秦雪梅到了我尚府门。",
+      "sentence": "秦雪梅来到尚府门前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "尚公子睁眼观着看，观见秦雪梅站床前。",
+      "sentence": "尚公子睁眼看见秦雪梅站在床前",
+      "behavior_type": 6
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "尚公子睁眼观着看，观见秦雪梅站床前。",
+      "sentence": "秦雪梅站在尚公子的床前",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "尚公子说母亲，你请个阴阳把吉日看，我们夫妻配成双。",
+      "sentence": "尚公子请求母亲择吉日成婚",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚奶奶",
+      "original_sentence": "尚奶奶说，今日大吉好时辰，你们二人就成亲。",
+      "sentence": "尚奶奶提议今日为吉日成亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "尚公子掐掐扎扎地起了身，三股儿明香拿手中。",
+      "sentence": "尚公子起身拿起三股明香",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一拜天来二拜地，三拜爹娘养育恩。",
+      "sentence": "进行拜天地和父母的仪式",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "拜罢天地归洞房，鸳鸯枕上配成亲。",
+      "sentence": "尚公子与秦雪梅在洞房成亲",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "爱玉儿伺候三月整，尚公子的病势减八分。",
+      "sentence": "爱玉儿照顾尚公子三个月",
+      "behavior_type": 10
+    },
+    {
+      "role": "尚公子",
+      "original_sentence": "爱玉儿伺候三月整，尚公子的病势减八分。",
+      "sentence": "尚公子的病情好转了八分",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "尚公子有语开言道，再叫贤妻你细听。",
+      "sentence": "尚公子对妻子说话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "把你的诗条对联念出来，写一篇文章我观分明。",
+      "sentence": "尚公子要求念出诗条对联并写文章",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "爱玉儿一听胆战惊，双膝跪在床沿根。",
+      "sentence": "爱玉儿听闻后感到极度恐惧",
+      "behavior_type": 2
+    },
+    {
+      "role": "爱玉儿",
+      "original_sentence": "爱玉儿一听胆战惊，双膝跪在床沿根。",
+      "sentence": "爱玉儿双膝跪在床沿边上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "叫公子你把我当成哪一个?我是你亲的爱玉儿丫瓣人尚公子一听伤了心，怨声母亲糊涂人。",
+      "sentence": "爱玉儿询问公子把她当成谁",
+      "behavior_type": 7
+    },
+    {
+      "role": "尚公子",
+      "original_sentence": "叫公子你把我当成哪一个?我是你亲的爱玉儿丫瓣人尚公子一听伤了心，怨声母亲糊涂人。",
+      "sentence": "尚公子听闻后感到伤心",
+      "behavior_type": 2
+    },
+    {
+      "role": "尚公子",
+      "original_sentence": "叫公子你把我当成哪一个?我是你亲的爱玉儿丫瓣人尚公子一听伤了心，怨声母亲糊涂人。",
+      "sentence": "尚公子埋怨母亲糊涂",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "我一心爱的是秦雪梅，怎能叫丫鬟来假充。",
+      "sentence": "尚公子心中只爱秦雪梅一人",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "自古是龙配龙来凤配凤哪里有乌鸦配与我凤凰尚公子原来就有病此时一气越发重三天三夜昏沉沉饭不吃来茶不饮。",
+      "sentence": "尚公子因愤怒导致病情加重",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "爱玉儿床前哭着说叫一声夫君你细听你今日若是归了阴丢下我爱玉儿怀孕三月的人无依无靠多溜辛尚公子说二老爹娘你照看家里的事儿你照应生下个儿子立门户生下个女儿出嫁人。",
+      "sentence": "爱玉儿在床前哭着对尚公子说话",
+      "behavior_type": 7
+    },
+    {
+      "role": "尚公子",
+      "original_sentence": "爱玉儿床前哭着说叫一声夫君你细听你今日若是归了阴丢下我爱玉儿怀孕三月的人无依无靠多溜辛尚公子说二老爹娘你照看家里的事儿你照应生下个儿子立门户生下个女儿出嫁人。",
+      "sentence": "尚公子嘱咐父母照顾家中事务",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "尚公子说罢一口气绝归了阴，丢下了爱玉儿身怀有孕的人。",
+      "sentence": "尚公子气绝身亡留下爱玉儿",
+      "behavior_type": 3
+    },
+    {
+      "role": "爱玉儿",
+      "original_sentence": "尚公子说罢一口气绝归了阴，丢下了爱玉儿身怀有孕的人。",
+      "sentence": "爱玉儿身怀有孕无依无靠",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "尚家的丧帖送到秦家去，送给了秦相绝情人。",
+      "sentence": "尚家将丧帖送至秦相手中",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "秦相一看丧帖到，喜在眉梢笑在心。",
+      "sentence": "秦相看到丧帖后心中暗喜",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "尚家的公子命归阴，我秦相的眼睛里拔掉了一根钉。",
+      "sentence": "秦相因尚公子去世感到高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "尚家的公子归了阴，我女儿另嫁豪富做官人。",
+      "sentence": "秦相因尚公子去世而欣喜",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "秦相把如意算盘暗打定，叫过来丫鬟细叮咛，你们要隐瞒隐瞒再隐瞒不能把这个死讯传给小姐听。",
+      "sentence": "秦相叮嘱丫鬟隐瞒死讯",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "菊花丫鬟听得真格登登跪到香阁中。",
+      "sentence": "菊花丫鬟听到后跪在香阁中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叫姑娘，昨夜晚尚姑爷命归阴丧帖送到前庭中。",
+      "sentence": "尚姑爷昨夜去世丧帖已送达",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "老爷说消息要压紧，不能传给姑娘听。",
+      "sentence": "秦相命令丫鬟隐瞒消息",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "姑娘一听心痛烂，好似钢剑把心穿。",
+      "sentence": "秦雪梅听闻后感到心如刀绞",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "哭丈夫你死得太伤惨，抛下我少年妻实可怜。",
+      "sentence": "秦雪梅因丈夫去世感到极度悲伤",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "书馆里观文惹下祸一场落得我好夫妻不能成双。",
+      "sentence": "尚公子因观文惹祸导致夫妻分离",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "早知道你一命归了阴悔不该书馆里配对成亲。",
+      "sentence": "秦雪梅后悔与尚公子成亲",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "丫鬟们伺候把觉眠，姑娘眠觉三更天。",
+      "sentence": "秦雪梅在三更天时入睡",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "尚公子的魂灵儿来托梦叫贤妻你若是尚有夫妻情，来我的灵前哭几声，我也就闭上眼睛死了心。",
+      "sentence": "尚公子托梦请求妻子灵前哭几声",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "你若没有夫妻情，反穿罗裙改嫁人。",
+      "sentence": "秦雪梅劝尚公子改嫁他人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "姑娘惊醒南柯梦，好比滚油泼在心。",
+      "sentence": "秦雪梅惊醒后感到极度痛苦",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "里想针线部篮儿火上化，有什么样的心情扳扣针木梳匣儿一火焚，什么样的心情再贴花红。",
+      "sentence": "秦雪梅心情低落无心整理物品",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "脱掉了红绿裙袄把素衣换双手儿抹掉了手饰镯。",
+      "sentence": "秦雪梅脱下红绿裙袄换上素衣",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "箱子里取出来孝服一件小香莲白布包头将孝缠。",
+      "sentence": "秦雪梅取出孝服并缠上白布包头",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "姑娘直哭到大天亮，丫鬟们伺候下了厅堂。",
+      "sentence": "姑娘哭泣持续到天亮时分",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "姑娘直哭到大天亮，丫鬟们伺候下了厅堂。",
+      "sentence": "丫鬟们伺候姑娘走下厅堂",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "穿楼过庭往前走，转步来到前庭上。",
+      "sentence": "穿楼过庭来到前庭上",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "秦相一见开言道，穿白戴孝的是何人?姑娘一听暗气生假装糊涂倒反问。",
+      "sentence": "秦相询问穿白戴孝者身份",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "秦相一见开言道，穿白戴孝的是何人?姑娘一听暗气生假装糊涂倒反问。",
+      "sentence": "姑娘听闻后感到非常生气",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "秦相一见开言道，穿白戴孝的是何人?姑娘一听暗气生假装糊涂倒反问。",
+      "sentence": "姑娘假装糊涂反问对方",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "老爹爹荣华富贵享多了，耳聋了，眼花了，亲生的女儿不认了，亲生的女儿认不清。",
+      "sentence": "秦相因年老无法辨认亲生女儿",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "秦相说，我二老双亲都在世。",
+      "sentence": "秦相表示自己双亲仍然在世",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "你给何人戴孝身?秦雪梅一听双膝跪，连连把爹爹尊一声。",
+      "sentence": "秦雪梅听闻后立即跪地尊称爹爹",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "孩儿的丈夫命归阴，我应当给他戴孝身。",
+      "sentence": "秦雪梅因丈夫去世而戴孝",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "秦相一听怒气生，大骂黄毛丫头理不通。",
+      "sentence": "秦相听闻后感到非常愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "我经过的世事千千万、没见过黄花女子为夫把孝穿。",
+      "sentence": "秦相表示未见过女子为夫戴孝",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦雪梅含悲开言讲爹爹讲话理不端。",
+      "sentence": "秦雪梅悲伤地向父亲表达不满",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "当年你指腹为婚定的亲，为何今日不认婚尚家送了聘礼来你收人家的头面聘礼为哪宗。",
+      "sentence": "秦雪梅质问父亲为何不认婚约",
+      "behavior_type": 7
+    },
+    {
+      "role": "秦相",
+      "original_sentence": "当年你指腹为婚定的亲，为何今日不认婚尚家送了聘礼来你收人家的头面聘礼为哪宗。",
+      "sentence": "秦相收下尚家聘礼却不认亲",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "既然你收了尚家的礼，这门亲事就妥当定。",
+      "sentence": "秦雪梅指出亲事已定",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "丈夫死了妻戴孝，名既正来言更顺。",
+      "sentence": "秦雪梅为亡夫戴孝名正言顺",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "秦相一听大声骂，丫头不听老子的话。",
+      "sentence": "秦相听到后大声责骂女儿",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "你今日吊孝往尚家里去日头打从西边出。",
+      "sentence": "秦雪梅今日前往尚家吊孝",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "你今日吊孝往尚家里去门缝里的太阳晒死你。",
+      "sentence": "秦相指责女儿前往尚家吊孝",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你今日吊孝尚家里去，烧火的丫头也能当皇姑。",
+      "sentence": "烧火丫头不可能成为皇姑",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦雪梅听言高声问，老天爷要掉我丈夫的命，我把老爹爹有一比。",
+      "sentence": "秦雪梅高声质问父亲的话语",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "你把老父比何人?我好比穷守寒窑的王宝钏，你好比嫌贫爱富的王丞相。",
+      "sentence": "秦雪梅将父亲比作王丞相",
+      "behavior_type": 7
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "你把老父比何人?我好比穷守寒窑的王宝钏，你好比嫌贫爱富的王丞相。",
+      "sentence": "秦雪梅自比王宝钏",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "今日里你若不让女儿去吊孝，我誓随尚公子一同到阴间。",
+      "sentence": "秦雪梅誓要随尚公子同赴阴间",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "我把你个小奴才，说话如此出狂言。",
+      "sentence": "秦相指责奴才说话出狂言",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "老父我是为你好，一片好心你不见今日不听老父言日后必定受栖惶。",
+      "sentence": "秦相劝告女儿日后必定受栖惶",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "父女们吵吵嚷嚷无了断丞相夫人听见动静到二堂。",
+      "sentence": "秦相与女儿持续争吵不休",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "父女们吵吵嚷嚷无了断丞相夫人听见动静到二堂。",
+      "sentence": "丞相夫人闻声前来查看情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦奶奶",
+      "original_sentence": "秦奶奶本是个有义人施一礼叫丞相仔细听。",
+      "sentence": "秦奶奶向丞相行礼并请他仔细听",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "女儿与尚公子婚约在先今日里去吊孝本在情理中。",
+      "sentence": "秦雪梅认为吊孝符合情理",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "吊孝完毕早回程也让女儿表表心。",
+      "sentence": "秦雪梅吊孝完毕后应尽早返回",
+      "behavior_type": 4
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "吊孝完毕早回程也让女儿表表心。",
+      "sentence": "秦雪梅表达自己的心意",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "秦奶奶",
+      "original_sentence": "你不让女儿去吊孝跳河落井一场空女儿有个好和歹你我在世枉为人秦相听言不高兴，叫声夫人你当听。",
+      "sentence": "秦奶奶劝秦相允许女儿去吊孝",
+      "behavior_type": 7
+    },
+    {
+      "role": "秦相",
+      "original_sentence": "你不让女儿去吊孝跳河落井一场空女儿有个好和歹你我在世枉为人秦相听言不高兴，叫声夫人你当听。",
+      "sentence": "秦相对夫人的话感到不高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "女儿尚未娶过门，穿白戴孝怎能成。",
+      "sentence": "秦相认为女儿穿孝不合礼仪",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "为父我在朝官一品，丢人腆脸怎见人。",
+      "sentence": "秦相因丢脸而感到愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "夫人开口把老爷尊，雪梅吊孝行为正，雪梅生来是贤良女。",
+      "sentence": "秦雪梅吊孝行为正当合理",
+      "behavior_type": 12
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "夫人开口把老爷尊，雪梅吊孝行为正，雪梅生来是贤良女。",
+      "sentence": "秦雪梅生来就是贤良女",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "前去吊孝留芳名。",
+      "sentence": "秦雪梅前去吊孝以留芳名",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "秦老爷开言罢、罢、罢，老父今日依你们。",
+      "sentence": "秦相最终同意依从他们的请求",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吊孝完毕快回家，谨防另把枝节生。",
+      "sentence": "吊孝完毕后应尽快返回家中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "女儿尚府去吊考还须把祭奠礼品办齐整。",
+      "sentence": "女儿尚府去吊考需备齐祭奠礼品",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "各样的丧物都办好相府的礼数要周全。",
+      "sentence": "秦相府将丧事礼品准备周全",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "秦相听言默应允叫家人赶紧把祭丧礼物办齐整。",
+      "sentence": "秦相听闻后立即同意家人准备祭品",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一溜子开路鬼灯走前面，童男女打的是引魂幡。",
+      "sentence": "开路鬼灯走在队伍的最前面",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "一溜子开路鬼灯走前面，童男女打的是引魂幡。",
+      "sentence": "童男女手持引魂幡跟随其后",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "金斗银斗带得全，箱笼物件都齐全。",
+      "sentence": "金斗银斗和箱笼物件都已准备齐全",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吊丧人马起了身，浩浩荡荡真威风。",
+      "sentence": "吊丧队伍开始出发前往目的地",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夫人坐的大红轿.红罗伞盖红绫幔。",
+      "sentence": "夫人乘坐着装饰华丽的大红轿",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "姑娘坐的是素白轿，白绸伞盖白绫幔。",
+      "sentence": "姑娘乘坐素白轿子",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "金银纸镍车上拉.烧纸奠酒全带上。",
+      "sentence": "金银纸镍被装载在车上运输",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "金银纸镍车上拉.烧纸奠酒全带上。",
+      "sentence": "烧纸和奠酒全部被携带上路",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦雪梅只哭得泪流满面，恨只恨天拆散恩爱姻缘。",
+      "sentence": "秦雪梅因姻缘被拆而痛哭流涕",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "前世里我烧了断头折香，红喜事变作了丧事来办。",
+      "sentence": "秦雪梅将红喜事变为丧事办理",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "哭丈夫你死得实在凄惨，丢下我秦雪梅孤苦可怜。",
+      "sentence": "秦雪梅因丈夫去世感到孤苦可怜",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "只怨我红颜女多情命薄，一辈子再不能鸾凤佼合。",
+      "sentence": "秦雪梅感叹自己命薄情多",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦小姐正哭得肝肠寸断，不多时来在了尚府门前。",
+      "sentence": "秦雪梅因悲伤而痛哭流涕",
+      "behavior_type": 2
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦小姐正哭得肝肠寸断，不多时来在了尚府门前。",
+      "sentence": "秦雪梅来到尚府门前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "人役们伺候姑娘下了轿，嚎哭着来到灵堂把纸烧。",
+      "sentence": "秦雪梅嚎哭着来到灵堂烧纸",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "金纸银镍火烧化，两股子眼泪似水淌。",
+      "sentence": "秦雪梅烧纸时泪流不止",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "丈夫，火好比临崖树遇狂风须根刮断，椒好比牡丹花黑霜杀干。",
+      "sentence": "秦雪梅悲痛欲绝地悼念丈夫",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "奴好比百合花未曾开绽没开花没结子花落平川。",
+      "sentence": "秦雪梅感叹自己命运多舛",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这才是人祸福旦夕难防正行船起狂风打落长江。",
+      "sentence": "祸福旦夕难以预料",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "好鸟儿遇鹞子命丧黄泉夫在阴妻在阳好不心酸。",
+      "sentence": "秦雪梅因丈夫去世感到心酸",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "好鸳鸯遇黄鹰一口咬断，夫在阴妻在阳好不难肠。",
+      "sentence": "鸳鸯遇鹰被咬断阴阳两隔",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦小姐直哭得天摇地动众丧官灵桌前雨泪纷纷。",
+      "sentence": "秦雪梅在灵桌前痛哭流涕",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这个说金弹子打落比翼鸟那个说兰桥担水落凄惨。",
+      "sentence": "有人用金弹子打落比翼鸟",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "这个说金弹子打落比翼鸟那个说兰桥担水落凄惨。",
+      "sentence": "有人用兰桥担水形容凄惨",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这个说水蛇冲散比目鱼那个说快刀子斩断两缕丝。",
+      "sentence": "水蛇冲散了比目鱼",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "这个说水蛇冲散比目鱼那个说快刀子斩断两缕丝。",
+      "sentence": "快刀斩断了两缕丝",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "众丧官灵桌前泪流满面爱玉儿上前来哭泪涟涟。",
+      "sentence": "爱玉儿上前哭泣泪流满面",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "她二人直哭得肝肠裂断，众乡邻一个个眼泪汪汪。",
+      "sentence": "爱玉儿与众人悲伤哭泣不止",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "她二人直哭得肝肠裂断，众乡邻一个个眼泪汪汪。",
+      "sentence": "众乡邻因悲伤而纷纷落泪",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦雪梅见爱玉哭动真情，回头问小女子你是何人?我哭我的丈夫是正理，你在灵前哭何人。",
+      "sentence": "秦雪梅询问爱玉为何哭泣",
+      "behavior_type": 7
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦雪梅见爱玉哭动真情，回头问小女子你是何人?我哭我的丈夫是正理，你在灵前哭何人。",
+      "sentence": "秦雪梅质疑爱玉哭泣原因",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "爱玉儿跪在地埃尘，连连把姐姐尊几声。",
+      "sentence": "爱玉儿跪在地上称呼姐姐",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "叫姐姐你打坐灵堂外，听我把尚家事细表细明。",
+      "sentence": "爱玉儿向秦雪梅讲述尚家事情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "我不说来你不知，我不表来你不明。",
+      "sentence": "爱玉儿向秦雪梅说明尚家情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "想从前尚家里时运不顺把家财三起儿大火焚尽。",
+      "sentence": "尚家曾遭遇三次大火损失惨重",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "多亏了你母亲大德贤人、送公子秦府里念读五经。",
+      "sentence": "尚公子在秦府里念读五经",
+      "behavior_type": 7
+    },
+    {
+      "role": "秦奶奶",
+      "original_sentence": "多亏了你母亲大德贤人、送公子秦府里念读五经。",
+      "sentence": "秦奶奶送公子去秦府念书",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "书馆里你二人见了面、尚公子一场大病缠定身。",
+      "sentence": "尚公子在书馆见面后染上重病",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "你父亲老丞相心肠太狠，他不允尚公子与你成亲。",
+      "sentence": "秦相拒绝尚公子与女儿成亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦相",
+      "original_sentence": "他原说公子若是得高中，他才允你二人成事结亲。",
+      "sentence": "秦相承诺公子高中后允许成亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "尚公子若不把状元中、相聚结亲万不能。",
+      "sentence": "尚公子若未中状元则不能成亲",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "尚奶奶",
+      "original_sentence": "害得那尚奶奶无有计生无奈下要我跟尚公子结亲。",
+      "sentence": "尚奶奶无奈之下决定与尚公子结亲",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "若果是喜事冲散病离身，尚公子皇榜得高中。",
+      "sentence": "尚公子因喜事冲散病离身",
+      "behavior_type": 3
+    },
+    {
+      "role": "尚公子",
+      "original_sentence": "若果是喜事冲散病离身，尚公子皇榜得高中。",
+      "sentence": "尚公子皇榜得高中",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦雪梅为正妻我为偏室，姐妹们还是一家亲。",
+      "sentence": "秦雪梅表示正妻与偏室是一家人",
+      "behavior_type": 7
+    },
+    {
+      "role": "爱玉儿",
+      "original_sentence": "秦雪梅为正妻我为偏室，姐妹们还是一家亲。",
+      "sentence": "爱玉儿表示正妻与偏室是一家人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "伺候了公子三月整，公子的病情减八分。",
+      "sentence": "尚公子的病情明显减轻了",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "忽然一日起事端，公子要与我对诗联。",
+      "sentence": "尚公子突然提出要对诗联",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "梅花篆字讲一遍，要我应答在床前。",
+      "sentence": "尚公子讲述梅花篆字要求应答",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "梅花篆字字要真，爱玉儿听得心胆惊，双膝跪在牙床前，无奈何只得说真情。",
+      "sentence": "爱玉儿听到后感到非常惊恐",
+      "behavior_type": 2
+    },
+    {
+      "role": "爱玉儿",
+      "original_sentence": "梅花篆字字要真，爱玉儿听得心胆惊，双膝跪在牙床前，无奈何只得说真情。",
+      "sentence": "爱玉儿跪在床前说出实情",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "尚公子一听怒冲天，他一心爱的是秦姑娘，我怎能使他称心愿。",
+      "sentence": "尚公子听闻后感到非常愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "一时三刻气脉断，尚公子气死在牙床上。",
+      "sentence": "尚公子因愤怒过度而气绝身亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "美下我爱玉儿可怜人身怀有孕三月整。",
+      "sentence": "爱玉儿身怀有孕已有三月整",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "泰小姐听言敬意生再叫贤妹妹你仔细听。",
+      "sentence": "秦雪梅听后对爱玉儿心生敬意",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "下个儿子了我二人抓养成人，生下个女儿了我娘女三人出家行妹妹二人商议定，秦小姐有话告母亲。",
+      "sentence": "秦雪梅与爱玉儿商议抚养子女",
+      "behavior_type": 7
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "下个儿子了我二人抓养成人，生下个女儿了我娘女三人出家行妹妹二人商议定，秦小姐有话告母亲。",
+      "sentence": "秦雪梅向母亲告知商议结果",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "叫母亲你到秦府里去，想叫我回家去万不能。",
+      "sentence": "秦雪梅告诉母亲她不愿回家",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "我活着就是尚家的人我死了埋在尚家的坟。",
+      "sentence": "秦雪梅誓死忠于尚家家族",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦奶奶",
+      "original_sentence": "秦老太太听言泪满面我女儿真正是烈女之人。",
+      "sentence": "秦老太太听闻后泪流满面",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦老太太",
+      "original_sentence": "女儿的主意你自己定回府去要对你父亲言明。",
+      "sentence": "秦老太太让女儿自行决定主意",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "女儿的主意你自己定回府去要对你父亲言明。",
+      "sentence": "回府后需向父亲说明情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦小姐投入了尚家门恪守妇德遵妇训。",
+      "sentence": "秦雪梅恪守妇德遵从妇训",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "终日里守家做针工二老公婆放宽心。",
+      "sentence": "秦雪梅终日在家做针线活",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "终日里守家做针工二老公婆放宽心。",
+      "sentence": "二老公婆对此感到非常放心",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "按下秦小姐暂不表，再表爱玉儿怀孕的人。",
+      "sentence": "爱玉儿现已怀有身孕",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一月迢迢两月整，三三见九十月春。",
+      "sentence": "时间流逝共计十月整",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "爱玉儿怀胎九月满、生下个男童万丈的根。",
+      "sentence": "爱玉儿怀孕九月后生下一男童",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "爱玉儿坐月一月整，乡党六亲把喜恭。",
+      "sentence": "爱玉儿坐月子已满一个月整",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "爱玉儿坐月一月整，乡党六亲把喜恭。",
+      "sentence": "乡党六亲前来祝贺喜得贵子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大家盘端一个宝，金锁银绳摆盘中。",
+      "sentence": "大家将宝物放在盘中展示",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "酒席待客一天整、要给孩童起个名起奶名不把别的叫，尚罗儿就是他的名。",
+      "sentence": "酒席待客一天整为孩童起名",
+      "behavior_type": ""
+    },
+    {
+      "role": "尚罗儿",
+      "original_sentence": "酒席待客一天整、要给孩童起个名起奶名不把别的叫，尚罗儿就是他的名。",
+      "sentence": "尚罗儿被命名为孩童的名字",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "从此后秦雪梅狠了心，织布纺纱抓养人。",
+      "sentence": "秦雪梅决心织布纺纱抚养家人",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "抓养孩童七岁整、送到南学里读五经。",
+      "sentence": "秦雪梅将孩童送到南学读五经",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "读书读了两年整是一个勤学上进的好孩童。",
+      "sentence": "尚罗儿勤学上进读书两年整",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "蔡儒魁",
+      "original_sentence": "同学中有一个捣蛋鬼，姓蔡名叫个蔡儒魁。",
+      "sentence": "蔡儒魁是同学中的捣蛋鬼",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "蔡儒魁",
+      "original_sentence": "有一天师父不在学，蔡学生叫声尚罗儿听。",
+      "sentence": "蔡儒魁呼唤尚罗儿前来听讲",
+      "behavior_type": 7
+    },
+    {
+      "role": "尚罗儿",
+      "original_sentence": "有一天师父不在学，蔡学生叫声尚罗儿听。",
+      "sentence": "尚罗儿听到蔡儒魁的呼唤声",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "蔡儒魁",
+      "original_sentence": "趁此时师父出了门，我们何不去玩耍放风筝。",
+      "sentence": "蔡儒魁提议去玩耍放风筝",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "尚罗儿一听怒气生，蔡学生讲话理不通。",
+      "sentence": "尚罗儿听到后感到非常愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "蔡儒魁",
+      "original_sentence": "尚罗儿一听怒气生，蔡学生讲话理不通。",
+      "sentence": "蔡儒魁说话不讲道理",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我家的大妈妈家法严谨，每日里摹字背书查得紧。",
+      "sentence": "大妈妈每日严格检查摹字背书",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "若是学业不用心，我的娘家法不容情。",
+      "sentence": "学业不用心将受到家法处置",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "尚公子",
+      "original_sentence": "尚公子心内把丫鬟怨，奴才们干事太荒唐。",
+      "sentence": "尚公子内心怨恨丫鬟",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "尚公子心内把丫鬟怨，奴才们干事太荒唐。",
+      "sentence": "奴才们做事过于荒唐",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "你本是爱玉儿二娘生下的子，谁把她黄毛女子尊母亲。",
+      "sentence": "尚罗儿指责蔡学生不尊重母亲",
+      "behavior_type": 7
+    },
+    {
+      "role": "蔡儒魁",
+      "original_sentence": "你本是爱玉儿二娘生下的子，谁把她黄毛女子尊母亲。",
+      "sentence": "蔡儒魁辱骂尚罗儿不讲道理",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "你是你爱玉儿二娘亲骨肉，谁把她称起大娘的身。",
+      "sentence": "尚罗儿被指责不尊重爱玉儿",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "你是你爱玉儿二娘亲骨肉，谁把她称起大娘的身。",
+      "sentence": "爱玉儿被指责不配称为大娘",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "尚罗儿一听怒气生，拾上石块动手行，那蔡学生鼻青胎帅。",
+      "sentence": "尚罗儿听闻后感到愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "尚罗儿",
+      "original_sentence": "尚罗儿一听怒气生，拾上石块动手行，那蔡学生鼻青胎帅。",
+      "sentence": "尚罗儿拾起石块攻击",
+      "behavior_type": 9
+    },
+    {
+      "role": "蔡儒魁",
+      "original_sentence": "尚罗儿一听怒气生，拾上石块动手行，那蔡学生鼻青胎帅。",
+      "sentence": "蔡儒魁被打得鼻青脸肿",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "蔡儒魁",
+      "original_sentence": "学生立刻起了身到尚家找大娘告冤情。",
+      "sentence": "蔡儒魁起身前往尚家告状",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "按下蔡学生告状且不表再把秦小姐往前明。",
+      "sentence": "秦雪梅继续向前行进",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦小姐坐机房织布纺线，思想起终身事好不心酸我红颜女儿命穷福淡，终身儿无丈夫好不可怜。",
+      "sentence": "秦雪梅在机房织布纺线",
+      "behavior_type": 10
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦小姐坐机房织布纺线，思想起终身事好不心酸我红颜女儿命穷福淡，终身儿无丈夫好不可怜。",
+      "sentence": "秦雪梅想起终身事感到心酸",
+      "behavior_type": 2
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦小姐坐机房织布纺线，思想起终身事好不心酸我红颜女儿命穷福淡，终身儿无丈夫好不可怜。",
+      "sentence": "秦雪梅感叹自己命运多舛",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦小姐正在把哭声动忽听得庄门上叫骂声尚罗儿你出来说个分明难道说今日我怕你不成。",
+      "sentence": "秦雪梅听到叫骂声感到愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "尚罗儿",
+      "original_sentence": "秦小姐正在把哭声动忽听得庄门上叫骂声尚罗儿你出来说个分明难道说今日我怕你不成。",
+      "sentence": "尚罗儿在庄门外大声叫骂",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "打死我还有弟兄几人打死你尚罗儿斩草除根。",
+      "sentence": "尚罗儿威胁要打死对方并斩草除根",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦小姐听一言心中不忍，急忙里下机房来到庄门。",
+      "sentence": "秦雪梅听闻后立即前往庄门",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦小姐站庄门抬头看观见了小学生站在眼前。",
+      "sentence": "秦雪梅站在庄门前抬头观看",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "秦小姐站庄门抬头看观见了小学生站在眼前。",
+      "sentence": "小学生正站在她的眼前",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "手掌着一块石叫骂不断口口儿骂的是我尚家儿郎。",
+      "sentence": "手持石块不断叫骂尚家儿郎",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦小姐有礼开言道，再叫学生你当听。",
+      "sentence": "秦雪梅礼貌地对学生说话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "我问你是谁家的子，骂我的尚罗儿为何因。",
+      "sentence": "秦雪梅询问学生为何辱骂尚罗儿",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "蔡学生一听双膝儿跪，口尊声少奶奶大娘你听。",
+      "sentence": "蔡学生听闻后立即跪地说话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "蔡儒魁",
+      "original_sentence": "我是蔡家的蔡儒魁，满学的众学生谁人不尊。",
+      "sentence": "蔡儒魁自称是蔡家的学子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "今天师父不在学堂，你的尚罗儿和我们玩耍风筝。",
+      "sentence": "尚罗儿与众人一起放风筝",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "走上前我劝他好好用功、尚罗儿不听劝心肠太狠、打得我头破血流鼻青脸肿。",
+      "sentence": "尚罗儿不听劝告反而殴打他人",
+      "behavior_type": 9
+    },
+    {
+      "role": "蔡儒魁",
+      "original_sentence": "走上前我劝他好好用功、尚罗儿不听劝心肠太狠、打得我头破血流鼻青脸肿。",
+      "sentence": "蔡儒魁被打得头破血流鼻青脸肿",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "蔡儒魁",
+      "original_sentence": "这样儿怎让我回转家门，怎叫我去见那二老双亲。",
+      "sentence": "蔡儒魁因伤无法面对父母",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦雪梅听一言满脸赔笑，叫一声蔡学生细听我言。",
+      "sentence": "秦雪梅听闻后对蔡学生微笑回应",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "我的儿打了你大娘赔情.我妹妹惯养下一个孩童你千万把冤仇不要记在心中。",
+      "sentence": "秦雪梅向蔡学生表示歉意",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "我的儿打了你大娘赔情.我妹妹惯养下一个孩童你千万把冤仇不要记在心中。",
+      "sentence": "妹妹惯养孩童请勿记仇",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "叫丫鬟赶紧端来清水一盆，蔡学生浑身上下洗了个干净。",
+      "sentence": "秦雪梅命丫鬟端来清水一盆",
+      "behavior_type": 13
+    },
+    {
+      "role": "蔡儒魁",
+      "original_sentence": "叫丫鬟赶紧端来清水一盆，蔡学生浑身上下洗了个干净。",
+      "sentence": "蔡儒魁用清水洗净全身",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "好桃酥好点心请你带上，好糖果好饽饽也请享用。",
+      "sentence": "请带上好桃酥和好点心",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "好桃酥好点心请你带上，好糖果好饽饽也请享用。",
+      "sentence": "请享用好糖果和好饽饽",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "好同学千千万不要记恨。",
+      "sentence": "秦雪梅劝蔡同学不要记恨",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "在学堂要和睦好好用功。",
+      "sentence": "秦雪梅劝蔡学生在学堂用功",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "蔡儒魁",
+      "original_sentence": "蔡学生听一言满脸笑容，大娘她果然是贤惠之人。",
+      "sentence": "蔡儒魁听闻后露出满脸笑容",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "蔡学生听一言满脸笑容，大娘她果然是贤惠之人。",
+      "sentence": "大娘展现出贤惠之人的品质",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "蔡学生回学堂再不闹腾，秦雪梅进房来暗自伤心。",
+      "sentence": "蔡学生返回学堂不再闹事",
+      "behavior_type": 4
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "蔡学生回学堂再不闹腾，秦雪梅进房来暗自伤心。",
+      "sentence": "秦雪梅进入房间暗自伤心",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "哭几声我丈夫好不心酸，我的儿南学里闹事生非，照这样闹下去咋还能成。",
+      "sentence": "秦雪梅为丈夫哭泣感到心酸",
+      "behavior_type": 2
+    },
+    {
+      "role": "尚罗儿",
+      "original_sentence": "哭几声我丈夫好不心酸，我的儿南学里闹事生非，照这样闹下去咋还能成。",
+      "sentence": "尚罗儿在学堂闹事行为不当",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "哭几声我丈夫好不心酸，我的儿南学里闹事生非，照这样闹下去咋还能成。",
+      "sentence": "这样闹下去无法取得成就",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "若要是再在学堂闹纠纷，打死人闯下祸谁来担承。",
+      "sentence": "若在学堂闹纠纷会闯下大祸",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦小姐正在哭声动，尚罗儿散了学转回家中。",
+      "sentence": "秦雪梅正在哭泣伤心",
+      "behavior_type": 2
+    },
+    {
+      "role": "尚罗儿",
+      "original_sentence": "秦小姐正在哭声动，尚罗儿散了学转回家中。",
+      "sentence": "尚罗儿放学后回到家中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "见爷爷见奶奶先去问安，行罢礼来站起身，到机房给大娘再把礼行。",
+      "sentence": "尚罗儿向爷爷奶奶问安行礼",
+      "behavior_type": 7
+    },
+    {
+      "role": "尚罗儿",
+      "original_sentence": "见爷爷见奶奶先去问安，行罢礼来站起身，到机房给大娘再把礼行。",
+      "sentence": "尚罗儿起身后向大娘行礼",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "手掌着一块石头聚声娘的儿听娘细问，叫里你干下什么事情，学石为何到娘的手中。",
+      "sentence": "秦雪梅询问儿子所做的事情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "蔡儒魁",
+      "original_sentence": "这儿听言来胆战心惊，非是蔡学生来把状鸣，如此我只好说说分明。",
+      "sentence": "蔡儒魁听闻后感到胆战心惊",
+      "behavior_type": 2
+    },
+    {
+      "role": "蔡儒魁",
+      "original_sentence": "这儿听言来胆战心惊，非是蔡学生来把状鸣，如此我只好说说分明。",
+      "sentence": "蔡儒魁决定将事情说明白",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "口尊大娘你细听，今天是师父他有事出行。",
+      "sentence": "尚罗儿告诉大娘师父有事出行",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "蔡儒魁",
+      "original_sentence": "蔡学生他要我玩耍风筝我不去他那里胡拉乱扯，我不去他那里满口胡说。",
+      "sentence": "蔡儒魁邀请尚罗儿一起放风筝",
+      "behavior_type": 7
+    },
+    {
+      "role": "蔡儒魁",
+      "original_sentence": "蔡学生他要我玩耍风筝我不去他那里胡拉乱扯，我不去他那里满口胡说。",
+      "sentence": "蔡儒魁对尚罗儿胡言乱语",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦雪梅听此言怒气满面蔡学生他说话娘不相信。",
+      "sentence": "秦雪梅听闻后感到愤怒无比",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "有石头在这里当前对证你今儿闯了祸还不跪定。",
+      "sentence": "秦雪梅质问蔡学生为何不跪",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "尚罗儿板凳上双腿跪定秦雪梅拿家法把手来动连打了二十板双腿打肿又是打又是骂心中不忍。",
+      "sentence": "尚罗儿跪在板凳上等待惩罚",
+      "behavior_type": 12
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "尚罗儿板凳上双腿跪定秦雪梅拿家法把手来动连打了二十板双腿打肿又是打又是骂心中不忍。",
+      "sentence": "秦雪梅用家法责打尚罗儿",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "尚罗儿板凳上双腿跪定秦雪梅拿家法把手来动连打了二十板双腿打肿又是打又是骂心中不忍。",
+      "sentence": "秦雪梅对尚罗儿感到不忍",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "常言说兔儿急了也咬人，尚罗儿跳起来开口叫骂，骂大娘你对儿心肠太狠。",
+      "sentence": "尚罗儿愤怒地跳起来叫骂",
+      "behavior_type": 2
+    },
+    {
+      "role": "尚罗儿",
+      "original_sentence": "常言说兔儿急了也咬人，尚罗儿跳起来开口叫骂，骂大娘你对儿心肠太狠。",
+      "sentence": "尚罗儿指责大娘心肠太狠",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "我本是二娘生你不心疼谁把你黄毛女子尊娘亲。",
+      "sentence": "尚罗儿指责大娘不心疼自己",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我爷爷我奶奶对我最疼，见孙儿先把我搂抱怀中。",
+      "sentence": "爷爷奶奶对孙儿十分疼爱",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "我二娘爱玉儿亲生母亲，见我面问寒问暖爱得深。",
+      "sentence": "爱玉儿对尚罗儿关怀备至",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "一家人只有你大娘狠心，先写字后背书不肯放松。",
+      "sentence": "秦雪梅严格要求尚罗儿学习",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "尚罗儿吵闹得出言不逊，秦雪梅昏沉沉倒在房中。",
+      "sentence": "尚罗儿出言不逊吵闹不休",
+      "behavior_type": 7
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "尚罗儿吵闹得出言不逊，秦雪梅昏沉沉倒在房中。",
+      "sentence": "秦雪梅因情绪激动昏倒房中",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "爱玉儿厨房里正把饭做，忽听得机房中吵嚷之声急忙忙要去看个究竟，转过身来到了机房门。",
+      "sentence": "爱玉儿从厨房走向机房查看情况",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "停步抬头观着看.观见的尚罗儿泪流满面。",
+      "sentence": "尚罗儿泪流满面情绪激动",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "把姐姐气倒在机房中。",
+      "sentence": "尚罗儿将秦雪梅气倒在机房中",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "手指尚罗儿将他骂，骂一声你这个小畜生。",
+      "sentence": "爱玉儿用手指着尚罗儿并责骂他",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "你大娘教训你要听要从，你为何将大娘立刻气昏。",
+      "sentence": "尚罗儿不听大娘教训气昏了她",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "急忙忙取水往脸上喷，连把姐姐叫几声。",
+      "sentence": "爱玉儿急忙取水喷在脸上",
+      "behavior_type": 13
+    },
+    {
+      "role": "爱玉儿",
+      "original_sentence": "急忙忙取水往脸上喷，连把姐姐叫几声。",
+      "sentence": "爱玉儿连声呼唤姐姐",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "叫姐姐多归阳来少归阴，阳间好日子还好过，鬼门关前实难行。",
+      "sentence": "尚罗儿劝姐姐珍惜阳间生活",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦小姐正走阴曹的路，忽听得耳内里有人声。",
+      "sentence": "秦雪梅在阴间路上听到人声",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "昏沉沉半日里才苏醒，观见的爱玉儿在眼前，双膝儿跪倒地埃尘。",
+      "sentence": "秦雪梅昏迷半日后终于苏醒",
+      "behavior_type": 3
+    },
+    {
+      "role": "爱玉儿",
+      "original_sentence": "昏沉沉半日里才苏醒，观见的爱玉儿在眼前，双膝儿跪倒地埃尘。",
+      "sentence": "爱玉儿跪在秦雪梅的面前",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "常言说哪个犊儿不抵母，你慢慢儿教训这个小畜生。",
+      "sentence": "常言说孩子不反抗母亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦小姐一听眼流泪，再叫贤妹妹你细听。",
+      "sentence": "秦雪梅听到后流下了眼泪",
+      "behavior_type": 2
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦小姐一听眼流泪，再叫贤妹妹你细听。",
+      "sentence": "秦雪梅呼唤妹妹仔细倾听",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "今儿我回上娘家里去，伺候我的爹娘乐修行，再不管你尚罗儿成人不成人。",
+      "sentence": "今日返回娘家侍奉双亲",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "爱玉儿",
+      "original_sentence": "爱玉儿一听满面泪再叫姐姐你细听你今儿回上娘家里去你妹妹跟你同路儿行。",
+      "sentence": "爱玉儿听闻后满面泪水",
+      "behavior_type": 2
+    },
+    {
+      "role": "爱玉儿",
+      "original_sentence": "爱玉儿一听满面泪再叫姐姐你细听你今儿回上娘家里去你妹妹跟你同路儿行。",
+      "sentence": "爱玉儿请求与姐姐同行",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "版人伺候你的爹娘乐修行，不管他尚罗儿成人不成人。",
+      "sentence": "秦雪梅决定回娘家照顾父母",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "版人伺候你的爹娘乐修行，不管他尚罗儿成人不成人。",
+      "sentence": "不再关心尚罗儿是否成人",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "尚罗儿一听着了忙，转步来到上房中。",
+      "sentence": "尚罗儿听闻后急忙走进上房",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "走上前去双膝跪连把奶奶尊一声。",
+      "sentence": "尚罗儿跪地向奶奶行礼",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "尚奶奶",
+      "original_sentence": "尚奶奶抬头观着看，观见孙儿泪淋淋。",
+      "sentence": "尚奶奶抬头看见孙儿泪流满面",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "尚奶奶",
+      "original_sentence": "孙儿，莫非你在南学里书不会，大娘教训你的身。",
+      "sentence": "尚奶奶询问孙儿是否学业有困难",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "尚罗儿说，不是我在南学里书不会，你孙儿南学里闯祸行。",
+      "sentence": "尚罗儿解释自己并非不会读书",
+      "behavior_type": 7
+    },
+    {
+      "role": "尚罗儿",
+      "original_sentence": "尚罗儿说，不是我在南学里书不会，你孙儿南学里闯祸行。",
+      "sentence": "尚罗儿在南学里闯祸了",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "回家里大娘教训我的身又是打又是骂心中不忍。",
+      "sentence": "尚罗儿被大娘打骂心中不忍",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "常言说兔儿急了也咬人我把大娘顶撞得过分了，把大娘气死在机房中，昏迷半晌才苏醒。",
+      "sentence": "尚罗儿顶撞大娘导致其气死",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "转来了二娘火上浇油的人两娘要回上秦府娘家里去再不管你的孙儿成人不成人。",
+      "sentence": "二娘火上浇油要回秦府去",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "尚奶奶",
+      "original_sentence": "尚奶奶一听怒气生，领上孙儿就起身。",
+      "sentence": "尚奶奶听闻后感到非常愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "尚奶奶",
+      "original_sentence": "尚奶奶一听怒气生，领上孙儿就起身。",
+      "sentence": "尚奶奶带着孙儿立即离开",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "正步走来不怠慢，转步来到机房中。",
+      "sentence": "正步走来不怠慢转步来到机房",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "尚奶奶",
+      "original_sentence": "手指着大娘叫着问，即就是孙儿南学不用功，你慢幔儿救训要耐心，你打我的孙儿想的什么心。",
+      "sentence": "尚奶奶质问大娘为何打孙儿",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "常言说寡妇之人心肠硬，你的心跟生铁一般同。",
+      "sentence": "寡妇心肠坚硬如同生铁一般",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尚奶奶",
+      "original_sentence": "莫非你是上方的铁扫帚，扫掉我尚家一苗根。",
+      "sentence": "尚奶奶指责对方伤害尚家后代",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尚奶奶",
+      "original_sentence": "我看你泰然自若心太狠，我尚家老婆子也不是省油的灯。",
+      "sentence": "尚奶奶认为对方心肠太狠",
+      "behavior_type": 2
+    },
+    {
+      "role": "尚奶奶",
+      "original_sentence": "我看你泰然自若心太狠，我尚家老婆子也不是省油的灯。",
+      "sentence": "尚奶奶表示自己不是好惹的",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尚奶奶",
+      "original_sentence": "我尚府不是你家的菜园园，随来随去由你便。",
+      "sentence": "尚奶奶指责对方随意进出尚府",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "我今儿打坐在柴门上，我看你秦雪梅怎么行。",
+      "sentence": "秦雪梅在柴门前静坐观察",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "正当婆媳们较了真，上房里惊动了尚老公。",
+      "sentence": "婆媳争执惊动了尚老公",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "尚大人手扶拐杖起了身转步来到机房中。",
+      "sentence": "尚大人起身后转步来到机房中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "尚奶奶",
+      "original_sentence": "叫儿妻你不可回到娘家里去要抓养我的孙儿长成人有一日我的孙儿跳龙门他有名来你有功。",
+      "sentence": "尚奶奶要求儿妻抚养孙儿成人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "你今儿回到娘家里去九年的苦功没半分秦雪梅泪纷纷，听罢言来转回心。",
+      "sentence": "秦雪梅听闻后感到悲伤而流泪",
+      "behavior_type": 2
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "你今儿回到娘家里去九年的苦功没半分秦雪梅泪纷纷，听罢言来转回心。",
+      "sentence": "秦雪梅听后改变了原本的想法",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "二次把尚罗儿送到南学念五经，尚罗儿发愤读书三年整，四书五经读了个通。",
+      "sentence": "尚罗儿发愤读书三年整",
+      "behavior_type": 5
+    },
+    {
+      "role": "尚罗儿",
+      "original_sentence": "二次把尚罗儿送到南学念五经，尚罗儿发愤读书三年整，四书五经读了个通。",
+      "sentence": "尚罗儿通读四书五经",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "万岁天子开考场，调考天下的读书郎。",
+      "sentence": "天子开设考场选拔读书人才",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "尚罗儿要把考场进，回到家中禀母亲。",
+      "sentence": "尚罗儿准备进入考场回家禀告母亲",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "万岁天子开考场，儿要赶考取功名。",
+      "sentence": "尚罗儿准备前往考场参加考试",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "儿若能皇榜得商中。",
+      "sentence": "尚罗儿希望能在皇榜中得名",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "回家来光宗耀祖换门庭。",
+      "sentence": "尚罗儿回家光宗耀祖换门庭",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "泰雪梅一听多高兴，再叫我儿你细听。",
+      "sentence": "秦雪梅听闻后感到非常高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "泰雪梅一听多高兴，再叫我儿你细听。",
+      "sentence": "秦雪梅让儿子仔细听她说话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "只要你跳过龙门坎，金榜商中你有功名泰雪梅斟起双杯酒，递与我儿手当中。",
+      "sentence": "秦雪梅为尚罗儿斟酒并递给他",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "你饮上为娘的双杯酒为娘有言对你明。",
+      "sentence": "秦雪梅递酒并言明心意",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "爷爷奶奶年纪老，一双寡母无依靠。",
+      "sentence": "爷爷奶奶年纪大且无依靠",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "你考上状元早回程，一家人全靠你的身。",
+      "sentence": "秦雪梅嘱咐儿子早日衣锦还乡",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "尚罗儿一一记在心，母亲不要挂心中。",
+      "sentence": "尚罗儿牢记母亲的叮嘱",
+      "behavior_type": 5
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "尚罗儿一一记在心，母亲不要挂心中。",
+      "sentence": "秦雪梅告诉儿子不要担心",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "娘儿们喧谈到天色晚红日滚滚落西山。",
+      "sentence": "天色渐晚红日已落西山",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一夜五更天明亮东海里闪出太阳光。",
+      "sentence": "一夜过后太阳从东海升起",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "尚罗儿净罢手脸用罢饭，槽头上拉过银鬃马，一家人将他送出门。",
+      "sentence": "尚罗儿净手洗脸后用饭",
+      "behavior_type": 1
+    },
+    {
+      "role": "尚罗儿",
+      "original_sentence": "尚罗儿净罢手脸用罢饭，槽头上拉过银鬃马，一家人将他送出门。",
+      "sentence": "尚罗儿从槽头拉过银鬃马",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "尚罗儿净罢手脸用罢饭，槽头上拉过银鬃马，一家人将他送出门。",
+      "sentence": "一家人送尚罗儿出门远行",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦雪梅对儿开言说为娘有言对你明你今日穿的淡蓝衫回来时盼儿蟒袍玉带穿在身。",
+      "sentence": "秦雪梅对儿子说明自己的期望",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "你今日戴的万字巾，闲花野草真好看层层叠叠耐人观自幼儿南学里把书念全不晓城外景致真清闲走过曲曲弯弯的流水道坡坡涧涧长黄蒿打柴的樵夫山头绕，放羊的牧童儿乐逍遥。",
+      "sentence": "尚罗儿回忆南学读书时的城外景致",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "你今日戴的万字巾，闲花野草真好看层层叠叠耐人观自幼儿南学里把书念全不晓城外景致真清闲走过曲曲弯弯的流水道坡坡涧涧长黄蒿打柴的樵夫山头绕，放羊的牧童儿乐逍遥。",
+      "sentence": "走过曲曲弯弯的流水道",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "你今日戴的万字巾，闲花野草真好看层层叠叠耐人观自幼儿南学里把书念全不晓城外景致真清闲走过曲曲弯弯的流水道坡坡涧涧长黄蒿打柴的樵夫山头绕，放羊的牧童儿乐逍遥。",
+      "sentence": "坡坡涧涧长满了黄蒿",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "你今日戴的万字巾，闲花野草真好看层层叠叠耐人观自幼儿南学里把书念全不晓城外景致真清闲走过曲曲弯弯的流水道坡坡涧涧长黄蒿打柴的樵夫山头绕，放羊的牧童儿乐逍遥。",
+      "sentence": "打柴的樵夫在山头绕",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "你今日戴的万字巾，闲花野草真好看层层叠叠耐人观自幼儿南学里把书念全不晓城外景致真清闲走过曲曲弯弯的流水道坡坡涧涧长黄蒿打柴的樵夫山头绕，放羊的牧童儿乐逍遥。",
+      "sentence": "放羊的牧童儿乐逍遥",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "獐子麋鹿穿山过岩猴儿玩耍古树梢。",
+      "sentence": "獐子麋鹿穿过山岩猴儿玩耍",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "跋山涉水走了一月整这才来到北京燕山城。",
+      "sentence": "尚罗儿跋山涉水来到北京城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "远看城墙高三丈，近看帅旗抖威风。",
+      "sentence": "城墙高耸入云帅旗迎风飘扬",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一个垛口一哨兵，十个垛口一营兵。",
+      "sentence": "城墙垛口上布满了哨兵",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "城相俊，城相明鲁班爷修下的桥三孔。",
+      "sentence": "鲁班爷修建了三孔桥",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "马踩吊桥如雷吼，穿进了皇家的砖包城进城去，住进了招商店招商店里把身安。",
+      "sentence": "马匹快速穿过吊桥进入城内",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "马踩吊桥如雷吼，穿进了皇家的砖包城进城去，住进了招商店招商店里把身安。",
+      "sentence": "他们在招商店里安顿下来",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "考场进了七日整考官着实严格得彻。",
+      "sentence": "考生在考场内停留了七天",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "五发爷亲自来阅卷，看了尚罗儿的八篇文。",
+      "sentence": "五发爷亲自审阅尚罗儿的文章",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "锦绣文章耐人观，万岁爷观罢心喜欢。",
+      "sentence": "万岁爷对尚罗儿的文章感到喜欢",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "状元点到浙江城，尚罗儿点的是头一名。",
+      "sentence": "尚罗儿被点中浙江城头名状元",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "京城里夸官拜客十天整万岁爷打发他回乡祭祖宗。",
+      "sentence": "尚罗儿在京城夸官拜客十天整",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "京城里夸官拜客十天整万岁爷打发他回乡祭祖宗。",
+      "sentence": "万岁爷命他回乡祭拜祖宗",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "文武百官夹道迎五彩蟒袍穿身上，一品的纱帽悬头顶。",
+      "sentence": "尚罗儿身穿五彩蟒袍头戴纱帽",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "赐给他玉带系腰间凤冠霞帔赐母亲。",
+      "sentence": "尚罗儿获得玉带系于腰间",
+      "behavior_type": 8
+    },
+    {
+      "role": "尚奶奶",
+      "original_sentence": "赐给他玉带系腰间凤冠霞帔赐母亲。",
+      "sentence": "尚奶奶被赐予凤冠霞帔",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "又赐了八抬轿一顶，还有六百御林兵。",
+      "sentence": "尚罗儿获赐八抬轿和御林兵",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "走到州里州官接，走到县里县官迎。",
+      "sentence": "尚罗儿在州里县里受到官员迎接",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "黄土垫街清水洒，路旁搭起歇凉棚。",
+      "sentence": "黄土垫街清水洒路旁搭起凉棚",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "家家门上香烛摆，献花献酒接贵人。",
+      "sentence": "家家户户摆放香烛迎接贵人",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "整整走了三月整，转步来到浙江城。",
+      "sentence": "经过三个月长途跋涉到达浙江城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人马扎在校场里，尚罗儿来到尚府门。",
+      "sentence": "人马驻扎在校场里面",
+      "behavior_type": 4
+    },
+    {
+      "role": "尚罗儿",
+      "original_sentence": "人马扎在校场里，尚罗儿来到尚府门。",
+      "sentence": "尚罗儿抵达尚府门口",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "门神护卫齐拜过，三代的先祖拜得真。",
+      "sentence": "尚罗儿虔诚地拜祭三代先祖",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "再拜爷爷奶奶年长的人，拜罢爷爷奶奶拜母亲。",
+      "sentence": "尚罗儿依次向长辈行礼",
+      "behavior_type": 12
+    },
+    {
+      "role": "尚罗儿",
+      "original_sentence": "再拜爷爷奶奶年长的人，拜罢爷爷奶奶拜母亲。",
+      "sentence": "尚罗儿向母亲行礼",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦雪梅见儿泪淋淋叫声我儿你细听当初教子我心太狠打你驾你盼你成人如今你鲤鱼跳龙门母亲我给你把罪请尚罗儿一听双膝跪忙把母亲尊一声想从前冤家年幼不懂事母亲你含辛茹苦把我养成人。",
+      "sentence": "秦雪梅见到儿子泪流满面",
+      "behavior_type": 2
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦雪梅见儿泪淋淋叫声我儿你细听当初教子我心太狠打你驾你盼你成人如今你鲤鱼跳龙门母亲我给你把罪请尚罗儿一听双膝跪忙把母亲尊一声想从前冤家年幼不懂事母亲你含辛茹苦把我养成人。",
+      "sentence": "秦雪梅告诉儿子要仔细听",
+      "behavior_type": 7
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦雪梅见儿泪淋淋叫声我儿你细听当初教子我心太狠打你驾你盼你成人如今你鲤鱼跳龙门母亲我给你把罪请尚罗儿一听双膝跪忙把母亲尊一声想从前冤家年幼不懂事母亲你含辛茹苦把我养成人。",
+      "sentence": "秦雪梅当初教子心太狠",
+      "behavior_type": 10
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦雪梅见儿泪淋淋叫声我儿你细听当初教子我心太狠打你驾你盼你成人如今你鲤鱼跳龙门母亲我给你把罪请尚罗儿一听双膝跪忙把母亲尊一声想从前冤家年幼不懂事母亲你含辛茹苦把我养成人。",
+      "sentence": "秦雪梅打你盼你成人",
+      "behavior_type": 10
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦雪梅见儿泪淋淋叫声我儿你细听当初教子我心太狠打你驾你盼你成人如今你鲤鱼跳龙门母亲我给你把罪请尚罗儿一听双膝跪忙把母亲尊一声想从前冤家年幼不懂事母亲你含辛茹苦把我养成人。",
+      "sentence": "秦雪梅如今为你请罪",
+      "behavior_type": 10
+    },
+    {
+      "role": "尚罗儿",
+      "original_sentence": "秦雪梅见儿泪淋淋叫声我儿你细听当初教子我心太狠打你驾你盼你成人如今你鲤鱼跳龙门母亲我给你把罪请尚罗儿一听双膝跪忙把母亲尊一声想从前冤家年幼不懂事母亲你含辛茹苦把我养成人。",
+      "sentence": "尚罗儿双膝跪地尊母亲",
+      "behavior_type": 13
+    },
+    {
+      "role": "尚罗儿",
+      "original_sentence": "秦雪梅见儿泪淋淋叫声我儿你细听当初教子我心太狠打你驾你盼你成人如今你鲤鱼跳龙门母亲我给你把罪请尚罗儿一听双膝跪忙把母亲尊一声想从前冤家年幼不懂事母亲你含辛茹苦把我养成人。",
+      "sentence": "尚罗儿回忆从前不懂事",
+      "behavior_type": 5
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦雪梅见儿泪淋淋叫声我儿你细听当初教子我心太狠打你驾你盼你成人如今你鲤鱼跳龙门母亲我给你把罪请尚罗儿一听双膝跪忙把母亲尊一声想从前冤家年幼不懂事母亲你含辛茹苦把我养成人。",
+      "sentence": "秦雪梅含辛茹苦养儿子",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "母亲养儿费尽心你是拉捞儿子有功的人。",
+      "sentence": "尚罗儿感激母亲养育之恩",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "秦雪梅闻听笑开颜真是个知书达理的好儿郎。",
+      "sentence": "秦雪梅听闻后感到非常高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "尚罗儿奉上凤冠帔让母亲穿，子贵母荣得安然。",
+      "sentence": "尚罗儿为母亲奉上凤冠帔",
+      "behavior_type": 13
+    },
+    {
+      "role": "秦雪梅",
+      "original_sentence": "尚罗儿奉上凤冠帔让母亲穿，子贵母荣得安然。",
+      "sentence": "秦雪梅因儿子显贵而心安",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "拜罢一家人不怠慢，乡党户族都拜遍。",
+      "sentence": "拜遍乡党户族不怠慢",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "又到坟茔里焚黄经整整忙了一月整。",
+      "sentence": "在坟茔里焚黄经忙碌了整整一月",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "周济了些子穷亲戚，尚罗儿把家产齐舍尽。",
+      "sentence": "尚罗儿将家产全部施舍给穷亲戚",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "临完了坐上八抬轿，浙江百姓们送出城。",
+      "sentence": "浙江百姓们将八抬轿送出城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "一路风光一路景，来到北京燕山城。",
+      "sentence": "尚罗儿一路欣赏风景来到北京城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "尚罗儿",
+      "original_sentence": "尚罗儿到京不怠慢来到万岁爷的金殿上口呼万岁、万岁、万万岁尚罗儿探乡完毕回朝纲万岁爷听言多高兴宣来了尚家把官封。",
+      "sentence": "尚罗儿向万岁爷行礼并呼万岁",
+      "behavior_type": 7
+    },
+    {
+      "role": "尚罗儿",
+      "original_sentence": "尚罗儿到京不怠慢来到万岁爷的金殿上口呼万岁、万岁、万万岁尚罗儿探乡完毕回朝纲万岁爷听言多高兴宣来了尚家把官封。",
+      "sentence": "尚罗儿完成探亲返回朝纲",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "尚罗儿到京不怠慢来到万岁爷的金殿上口呼万岁、万岁、万万岁尚罗儿探乡完毕回朝纲万岁爷听言多高兴宣来了尚家把官封。",
+      "sentence": "万岁爷听闻后感到非常高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "尚罗儿到京不怠慢来到万岁爷的金殿上口呼万岁、万岁、万万岁尚罗儿探乡完毕回朝纲万岁爷听言多高兴宣来了尚家把官封。",
+      "sentence": "万岁爷宣召尚家前来受封",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尚奶奶",
+      "original_sentence": "爷爷奶奶不往别处封，养老宫里受皇恩。",
+      "sentence": "尚奶奶在养老宫接受皇恩",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一双母亲不往别处封，一品当朝的贤夫人。",
+      "sentence": "母亲被封为一品贤夫人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要招东床驸马公，二十四拜谢主恩。",
+      "sentence": "要招东床驸马公谢主恩",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "功名记到朝廷里，贤明表在牌坊中。",
+      "sentence": "功名被记录在朝廷之中",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "功名记到朝廷里，贤明表在牌坊中。",
+      "sentence": "贤明被表彰在牌坊之上",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "秦雪梅",
+      "original_sentence": "走路的君子念一遍，秦雪梅教子有功勋。",
+      "sentence": "秦雪梅因教子有功获得表彰",
+      "behavior_type": 10
+    }
+  ]
+]

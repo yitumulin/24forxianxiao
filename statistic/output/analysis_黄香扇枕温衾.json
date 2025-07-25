@@ -1,0 +1,38 @@
+[
+  {
+    "roleName": "黄香",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 2,
+      "10": 10,
+      "2": 8,
+      "7": 3,
+      "5": 4,
+      "1": 2,
+      "11": 1,
+      "12": 1,
+      "13": 4
+    },
+    "total_sentences": 35,
+    "entropy": 2.7871639183439063
+  },
+  {
+    "roleName": "黄父",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "2": 3,
+      "7": 1
+    },
+    "total_sentences": 4,
+    "entropy": 0.8112781244591328
+  },
+  {
+    "roleName": "刘护",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 1
+    },
+    "total_sentences": 1,
+    "entropy": 0.0
+  }
+]

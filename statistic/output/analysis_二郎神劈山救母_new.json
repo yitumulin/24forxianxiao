@@ -1,0 +1,88 @@
+[
+  {
+    "roleName": "玉帝",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "8": 1,
+      "2": 1,
+      "10": 1,
+      "7": 3,
+      "3": 2
+    },
+    "total_sentences": 8,
+    "entropy": 2.1556390622295662
+  },
+  {
+    "roleName": "二郎神",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "14": 5,
+      "1": 10,
+      "13": 8,
+      "9": 8,
+      "2": 7,
+      "4": 34,
+      "12": 2,
+      "10": 4,
+      "7": 19,
+      "3": 2,
+      "5": 5,
+      "11": 1,
+      "8": 1,
+      "6": 1
+    },
+    "total_sentences": 107,
+    "entropy": 3.0987155311666594
+  },
+  {
+    "roleName": "斧王庙老妖",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "13": 2,
+      "12": 2,
+      "11": 5,
+      "2": 2,
+      "4": 2,
+      "6": 2,
+      "1": 1
+    },
+    "total_sentences": 16,
+    "entropy": 2.649397470347699
+  },
+  {
+    "roleName": "王母娘娘",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 3,
+      "2": 3
+    },
+    "total_sentences": 6,
+    "entropy": 1.0
+  },
+  {
+    "roleName": "云华仙女",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "4": 1,
+      "3": 3,
+      "2": 5,
+      "6": 3,
+      "1": 1,
+      "7": 3,
+      "11": 1,
+      "12": 1
+    },
+    "total_sentences": 18,
+    "entropy": 2.7324637247241332
+  },
+  {
+    "roleName": "杨天佑",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "3": 2,
+      "2": 2
+    },
+    "total_sentences": 4,
+    "entropy": 1.0
+  }
+]

@@ -1,0 +1,556 @@
+[
+  [
+    {
+      "role": "孔夫子",
+      "original_sentence": "孟子荀子孔夫子，老子庄子鬼谷子。",
+      "sentence": "孔夫子与诸子百家齐名于世",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "孟子荀子孔夫子，老子庄子鬼谷子。",
+      "sentence": "孟子荀子老子庄子鬼谷子并列",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个时代说贤书？",
+      "sentence": "哪个时代讲述贤书内容",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个国家论孝子？",
+      "sentence": "哪个国家讨论孝子问题",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "春秋时代说贤书，楚国里头论孝子。",
+      "sentence": "春秋时代讲述贤书楚国讨论孝子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "今天不把别的唱，唱一段老莱子彩衣娱亲的孝子传。",
+      "sentence": "老莱子表演彩衣娱亲的孝行",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "自从盘古开天地，三皇完了传五帝。",
+      "sentence": "盘古开天地后三皇传五帝",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "虞舜禅位给了大禹王，大禹传位给了亲儿郎。",
+      "sentence": "虞舜将帝位禅让给大禹",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "虞舜禅位给了大禹王，大禹传位给了亲儿郎。",
+      "sentence": "大禹将帝位传给其儿子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夏启传到了残暴的夏桀王，商汤传到了荒淫的殷纣王。",
+      "sentence": "夏启将王位传给残暴的夏桀王",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "夏启传到了残暴的夏桀王，商汤传到了荒淫的殷纣王。",
+      "sentence": "商汤将王位传给荒淫的殷纣王",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周武王讨伐的殷纣王，狐狸精妲己也归了天。",
+      "sentence": "周武王讨伐了殷纣王",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "周武王讨伐的殷纣王，狐狸精妲己也归了天。",
+      "sentence": "狐狸精妲己已经死亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周幽王烽火戏诸侯，周平王迁都到洛阳。",
+      "sentence": "周幽王点燃烽火戏弄诸侯",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "周幽王烽火戏诸侯，周平王迁都到洛阳。",
+      "sentence": "周平王将都城迁至洛阳",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "春秋五霸争天下，战国七雄归秦王。",
+      "sentence": "春秋五霸争夺天下霸权",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "春秋五霸争天下，战国七雄归秦王。",
+      "sentence": "战国七雄最终被秦王统一",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说起春秋可不一般，诸子百家把名扬。",
+      "sentence": "春秋时期诸子百家名声显赫",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "儒家墨家阴阳家，名家法家和道家。",
+      "sentence": "诸子百家各自创立了不同学派",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "杂家农家纵横家，兵家医家小说家。",
+      "sentence": "杂家农家纵横家兵家医家小说家",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "第七节新编凉州贤孝唱词：老莱子戏彩娱亲三九真理传天下，二十四孝表贤人。",
+      "sentence": "老莱子通过唱词传播孝道真理",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "第七节新编凉州贤孝唱词：老莱子戏彩娱亲三九真理传天下，二十四孝表贤人。",
+      "sentence": "二十四孝彰显贤人品德",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "墨子管子韩非子，晏子邹子孙武子。",
+      "sentence": "墨子管子韩非子晏子邹子孙武子",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "我把这些诗条对句丢在后，唱一唱老莱子的孝子传。",
+      "sentence": "老莱子传唱其孝子故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "说起老莱子傢可不一般，也是道家的老祖先。",
+      "sentence": "老莱子是道家的老祖先",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "大名不输老聃dan子，也曾教导过孔夫子。",
+      "sentence": "老莱子教导过孔夫子",
+      "behavior_type": 7
+    },
+    {
+      "role": "孔夫子",
+      "original_sentence": "大名不输老聃dan子，也曾教导过孔夫子。",
+      "sentence": "孔夫子接受老莱子教导",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "老莱子隐居在深山，宁可搬家不当官。",
+      "sentence": "老莱子选择隐居在深山之中",
+      "behavior_type": 4
+    },
+    {
+      "role": "老莱子",
+      "original_sentence": "老莱子隐居在深山，宁可搬家不当官。",
+      "sentence": "老莱子宁可搬家也不当官",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "七十岁的老莱子，养的是九十岁的娘老子。",
+      "sentence": "老莱子赡养九十岁的母亲",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "别看老莱子已经是老汉子，爹娘跟前还是个大孝子。",
+      "sentence": "老莱子在父母面前表现极为孝顺",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "进门的时候问一声，出门的时候说一声。",
+      "sentence": "进门时询问出门时告知",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "冬天冷了给架炉子，夏天热了给扇扇子。",
+      "sentence": "老莱子冬天生火夏天扇风",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "冷了给穿上个主袄子，热了给穿上个汗褂子。",
+      "sentence": "老莱子为父母穿上合适的衣服",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "饿了给端上个饭盆子，渴了给端上个茶盅子。",
+      "sentence": "老莱子为母亲端上饭菜和茶水",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "病了提给的是药罐子，馋了提给的是肉丸子。",
+      "sentence": "老莱子为父母提供药罐和肉丸",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "为了给爹娘取乐子，家里头养了几只鸟娃子。",
+      "sentence": "老莱子养鸟为父母取乐",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "竹子笼子么挂墙上，里头的鸟儿可真好看。",
+      "sentence": "竹笼挂在墙上",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "竹子笼子么挂墙上，里头的鸟儿可真好看。",
+      "sentence": "笼中鸟儿很漂亮",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "老莱子父",
+      "original_sentence": "几只鸟儿叫喳喳，惹得爹娘笑哈哈。",
+      "sentence": "鸟儿鸣叫使老莱子父母欢笑",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "老莱子父",
+      "original_sentence": "老爹老娘老儿子啊，头上长满了白头发。",
+      "sentence": "老莱子父亲头上长满白头发",
+      "behavior_type": 1
+    },
+    {
+      "role": "老莱子母",
+      "original_sentence": "老爹老娘老儿子啊，头上长满了白头发。",
+      "sentence": "老莱子母亲头上长满白头发",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "老莱子父",
+      "original_sentence": "爹娘摸着儿子的头，眼睛里的眼泪往下流。",
+      "sentence": "老莱子父抚摸儿子时流下眼泪",
+      "behavior_type": 2
+    },
+    {
+      "role": "老莱子母",
+      "original_sentence": "爹娘摸着儿子的头，眼睛里的眼泪往下流。",
+      "sentence": "老莱子母抚摸儿子时流下眼泪",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "老莱子母",
+      "original_sentence": "白头发长满了儿子的头，娘老子的寿命不长久。",
+      "sentence": "老莱子母的白发长满儿子头",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "白头发长满了儿子的头，娘老子的寿命不长久。",
+      "sentence": "老莱子母的寿命已经不长久",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "老莱子一听着了忙，赶紧想法儿哄爹娘。",
+      "sentence": "老莱子听闻后立即哄劝父母",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "找来一件花衣裳，红黄绿紫还有蓝。",
+      "sentence": "老莱子找来一件花衣裳",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "花花衣服穿身上，蹦蹦跳跳见爹娘。",
+      "sentence": "老莱子穿着花衣裳去见父母",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "嫩声嫩气地叫爹妈，爹妈听了乐哈哈。",
+      "sentence": "老莱子用稚嫩声音呼唤父母",
+      "behavior_type": 7
+    },
+    {
+      "role": "老莱子父",
+      "original_sentence": "嫩声嫩气地叫爹妈，爹妈听了乐哈哈。",
+      "sentence": "老莱子父亲听后感到开心",
+      "behavior_type": 2
+    },
+    {
+      "role": "老莱子母",
+      "original_sentence": "嫩声嫩气地叫爹妈，爹妈听了乐哈哈。",
+      "sentence": "老莱子母亲听后感到开心",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "爹妈渴了把水端，一不小心绊倒在门槛上。",
+      "sentence": "老莱子端水时不小心绊倒在门槛上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "老莱子父",
+      "original_sentence": "爹妈一看着了忙，可不要摔坏我的小儿郎！",
+      "sentence": "老莱子父母担心孩子摔伤",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "老莱子一看也着了忙，可不要急坏了老爹娘！",
+      "sentence": "老莱子看到后感到非常着急",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "灵机一动哭哇哇，满地打滚喊爹妈。",
+      "sentence": "老莱子假装哭泣并呼唤父母",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "手搓手么脚搓脚，赖在地上学撒泼。",
+      "sentence": "老莱子躺在地上模仿撒泼行为",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "老莱子父",
+      "original_sentence": "爹娘一看么笑弯了腰，这个儿子可真好玩！",
+      "sentence": "老莱子父看到后开心地笑了",
+      "behavior_type": 2
+    },
+    {
+      "role": "老莱子母",
+      "original_sentence": "爹娘一看么笑弯了腰，这个儿子可真好玩！",
+      "sentence": "老莱子母看到后开心地笑了",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "老莱子父",
+      "original_sentence": "给上一个拨浪鼓，娃娃娃娃你不要哭！",
+      "sentence": "老莱子父递给娃娃一个拨浪鼓",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "拨浪鼓，鼓鼓小，把把长，枣儿胡胡子挂两边。",
+      "sentence": "拨浪鼓具有长把和枣儿胡须",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "左摇一下当当当，右摇一下邦邦邦。",
+      "sentence": "老莱子左右摇晃拨浪鼓发出声响",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "当当当，邦邦邦，一家老小么笑开颜。",
+      "sentence": "老莱子一家因拨浪鼓而欢笑",
+      "behavior_type": 2
+    },
+    {
+      "role": "老莱子父",
+      "original_sentence": "当当当，邦邦邦，一家老小么笑开颜。",
+      "sentence": "老莱子父因拨浪鼓而欢笑",
+      "behavior_type": 2
+    },
+    {
+      "role": "老莱子母",
+      "original_sentence": "当当当，邦邦邦，一家老小么笑开颜。",
+      "sentence": "老莱子母因拨浪鼓而欢笑",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，吃得好不算好，喝的的好不算好，穿的好也不算好，住的好也不算好，笑口常开才是真正好，爹妈高兴才是真正孝。",
+      "sentence": "笑口常开才是真正的好",
+      "behavior_type": 2
+    },
+    {
+      "role": "老莱子",
+      "original_sentence": "哎，吃得好不算好，喝的的好不算好，穿的好也不算好，住的好也不算好，笑口常开才是真正好，爹妈高兴才是真正孝。",
+      "sentence": "老莱子使爹妈感到高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "老莱子，大孝子，身穿彩衣给爹妈逗乐子！",
+      "sentence": "老莱子穿着彩衣逗父母开心",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老爹妈，老儿子，真是和和美美的一家子！",
+      "sentence": "一家人相处得和和美美",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，这段子贤孝么已唱完，故事么一节一节交代全。",
+      "sentence": "这段故事已经完整讲述完毕",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问唱的是那一段？",
+      "sentence": "询问所唱的是哪一段故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二十四孝里的第七篇。",
+      "sentence": "二十四孝中的第七篇被提及",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问曲儿是啥名堂？",
+      "sentence": "询问这首曲子的具体名称",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "老莱子",
+      "original_sentence": "老莱子彩衣娱爹娘。",
+      "sentence": "老莱子穿着彩衣娱乐父母",
+      "behavior_type": 10
+    }
+  ]
+]

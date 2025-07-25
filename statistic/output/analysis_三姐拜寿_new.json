@@ -1,0 +1,135 @@
+[
+  {
+    "roleName": "蒋员外",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "8": 2,
+      "12": 3,
+      "10": 2,
+      "7": 7,
+      "2": 6,
+      "5": 1,
+      "11": 1,
+      "13": 2,
+      "3": 3,
+      "14": 1
+    },
+    "total_sentences": 28,
+    "entropy": 2.997675119805565
+  },
+  {
+    "roleName": "蒋菊英",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "4": 1,
+      "2": 6,
+      "7": 4,
+      "8": 1,
+      "1": 1,
+      "13": 1
+    },
+    "total_sentences": 14,
+    "entropy": 2.128085278891394
+  },
+  {
+    "roleName": "蒋秀英",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "4": 4,
+      "7": 4,
+      "1": 1,
+      "13": 2,
+      "10": 1,
+      "2": 2
+    },
+    "total_sentences": 14,
+    "entropy": 2.3787834934861753
+  },
+  {
+    "roleName": "蒋丑英",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "1": 1,
+      "7": 4,
+      "8": 4,
+      "4": 2,
+      "13": 3,
+      "14": 1,
+      "10": 2,
+      "3": 1
+    },
+    "total_sentences": 18,
+    "entropy": 2.7946534735443413
+  },
+  {
+    "roleName": "杨相公",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 13,
+      "2": 5,
+      "13": 4,
+      "1": 1,
+      "10": 7,
+      "4": 3,
+      "6": 1,
+      "5": 2,
+      "8": 3,
+      "14": 2,
+      "3": 1
+    },
+    "total_sentences": 42,
+    "entropy": 2.99049322589778
+  },
+  {
+    "roleName": "蒋家奶奶",
+    "roleType": "傀儡帮凶",
+    "behaviorCounts": {
+      "7": 13,
+      "2": 8,
+      "10": 2,
+      "13": 2,
+      "4": 4,
+      "1": 6,
+      "5": 1
+    },
+    "total_sentences": 36,
+    "entropy": 2.4028280197711696
+  },
+  {
+    "roleName": "玉皇大帝",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "2": 2,
+      "7": 5
+    },
+    "total_sentences": 7,
+    "entropy": 0.863120568566631
+  },
+  {
+    "roleName": "火德真君",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "4": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1
+    },
+    "total_sentences": 4,
+    "entropy": 2.0
+  },
+  {
+    "roleName": "杨金通",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "7": 6,
+      "3": 1,
+      "2": 2,
+      "12": 1,
+      "13": 3,
+      "4": 2,
+      "10": 1
+    },
+    "total_sentences": 16,
+    "entropy": 2.48345859334435
+  }
+]

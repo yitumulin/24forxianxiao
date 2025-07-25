@@ -1,0 +1,62 @@
+[
+  {
+    "roleName": "董永",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 10,
+      "14": 3,
+      "7": 5,
+      "4": 11,
+      "2": 8,
+      "12": 6,
+      "10": 13,
+      "1": 1,
+      "11": 1,
+      "8": 3,
+      "5": 2
+    },
+    "total_sentences": 63,
+    "entropy": 3.0882650731378716
+  },
+  {
+    "roleName": "七仙女",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 6,
+      "4": 7,
+      "1": 1,
+      "13": 1,
+      "12": 1,
+      "14": 2,
+      "10": 1
+    },
+    "total_sentences": 19,
+    "entropy": 2.292071752457787
+  },
+  {
+    "roleName": "董父",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "12": 2,
+      "2": 1,
+      "13": 2,
+      "5": 1,
+      "8": 1,
+      "7": 4,
+      "3": 7
+    },
+    "total_sentences": 18,
+    "entropy": 2.4115091984199104
+  },
+  {
+    "roleName": "付员外",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "8": 2,
+      "7": 1,
+      "9": 2
+    },
+    "total_sentences": 5,
+    "entropy": 1.5219280948873621
+  }
+]

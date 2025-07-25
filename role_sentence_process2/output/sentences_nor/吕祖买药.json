@@ -1,0 +1,2286 @@
+[
+  [
+    {
+      "role": "",
+      "original_sentence": "第六节凉州贤孝《吕祖买药》唱词弹唱：李林洪说一个打坐在书馆里论古今，看来这个也是一个闲事情，书中可有真也有假，世人倒还认假不认真，真真假假难分辨，假假真真倒就辨不清，假变真，真变假，真假二字难辨分，一天能得三个假，掏钱买不上一个真。",
+      "sentence": "吕祖在书馆里谈论古今书籍",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "第六节凉州贤孝《吕祖买药》唱词弹唱：李林洪说一个打坐在书馆里论古今，看来这个也是一个闲事情，书中可有真也有假，世人倒还认假不认真，真真假假难分辨，假假真真倒就辨不清，假变真，真变假，真假二字难辨分，一天能得三个假，掏钱买不上一个真。",
+      "sentence": "世人难以分辨真假信息",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "第六节凉州贤孝《吕祖买药》唱词弹唱：李林洪说一个打坐在书馆里论古今，看来这个也是一个闲事情，书中可有真也有假，世人倒还认假不认真，真真假假难分辨，假假真真倒就辨不清，假变真，真变假，真假二字难辨分，一天能得三个假，掏钱买不上一个真。",
+      "sentence": "真假变化让人难以辨清",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "第六节凉州贤孝《吕祖买药》唱词弹唱：李林洪说一个打坐在书馆里论古今，看来这个也是一个闲事情，书中可有真也有假，世人倒还认假不认真，真真假假难分辨，假假真真倒就辨不清，假变真，真变假，真假二字难辨分，一天能得三个假，掏钱买不上一个真。",
+      "sentence": "人们用钱买不到真实事物",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "我说那个黄粱一梦退凡心，哎，西娘本是无道君，老夫受尽千般苦，才封东土吕真人。",
+      "sentence": "吕洞宾历经苦难终成真人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "我贫道姓吕名岩，道号叫个洞宾，外号又叫纯阳公，我在那个唐室驾前为臣，考中了两榜进士。",
+      "sentence": "吕洞宾自称在唐室为臣中进士",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "只因朝中尽出奸党逆贼，并没有忠臣良将，他把唐天子赶到了西蜀眉山。",
+      "sentence": "唐天子被赶到了西蜀眉山",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "钟离",
+      "original_sentence": "我贫道那天来到十里长亭，前面有一个柳树，我在大柳树下蒲团上打坐，昏了三昏，梦了三梦，梦到了一个红脸道人，他自称他是钟离呀，他说我为臣的不久长了，又说我为父的不到头了。",
+      "sentence": "钟离自称是为臣不久长",
+      "behavior_type": 7
+    },
+    {
+      "role": "钟离",
+      "original_sentence": "我贫道那天来到十里长亭，前面有一个柳树，我在大柳树下蒲团上打坐，昏了三昏，梦了三梦，梦到了一个红脸道人，他自称他是钟离呀，他说我为臣的不久长了，又说我为父的不到头了。",
+      "sentence": "钟离说为父的不到头",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "因此上，我才看破了红尘花花世界，梦中把那个道人拜为师父。",
+      "sentence": "吕洞宾看破红尘拜道人为师",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老夫我受尽千般疾苦，万般疾难，玉帝闻听大喜，才封我是一个雷部之道人。",
+      "sentence": "老夫受尽疾苦才被封为道人",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "我贫道今日打坐在碧天洞中修炼啊，心血一潮，屈指一算，算就了今日正是三月初三，我想这个三月初三乃是王母的寿诞之日，这个十方三界的各府各仙都给王母贺寿，不然我也给王母上寿一会。",
+      "sentence": "吕洞宾在碧天洞中修炼时进行推算",
+      "behavior_type": 5
+    },
+    {
+      "role": "吕洞宾",
+      "original_sentence": "我贫道今日打坐在碧天洞中修炼啊，心血一潮，屈指一算，算就了今日正是三月初三，我想这个三月初三乃是王母的寿诞之日，这个十方三界的各府各仙都给王母贺寿，不然我也给王母上寿一会。",
+      "sentence": "吕洞宾算出三月初三是王母寿诞",
+      "behavior_type": 5
+    },
+    {
+      "role": "吕洞宾",
+      "original_sentence": "我贫道今日打坐在碧天洞中修炼啊，心血一潮，屈指一算，算就了今日正是三月初三，我想这个三月初三乃是王母的寿诞之日，这个十方三界的各府各仙都给王母贺寿，不然我也给王母上寿一会。",
+      "sentence": "吕洞宾决定前去给王母贺寿",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我且把小道童吩咐，好好看守师父的洞府，师父给王母上寿去哩。",
+      "sentence": "小道童被吩咐看守师父的洞府",
+      "behavior_type": 7
+    },
+    {
+      "role": "王母",
+      "original_sentence": "我且把小道童吩咐，好好看守师父的洞府，师父给王母上寿去哩。",
+      "sentence": "师父前去给王母上寿",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你给我拿来衣冠道袍，取过二龙宝剑。",
+      "sentence": "取来衣冠道袍和二龙宝剑",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我就左手拉云云不开，右手拉云把云拨开。",
+      "sentence": "左手拉云云不开右手拨云",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "祥云飘飘往前转，霎时间来到南天门上。",
+      "sentence": "祥云飘至南天门上",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "你没看我洞宾回眼一看，十方三界下来的各府各仙多得无比，又有上八院的天仙，还有下八院的地仙，又有中八院的群仙，还有海外的灵官，也有三千六百旁门道人，也有四万八千了道的真人，还有西方极乐世界的四金刚八菩萨，都给王母上寿来了。",
+      "sentence": "吕洞宾回眼看见众多仙人",
+      "behavior_type": 6
+    },
+    {
+      "role": "王母",
+      "original_sentence": "你没看我洞宾回眼一看，十方三界下来的各府各仙多得无比，又有上八院的天仙，还有下八院的地仙，又有中八院的群仙，还有海外的灵官，也有三千六百旁门道人，也有四万八千了道的真人，还有西方极乐世界的四金刚八菩萨，都给王母上寿来了。",
+      "sentence": "王母接受众仙贺寿",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们中八仙让到后面走，进了斗牛宫一看，那个美酒佳肴摆满了，寿蜡寿面寿桃寿果，一层挨着一层。",
+      "sentence": "中八仙进入斗牛宫看到美酒佳肴",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "王母",
+      "original_sentence": "我们八仙来到王母寿宴台的前面，只见那个王母正闭目养神，坐在寿宴台上，她养神着哩，我们八仙走到跟前鞠躬敬礼，叫一声，王母啊，你吉寿了！",
+      "sentence": "王母闭目养神坐在寿宴台上",
+      "behavior_type": 12
+    },
+    {
+      "role": "八仙",
+      "original_sentence": "我们八仙来到王母寿宴台的前面，只见那个王母正闭目养神，坐在寿宴台上，她养神着哩，我们八仙走到跟前鞠躬敬礼，叫一声，王母啊，你吉寿了！",
+      "sentence": "八仙向王母鞠躬并致以问候",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王母",
+      "original_sentence": "那个王母把眼睛稍微睁给了一下，她说，奥，中八仙到了，你们不在洞府修炼，到我的寿宴台前做什么来了？",
+      "sentence": "王母稍微睁开了眼睛",
+      "behavior_type": 1
+    },
+    {
+      "role": "王母",
+      "original_sentence": "那个王母把眼睛稍微睁给了一下，她说，奥，中八仙到了，你们不在洞府修炼，到我的寿宴台前做什么来了？",
+      "sentence": "王母询问中八仙来意",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王母",
+      "original_sentence": "八仙说，王母，只因今日是你寿诞之日，我们就给王母庆贺千秋，拜寿来了。",
+      "sentence": "八仙向王母说明前来庆贺寿诞",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王母",
+      "original_sentence": "王母说，奥，好好好，既然中八仙来拜寿，何不作庆福诗一首？",
+      "sentence": "王母提议中八仙作庆福诗一首",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王母",
+      "original_sentence": "那个中八仙鞠躬礼毕起身念道：远看见雪山宝塔，傢藏着羊羔美酒，海外一朵祥云飘啊，敬贺王母长生不老。",
+      "sentence": "中八仙向王母敬贺长生不老",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王母",
+      "original_sentence": "你看这个王母一听，她就喜悦不尽，我吩咐八个仙女，这个斗牛宫中地方不便，我的斗牛宫门的外头，那个垂柳树下，设上美酒佳肴，让中八仙自吃自饮去吧。",
+      "sentence": "王母听后感到非常喜悦",
+      "behavior_type": 2
+    },
+    {
+      "role": "王母",
+      "original_sentence": "你看这个王母一听，她就喜悦不尽，我吩咐八个仙女，这个斗牛宫中地方不便，我的斗牛宫门的外头，那个垂柳树下，设上美酒佳肴，让中八仙自吃自饮去吧。",
+      "sentence": "王母吩咐仙女设宴款待",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "你看这个王母一听，她就喜悦不尽，我吩咐八个仙女，这个斗牛宫中地方不便，我的斗牛宫门的外头，那个垂柳树下，设上美酒佳肴，让中八仙自吃自饮去吧。",
+      "sentence": "斗牛宫外设下美酒佳肴",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你看这个八个仙女带着中八仙到了宫门的外面，你看这个八仙按次序就坐在酒席宴前。",
+      "sentence": "八个仙女带领中八仙来到宫门外",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "你看这个八个仙女带着中八仙到了宫门的外面，你看这个八仙按次序就坐在酒席宴前。",
+      "sentence": "八仙依次坐在酒席宴前",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不要看这个美酒是个汽露水，不醉身子醉的是腿。",
+      "sentence": "美酒虽淡却容易使人腿软",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你看那个中八仙吃得醺醺大醉，有的脱得赤身裸体，有的胡传浑说，泄露了天机。",
+      "sentence": "中八仙饮酒过量导致醺醺大醉",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "你看那个中八仙吃得醺醺大醉，有的脱得赤身裸体，有的胡传浑说，泄露了天机。",
+      "sentence": "中八仙有人脱衣裸露身体",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "你看那个中八仙吃得醺醺大醉，有的脱得赤身裸体，有的胡传浑说，泄露了天机。",
+      "sentence": "中八仙胡言乱语泄露天机",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王母",
+      "original_sentence": "口尊的个王母你不贪色，你的九天玄女从何处得？",
+      "sentence": "王母不贪色却拥有九天玄女",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一更里打坐好孤凄，合掌儿叹息。",
+      "sentence": "一更打坐时感到孤寂并叹息",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "师父就传下了妙消息，自个儿寻思；一呼一吸头三悬呀，上下儿周旋，犁牛吸水过玄关，珍珠帘儿倒卷。",
+      "sentence": "师父传下妙消息后独自思考",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "师父就传下了妙消息，自个儿寻思；一呼一吸头三悬呀，上下儿周旋，犁牛吸水过玄关，珍珠帘儿倒卷。",
+      "sentence": "一呼一吸时头部上下移动",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "师父就传下了妙消息，自个儿寻思；一呼一吸头三悬呀，上下儿周旋，犁牛吸水过玄关，珍珠帘儿倒卷。",
+      "sentence": "犁牛吸水穿过玄关倒卷帘",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二更里打坐好逍遥，魔王儿盗宝，六贼绑定了闹嘈嘈，如何儿是好。",
+      "sentence": "二更里打坐时魔王盗宝",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "无音寺里碰金钟，响亮儿一声，忽然间惊醒了主人公，赶退了魔军。",
+      "sentence": "无音寺里金钟被碰响",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "无音寺里碰金钟，响亮儿一声，忽然间惊醒了主人公，赶退了魔军。",
+      "sentence": "主人公忽然间被惊醒",
+      "behavior_type": 6
+    },
+    {
+      "role": "",
+      "original_sentence": "无音寺里碰金钟，响亮儿一声，忽然间惊醒了主人公，赶退了魔军。",
+      "sentence": "魔军被成功赶退",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三更里打坐月儿高，好一个逍遥，海底龟蛇自缠搅，肾水儿上朝。",
+      "sentence": "三更打坐时月儿高照逍遥自在",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三昧真火要提防，曹溪水儿用上，一点儿圣水落中央，自在而安康。",
+      "sentence": "三昧真火需要谨慎提防",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "三昧真火要提防，曹溪水儿用上，一点儿圣水落中央，自在而安康。",
+      "sentence": "曹溪水被用来使用",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "三昧真火要提防，曹溪水儿用上，一点儿圣水落中央，自在而安康。",
+      "sentence": "圣水落入中央位置",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "三昧真火要提防，曹溪水儿用上，一点儿圣水落中央，自在而安康。",
+      "sentence": "感到自在并且安康",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "四更里打坐月儿西，好一个消息，世上的能为几个人知，万法却归一。",
+      "sentence": "四更打坐时思考世间奥秘",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "诵经堂里去听经，历历又明明，三玄路上仁义行，三千个功行。",
+      "sentence": "诵经堂里听经历历又明明",
+      "behavior_type": 6
+    },
+    {
+      "role": "",
+      "original_sentence": "诵经堂里去听经，历历又明明，三玄路上仁义行，三千个功行。",
+      "sentence": "三玄路上行仁义三千功行",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "五更里打坐月儿落，拍手儿呵呵，我今天躲过了十阎罗，谁人能比我。",
+      "sentence": "五更打坐月儿落时拍手呵呵",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "五更里打坐月儿落，拍手儿呵呵，我今天躲过了十阎罗，谁人能比我。",
+      "sentence": "今日成功躲过了十殿阎罗",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "昆仑顶上放毫光，亮亮又堂堂，金龙玉龙照十方，万道儿霞光。",
+      "sentence": "昆仑顶上放射出万道霞光",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "王母",
+      "original_sentence": "王母在旁边听了一会儿，大吃一惊，说这个酒色财气本来就是个乱性之物，你看今天把中八仙吃成这个光景啊，有的胡传浑说，有的泄露天机，有的赤身裸体。",
+      "sentence": "王母听闻后对酒色财气发表看法",
+      "behavior_type": 7
+    },
+    {
+      "role": "王母",
+      "original_sentence": "王母在旁边听了一会儿，大吃一惊，说这个酒色财气本来就是个乱性之物，你看今天把中八仙吃成这个光景啊，有的胡传浑说，有的泄露天机，有的赤身裸体。",
+      "sentence": "王母对中八仙现状感到震惊",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我回到寿宴台上，我连十方三界的各路神仙商量，把这个凡世三间的酒色财气四个字，一红笔勾掉永远不要。",
+      "sentence": "回到寿宴台上与神仙商量",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "我回到寿宴台上，我连十方三界的各路神仙商量，把这个凡世三间的酒色财气四个字，一红笔勾掉永远不要。",
+      "sentence": "将酒色财气用红笔勾掉",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "正说到这个地方，唯有吕洞宾醉得不大要紧，上前来扑通跪倒说：王母，万万莫可！",
+      "sentence": "吕洞宾跪地向王母提出请求",
+      "behavior_type": 7
+    },
+    {
+      "role": "王母",
+      "original_sentence": "正说到这个地方，唯有吕洞宾醉得不大要紧，上前来扑通跪倒说：王母，万万莫可！",
+      "sentence": "王母听闻后感到非常惊讶",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王母",
+      "original_sentence": "王母说，什么莫可？",
+      "sentence": "王母询问为何不可",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "你方才间说的把凡世三间的酒色财气四个字用红笔勾掉不用么，我想我们这个凡人，凡世三间是全凭酒色财气四个字，那是花花乾坤世界，你怎么不用呢？",
+      "sentence": "吕洞宾向王母表达反对意见",
+      "behavior_type": 7
+    },
+    {
+      "role": "王母",
+      "original_sentence": "你方才间说的把凡世三间的酒色财气四个字用红笔勾掉不用么，我想我们这个凡人，凡世三间是全凭酒色财气四个字，那是花花乾坤世界，你怎么不用呢？",
+      "sentence": "王母询问吕洞宾为何反对",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王母",
+      "original_sentence": "王母说，哪个是花花乾坤世界？",
+      "sentence": "王母询问何为花花乾坤世界",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "那个洞宾说，王母，无酒了不知道礼仪，无色者世上就人稀，无财了没有个穷富，无气了怎遇人欺哟。",
+      "sentence": "吕洞宾向王母陈述酒色财气的重要性",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王母",
+      "original_sentence": "王母一听，手指洞宾恨给了一声说，大胆的吕洞宾，我看你就是个酒色财气之相，你来到我王母的寿宴台前，七言巧语，八言折辨，我这一回一顿革条把你革出斗牛宫门，下一年不准你吕洞宾给我入宫拜寿，下一年不准你吕洞宾给我入宫拜寿。",
+      "sentence": "王母对吕洞宾的行为感到愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "王母",
+      "original_sentence": "王母一听，手指洞宾恨给了一声说，大胆的吕洞宾，我看你就是个酒色财气之相，你来到我王母的寿宴台前，七言巧语，八言折辨，我这一回一顿革条把你革出斗牛宫门，下一年不准你吕洞宾给我入宫拜寿，下一年不准你吕洞宾给我入宫拜寿。",
+      "sentence": "王母指责吕洞宾酒色财气之相",
+      "behavior_type": 7
+    },
+    {
+      "role": "王母",
+      "original_sentence": "王母一听，手指洞宾恨给了一声说，大胆的吕洞宾，我看你就是个酒色财气之相，你来到我王母的寿宴台前，七言巧语，八言折辨，我这一回一顿革条把你革出斗牛宫门，下一年不准你吕洞宾给我入宫拜寿，下一年不准你吕洞宾给我入宫拜寿。",
+      "sentence": "王母决定将吕洞宾革出斗牛宫",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "王母",
+      "original_sentence": "王母头哩就进了斗牛宫了，洞宾跟在后头也进了斗牛宫。",
+      "sentence": "王母率先进入斗牛宫",
+      "behavior_type": 4
+    },
+    {
+      "role": "吕洞宾",
+      "original_sentence": "王母头哩就进了斗牛宫了，洞宾跟在后头也进了斗牛宫。",
+      "sentence": "吕洞宾紧随其后进入斗牛宫",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "王母",
+      "original_sentence": "王母回过头来一看，洞宾在后头哩。",
+      "sentence": "王母回头看见吕洞宾在后面",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "王母",
+      "original_sentence": "说，大胆洞宾，我不是把你革出斗牛宫了，你又进到我斗牛宫中要干起何事？",
+      "sentence": "王母质问吕洞宾为何返回斗牛宫",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "洞宾扑通跪倒说，王母啊，你不是说的我是个酒色财气之相么，那么王母你不贪酒色财气，斗牛宫里怎么四个字都有呢。",
+      "sentence": "吕洞宾跪地向王母提出质疑",
+      "behavior_type": 7
+    },
+    {
+      "role": "王母",
+      "original_sentence": "洞宾扑通跪倒说，王母啊，你不是说的我是个酒色财气之相么，那么王母你不贪酒色财气，斗牛宫里怎么四个字都有呢。",
+      "sentence": "王母指责吕洞宾酒色财气相",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王母",
+      "original_sentence": "王母眉头一皱说，哪里四个字都有哩？",
+      "sentence": "王母询问哪里四个字都有",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "洞宾说，王母你听啊，口尊你个王母不贪酒呀，我们八仙怎么醉倒在你宫门口？",
+      "sentence": "吕洞宾质问王母为何不贪酒",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "洞宾说，王母你听啊，口尊你个王母不贪酒呀，我们八仙怎么醉倒在你宫门口？",
+      "sentence": "八仙醉倒在王母宫门口",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "王母",
+      "original_sentence": "王母走出寿宴台一看，这个中八仙就在酒席宴上出丑着哩，那个中八仙你当他唱的什么，他唱的是《五更打坐》。",
+      "sentence": "王母走出寿宴台查看情况",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "王母走出寿宴台一看，这个中八仙就在酒席宴上出丑着哩，那个中八仙你当他唱的什么，他唱的是《五更打坐》。",
+      "sentence": "中八仙在酒席宴上出丑",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "王母走出寿宴台一看，这个中八仙就在酒席宴上出丑着哩，那个中八仙你当他唱的什么，他唱的是《五更打坐》。",
+      "sentence": "中八仙唱的是五更打坐",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王母",
+      "original_sentence": "口尊的王母你不爱财，你头上的金银凤冠从哪里来？",
+      "sentence": "王母头上的金银凤冠从何处来",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "口尊的王母你不贪气，你怎么偏偏把我吕纯阳革出去哟？",
+      "sentence": "吕洞宾质问王母为何将他革除",
+      "behavior_type": 7
+    },
+    {
+      "role": "王母",
+      "original_sentence": "口尊的王母你不贪气，你怎么偏偏把我吕纯阳革出去哟？",
+      "sentence": "王母被指责贪恋酒色财气",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "王母",
+      "original_sentence": "洞宾这么一说，把王母问着无言答对了，王母说，好，我还是一顿革条把你革出我的斗牛宫，你能下界到凡世三间度几个忠臣良将，或是度几个节妇烈女的，或者度几个孝子贤孙，明年三月三还准你入宫拜寿。",
+      "sentence": "王母决定将吕洞宾革出斗牛宫",
+      "behavior_type": 7
+    },
+    {
+      "role": "王母",
+      "original_sentence": "洞宾这么一说，把王母问着无言答对了，王母说，好，我还是一顿革条把你革出我的斗牛宫，你能下界到凡世三间度几个忠臣良将，或是度几个节妇烈女的，或者度几个孝子贤孙，明年三月三还准你入宫拜寿。",
+      "sentence": "王母允许吕洞宾明年入宫拜寿",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王母",
+      "original_sentence": "来了按照三十三天条给你将功折罪。",
+      "sentence": "王母按照天条给予将功折罪机会",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "吕洞宾就叩谢了王母，出了斗牛宫。",
+      "sentence": "吕洞宾向王母叩谢后离开斗牛宫",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "吕洞宾来到南天门上，你看这个南天的左面个有个聚仙石，吕洞宾站到聚仙石上，我看一看，我看这个凡世三间，孝子贤孙、节妇烈女在哪里出着哩？",
+      "sentence": "吕洞宾来到南天门上",
+      "behavior_type": 4
+    },
+    {
+      "role": "吕洞宾",
+      "original_sentence": "吕洞宾来到南天门上，你看这个南天的左面个有个聚仙石，吕洞宾站到聚仙石上，我看一看，我看这个凡世三间，孝子贤孙、节妇烈女在哪里出着哩？",
+      "sentence": "吕洞宾站在聚仙石上",
+      "behavior_type": 12
+    },
+    {
+      "role": "吕洞宾",
+      "original_sentence": "吕洞宾来到南天门上，你看这个南天的左面个有个聚仙石，吕洞宾站到聚仙石上，我看一看，我看这个凡世三间，孝子贤孙、节妇烈女在哪里出着哩？",
+      "sentence": "吕洞宾观察凡世三间",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "我就吕洞宾坐云头回眼观看，这个阳世上怎么闹嚷嚷？",
+      "sentence": "吕洞宾坐云头回眼观看阳世",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "观音菩萨",
+      "original_sentence": "放眼看那是绿水青山，你看这个净水瓶杨柳枝不断，哎，白鹦鸽叫声声是国泰民安，三界下也有些魔鬼作乱，普陀山打坐的是公主妙善。",
+      "sentence": "观音菩萨观察凡间绿水青山",
+      "behavior_type": 6
+    },
+    {
+      "role": "观音菩萨",
+      "original_sentence": "放眼看那是绿水青山，你看这个净水瓶杨柳枝不断，哎，白鹦鸽叫声声是国泰民安，三界下也有些魔鬼作乱，普陀山打坐的是公主妙善。",
+      "sentence": "观音菩萨手持净水瓶杨柳枝",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "放眼看那是绿水青山，你看这个净水瓶杨柳枝不断，哎，白鹦鸽叫声声是国泰民安，三界下也有些魔鬼作乱，普陀山打坐的是公主妙善。",
+      "sentence": "白鹦鸽叫声声显示国泰民安",
+      "behavior_type": 6
+    },
+    {
+      "role": "",
+      "original_sentence": "放眼看那是绿水青山，你看这个净水瓶杨柳枝不断，哎，白鹦鸽叫声声是国泰民安，三界下也有些魔鬼作乱，普陀山打坐的是公主妙善。",
+      "sentence": "三界下存在魔鬼作乱现象",
+      "behavior_type": 9
+    },
+    {
+      "role": "观音菩萨",
+      "original_sentence": "放眼看那是绿水青山，你看这个净水瓶杨柳枝不断，哎，白鹦鸽叫声声是国泰民安，三界下也有些魔鬼作乱，普陀山打坐的是公主妙善。",
+      "sentence": "观音菩萨在普陀山打坐修行",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "那么我观来观去，观到这个凡世三间，那个东洋大海左面个有一座杭州城哩，这个地方祥云飘飘，白光闪闪，我想这个大贤大德之人尽出到杭州了，我不然下到杭州造访一回啊，这回我三下杭州度众生啊，哎，我就到个凡世三间走一回，飘飘荡荡我就起了身啊，三下杭州度众生啊。",
+      "sentence": "吕洞宾观察凡世寻找贤德之人",
+      "behavior_type": 5
+    },
+    {
+      "role": "吕洞宾",
+      "original_sentence": "那么我观来观去，观到这个凡世三间，那个东洋大海左面个有一座杭州城哩，这个地方祥云飘飘，白光闪闪，我想这个大贤大德之人尽出到杭州了，我不然下到杭州造访一回啊，这回我三下杭州度众生啊，哎，我就到个凡世三间走一回，飘飘荡荡我就起了身啊，三下杭州度众生啊。",
+      "sentence": "吕洞宾决定前往杭州度众生",
+      "behavior_type": 4
+    },
+    {
+      "role": "吕洞宾",
+      "original_sentence": "那么我观来观去，观到这个凡世三间，那个东洋大海左面个有一座杭州城哩，这个地方祥云飘飘，白光闪闪，我想这个大贤大德之人尽出到杭州了，我不然下到杭州造访一回啊，这回我三下杭州度众生啊，哎，我就到个凡世三间走一回，飘飘荡荡我就起了身啊，三下杭州度众生啊。",
+      "sentence": "吕洞宾起身前往凡世三间",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "不说这个吕洞宾这一回凡世三间度众生啊，我千里造书万里云，花开两朵我别说一个神啊。",
+      "sentence": "吕洞宾决定前往凡世度化众生",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "不说这个吕洞宾这一回凡世三间度众生啊，我千里造书万里云，花开两朵我别说一个神啊。",
+      "sentence": "花开两朵各表一枝的神话",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要知道我说的哪一个？",
+      "sentence": "要知道说的是哪一个",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "观音菩萨",
+      "original_sentence": "说的是紫竹林中观世音。",
+      "sentence": "观音菩萨在紫竹林中静坐",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "观音菩萨",
+      "original_sentence": "我家住在南海普陀山，我在紫竹林中把神缘。",
+      "sentence": "观音菩萨居住在南海普陀山",
+      "behavior_type": 12
+    },
+    {
+      "role": "观音菩萨",
+      "original_sentence": "我家住在南海普陀山，我在紫竹林中把神缘。",
+      "sentence": "观音菩萨在紫竹林中修行",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "观音菩萨",
+      "original_sentence": "我正在宝莲台上讲经说法，忽然心血来潮，屈指一算，我大吃了一惊。",
+      "sentence": "观音菩萨讲经时突然感到惊讶",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "善财童子",
+      "original_sentence": "忙忙说，善财童子，你还不过来吗？",
+      "sentence": "善财童子被呼唤立即过来",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "善财童子",
+      "original_sentence": "善财童子急忙跪倒说，师父，有何吩咐啊？",
+      "sentence": "善财童子跪倒询问师父有何吩咐",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王母",
+      "original_sentence": "哎，善财童子啊，今天王母一时间冲冲大怒，把吕洞宾革下凡世三间了，叫度几个孝子贤孙，忠臣良将。",
+      "sentence": "王母因愤怒将吕洞宾贬下凡间",
+      "behavior_type": 2
+    },
+    {
+      "role": "吕洞宾",
+      "original_sentence": "哎，善财童子啊，今天王母一时间冲冲大怒，把吕洞宾革下凡世三间了，叫度几个孝子贤孙，忠臣良将。",
+      "sentence": "吕洞宾被贬下凡间度化世人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "哪里有叫吕洞宾度的呢？",
+      "sentence": "吕洞宾需要度化孝子贤孙",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "观音菩萨",
+      "original_sentence": "都叫我观音菩萨度的净净的了。",
+      "sentence": "观音菩萨表示自己已经度化完毕",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "我若不指点洞宾，吕洞宾又是个酒色财气之相，迷落到杭州，八仙就成了七个了。",
+      "sentence": "吕洞宾因酒色财气迷失于杭州",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "我若不指点洞宾，吕洞宾又是个酒色财气之相，迷落到杭州，八仙就成了七个了。",
+      "sentence": "八仙因吕洞宾迷失而减少一人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "善财童子",
+      "original_sentence": "善财童子，你把我师父的杨柳枝拿上，净水瓶背上，我们到了杭州去了指点吕洞宾，叫他回上天朝吧。",
+      "sentence": "善财童子携带杨柳枝和净水瓶前往杭州",
+      "behavior_type": 4
+    },
+    {
+      "role": "善财童子",
+      "original_sentence": "善财童子，你把我师父的杨柳枝拿上，净水瓶背上，我们到了杭州去了指点吕洞宾，叫他回上天朝吧。",
+      "sentence": "善财童子指点吕洞宾返回天界",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "善财童子",
+      "original_sentence": "那个善财童子听一言，他就背了杨柳枝净水瓶啊来陪伴。",
+      "sentence": "善财童子背起杨柳枝和净水瓶",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "云头摆了摆一千里，云头一起一万里。",
+      "sentence": "云头迅速移动了千里万里",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "善财童子",
+      "original_sentence": "那个善财童子把云头拨开一看，拨开云头一看，杭州就在眼前了，我收了祥云，落到这个阳光道上。",
+      "sentence": "善财童子拨开云头看见杭州",
+      "behavior_type": 4
+    },
+    {
+      "role": "善财童子",
+      "original_sentence": "那个善财童子把云头拨开一看，拨开云头一看，杭州就在眼前了，我收了祥云，落到这个阳光道上。",
+      "sentence": "善财童子收起祥云落在地上",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "观音菩萨",
+      "original_sentence": "那个观音菩萨抓了一把黄土，放到空中撇将起来，呀呀呸，一时之间把真的杭州就遮成一个土山了。",
+      "sentence": "观音菩萨将黄土撒向空中",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "那个观音菩萨抓了一把黄土，放到空中撇将起来，呀呀呸，一时之间把真的杭州就遮成一个土山了。",
+      "sentence": "杭州被黄土遮蔽成土山",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "她又在草滩上用了乾元亨利贞五个字，把手点给了三下，化就了一座假城池。",
+      "sentence": "她在草滩上化出一座假城池",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这个城池却是化的不连普通一般，你看这个，远看城楼这个大，又有垛口那么真。",
+      "sentence": "这座城池被变化得异常逼真",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "观音菩萨",
+      "original_sentence": "她在十字当街口上，吹了一口，化就了一个生药宝铺，这个净水瓶化了个生药宝铺，杨柳枝变就了百般药材。",
+      "sentence": "观音菩萨吹气化生药宝铺",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "观音菩萨",
+      "original_sentence": "上面又写了一幅对联，写的是，病有四百四症，药有八百八方。",
+      "sentence": "观音菩萨写了一幅对联描述病症",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "病中有古怪病，药中有奇效方。",
+      "sentence": "病中有古怪病症药中有奇效方",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "横批着四个字，是药到病愈。",
+      "sentence": "横批上写着药到病愈四字",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "观音菩萨",
+      "original_sentence": "观音菩萨吹了一口气，把那个善财童子变了个老年人，也就说一个老头儿，大约有七旬往上，八旬往下的岁数。",
+      "sentence": "观音菩萨将善财童子变成老年人",
+      "behavior_type": 14
+    },
+    {
+      "role": "善财童子",
+      "original_sentence": "观音菩萨吹了一口气，把那个善财童子变了个老年人，也就说一个老头儿，大约有七旬往上，八旬往下的岁数。",
+      "sentence": "善财童子被变成七旬老人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "善财童子",
+      "original_sentence": "我说善财童子，今天有个穿蛋黄道袍的老道人来到我们门上，你只需留住，可往往不能走脱。",
+      "sentence": "善财童子被告知要留住穿黄道袍的老道人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "观音菩萨",
+      "original_sentence": "她又把自己的相身吹了一口，变就了二八的个姑娘，也就说二八十六的个女娃娃，就站到铺子的里面个。",
+      "sentence": "观音菩萨将相身变成十六岁姑娘",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "也不说这个杭州城上变就了座药铺，再说这个吕洞宾，飘飘荡荡度众生啊。",
+      "sentence": "吕洞宾飘飘荡荡度众生",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "哎，我就拨开祥云就看假真，那个洞宾把云头一摆，拨开云头一看，果然杭州就到了。",
+      "sentence": "吕洞宾拨开云头看见杭州城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "他收了云头落到阳光道上，他就作诗一首说，呵呵吕洞宾啊，道号纯阳公，吃酒醺醺醉，下凡度众生。",
+      "sentence": "吕洞宾作诗一首自称纯阳公",
+      "behavior_type": 7
+    },
+    {
+      "role": "吕洞宾",
+      "original_sentence": "他收了云头落到阳光道上，他就作诗一首说，呵呵吕洞宾啊，道号纯阳公，吃酒醺醺醉，下凡度众生。",
+      "sentence": "吕洞宾饮酒后醺醺欲醉",
+      "behavior_type": 11
+    },
+    {
+      "role": "吕洞宾",
+      "original_sentence": "他收了云头落到阳光道上，他就作诗一首说，呵呵吕洞宾啊，道号纯阳公，吃酒醺醺醉，下凡度众生。",
+      "sentence": "吕洞宾下凡来度化众生",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "那个洞宾我就头抬起来细细看，哎，杭州的景致果然好啊。",
+      "sentence": "吕洞宾抬头仔细观看杭州景致",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你看城上是金来城下是银，城门上钉着三百六十个古铜钉。",
+      "sentence": "城上金城下银城门钉铜钉",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "远看着城楼高又大，近看垛口可数不清，一个垛口一尊炮，一个旗下十个兵。",
+      "sentence": "吕洞宾远望城楼高耸入云",
+      "behavior_type": 4
+    },
+    {
+      "role": "吕洞宾",
+      "original_sentence": "远看着城楼高又大，近看垛口可数不清，一个垛口一尊炮，一个旗下十个兵。",
+      "sentence": "吕洞宾近观垛口难以计数",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "远看着城楼高又大，近看垛口可数不清，一个垛口一尊炮，一个旗下十个兵。",
+      "sentence": "每个垛口都配备一尊火炮",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "远看着城楼高又大，近看垛口可数不清，一个垛口一尊炮，一个旗下十个兵。",
+      "sentence": "每面旗下站立十名士兵",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "那个洞宾进了三十六道铁关门，吊桥一分两栏杆，两个大汉怎么明朗朗。",
+      "sentence": "吕洞宾穿过三十六道铁关门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你看东街上人流龙摆尾，西街上贩子胡放声。",
+      "sentence": "东街人流如龙西街贩子放声",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一面个摊子上围的人，一面个摊子上没个人。",
+      "sentence": "一面摊子围满人一面摊子无人",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "往前走来往后看，前面闪出一座观音堂，哎，写着一幅对联果然好啊，上联上写的是：紫竹林中慈悲士，下联上写的是：白莲台上救难仙。",
+      "sentence": "前面出现了一座观音堂",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "往前走来往后看，前面闪出一座观音堂，哎，写着一幅对联果然好啊，上联上写的是：紫竹林中慈悲士，下联上写的是：白莲台上救难仙。",
+      "sentence": "观音堂上有一幅对联",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把这个对联且不看，见一个黄酒铺子到跟前。",
+      "sentence": "有人来到黄酒铺子跟前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "门上也有一幅对联，那个对联可真真强，文饮三杯，那是状元三及第，武尝几滴，就能挂帅封侯王。",
+      "sentence": "门上对联描述文武成就",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这个对联我没心看，见一个鞋铺子在眼面前。",
+      "sentence": "他无心观看对联发现鞋铺",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "门上也有那么一副对联，那个对联写得强，上联上写的是：老牛箍嘴英雄爱，铁钉厚跟杰士穿。",
+      "sentence": "门上对联描述英雄杰士穿着",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这个对联我观着多一会，猛然间抬起头来观着看，见一个关帝庙，不远就在眼面前。",
+      "sentence": "抬头看见不远处有一座关帝庙",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "也有一幅对联写的好，兄玄德弟翼德不臣孟德，生蒲州过幽州占定九州。",
+      "sentence": "对联内容描述了人物的历史事迹",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这个对联果然强，见一个铜匠铺在眼面前，门首上也有一幅对联。",
+      "sentence": "铜匠铺门前有一幅对联",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那个对联真正强，头一条写的，青铜锣黄铜锅赤铜大刀，声音脆味鲜美削铁如泥。",
+      "sentence": "对联内容描述青铜锣黄铜锅赤铜大刀",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "往前走，往后看，见一个十字当街就在眼面前，哎呀，十字里果然有一座生药宝铺，非常惊人啊。",
+      "sentence": "前行后发现十字街有生药铺",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你看这个上有万药俱全的招牌，下有对联一副，病有四百四症，药有八百八方。",
+      "sentence": "生药铺招牌上写着万药俱全",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "你看这个上有万药俱全的招牌，下有对联一副，病有四百四症，药有八百八方。",
+      "sentence": "生药铺对联写着病有四百四症",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "你看这个上有万药俱全的招牌，下有对联一副，病有四百四症，药有八百八方。",
+      "sentence": "生药铺对联写着药有八百八方",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "病中有古怪病，药中有奇效方。",
+      "sentence": "病中有古怪病症药中有奇效方",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "横批着四个字是药到病愈。",
+      "sentence": "横批上写着药到病愈四字",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老道头抬起来一看，这个生药宝铺是白光闪闪，祥云飘飘，我想这个大贤大德之人就出到药铺里了。",
+      "sentence": "老道抬头看见生药宝铺闪光",
+      "behavior_type": 6
+    },
+    {
+      "role": "",
+      "original_sentence": "老道头抬起来一看，这个生药宝铺是白光闪闪，祥云飘飘，我想这个大贤大德之人就出到药铺里了。",
+      "sentence": "老道认为大贤之人出自药铺",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不然我在药铺内访到。",
+      "sentence": "我在药铺内进行访问",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我上前去就蒲团打坐在药铺门首上，在地上一坐，我就大喊了一声，铺内有人吗？",
+      "sentence": "我上前坐在药铺门口的地上",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "我上前去就蒲团打坐在药铺门首上，在地上一坐，我就大喊了一声，铺内有人吗？",
+      "sentence": "我大声询问铺内是否有人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "善财童子",
+      "original_sentence": "里面善财童子变下的那个老年人，手里拄着一条竹杖，咳嗽了几声，爬到栏柜上说，奥，原来是个老师傅啊，我说老道长，你从哪里来？",
+      "sentence": "善财童子询问老道长来自何处",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "那个洞宾头抬起来一看，是个老汉，说是你问我哪里来的吗？",
+      "sentence": "吕洞宾抬头看见一位老汉",
+      "behavior_type": 1
+    },
+    {
+      "role": "吕洞宾",
+      "original_sentence": "那个洞宾头抬起来一看，是个老汉，说是你问我哪里来的吗？",
+      "sentence": "吕洞宾询问老汉来自何处",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "我从来处来。",
+      "sentence": "吕洞宾回答自己来自来处",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "善财童子",
+      "original_sentence": "那个善财童子又说，你往哪里去哩？",
+      "sentence": "善财童子询问对方要去哪里",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "洞宾说，我往去处去。",
+      "sentence": "吕洞宾表示自己将前往目的地",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "善财童子",
+      "original_sentence": "善财童子说，你看老道长，我拿好言语问你，你拿恶言语对我，我说你哪里来，你说来处来，我说你哪里去，你说去处去。",
+      "sentence": "善财童子质问老道长言语不善",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "善财童子",
+      "original_sentence": "那么，你给我来去的两个字讲一讲吧。",
+      "sentence": "善财童子要求解释来去二字含义",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "那个洞宾说，我不说，你不晓得，你听啊。",
+      "sentence": "吕洞宾表示不愿意解释",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "说一个来倒有个来，那个高山顶上就有一株槐，槐花当开了是五百年，槐花败了我才来。",
+      "sentence": "吕洞宾讲述高山顶上槐花开放",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王母",
+      "original_sentence": "说一个去倒有个去，那个高山顶上种着三亩地，老祖的青牛来耕地，王母娘娘才能把我送上去哟。",
+      "sentence": "王母娘娘才能把我送上去",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "善财童子",
+      "original_sentence": "这个善财童子说道，你看，你看，这个老师傅，我只说你是个有方的道人么，你怎么到我这些说起疯话来了？",
+      "sentence": "善财童子指责道人说疯话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "洞宾一听说道，我咋的是疯话呢？",
+      "sentence": "吕洞宾反问自己为何是疯话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "善财童子",
+      "original_sentence": "那么不是疯话你是个啥话？",
+      "sentence": "善财童子质疑吕洞宾的话语",
+      "behavior_type": 7
+    },
+    {
+      "role": "吕洞宾",
+      "original_sentence": "那么不是疯话你是个啥话？",
+      "sentence": "吕洞宾反问善财童子的话语",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我说你到饭馆门上，说上这么多的疯话，为的是要上些残汤冷饭解饥充寒，我的这个是药铺，你晓得吗？",
+      "sentence": "对方指责其说了许多疯话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你不明白吗？",
+      "sentence": "你不明白我的意思",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "那个洞宾说，呀呀呸，说道买卖人啊，你不说我道人疯魔古怪还倒罢了，说我道人疯魔古怪，把我一千五百年的疯病都带扫起来了。",
+      "sentence": "吕洞宾因被指责疯魔而愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "善财童子",
+      "original_sentence": "那个善财童子说，你的疯来是怎么的个？",
+      "sentence": "善财童子询问吕洞宾为何发疯",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "洞宾说，你听啊，东风来了往东倒，西风来了往西跑，南北二风当是都来到，无奈了我贫道在坑里跑。",
+      "sentence": "吕洞宾描述自己随风摇摆",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "我在山里跑，我在林里转，就把我的袖头儿刮成稀巴烂。",
+      "sentence": "吕洞宾在山林间奔跑穿梭",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "阎君说是小鬼劝，人人说我是疯魔汉。",
+      "sentence": "阎君表示小鬼在劝说他",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "阎君说是小鬼劝，人人说我是疯魔汉。",
+      "sentence": "人们称他为疯魔汉",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那个太上老君是个疯魔汉，按着一个丹炉儿就去炼丹，他炼给了七七四十整九天，才把时事置满全。",
+      "sentence": "太上老君花费四十九天炼丹",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那个庄周疯了在了南华山，韩湘子疯了他在终南山，韩信不疯就丧命呀，霸王不疯就乌江自刎啊。",
+      "sentence": "庄周在南华山陷入疯狂状态",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "那个庄周疯了在了南华山，韩湘子疯了他在终南山，韩信不疯就丧命呀，霸王不疯就乌江自刎啊。",
+      "sentence": "韩湘子在终南山陷入疯狂状态",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "那个庄周疯了在了南华山，韩湘子疯了他在终南山，韩信不疯就丧命呀，霸王不疯就乌江自刎啊。",
+      "sentence": "韩信因不疯狂而最终丧命",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "那个庄周疯了在了南华山，韩湘子疯了他在终南山，韩信不疯就丧命呀，霸王不疯就乌江自刎啊。",
+      "sentence": "霸王因不疯狂而自刎乌江",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "你也疯是我也疯，你连我的疯字可不相同。",
+      "sentence": "吕洞宾指出彼此的疯不相同",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你疯了为的是钱挣下的少，我疯了为的是我的道德不高啊。",
+      "sentence": "你因挣钱少而情绪失控",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "你疯了为的是钱挣下的少，我疯了为的是我的道德不高啊。",
+      "sentence": "我因道德不高而情绪失控",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "善财童子",
+      "original_sentence": "那善财童子说算了算了，我一个疯字未曾说出来，你一下疯高了，你一下疯低了，你一下疯远了，你一下疯近了，这乎子你敢不疯了吧。",
+      "sentence": "善财童子表示自己未曾说出疯字",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "那善财童子说算了算了，我一个疯字未曾说出来，你一下疯高了，你一下疯低了，你一下疯远了，你一下疯近了，这乎子你敢不疯了吧。",
+      "sentence": "对方情绪波动导致行为异常",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我说老师傅啊，你到饭馆门上说上这么多的话，是要上些残汤冷饭解饥充寒里么，你到我药铺门上要上些药吃哩吗？",
+      "sentence": "询问老师傅是否需要食物或药物",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "这个洞宾笑了下说，哎，买卖人啊，不是我贫道问你要一罐药吃么，只因高山顶上有我贫道的个师父里啊，现在已经七百岁往上了，八百岁往下了，也得了我们这么个疯魔古怪病，困了不睡觉，渴了不喝茶，冷了不穿衣，饿了不吃饭，就这个样子的疯病啊。",
+      "sentence": "吕洞宾向买卖人解释师父病情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "我贫道把四大名山四大部洲游遍了，为了就是治疯病的这个药找一找。",
+      "sentence": "吕洞宾游遍名山寻找治病药",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "从这个东胜神洲游到这个南澹部洲，西游到西牛贺洲，北游到北俱芦州，千般万般的药都找上了，唯有四件引子没有找上么。",
+      "sentence": "吕洞宾游遍四大洲寻找药物",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "我特特问卡你的药铺里有我的四件引子没有？",
+      "sentence": "吕洞宾询问药铺是否有四件引子",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "善财童子",
+      "original_sentence": "那善财童子说，奥，原来是这么个事情，你头抬起来看，我这个药铺门上挂的是万药俱全的招牌，你有什么一百单八样，药单单子呈上来，我给买上就好了么。",
+      "sentence": "善财童子表示药铺万药俱全",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "这个纯阳说，老人家啊，我清早晨来得慌忙把药单单子忘掉了，不过这四味药引子我还肚子里记着哩，你给我誊上个单单儿，买上，价钱不拘多少，我分文不还价啊。",
+      "sentence": "吕洞宾记得四味药引子",
+      "behavior_type": 5
+    },
+    {
+      "role": "吕洞宾",
+      "original_sentence": "这个纯阳说，老人家啊，我清早晨来得慌忙把药单单子忘掉了，不过这四味药引子我还肚子里记着哩，你给我誊上个单单儿，买上，价钱不拘多少，我分文不还价啊。",
+      "sentence": "吕洞宾请老人誊写药单",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老人家说是，那就说来！",
+      "sentence": "老人家表示愿意听取陈述",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说的是我一买的家和散，我二就买的顺气丸，三就买的消毒饮，四就买的化气丹。",
+      "sentence": "购买家和散顺气丸消毒饮化气丹",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那个老年人一听吃了一惊，中草药里哪里有这号子药哩？",
+      "sentence": "老年人听闻后感到十分惊讶",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我说老道长，请你不要见怪，前来这个板凳上你坐一坐，我老汉有个药折折给你查查此药出在什么地方，本命叫个什么，异名叫个什么，我给你查一查。",
+      "sentence": "老道长请坐板凳上查药折折",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "那个洞宾说那就太好了。",
+      "sentence": "吕洞宾表示那真是太好了",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "善财童子",
+      "original_sentence": "你看那个善财童子走慌忙，别了道长到了求药房，把《本草》摆到桌案上，《本草》打开了给你翻着看。",
+      "sentence": "善财童子匆忙离开道长前往药房",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "你看那个善财童子走慌忙，别了道长到了求药房，把《本草》摆到桌案上，《本草》打开了给你翻着看。",
+      "sentence": "将本草摆放在桌案上并打开查阅",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一看这个《本草》上没有个家和散，甲板上没有个顺气丸，药格里没有个消毒饮，药瓶里没有个化气丹啊。",
+      "sentence": "本草中没有家和散顺气丸消毒饮化气丹",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "善财童子",
+      "original_sentence": "那个善财童子望着道人说，老师傅，你不要见怪，我的这个药铺里真没有你买的这个四样小药材啊，请你到别的药行里去买吧。",
+      "sentence": "善财童子告诉道人药铺没有药材",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "那个吕洞宾眉头一皱说道，老年人，我不过出家之人不动无名，当动无名，我打掉这个头顶的万药俱全的招牌。",
+      "sentence": "吕洞宾皱眉表示愤怒情绪",
+      "behavior_type": 2
+    },
+    {
+      "role": "吕洞宾",
+      "original_sentence": "那个吕洞宾眉头一皱说道，老年人，我不过出家之人不动无名，当动无名，我打掉这个头顶的万药俱全的招牌。",
+      "sentence": "吕洞宾打算打掉头顶招牌",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "说了这么几句，这个吕洞宾就背了渔鼓简板，飘飘荡荡往前转，别的地方度众生啊哟。",
+      "sentence": "吕洞宾背着渔鼓简板向前行走",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "那么不说这个吕洞宾是顺街而走走了别处了，但说这个善财童子跑到铺子里面见了观音菩萨，跪倒说，菩萨哎，方才间来了个穿蛋黄袍的老道人，买着四样子巧药材，我就给傢千般万般一百单八样找遍了没有找见，那个四样子药，我让他到别的地方买去了。",
+      "sentence": "吕洞宾沿着街道走向别处",
+      "behavior_type": 4
+    },
+    {
+      "role": "善财童子",
+      "original_sentence": "那么不说这个吕洞宾是顺街而走走了别处了，但说这个善财童子跑到铺子里面见了观音菩萨，跪倒说，菩萨哎，方才间来了个穿蛋黄袍的老道人，买着四样子巧药材，我就给傢千般万般一百单八样找遍了没有找见，那个四样子药，我让他到别的地方买去了。",
+      "sentence": "善财童子跑进铺子见到观音",
+      "behavior_type": 4
+    },
+    {
+      "role": "善财童子",
+      "original_sentence": "那么不说这个吕洞宾是顺街而走走了别处了，但说这个善财童子跑到铺子里面见了观音菩萨，跪倒说，菩萨哎，方才间来了个穿蛋黄袍的老道人，买着四样子巧药材，我就给傢千般万般一百单八样找遍了没有找见，那个四样子药，我让他到别的地方买去了。",
+      "sentence": "善财童子向观音菩萨汇报情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "观音菩萨",
+      "original_sentence": "那个观音菩萨说，你这个大胆的善财童子，你我二人并不是跑到假杭州卖药来了，你赶紧出去去，喊着就说我们药铺里有个姑娘哩给你卖药哩。",
+      "sentence": "观音菩萨责备善财童子行为不当",
+      "behavior_type": 7
+    },
+    {
+      "role": "善财童子",
+      "original_sentence": "那个观音菩萨说，你这个大胆的善财童子，你我二人并不是跑到假杭州卖药来了，你赶紧出去去，喊着就说我们药铺里有个姑娘哩给你卖药哩。",
+      "sentence": "善财童子被观音菩萨命令去宣传",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "善财童子",
+      "original_sentence": "那个善财童子一个攒步从栏柜上跳着出去，到这个大街上又是喊，又是绕手，老道长，你过来，老道长，你过来，我没有找到，我们有个丫头子给你卖哩。",
+      "sentence": "善财童子从栏柜上跳到大街上",
+      "behavior_type": 4
+    },
+    {
+      "role": "善财童子",
+      "original_sentence": "那个善财童子一个攒步从栏柜上跳着出去，到这个大街上又是喊，又是绕手，老道长，你过来，老道长，你过来，我没有找到，我们有个丫头子给你卖哩。",
+      "sentence": "善财童子呼喊老道长过来买药",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "那么这个洞宾回头一看，果然这个药铺门前站着一个姑娘。",
+      "sentence": "吕洞宾回头看见药铺门前姑娘",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "洞宾又是一个酒色财气之人，见了这个美貌姑娘，实在生得风流无比，你看这个姑娘有沉鱼落雁之美，有闭月羞花之貌，齿白唇红，面如桃花，走动着就如春风摆了柳条那么好看，看样子就是吴国的西施，论人才赛过了三国貂蝉啊。",
+      "sentence": "吕洞宾见到美貌姑娘心生欢喜",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "洞宾又是一个酒色财气之人，见了这个美貌姑娘，实在生得风流无比，你看这个姑娘有沉鱼落雁之美，有闭月羞花之貌，齿白唇红，面如桃花，走动着就如春风摆了柳条那么好看，看样子就是吴国的西施，论人才赛过了三国貂蝉啊。",
+      "sentence": "姑娘容貌美丽动人令人惊艳",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "那个洞宾望着这个姑娘走一步笑一声，走到当面，姑娘问着，老师傅，你望住我笑着怎么了？",
+      "sentence": "吕洞宾望着姑娘边走边笑",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "那个洞宾望着这个姑娘走一步笑一声，走到当面，姑娘问着，老师傅，你望住我笑着怎么了？",
+      "sentence": "姑娘询问老师傅为何发笑",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "老师傅，你望住我笑着怎么了？",
+      "sentence": "吕洞宾望着姑娘笑着询问原因",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "老师傅，你望住我笑着怎么了？",
+      "sentence": "姑娘询问老师傅为何望着她笑",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "洞宾没说的了说，啊哟，我望住你笑着里吗，姑娘，我看你这么大的个岁数，头上的黄毛未干，嘴里的奶牙未退，你还敢说给我师傅卖药的二字吗？",
+      "sentence": "吕洞宾无言以对质问姑娘",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "洞宾没说的了说，啊哟，我望住你笑着里吗，姑娘，我看你这么大的个岁数，头上的黄毛未干，嘴里的奶牙未退，你还敢说给我师傅卖药的二字吗？",
+      "sentence": "姑娘询问吕洞宾为何发笑",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "你还敢说给我师傅卖药的二字吗？",
+      "sentence": "吕洞宾质疑姑娘卖药的能力",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这个姑娘说，你看你这个老师傅么，山不在高低是住仙者为贵，海不在深浅是藏蛟龙者为好，五谷不在好坏以吃饱了为贵，妻子不在美貌是贤良了就好，有志了不在年高，无志枉活一百岁。",
+      "sentence": "姑娘向老师傅讲述人生哲理",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老师傅，你是一个买药的，我是一个卖药的，你捡掺着我的岁数大小怎么了？",
+      "sentence": "姑娘质问老师傅为何嘲笑她",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "那个洞宾一听是吃了一惊，说，那么姑娘，既然你给我卖药，你知道天地人的三个宝吗？",
+      "sentence": "吕洞宾听闻后感到十分惊讶",
+      "behavior_type": 3
+    },
+    {
+      "role": "吕洞宾",
+      "original_sentence": "那个洞宾一听是吃了一惊，说，那么姑娘，既然你给我卖药，你知道天地人的三个宝吗？",
+      "sentence": "吕洞宾询问姑娘天地人三宝",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这个姑娘说，老师傅，我略知一二，天有三宝则是那个日月星啊，地有三宝则是那个水火风，人的三宝是精气神，三三九宝说了个分明。",
+      "sentence": "姑娘向老师傅解释天地人三宝",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "那个洞宾一听，说这不是个平常之人啊，姑娘，你既晓得天地人的三宝，这个三纲五常三从四德你敢不懂吧？",
+      "sentence": "吕洞宾询问姑娘是否懂得三纲五常",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那个姑娘说，敢是你老师傅不懂吧。",
+      "sentence": "姑娘质疑老师傅是否懂得",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "你既是懂了，你给我简简单单说一说。",
+      "sentence": "吕洞宾要求对方简单说明",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你听一听，君为臣纲者臣奉君，父为子纲者子奉亲，夫为妻纲者妻奉妇。",
+      "sentence": "君为臣纲臣需奉君",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "你听一听，君为臣纲者臣奉君，父为子纲者子奉亲，夫为妻纲者妻奉妇。",
+      "sentence": "父为子纲子需奉亲",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "你听一听，君为臣纲者臣奉君，父为子纲者子奉亲，夫为妻纲者妻奉妇。",
+      "sentence": "夫为妻纲妻需奉妇",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "君为臣纲，父为子纲，夫为妻纲，这就是三纲。",
+      "sentence": "三纲包括君臣父子夫妻关系",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "五常者，天有个九常，地有个十常，人世间有个五常，仁义礼智信啊，夫妻们也有恩爱一场哩啊。",
+      "sentence": "五常包括仁义礼智信",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三从者那是，未嫁从父，出嫁从夫，夫死从子，这就是三个从啊，四德者，妇德、妇言、妇容、妇功，这就是四个德呀。",
+      "sentence": "三从是未嫁从父出嫁从夫夫死从子",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "三从者那是，未嫁从父，出嫁从夫，夫死从子，这就是三个从啊，四德者，妇德、妇言、妇容、妇功，这就是四个德呀。",
+      "sentence": "四德是妇德妇言妇容妇功",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老师傅，我不再前说了，再的啰里啰嗦，大势里你也不懂。",
+      "sentence": "老师傅表示不再继续讲述",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你不是刚才说的买的哪四件巧药材，你说，我给你买来。",
+      "sentence": "询问刚才提到的四件药材",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "洞宾说，奥，女善人呀，我一买家祸散，二买顺气丸，三买消毒饮，四买化气丹。",
+      "sentence": "吕洞宾说要购买四种药材",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "洞宾说，女善人呀，你的善心比我的高，你的道德比我的大啊。",
+      "sentence": "吕洞宾称赞女善人善心道德高",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那个姑娘说，奥，这个四件小药材，我不是笑你老师傅，就出在高山顶山，出到你们学道人的身上，人人的家中都有哩，各个人的心中都带着哩，你怎么不明道德跑到我药铺里买来了？",
+      "sentence": "姑娘质疑老师傅为何来买药材",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "洞宾说，谁的家里有哩么，谁的身上带着哩？",
+      "sentence": "吕洞宾询问谁家拥有药材",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "当然，我不说你就不晓得么。",
+      "sentence": "不说明就无人知晓",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "父慈子孝就是个家和散啊，当父亲的慈爱了，当儿子的孝敬了，家里和气了，这就是家和散。",
+      "sentence": "父慈子孝是家庭和睦的基础",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "兄宽弟仁者是个顺气丸，当哥哥的宽一宽，当兄弟的让一让，家里就平顺了，这就是顺气丸，家有贤良的妻子是个消毒饮啊，一切放下了就是个化气丹啊。",
+      "sentence": "兄宽弟仁者是个顺气丸",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "兄宽弟仁者是个顺气丸，当哥哥的宽一宽，当兄弟的让一让，家里就平顺了，这就是顺气丸，家有贤良的妻子是个消毒饮啊，一切放下了就是个化气丹啊。",
+      "sentence": "家有贤良的妻子是个消毒饮",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "兄宽弟仁者是个顺气丸，当哥哥的宽一宽，当兄弟的让一让，家里就平顺了，这就是顺气丸，家有贤良的妻子是个消毒饮啊，一切放下了就是个化气丹啊。",
+      "sentence": "一切放下了就是个化气丹",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老师傅，冷病热病都好治得很，唯有四件反病犯了就不好治了。",
+      "sentence": "老师傅认为四件反病难以治愈",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "洞宾说，女善人啊，、那么哪四件反病犯了就不好治了，那个姑娘说，你好好听，你慢慢听，不敬君王的谋逆病，不孝父母这忤逆病，大斗小称的狠心病，出卖朋友的背叛病，就这四件反病犯了就不好治了。",
+      "sentence": "吕洞宾询问女善人四件反病",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "洞宾说，女善人啊，、那么哪四件反病犯了就不好治了，那个姑娘说，你好好听，你慢慢听，不敬君王的谋逆病，不孝父母这忤逆病，大斗小称的狠心病，出卖朋友的背叛病，就这四件反病犯了就不好治了。",
+      "sentence": "姑娘详细说明四件反病内容",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "洞宾说，女善人啊，有些人就往往不明道德就犯到这四件病上了，也就不能抢救吗？",
+      "sentence": "吕洞宾向女善人询问四件反病",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "姑娘说，能能能，只要傢有悔改之意，上天是不会见怪的。",
+      "sentence": "姑娘表示有悔改之意上天不怪",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要想治这个四件反病不难，你用上孝顺三钱，搁上本分四两，买上老石头一个。",
+      "sentence": "治疗四件反病需要特定药材",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "洞宾说，奥，孝顺三钱，是叫人孝顺些好，本分四两，是叫人本分些好，老石头一个，是叫人老实些好。",
+      "sentence": "吕洞宾解释孝顺三钱本分四两老石头",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "女善人，那么这号子药哪里有哩？",
+      "sentence": "询问这种药物在哪里可以找到",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这个姑娘说，有哩么，前边那个心平铺里买，买待了不要买得少了，搁到公平秤上称，称待了不要称得差了，称上拿着来你放到那个容人的案上切，切待了不要切得碎了，放到一个宽心锅里炒，炒待了不要炒得焦了。",
+      "sentence": "姑娘告知购买药材的具体方法",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "洞宾说，奥，心平铺里买，叫人心平些好，公平秤上称，叫人公平些好，容人案上切，叫人容人些好，宽心锅里炒，叫人心宽些好。",
+      "sentence": "吕洞宾建议人们保持心平气和",
+      "behavior_type": 7
+    },
+    {
+      "role": "吕洞宾",
+      "original_sentence": "洞宾说，奥，心平铺里买，叫人心平些好，公平秤上称，叫人公平些好，容人案上切，叫人容人些好，宽心锅里炒，叫人心宽些好。",
+      "sentence": "吕洞宾强调公平称重的重要性",
+      "behavior_type": 7
+    },
+    {
+      "role": "吕洞宾",
+      "original_sentence": "洞宾说，奥，心平铺里买，叫人心平些好，公平秤上称，叫人公平些好，容人案上切，叫人容人些好，宽心锅里炒，叫人心宽些好。",
+      "sentence": "吕洞宾提倡宽容待人的态度",
+      "behavior_type": 7
+    },
+    {
+      "role": "吕洞宾",
+      "original_sentence": "洞宾说，奥，心平铺里买，叫人心平些好，公平秤上称，叫人公平些好，容人案上切，叫人容人些好，宽心锅里炒，叫人心宽些好。",
+      "sentence": "吕洞宾主张心胸宽广的生活",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老师傅，炒待了放到那个宽心锅了不要焦了，把那个火星盖住，炒好了你就拿到那个让人的坑子里，三让四让多让卡，取过来一个三思箩儿里箩，箩待了不要箩得细了，用蜂蜜团成菩提子大的药蛋子，把家里的大小喊来服此药么，每天吃一丸，保证你一切灾祸消散啊。",
+      "sentence": "将炒好的药放入宽心锅中",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "老师傅，炒待了放到那个宽心锅了不要焦了，把那个火星盖住，炒好了你就拿到那个让人的坑子里，三让四让多让卡，取过来一个三思箩儿里箩，箩待了不要箩得细了，用蜂蜜团成菩提子大的药蛋子，把家里的大小喊来服此药么，每天吃一丸，保证你一切灾祸消散啊。",
+      "sentence": "用蜂蜜团成药丸服用",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "老师傅，炒待了放到那个宽心锅了不要焦了，把那个火星盖住，炒好了你就拿到那个让人的坑子里，三让四让多让卡，取过来一个三思箩儿里箩，箩待了不要箩得细了，用蜂蜜团成菩提子大的药蛋子，把家里的大小喊来服此药么，每天吃一丸，保证你一切灾祸消散啊。",
+      "sentence": "每天服用一丸药丸",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "那个洞宾不由得落下泪来了，这个尽说的道德天机啊。",
+      "sentence": "吕洞宾听闻道德天机后落泪",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "女善人啊，你把我收上个门人吧，我再跟上你就学几天吧。",
+      "sentence": "请求成为门人并跟随学习",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那个姑娘笑着说，老师傅，你这么大的岁数，我这么年幼的个姑娘，怎么能行收你做个门人？",
+      "sentence": "姑娘婉拒老师傅的拜师请求",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你头抬起来观看，那个西北上，下来了个高明大士，你好好跟上学去吧。",
+      "sentence": "西北方向下来了一位高明大士",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "那么这个洞宾回过头去一看，这个观音菩萨傢就把假杭州扑的吹了一口气，把手一摆，驾了祥云就到半虚空中。",
+      "sentence": "吕洞宾回头看见观音菩萨驾云",
+      "behavior_type": 4
+    },
+    {
+      "role": "观音菩萨",
+      "original_sentence": "那么这个洞宾回过头去一看，这个观音菩萨傢就把假杭州扑的吹了一口气，把手一摆，驾了祥云就到半虚空中。",
+      "sentence": "观音菩萨吹气摆手驾云升空",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "洞宾回过头来，哪还有那么好的城啊。",
+      "sentence": "吕洞宾发现城市已经消失不见",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "热身子蹲在这个黄沙坑说，啊呀，人人都说杭州这个地方是个污秽之地，出的是狐狸妖精，哪里的狐狸妖精耍笑我，这还了得？",
+      "sentence": "吕洞宾愤怒地质问狐狸妖精",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "把我的这个二龙宝剑取将出来，念了十六个字的真言咒语，说：宝剑炎炎，卫靖四方，斩妖除邪，宅舍平安。",
+      "sentence": "吕洞宾取出二龙宝剑念咒语",
+      "behavior_type": 14
+    },
+    {
+      "role": "吕洞宾",
+      "original_sentence": "把我的这个二龙宝剑取将出来，念了十六个字的真言咒语，说：宝剑炎炎，卫靖四方，斩妖除邪，宅舍平安。",
+      "sentence": "吕洞宾念咒语使宝剑显威力",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "观音菩萨",
+      "original_sentence": "观音菩萨一看，这个二龙宝剑直接来了，傢把手一张，那个二龙宝剑倏地落到观音菩萨的手里。",
+      "sentence": "观音菩萨伸手接住二龙宝剑",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "观音菩萨",
+      "original_sentence": "说，洞宾啊，你当我是谁啊？",
+      "sentence": "观音菩萨询问吕洞宾是否认识她",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "观音菩萨",
+      "original_sentence": "我是紫竹林中观世音菩萨啊。",
+      "sentence": "观音菩萨表明自己是紫竹林观世音",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王母",
+      "original_sentence": "你好好回去吧，我今天在这个假杭州指点于你，明年的三月初三，王母是不见怪你的啊，你好好给王母上寿去吧，吕洞宾听了这一言，双手接住我的二龙剑。",
+      "sentence": "王母明年三月初三不会见怪",
+      "behavior_type": 7
+    },
+    {
+      "role": "吕洞宾",
+      "original_sentence": "你好好回去吧，我今天在这个假杭州指点于你，明年的三月初三，王母是不见怪你的啊，你好好给王母上寿去吧，吕洞宾听了这一言，双手接住我的二龙剑。",
+      "sentence": "吕洞宾双手接住二龙宝剑",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "吕洞宾",
+      "original_sentence": "吕洞宾一屁股就歪坐到黄沙坑，低头啊垂泪我好伤心，我以为是狐狸妖精耍笑我吕洞宾，谁料想是观音菩萨指点，为了回上我的碧天洞。",
+      "sentence": "吕洞宾因伤心而低头垂泪",
+      "behavior_type": 2
+    },
+    {
+      "role": "吕洞宾",
+      "original_sentence": "吕洞宾一屁股就歪坐到黄沙坑，低头啊垂泪我好伤心，我以为是狐狸妖精耍笑我吕洞宾，谁料想是观音菩萨指点，为了回上我的碧天洞。",
+      "sentence": "吕洞宾误以为是狐狸精戏弄",
+      "behavior_type": 5
+    },
+    {
+      "role": "吕洞宾",
+      "original_sentence": "吕洞宾一屁股就歪坐到黄沙坑，低头啊垂泪我好伤心，我以为是狐狸妖精耍笑我吕洞宾，谁料想是观音菩萨指点，为了回上我的碧天洞。",
+      "sentence": "吕洞宾为回碧天洞而行动",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我说天也空来哟地也空，唯有日月转西东；山也空来哟水也空，山水相连到处通；朝也空来哟国也空，紫禁城换过了多少主人公；母也空来哟女也空，只不过临死了头顶那么三尺青；父也空来哟子也空，只不过在亡灵面前假哭几声；我说那珠宝玉器一起空，金钱财宝一起空。",
+      "sentence": "天地日月山水皆为空幻",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "我说天也空来哟地也空，唯有日月转西东；山也空来哟水也空，山水相连到处通；朝也空来哟国也空，紫禁城换过了多少主人公；母也空来哟女也空，只不过临死了头顶那么三尺青；父也空来哟子也空，只不过在亡灵面前假哭几声；我说那珠宝玉器一起空，金钱财宝一起空。",
+      "sentence": "紫禁城更换了无数主人",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "我说天也空来哟地也空，唯有日月转西东；山也空来哟水也空，山水相连到处通；朝也空来哟国也空，紫禁城换过了多少主人公；母也空来哟女也空，只不过临死了头顶那么三尺青；父也空来哟子也空，只不过在亡灵面前假哭几声；我说那珠宝玉器一起空，金钱财宝一起空。",
+      "sentence": "母女父子皆为短暂存在",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "我说天也空来哟地也空，唯有日月转西东；山也空来哟水也空，山水相连到处通；朝也空来哟国也空，紫禁城换过了多少主人公；母也空来哟女也空，只不过临死了头顶那么三尺青；父也空来哟子也空，只不过在亡灵面前假哭几声；我说那珠宝玉器一起空，金钱财宝一起空。",
+      "sentence": "珠宝金钱终将化为乌有",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "世人如果知道这个空空意，何不到碧天洞中去修行。",
+      "sentence": "世人应知空空意并去修行",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "有些人家里的活佛他不敬，五月里上了一会莲花子山哟。",
+      "sentence": "有些人不敬家里的活佛",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "有些人家里的活佛他不敬，五月里上了一会莲花子山哟。",
+      "sentence": "五月里上了莲花子山",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这就说佛在灵山没缘求啊，灵山不远在汝心头，人人有个灵山塔啊，何必灵山塔下求啊。",
+      "sentence": "佛在灵山无需外求",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "这就说佛在灵山没缘求啊，灵山不远在汝心头，人人有个灵山塔啊，何必灵山塔下求啊。",
+      "sentence": "灵山其实就在心中",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "这就说佛在灵山没缘求啊，灵山不远在汝心头，人人有个灵山塔啊，何必灵山塔下求啊。",
+      "sentence": "人人都有灵山塔",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "这就说佛在灵山没缘求啊，灵山不远在汝心头，人人有个灵山塔啊，何必灵山塔下求啊。",
+      "sentence": "不必在塔下求佛",
+      "behavior_type": 7
+    }
+  ]
+]

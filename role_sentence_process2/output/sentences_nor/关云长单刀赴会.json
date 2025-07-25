@@ -1,0 +1,1230 @@
+[
+  [
+    {
+      "role": "孙权",
+      "original_sentence": "凉州贤孝唱词关云长单刀赴会整理：李武莲&冯天民孙权坐镇江南，笑看天下鼎足三。",
+      "sentence": "孙权坐镇江南笑看天下三分",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一十八州孤当先，满朝文武保江山。",
+      "sentence": "一十八州孤当先满朝文武保江山",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "孙权",
+      "original_sentence": "孤王登朝纲，文武大臣来朝参。",
+      "sentence": "孙权登朝纲接受文武大臣朝参",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "依礼拜贺完毕，一字儿排立两班。",
+      "sentence": "文武大臣排列整齐站立两班",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "孙权",
+      "original_sentence": "孙权未曾开言，早已怒气冲天。",
+      "sentence": "孙权未发言已感到愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "孙权",
+      "original_sentence": "威凛凛叫声众臣，细细儿听孤来言。",
+      "sentence": "孙权命令众臣仔细听他说话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "孙权",
+      "original_sentence": "提起蜀主刘备，令人气炸肝胆。",
+      "sentence": "孙权对蜀主刘备感到极度愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "孙权",
+      "original_sentence": "借去寡人荆州，至今不思归还。",
+      "sentence": "孙权指责刘备不归还荆州",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "孙权",
+      "original_sentence": "欺我东吴无人，实把孤家小看。",
+      "sentence": "孙权认为东吴被小看而愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "孙权",
+      "original_sentence": "今日哪位爱卿，为孤分忧解难。",
+      "sentence": "孙权询问哪位大臣能为他分忧",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "担当此番重任，去把荆州讨还。",
+      "sentence": "担当重任去讨还荆州",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "孙权",
+      "original_sentence": "谁能立此大功，定要加爵封官。",
+      "sentence": "孙权承诺加爵封官以激励臣子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "孙权",
+      "original_sentence": "孙权一言未毕，站出来几员大将。",
+      "sentence": "孙权刚说完话几员大将站出",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "徐盛",
+      "original_sentence": "徐盛、丁奉，踊跃请战。",
+      "sentence": "徐盛主动向孙权请战",
+      "behavior_type": 7
+    },
+    {
+      "role": "丁奉",
+      "original_sentence": "徐盛、丁奉，踊跃请战。",
+      "sentence": "丁奉主动向孙权请战",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "蒋钦",
+      "original_sentence": "蒋钦、周泰，盖世无双。",
+      "sentence": "蒋钦和周泰被赞盖世无双",
+      "behavior_type": 2
+    },
+    {
+      "role": "周泰",
+      "original_sentence": "蒋钦、周泰，盖世无双。",
+      "sentence": "周泰和蒋钦被赞盖世无双",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "程普",
+      "original_sentence": "程普、黄盖，勇不可挡。",
+      "sentence": "程普和黄盖勇猛不可阻挡",
+      "behavior_type": 9
+    },
+    {
+      "role": "黄盖",
+      "original_sentence": "程普、黄盖，勇不可挡。",
+      "sentence": "黄盖和程普勇猛不可阻挡",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "韩当",
+      "original_sentence": "韩当、甘宁，互不相让。",
+      "sentence": "韩当与甘宁互相竞争不让步",
+      "behavior_type": 9
+    },
+    {
+      "role": "甘宁",
+      "original_sentence": "韩当、甘宁，互不相让。",
+      "sentence": "甘宁与韩当互相竞争不让步",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "徐盛",
+      "original_sentence": "一个个撩袍举笏，黑压压跪在殿前。",
+      "sentence": "徐盛撩袍举笏跪在殿前",
+      "behavior_type": 13
+    },
+    {
+      "role": "丁奉",
+      "original_sentence": "一个个撩袍举笏，黑压压跪在殿前。",
+      "sentence": "丁奉撩袍举笏跪在殿前",
+      "behavior_type": 13
+    },
+    {
+      "role": "蒋钦",
+      "original_sentence": "一个个撩袍举笏，黑压压跪在殿前。",
+      "sentence": "蒋钦撩袍举笏跪在殿前",
+      "behavior_type": 13
+    },
+    {
+      "role": "周泰",
+      "original_sentence": "一个个撩袍举笏，黑压压跪在殿前。",
+      "sentence": "周泰撩袍举笏跪在殿前",
+      "behavior_type": 13
+    },
+    {
+      "role": "程普",
+      "original_sentence": "一个个撩袍举笏，黑压压跪在殿前。",
+      "sentence": "程普撩袍举笏跪在殿前",
+      "behavior_type": 13
+    },
+    {
+      "role": "黄盖",
+      "original_sentence": "一个个撩袍举笏，黑压压跪在殿前。",
+      "sentence": "黄盖撩袍举笏跪在殿前",
+      "behavior_type": 13
+    },
+    {
+      "role": "韩当",
+      "original_sentence": "一个个撩袍举笏，黑压压跪在殿前。",
+      "sentence": "韩当撩袍举笏跪在殿前",
+      "behavior_type": 13
+    },
+    {
+      "role": "甘宁",
+      "original_sentence": "一个个撩袍举笏，黑压压跪在殿前。",
+      "sentence": "甘宁撩袍举笏跪在殿前",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "尊声我主圣明，请听众臣一言。",
+      "sentence": "请听众臣一言",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "蒋钦",
+      "original_sentence": "我等前去征战，定把荆州讨还。",
+      "sentence": "蒋钦等人决定前去征战荆州",
+      "behavior_type": 4
+    },
+    {
+      "role": "周泰",
+      "original_sentence": "我等前去征战，定把荆州讨还。",
+      "sentence": "周泰等人决定前去征战荆州",
+      "behavior_type": 4
+    },
+    {
+      "role": "程普",
+      "original_sentence": "我等前去征战，定把荆州讨还。",
+      "sentence": "程普等人决定前去征战荆州",
+      "behavior_type": 4
+    },
+    {
+      "role": "黄盖",
+      "original_sentence": "我等前去征战，定把荆州讨还。",
+      "sentence": "黄盖等人决定前去征战荆州",
+      "behavior_type": 4
+    },
+    {
+      "role": "韩当",
+      "original_sentence": "我等前去征战，定把荆州讨还。",
+      "sentence": "韩当等人决定前去征战荆州",
+      "behavior_type": 4
+    },
+    {
+      "role": "甘宁",
+      "original_sentence": "我等前去征战，定把荆州讨还。",
+      "sentence": "甘宁等人决定前去征战荆州",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "鲁肃一旁有主见，我主在上听臣言。",
+      "sentence": "鲁肃向孙权陈述自己的主见",
+      "behavior_type": 7
+    },
+    {
+      "role": "孙权",
+      "original_sentence": "鲁肃一旁有主见，我主在上听臣言。",
+      "sentence": "孙权听取臣子的建议",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "莫动兵，莫慌张，为臣有个巧计献。",
+      "sentence": "鲁肃向孙权献上一条巧计",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "任关某英雄气盖世，也要他拱手将荆州还。",
+      "sentence": "关羽被迫将荆州归还",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "江面上摆开鸿门宴，荆州城请来关美髯。",
+      "sentence": "鲁肃在江面上摆开鸿门宴",
+      "behavior_type": 7
+    },
+    {
+      "role": "关羽",
+      "original_sentence": "江面上摆开鸿门宴，荆州城请来关美髯。",
+      "sentence": "关羽被邀请至荆州城赴宴",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "单等他过江来赴宴，请君入瓮难回返。",
+      "sentence": "鲁肃献计请关羽过江赴宴",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "单等他过江来赴宴，请君入瓮难回返。",
+      "sentence": "请君入瓮使其难以回返",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "乔老",
+      "original_sentence": "乔老一旁开了言，吾主在上听臣言。",
+      "sentence": "乔老向主公提出了建议",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "东吴不必发兵马，荆州莫请关美髯。",
+      "sentence": "东吴不应发兵且莫请关羽",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "若请的关羽过江来，擒虎容易放虎难。",
+      "sentence": "关羽过江后难以返回",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "关羽若有好和歹，刘备现有兵两川。",
+      "sentence": "关羽若有不测刘备将出兵",
+      "behavior_type": 3
+    },
+    {
+      "role": "刘备",
+      "original_sentence": "关羽若有好和歹，刘备现有兵两川。",
+      "sentence": "刘备拥有两川的兵马",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "诸葛孔明为军师，五虎上将勇难当。",
+      "sentence": "诸葛孔明担任军师五虎上将勇猛",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "张翼德大喊三声把桥断，曹操一见心胆寒。",
+      "sentence": "张翼德大喊三声使桥断裂",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "张翼德大喊三声把桥断，曹操一见心胆寒。",
+      "sentence": "曹操见状感到极度恐惧",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "马孟起渭水威名扬，直杀得曹操割须弃袍在潼关。",
+      "sentence": "马超在渭水之战中威名远扬",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "黄汉升百步穿杨箭，赵子龙单枪战长坂。",
+      "sentence": "黄汉升展示百步穿杨箭术",
+      "behavior_type": ""
+    },
+    {
+      "role": "",
+      "original_sentence": "黄汉升百步穿杨箭，赵子龙单枪战长坂。",
+      "sentence": "赵子龙单枪匹马战长坂坡",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "假若西川发人马，东吴大祸在眼前。",
+      "sentence": "西川发人马将导致东吴大祸",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "倒不如暂且放和缓，按兵不动待后观。",
+      "sentence": "暂且放和缓按兵不动待后观",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "孙权",
+      "original_sentence": "孙权一听暗思量，叫声爱卿莫多言。",
+      "sentence": "孙权暗自思考并制止爱卿发言",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "孙权",
+      "original_sentence": "好言稳住乔国老，再叫子敬依计干。",
+      "sentence": "孙权好言稳住乔国老",
+      "behavior_type": 7
+    },
+    {
+      "role": "鲁肃",
+      "original_sentence": "好言稳住乔国老，再叫子敬依计干。",
+      "sentence": "鲁肃依计行事",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "鲁肃领旨下了殿，一封书信修齐全。",
+      "sentence": "鲁肃领旨后立即修书一封",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "差人速速过江去，荆州拜请关美髯。",
+      "sentence": "差人前往荆州邀请关羽",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "钦差领旨不怠慢，急急过江送书函。",
+      "sentence": "钦差迅速过江送书信",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "周仓",
+      "original_sentence": "到荆州先把周仓见，拜请周仓把信传。",
+      "sentence": "周仓在荆州接收了书信",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "周仓",
+      "original_sentence": "周仓接书忙进见，双膝跪倒口传言。",
+      "sentence": "周仓接过书信后立即进行汇报",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "说是东吴有信函，奉请将军去赴宴。",
+      "sentence": "鲁肃传达东吴邀请关羽赴宴",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "关羽拆信用目观，上写着鲁肃顿首来拜参。",
+      "sentence": "关羽拆开信件仔细阅读内容",
+      "behavior_type": 6
+    },
+    {
+      "role": "鲁肃",
+      "original_sentence": "关羽拆信用目观，上写着鲁肃顿首来拜参。",
+      "sentence": "鲁肃在信中向关羽表示敬意",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "辞别将军日已久，深情高谊实难忘。",
+      "sentence": "鲁肃对关羽的深情高谊难以忘怀",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "江面上摆下酒席宴，请将军过江来叙谈。",
+      "sentence": "鲁肃邀请关羽过江赴宴",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "关羽观罢书中言，仰天大笑气昂昂。",
+      "sentence": "关羽看完信后仰天大笑",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "周仓",
+      "original_sentence": "叫周仓快把赤兔牵，即刻过江去赴宴。",
+      "sentence": "周仓迅速将赤兔马牵来",
+      "behavior_type": 13
+    },
+    {
+      "role": "关羽",
+      "original_sentence": "叫周仓快把赤兔牵，即刻过江去赴宴。",
+      "sentence": "关羽立即过江赴宴",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "关某英勇世无双，青龙偃月无人挡。",
+      "sentence": "关羽英勇无敌无人能挡",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "单刀赴会去渡江，会会东吴有何妨。",
+      "sentence": "关羽单刀赴会渡江会东吴",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "周仓",
+      "original_sentence": "周仓扑通跪当面，叫声将军细听言。",
+      "sentence": "周仓跪地向关羽说话",
+      "behavior_type": 13
+    },
+    {
+      "role": "周仓",
+      "original_sentence": "周仓扑通跪当面，叫声将军细听言。",
+      "sentence": "周仓请将军仔细倾听",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "今日子敬请公去，不怀好意藏凶险。",
+      "sentence": "鲁肃邀请关羽赴宴藏有凶险",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "周仓",
+      "original_sentence": "将军一过江东去，恐怕中他恶机关。",
+      "sentence": "周仓担心关羽中江东恶计",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "关平",
+      "original_sentence": "关平听言泪涟涟，口称父亲听儿言。",
+      "sentence": "关平听闻后感到悲伤并流泪",
+      "behavior_type": 2
+    },
+    {
+      "role": "关平",
+      "original_sentence": "关平听言泪涟涟，口称父亲听儿言。",
+      "sentence": "关平向父亲表达自己的担忧",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "父亲执意要过江，大军定要行在前。",
+      "sentence": "关羽坚持要渡过长江",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "父亲执意要过江，大军定要行在前。",
+      "sentence": "大军必须先行在前方",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "关平",
+      "original_sentence": "大军随行保平安，不怕东吴将千员。",
+      "sentence": "关平建议大军随行以保平安",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "关公一听不耐烦，叫声关平莫多言。",
+      "sentence": "关羽感到不耐烦并制止关平",
+      "behavior_type": 2
+    },
+    {
+      "role": "关羽",
+      "original_sentence": "关公一听不耐烦，叫声关平莫多言。",
+      "sentence": "关羽要求关平不要再多说话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "桃园结义弟兄三，乌牛白马祭苍天。",
+      "sentence": "桃园结义三兄弟祭天",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "今日拥有兵两川，何惧东吴小孙权。",
+      "sentence": "关羽拥有两川兵力不惧孙权",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "我今不带兵和将，只叫周仓跟随俺。",
+      "sentence": "关羽决定不带兵只带周仓",
+      "behavior_type": 10
+    },
+    {
+      "role": "周仓",
+      "original_sentence": "我今不带兵和将，只叫周仓跟随俺。",
+      "sentence": "周仓跟随关羽一同前往",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "周仓",
+      "original_sentence": "周仓应声发了话，龙潭虎穴我敢闯。",
+      "sentence": "周仓表示自己敢于闯龙潭虎穴",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "关羽周仓动了身，匹马单刀去江南。",
+      "sentence": "关羽与周仓启程前往江南",
+      "behavior_type": 4
+    },
+    {
+      "role": "周仓",
+      "original_sentence": "关羽周仓动了身，匹马单刀去江南。",
+      "sentence": "周仓随关羽启程前往江南",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一叶小舟顶风波，飘飘荡荡过长江。",
+      "sentence": "一叶小舟在长江上飘荡",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "鲁子敬江岸眼望穿，心急如焚暗思量。",
+      "sentence": "鲁肃在江岸焦急地等待",
+      "behavior_type": 2
+    },
+    {
+      "role": "鲁肃",
+      "original_sentence": "鲁子敬江岸眼望穿，心急如焚暗思量。",
+      "sentence": "鲁肃心中暗自思量",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "只怕是关羽不上当，枉费心机梦一场。",
+      "sentence": "关羽可能不会中计",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "只怕是关羽不上当，枉费心机梦一场。",
+      "sentence": "计划可能无法实现",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "倘若是关羽上了当，天大的功劳在眼前。",
+      "sentence": "鲁肃认为关羽可能不会上当",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "倘若是关羽上了当，天大的功劳在眼前。",
+      "sentence": "天大的功劳即将实现",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "正然胡思又乱想，遥见江上帆影现。",
+      "sentence": "鲁肃正在江边胡思乱想",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "正然胡思又乱想，遥见江上帆影现。",
+      "sentence": "遥见江上帆影逐渐显现",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "上游漂下一只船，桅杆上大旗迎风展。",
+      "sentence": "上游漂下一只迎风展旗的船",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "斗大的关字写上边，船上打坐一员将，好似天神下凡间。",
+      "sentence": "关羽船上端坐如天神下凡",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "将军盔，戴头上，绿战袍，披身上。",
+      "sentence": "关羽头戴将军盔身披绿战袍",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "护身宝镜放毫光，勒甲丝带紧紧缠。",
+      "sentence": "关羽佩戴护身宝镜并系紧勒甲丝带",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "腰束八宝黄金带，虎头战靴蹬足上。",
+      "sentence": "关羽腰束八宝黄金带",
+      "behavior_type": 1
+    },
+    {
+      "role": "关羽",
+      "original_sentence": "腰束八宝黄金带，虎头战靴蹬足上。",
+      "sentence": "关羽足蹬虎头战靴",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "周仓",
+      "original_sentence": "船头立着赤兔马，周仓扛刀在后边。",
+      "sentence": "周仓在船后扛着大刀",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "子敬一见心喜欢，叫声众将细听言。",
+      "sentence": "鲁肃见到后感到非常高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "鲁肃",
+      "original_sentence": "子敬一见心喜欢，叫声众将细听言。",
+      "sentence": "鲁肃命令众将仔细听令",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "汉关公单刀赴会，英雄盖世，万古流传。",
+      "sentence": "关羽单刀赴会英雄事迹流传千古",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "一言未毕船靠岸，鲁肃上前把礼参。",
+      "sentence": "鲁肃上前向对方行礼",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "谦恭逊让进宝帐，子敬一旁把酒盏。",
+      "sentence": "鲁肃在旁为关羽倒酒",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "酒过三巡礼周全，鲁肃缓缓开了言。",
+      "sentence": "鲁肃在酒过三巡后开始发言",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "尊声将军听我言，凡事有根必有源。",
+      "sentence": "鲁肃请将军听其讲述缘由",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "想当年曹操太猖狂，进兵讨蜀与你战。",
+      "sentence": "鲁肃提及曹操曾进兵讨蜀",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "伐你桃园三兄弟，摆开阵势战一场。",
+      "sentence": "鲁肃邀请对方进行一场战斗",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大战樊城鏖兵急，火烧新野真凄惨。",
+      "sentence": "樊城大战激烈进行中",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "大战樊城鏖兵急，火烧新野真凄惨。",
+      "sentence": "新野遭遇大火损失惨重",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夏口一战心胆寒，刘关张兄弟无立站。",
+      "sentence": "夏口一战令人感到心胆寒",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "夏口一战心胆寒，刘关张兄弟无立站。",
+      "sentence": "刘关张兄弟无处可立站",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "来到江南寻保障，午朝门外见了面。",
+      "sentence": "来到江南寻求保障",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "来到江南寻保障，午朝门外见了面。",
+      "sentence": "午朝门外与人见面",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "曾与我来来去去说根源，我带你兄弟三人见孙权。",
+      "sentence": "鲁肃与关羽谈论事情缘由",
+      "behavior_type": 7
+    },
+    {
+      "role": "鲁肃",
+      "original_sentence": "曾与我来来去去说根源，我带你兄弟三人见孙权。",
+      "sentence": "鲁肃带关羽兄弟见孙权",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "孙权",
+      "original_sentence": "吾主心善肚量宽，见你们兄弟实可怜。",
+      "sentence": "孙权对刘关张兄弟心生怜悯",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "孙权",
+      "original_sentence": "借与荆州把身安，到后来讨要荆州永不还。",
+      "sentence": "孙权借荆州给刘备安身",
+      "behavior_type": 8
+    },
+    {
+      "role": "孙权",
+      "original_sentence": "借与荆州把身安，到后来讨要荆州永不还。",
+      "sentence": "孙权后来未能收回荆州",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "玄德装呆汉，孔明把话言。",
+      "sentence": "玄德假装呆滞不言语",
+      "behavior_type": ""
+    },
+    {
+      "role": "",
+      "original_sentence": "玄德装呆汉，孔明把话言。",
+      "sentence": "孔明开始发表言论",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "何时吾家取西川，再把荆州来交还。",
+      "sentence": "取得西川后将荆州归还",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "关公闻听开了言，大夫此话不妥当。",
+      "sentence": "关羽表示大夫此话不妥当",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "今日过江来赴宴只叙友情论交往军国之事请免谈。",
+      "sentence": "关羽表示只谈友情不论军事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "鲁肃听罢关公言，眉头一皱又开言。",
+      "sentence": "鲁肃听完关羽的话后继续发言",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "尊声将军暂息怒，莫要把错话来乱讲。",
+      "sentence": "鲁肃劝告将军不要乱说话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "当初荆州只言借，单为两家情谊长。",
+      "sentence": "鲁肃解释荆州只是暂时借用",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "你我弟兄在当面，为何今日要赖账。",
+      "sentence": "鲁肃指责关羽今日赖账",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "问得关公无语言，气得周仓怒冲冠。",
+      "sentence": "关羽被问得无言以对",
+      "behavior_type": 7
+    },
+    {
+      "role": "周仓",
+      "original_sentence": "问得关公无语言，气得周仓怒冲冠。",
+      "sentence": "周仓因愤怒而情绪激动",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "今日饮宴自饮宴，酒后休提荆州言。",
+      "sentence": "鲁肃劝关羽酒后莫提荆州事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "从前曹操出中原，八十三万下江南。",
+      "sentence": "曹操率领大军南下征讨江南",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你们闻听心胆寒，吓坏东吴众百官。",
+      "sentence": "东吴百官听闻后感到恐惧",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "文要降来武要战，文降武战不安然。",
+      "sentence": "文降武战导致局势不安定",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那时你过长江把兵搬，孔明只身下江南。",
+      "sentence": "那时你过长江搬兵",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "那时你过长江把兵搬，孔明只身下江南。",
+      "sentence": "孔明独自前往江南",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "草船借箭十几万，筑台祭风在南屏山。",
+      "sentence": "草船借箭获得十几万支箭",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "草船借箭十几万，筑台祭风在南屏山。",
+      "sentence": "筑台祭风地点在南屏山",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "黄盖",
+      "original_sentence": "庞统巧献连环计，黄盖苦肉实可怜。",
+      "sentence": "黄盖实施苦肉计以欺骗敌人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "草船火攻破曹操，霎时烧得血满江，曹操兵甲不归还。",
+      "sentence": "草船火攻成功击败曹操军队",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "草船火攻破曹操，霎时烧得血满江，曹操兵甲不归还。",
+      "sentence": "曹操军队遭受重大损失",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你要荆州荆州在，为什么借了东风永不还。",
+      "sentence": "荆州存在但东风未归还",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "眼前若有三阵风，还你荆州有何难。",
+      "sentence": "眼前若有三阵风还荆州不难",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "关公听言怒满面，胆大周仓勿多言。",
+      "sentence": "关羽听闻后感到非常愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "周仓",
+      "original_sentence": "关公听言怒满面，胆大周仓勿多言。",
+      "sentence": "周仓说话时显得十分大胆",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "至于荆州还不还，本将军自然有决断。",
+      "sentence": "关羽决定荆州归还事宜",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "周仓",
+      "original_sentence": "周仓一听不耐烦，尊声关爷听我言。",
+      "sentence": "周仓感到不耐烦并请求关羽倾听",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你的刀马现在此，我回我的卧牛山。",
+      "sentence": "刀马现在此我回卧牛山",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "关公听言气冲天，骂声周仓往下站。",
+      "sentence": "关羽听闻后感到非常愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "周仓",
+      "original_sentence": "关公听言气冲天，骂声周仓往下站。",
+      "sentence": "周仓被命令立即退下",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "莫要在此乱胡闹，误我大事问你斩。",
+      "sentence": "关羽警告周仓不要干扰他",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "关羽",
+      "original_sentence": "一把抓过鲁子敬，请君过江把荆州事谈。",
+      "sentence": "关羽抓住鲁肃邀请他过江谈判",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "喝令艄公忙开船，飘飘荡荡转回还。",
+      "sentence": "艄公开船后逐渐远离岸边",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "这才是，画虎不成反类犬，鲁子敬成了替罪羊。",
+      "sentence": "鲁肃成为替罪羊",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "鲁肃",
+      "original_sentence": "手下三军莫要乱，举杯为号拿美髯。",
+      "sentence": "鲁肃命令三军不要混乱",
+      "behavior_type": 7
+    },
+    {
+      "role": "鲁肃",
+      "original_sentence": "手下三军莫要乱，举杯为号拿美髯。",
+      "sentence": "鲁肃计划以举杯为号",
+      "behavior_type": 10
+    }
+  ]
+]

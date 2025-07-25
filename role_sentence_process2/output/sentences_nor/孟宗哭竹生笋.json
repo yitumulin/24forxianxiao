@@ -1,0 +1,772 @@
+[
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "第十一节新编凉州贤孝唱词：孟宗哭竹生笋三九真理传天下，二十四孝表贤人。",
+      "sentence": "孟宗哭竹生笋传颂孝道真理",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "第十一节新编凉州贤孝唱词：孟宗哭竹生笋三九真理传天下，二十四孝表贤人。",
+      "sentence": "二十四孝表彰贤人的行为",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个时代说贤书？",
+      "sentence": "哪个时代讲述贤书内容",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个国家论孝子？",
+      "sentence": "讨论孝子的国家是哪一个",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三国时代说贤书，吴国里头论孝子。",
+      "sentence": "三国时代讲述贤书内容",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "三国时代说贤书，吴国里头论孝子。",
+      "sentence": "吴国境内讨论孝子事迹",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "今天不把别的唱，唱一段孟宗哭竹的孝子传。",
+      "sentence": "孟宗哭竹的故事传颂孝道",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "自从盘古开天地，三皇完了传五帝。",
+      "sentence": "盘古开天地后三皇传五帝",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "虞舜禅位给了大禹王，大禹传位给了亲儿郎。",
+      "sentence": "虞舜将帝位禅让给大禹",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "虞舜禅位给了大禹王，大禹传位给了亲儿郎。",
+      "sentence": "大禹将帝位传给亲儿子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夏启传到了残暴的夏桀王，商汤传到了荒淫的殷纣王。",
+      "sentence": "夏启将王位传给了残暴的夏桀",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "夏启传到了残暴的夏桀王，商汤传到了荒淫的殷纣王。",
+      "sentence": "商汤将王位传给了荒淫的殷纣",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周武王讨伐的殷纣王，狐狸精妲己也归了天。",
+      "sentence": "周武王讨伐了殷纣王",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "周武王讨伐的殷纣王，狐狸精妲己也归了天。",
+      "sentence": "狐狸精妲己最终死亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周幽王烽火戏诸侯，周平王迁都到洛阳。",
+      "sentence": "周幽王点燃烽火戏弄诸侯",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "周幽王烽火戏诸侯，周平王迁都到洛阳。",
+      "sentence": "周平王将都城迁至洛阳",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "春秋五霸争天下，战国七雄归秦王。",
+      "sentence": "春秋五霸争夺天下霸权",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "春秋五霸争天下，战国七雄归秦王。",
+      "sentence": "战国七雄最终被秦王统一",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "楚霸王项羽不过江，便宜了泼皮无赖的汉刘邦。",
+      "sentence": "项羽选择不过江",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "楚霸王项羽不过江，便宜了泼皮无赖的汉刘邦。",
+      "sentence": "刘邦因此获得优势",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "王莽篡汉天下乱，光武中兴建东汉。",
+      "sentence": "王莽篡夺汉朝导致天下大乱",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "王莽篡汉天下乱，光武中兴建东汉。",
+      "sentence": "光武帝中兴建立了东汉王朝",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "桓帝灵帝乱朝纲，东汉不到二百年。",
+      "sentence": "东汉王朝持续不到二百年",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "天下三分魏蜀吴，乱世纷争英雄出。",
+      "sentence": "天下三分魏蜀吴",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "天下三分魏蜀吴，乱世纷争英雄出。",
+      "sentence": "乱世纷争英雄出",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "奸雄曹操挟天子，打败袁绍据北方。",
+      "sentence": "曹操挟天子以令诸侯",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "奸雄曹操挟天子，打败袁绍据北方。",
+      "sentence": "曹操击败袁绍占据北方",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周瑜诸葛烧赤壁，皇叔刘备借荆州。",
+      "sentence": "周瑜和诸葛亮在赤壁放火",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "周瑜诸葛烧赤壁，皇叔刘备借荆州。",
+      "sentence": "刘备向孙权借用了荆州",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "孙权",
+      "original_sentence": "吴侯孙权据江东，父子三代根基固。",
+      "sentence": "孙权在江东建立了稳固的根基",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "话说东吴江夏郡，有个孝子叫孟宗。",
+      "sentence": "孟宗是东吴江夏郡的孝子",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "孟宗年少父亲死，母亲守寡养孤儿。",
+      "sentence": "孟宗的父亲在他年少时去世",
+      "behavior_type": 3
+    },
+    {
+      "role": "孟母",
+      "original_sentence": "孟宗年少父亲死，母亲守寡养孤儿。",
+      "sentence": "孟母独自抚养年幼的孟宗",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "孟母",
+      "original_sentence": "一把屎来一把尿，好不容易拉扯大。",
+      "sentence": "孟母辛苦将孟宗抚养长大",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "孤儿寡母日子苦，孟宗孝顺有出息。",
+      "sentence": "孟宗孝顺且有出息",
+      "behavior_type": 2
+    },
+    {
+      "role": "孟母",
+      "original_sentence": "孤儿寡母日子苦，孟宗孝顺有出息。",
+      "sentence": "孟母与孟宗日子艰苦",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "孟母",
+      "original_sentence": "三九寒天某一日，母亲突然生重病。",
+      "sentence": "孟母突然患上了重病",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "孟母",
+      "original_sentence": "其他食物都不吃，就想竹笋熬点汤。",
+      "sentence": "孟母只想吃竹笋熬的汤",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "现今正是大冷天，哪有竹笋来熬汤？",
+      "sentence": "孟宗思考寒冬如何获取竹笋",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "孟宗跑到竹林边，抱着竹子哭一场。",
+      "sentence": "孟宗前往竹林并抱住竹子哭泣",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "孟母",
+      "original_sentence": "母亲要喝竹笋汤，谁知遇上三九天？",
+      "sentence": "孟母患病期间想喝竹笋汤",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "母亲要喝竹笋汤，谁知遇上三九天？",
+      "sentence": "三九天难以找到新鲜竹笋",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "苍天在上睁开眼，看看母亲多可怜。",
+      "sentence": "苍天目睹母亲的悲惨境遇",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大地在下睁开眼，看看儿子哭断肠。",
+      "sentence": "大地看见儿子悲伤哭泣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "趴在地上哭一天，早上哭到大晚上。",
+      "sentence": "孟宗长时间趴在地上哭泣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "哭着老天也感动，哭着大地也感动。",
+      "sentence": "孟宗哭泣感动了天地",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "突然地上裂开缝，竹笋簌簌往上长。",
+      "sentence": "孟宗看到地上突然裂开长竹笋",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "孟宗一看笑开颜，谢了大地谢老天。",
+      "sentence": "孟宗看到竹笋后感到非常高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "孟宗",
+      "original_sentence": "孟宗一看笑开颜，谢了大地谢老天。",
+      "sentence": "孟宗向大地和老天表达感谢",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "赶紧竹笋挖一筐，回家给老母熬笋汤。",
+      "sentence": "孟宗挖了一筐竹笋回家",
+      "behavior_type": 13
+    },
+    {
+      "role": "孟宗",
+      "original_sentence": "赶紧竹笋挖一筐，回家给老母熬笋汤。",
+      "sentence": "孟宗为母亲熬制笋汤",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "孟母",
+      "original_sentence": "母亲一喝竹笋汤，病也好了能下床。",
+      "sentence": "孟母饮用竹笋汤后病情好转",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "孟宗的孝心感动天，竹笋生在三九天。",
+      "sentence": "孟宗的孝心感动了上天",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "孟宗的孝心感动天，竹笋生在三九天。",
+      "sentence": "竹笋在寒冬时节生长",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "孟宗哭竹美名扬，老家的名字改孝感。",
+      "sentence": "孟宗因孝行而闻名天下",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "孟宗哭竹美名扬，老家的名字改孝感。",
+      "sentence": "老家的名字被改为孝感",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "巷子改成哭竹巷，人人都喝竹笋汤。",
+      "sentence": "巷子改名为哭竹巷",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "巷子改成哭竹巷，人人都喝竹笋汤。",
+      "sentence": "人们都饮用竹笋汤",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "儿子孝顺母贤良，孟宗母子名声响。",
+      "sentence": "孟宗母子因孝顺而名声远扬",
+      "behavior_type": 7
+    },
+    {
+      "role": "孟母",
+      "original_sentence": "儿子孝顺母贤良，孟宗母子名声响。",
+      "sentence": "孟宗母子因孝顺而名声远扬",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "拜师李肃在南阳，日夜学习成绩强。",
+      "sentence": "在南阳拜师李肃日夜学习",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老师觉得不一般，将来可要做宰相。",
+      "sentence": "老师认为他将来能做宰相",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "孟母",
+      "original_sentence": "母亲在家做被子，做的被子一丈宽。",
+      "sentence": "孟母在家中制作一丈宽的被子",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "孟母",
+      "original_sentence": "为啥被子这么宽？",
+      "sentence": "孟母制作的被子宽度为一丈",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "孟母",
+      "original_sentence": "孟母想的可长远。",
+      "sentence": "孟母考虑得非常长远",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "儿子愚钝多交友，晚上一起被窝钻。",
+      "sentence": "儿子愚钝且喜欢多交朋友",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "孟母",
+      "original_sentence": "交友要交好朋友，做床大被招贤良。",
+      "sentence": "孟母希望儿子结交贤良朋友",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "孟宗后来做了官，就把母亲带身边。",
+      "sentence": "孟宗将母亲接到自己身边",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "做官没做别的官，做了个小小管渔官。",
+      "sentence": "孟宗担任了管渔的小官职",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "靠着水来就吃水，靠着山来就吃山。",
+      "sentence": "靠近水源就依靠水源生活",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "既然当了管渔的官，吃几条鱼儿很方便。",
+      "sentence": "孟宗担任管渔官后食用鱼很方便",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "划起船儿撒开网，抓几条鱼儿孝亲娘。",
+      "sentence": "孟宗划船撒网捕鱼孝敬母亲",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "鱼儿做好罐子里装，腌在罐子里撒上盐。",
+      "sentence": "孟宗将鱼儿腌制在罐子里",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "拿到了母亲的面前，想着母亲定喜欢。",
+      "sentence": "将鱼儿拿到母亲面前",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "拿到了母亲的面前，想着母亲定喜欢。",
+      "sentence": "想着母亲会喜欢鱼儿",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "孟母",
+      "original_sentence": "没想到母亲生了气，把这个鱼儿退回去。",
+      "sentence": "孟母对儿子的行为感到愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "做官就要做清官，公家的便宜不能占。",
+      "sentence": "做官应当保持清廉公正",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "孟宗一听很惭愧，这样的错误再不犯。",
+      "sentence": "孟宗听闻后感到十分惭愧",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "干干净净做清官，公家的便宜绝不占。",
+      "sentence": "孟宗坚持做清官不占公家便宜",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "孙权",
+      "original_sentence": "又孝顺么又清廉，孙权手下当大官。",
+      "sentence": "孙权担任重要官职",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "孟母",
+      "original_sentence": "某年某月某一天，母亲可就归了天。",
+      "sentence": "孟母在某年某月某一天去世",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "孟宗来不及去辞官，着急忙慌来奔丧。",
+      "sentence": "孟宗匆忙赶回家奔丧",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "跪守坟墓三十天，日日夜夜泪相伴。",
+      "sentence": "孟宗跪守坟墓长达三十天",
+      "behavior_type": 2
+    },
+    {
+      "role": "孟宗",
+      "original_sentence": "跪守坟墓三十天，日日夜夜泪相伴。",
+      "sentence": "孟宗日夜以泪洗面",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "不辞官来去奔丧，可就把孙权的王法犯。",
+      "sentence": "孟宗未辞官便匆忙奔丧",
+      "behavior_type": 3
+    },
+    {
+      "role": "孟宗",
+      "original_sentence": "不辞官来去奔丧，可就把孙权的王法犯。",
+      "sentence": "孟宗违反了孙权的王法",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "找根绳子把自己绑，负荆请罪见孙权。",
+      "sentence": "孟宗负荆请罪去见孙权",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "孙权",
+      "original_sentence": "孙权一看怪生气，明目张胆把王法犯。",
+      "sentence": "孙权对违法行为感到愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "孙权",
+      "original_sentence": "拉到那个门外边，武士给我把脑袋砍。",
+      "sentence": "孙权命令武士砍掉他的脑袋",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "眼看孟宗要被砍，都督陆逊着了忙。",
+      "sentence": "孟宗即将被处以极刑",
+      "behavior_type": 3
+    },
+    {
+      "role": "陆逊",
+      "original_sentence": "眼看孟宗要被砍，都督陆逊着了忙。",
+      "sentence": "陆逊对此感到非常着急",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "陆逊",
+      "original_sentence": "吴王,吴王先别砍，孟宗的事儿你听完。",
+      "sentence": "陆逊请求孙权听完孟宗的事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "哭竹生笋孝亲娘，孝子怎能不奔丧？",
+      "sentence": "孟宗因孝亲娘而悲伤哭泣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "孟母",
+      "original_sentence": "孟母还鲊教儿郎，孟宗可是个大清官。",
+      "sentence": "孟母教导儿子为官清廉",
+      "behavior_type": 7
+    },
+    {
+      "role": "孟宗",
+      "original_sentence": "孟母还鲊教儿郎，孟宗可是个大清官。",
+      "sentence": "孟宗担任官职清正廉洁",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "孙权",
+      "original_sentence": "孙权一听想了想，这样孝子不能砍。",
+      "sentence": "孙权思考后决定不杀孝子",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "孙权",
+      "original_sentence": "饶了孟宗这清官，以后官员可奔丧。",
+      "sentence": "孙权决定饶恕孟宗",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "饶了孟宗这清官，以后官员可奔丧。",
+      "sentence": "官员今后可以奔丧",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，这段子贤孝么已唱完，故事么一节一节交代全。",
+      "sentence": "这段故事已经全部讲述完毕",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问唱的是那一段？",
+      "sentence": "询问唱的是哪一段故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二十四孝里的十一篇。",
+      "sentence": "二十四孝中包含第十一篇",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问曲儿是啥名堂？",
+      "sentence": "询问这首曲子的名称",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "孟宗",
+      "original_sentence": "孟宗哭竹的事一桩。",
+      "sentence": "孟宗因悲伤而哭泣于竹林",
+      "behavior_type": 2
+    }
+  ]
+]

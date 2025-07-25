@@ -1,0 +1,1122 @@
+[
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "新编凉州贤孝第一孝唱词：虞舜孝感动天高高山上一清泉，流流曲曲几千年。",
+      "sentence": "虞舜的孝心感动了上天",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "新编凉州贤孝第一孝唱词：虞舜孝感动天高高山上一清泉，流流曲曲几千年。",
+      "sentence": "高山上的清泉流淌了几千年",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人人都喝泉中水，愚的愚来贤的贤。",
+      "sentence": "人们饮用泉水后表现各异",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人生在世孝为先，不孝父母人难当。",
+      "sentence": "人生在世应以孝道为先",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "人生在世孝为先，不孝父母人难当。",
+      "sentence": "不孝父母者难以立足",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "乌鸦反哺十八天，羊羔吃奶跪地上。",
+      "sentence": "乌鸦反哺持续十八天",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "乌鸦反哺十八天，羊羔吃奶跪地上。",
+      "sentence": "羊羔跪地吃奶",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "为人若不尽孝道，真与畜生无两样。",
+      "sentence": "不尽孝道者与畜生无异",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "儿子能把父母孝，下辈孙儿照样还。",
+      "sentence": "孝顺父母将影响后代行为",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "中华文明孝为先，孔夫子的《孝经》天下传。",
+      "sentence": "中华文明以孝道为先",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "孝子贤孙千千万，《二十四孝》里把美名扬！",
+      "sentence": "孝子贤孙在二十四孝中传扬美名",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "自从盘古开天地，三皇完了传五帝。",
+      "sentence": "盘古开天辟地后三皇传五帝",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "天上三光日月星，世上三才天地人。",
+      "sentence": "天上三光日月星世上三才天地人",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "天皇伏羲画八卦，地皇女娲来补天。",
+      "sentence": "天皇伏羲画出了八卦",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "天皇伏羲画八卦，地皇女娲来补天。",
+      "sentence": "地皇女娲补好了天",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人皇神农尝百草，三皇可把瞎弦的手艺传。",
+      "sentence": "神农尝试了多种草药",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "轩辕黄帝杀蚩尤，炎黄子孙把名留。",
+      "sentence": "轩辕黄帝战胜了蚩尤",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "轩辕黄帝杀蚩尤，炎黄子孙把名留。",
+      "sentence": "炎黄子孙留下了美名",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "天子大位代代传，黄帝的子孙当帝王。",
+      "sentence": "天子大位由黄帝子孙继承",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "儿子当完孙子当，哥哥当完弟弟当。",
+      "sentence": "儿子当完孙子当哥哥当完弟弟当",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "五帝里面的第二帝，颛顼傢可是黄帝的亲孙子。",
+      "sentence": "颛顼是黄帝的亲孙子",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "五帝里面第三帝，帝喾傢可是黄帝的重孙子。",
+      "sentence": "帝喾是黄帝的重孙子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "帝喾一朝归了西，传位给儿子叫帝挚。",
+      "sentence": "帝喾去世后传位给儿子帝挚",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "尧帝",
+      "original_sentence": "帝挚一朝归了西，传位给弟弟叫尧帝。",
+      "sentence": "帝挚去世后传位给弟弟尧帝",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "尧帝",
+      "original_sentence": "五帝里头的第四帝，帝喾的儿子叫尧帝。",
+      "sentence": "帝喾将帝位传给儿子尧帝",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "尧帝",
+      "original_sentence": "尧帝在位到七十年，找个贤人把天下传。",
+      "sentence": "尧帝在位七十年寻找贤人传位",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "尧帝",
+      "original_sentence": "天下不给亲儿子传，却把虞舜么来选上。",
+      "sentence": "尧帝未传位给亲儿子而选择虞舜",
+      "behavior_type": 3
+    },
+    {
+      "role": "虞舜",
+      "original_sentence": "天下不给亲儿子传，却把虞舜么来选上。",
+      "sentence": "虞舜被尧帝选为继承人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "尧帝",
+      "original_sentence": "整整培养了二十年，就把帝位来禅让。",
+      "sentence": "尧帝将帝位禅让给虞舜",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "虞舜的出身也不简单，黄帝的子孙八辈子传。",
+      "sentence": "虞舜是黄帝的八世孙",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "五帝里头的第五帝，就是贤良的虞舜帝。",
+      "sentence": "虞舜是五帝中的第五位",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "尧帝",
+      "original_sentence": "尧帝在位九十年，舜帝在位四十八年。",
+      "sentence": "尧帝在位时间长达九十年",
+      "behavior_type": 12
+    },
+    {
+      "role": "虞舜",
+      "original_sentence": "尧帝在位九十年，舜帝在位四十八年。",
+      "sentence": "虞舜在位时间达四十八年",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "尧帝",
+      "original_sentence": "贵人都有个贵人相，尧帝舜帝的长相可不一般。",
+      "sentence": "尧帝和舜帝的长相不一般",
+      "behavior_type": 1
+    },
+    {
+      "role": "虞舜",
+      "original_sentence": "贵人都有个贵人相，尧帝舜帝的长相可不一般。",
+      "sentence": "尧帝和舜帝的长相不一般",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "尧帝",
+      "original_sentence": "眉分八彩是尧帝，目生重瞳是舜帝。",
+      "sentence": "尧帝的眉毛呈现出八种色彩",
+      "behavior_type": 1
+    },
+    {
+      "role": "虞舜",
+      "original_sentence": "眉分八彩是尧帝，目生重瞳是舜帝。",
+      "sentence": "虞舜的眼睛生有双重瞳孔",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "舜帝的孝心感动了天，今天就把他唱一唱。",
+      "sentence": "虞舜的孝心感动了上天",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "舜帝的孝心感动了天，今天就把他唱一唱。",
+      "sentence": "今天人们传颂他的事迹",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "说起这个虞舜也是怪可怜，小小儿遭到后娘的手心上。",
+      "sentence": "虞舜小时候遭受后娘虐待",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "瞽瞍",
+      "original_sentence": "虞舜的老子叫瞽瞍，是个蠢笨的老瞎汉。",
+      "sentence": "瞽瞍是一个愚蠢的盲人",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "瞽瞍",
+      "original_sentence": "前脚子儿子才抱上，后脚子老婆就归了天。",
+      "sentence": "瞽瞍的妻子在儿子出生后去世",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "瞽瞍",
+      "original_sentence": "前脚子大老婆归了天，后脚子二老婆再娶上。",
+      "sentence": "瞽瞍丧妻后续娶新妇",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "瞽瞍",
+      "original_sentence": "前脚子看着大儿子虞舜不顺眼，后脚子生下小儿子叫个象。",
+      "sentence": "瞽瞍对虞舜感到不顺眼",
+      "behavior_type": 2
+    },
+    {
+      "role": "象",
+      "original_sentence": "前脚子看着大儿子虞舜不顺眼，后脚子生下小儿子叫个象。",
+      "sentence": "瞽瞍生下小儿子象",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "后娘后了亲爹也后，后爹后娘么虞舜把溜辛受。",
+      "sentence": "虞舜遭受后爹后娘的虐待",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "后娘害了弟弟害，弟弟害了老子害。",
+      "sentence": "后娘和弟弟先后加害他人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "幸亏虞舜命么大，害来害去没有干上个啥。",
+      "sentence": "虞舜多次被害却幸存下来",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "看着虞舜上房修谷仓，撤掉梯子让他下不了房。",
+      "sentence": "虞舜上房修理谷仓",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "看着虞舜上房修谷仓，撤掉梯子让他下不了房。",
+      "sentence": "撤掉梯子使其无法下房",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "瞽瞍",
+      "original_sentence": "爷父两个就在下面把火点，烧死你个碍眼的虞舜郎。",
+      "sentence": "瞽瞍在谷仓下点燃了火焰",
+      "behavior_type": 13
+    },
+    {
+      "role": "虞舜",
+      "original_sentence": "爷父两个就在下面把火点，烧死你个碍眼的虞舜郎。",
+      "sentence": "虞舜被困在燃烧的谷仓中",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "虞舜一看着了忙，攥着两个草帽子一蹦子就跳下了房。",
+      "sentence": "虞舜急忙跳下房顶",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "草帽子好像那降落伞，虞舜的干腿子才没摔断！",
+      "sentence": "虞舜借助草帽保护腿部未受伤",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "看着虞舜下地挖水井，爷父两个就填土把坑填，活埋你个碍眼的虞舜郎。",
+      "sentence": "虞舜下地挖水井时被填土",
+      "behavior_type": 13
+    },
+    {
+      "role": "瞽瞍",
+      "original_sentence": "看着虞舜下地挖水井，爷父两个就填土把坑填，活埋你个碍眼的虞舜郎。",
+      "sentence": "瞽瞍填土企图活埋虞舜",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "虞舜一看着了忙，挖了个地道傢还跑了个远。",
+      "sentence": "虞舜急忙挖地道逃离现场",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "虽说么老子心肠恶，虞舜孝顺着了不得。",
+      "sentence": "虞舜对父亲表现出极大的孝顺",
+      "behavior_type": 2
+    },
+    {
+      "role": "瞽瞍",
+      "original_sentence": "虽说么老子心肠恶，虞舜孝顺着了不得。",
+      "sentence": "瞽瞍对虞舜展现出极度的恶意",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "进门的时候问一声，出门的时候说一声。",
+      "sentence": "进门时问候出门时告别",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "冬天冷了给架炉子，夏天热了给扇扇子。",
+      "sentence": "冬天冷了给架炉子",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "冬天冷了给架炉子，夏天热了给扇扇子。",
+      "sentence": "夏天热了给扇扇子",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "冷了给穿上个主袄子，热了给穿上个汗褂子。",
+      "sentence": "虞舜为父亲穿上主袄子",
+      "behavior_type": 1
+    },
+    {
+      "role": "虞舜",
+      "original_sentence": "冷了给穿上个主袄子，热了给穿上个汗褂子。",
+      "sentence": "虞舜为父亲穿上汗褂子",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "饿了给端上个饭盆子，渴了给端上个茶盅子。",
+      "sentence": "虞舜为瞽瞍端上饭盆和茶盅",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "病了提给的是药罐子，馋了提给的是酒坛子。",
+      "sentence": "虞舜为病人提供药罐子",
+      "behavior_type": 13
+    },
+    {
+      "role": "虞舜",
+      "original_sentence": "病了提给的是药罐子，馋了提给的是酒坛子。",
+      "sentence": "虞舜为馋者提供酒坛子",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "虽说弟弟么心肠黑，虞舜心疼着了不得。",
+      "sentence": "虞舜对弟弟的行为感到心疼",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "好吃的腾省给弟弟吃，好穿的腾省给弟弟穿。",
+      "sentence": "虞舜将好吃的留给弟弟",
+      "behavior_type": 8
+    },
+    {
+      "role": "虞舜",
+      "original_sentence": "好吃的腾省给弟弟吃，好穿的腾省给弟弟穿。",
+      "sentence": "虞舜将好穿的留给弟弟",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "好玩的先让给弟弟玩，脏活累活全都自己干。",
+      "sentence": "虞舜将好玩的先让给弟弟玩",
+      "behavior_type": 10
+    },
+    {
+      "role": "虞舜",
+      "original_sentence": "好玩的先让给弟弟玩，脏活累活全都自己干。",
+      "sentence": "虞舜自己承担脏活累活",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "这样的孝子可难见，虞舜的孝心么感动了天。",
+      "sentence": "虞舜的孝心感动了上天",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "虞舜在历山下面来种田，天帝显灵来帮忙。",
+      "sentence": "虞舜在历山下辛勤耕种田地",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "虞舜在历山下面来种田，天帝显灵来帮忙。",
+      "sentence": "天帝显灵前来帮助虞舜耕种",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "象",
+      "original_sentence": "大象替他来耕田，鸟娃子替他来除草。",
+      "sentence": "象代替虞舜耕田",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "大象替他来耕田，鸟娃子替他来除草。",
+      "sentence": "鸟代替虞舜除草",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "自古里忠臣出孝子，自古里孝子多贤良。",
+      "sentence": "忠臣往往出自孝子之家",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "自古里忠臣出孝子，自古里孝子多贤良。",
+      "sentence": "孝子通常具备贤良品德",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "虞舜孝顺感动了天，也感动了地上的老皇上。",
+      "sentence": "虞舜的孝心感动了天地",
+      "behavior_type": 2
+    },
+    {
+      "role": "尧帝",
+      "original_sentence": "虞舜孝顺感动了天，也感动了地上的老皇上。",
+      "sentence": "尧帝被虞舜的孝心感动",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "尧帝",
+      "original_sentence": "尧帝要把天下给虞舜传，不传给不贤的亲儿郎。",
+      "sentence": "尧帝决定将天下传给虞舜",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "尧帝",
+      "original_sentence": "九个儿子派给当属下，两个姑娘嫁给当婆娘，最后把天下让给了这个女婿郎。",
+      "sentence": "尧帝将两个女儿嫁给虞舜",
+      "behavior_type": 7
+    },
+    {
+      "role": "尧帝",
+      "original_sentence": "九个儿子派给当属下，两个姑娘嫁给当婆娘，最后把天下让给了这个女婿郎。",
+      "sentence": "尧帝将天下让给虞舜",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "娥皇",
+      "original_sentence": "正宫皇后么叫个娥皇，偏宫妃子么叫个女英，都是女子中的好贤良。",
+      "sentence": "娥皇是尧帝的正宫皇后",
+      "behavior_type": 10
+    },
+    {
+      "role": "女英",
+      "original_sentence": "正宫皇后么叫个娥皇，偏宫妃子么叫个女英，都是女子中的好贤良。",
+      "sentence": "女英是尧帝的偏宫妃子",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "正宫皇后么叫个娥皇，偏宫妃子么叫个女英，都是女子中的好贤良。",
+      "sentence": "她们都是女子中的贤良",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "娥皇",
+      "original_sentence": "两个女娃儿嫁给了一个夫君郎，免不了争上的短和长。",
+      "sentence": "娥皇与女英难免发生争执",
+      "behavior_type": 9
+    },
+    {
+      "role": "女英",
+      "original_sentence": "两个女娃儿嫁给了一个夫君郎，免不了争上的短和长。",
+      "sentence": "女英与娥皇难免发生争执",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "尧帝",
+      "original_sentence": "谁作正宫么谁作偏房，尧帝老两口也很为难。",
+      "sentence": "尧帝对正宫偏房问题感到为难",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "正巧虞舜要搬家，要从平阳到蒲坂。",
+      "sentence": "虞舜从平阳搬迁至蒲坂",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "尧帝",
+      "original_sentence": "尧帝老两口想出了一个好办法。",
+      "sentence": "尧帝夫妇想出了解决办法",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "娥皇",
+      "original_sentence": "两个姑娘到平阳，一起出发到蒲坂。",
+      "sentence": "娥皇与女英一同前往蒲坂",
+      "behavior_type": 4
+    },
+    {
+      "role": "女英",
+      "original_sentence": "两个姑娘到平阳，一起出发到蒲坂。",
+      "sentence": "女英与娥皇一同前往蒲坂",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "娥皇",
+      "original_sentence": "谁先到么当正宫，谁后到呢做偏房。",
+      "sentence": "娥皇与女英比赛谁先到达蒲坂",
+      "behavior_type": 4
+    },
+    {
+      "role": "女英",
+      "original_sentence": "谁先到么当正宫，谁后到呢做偏房。",
+      "sentence": "女英与娥皇比赛谁先到达蒲坂",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "娥皇",
+      "original_sentence": "娥皇骑了匹高高马，女英找的骡子把车拉。",
+      "sentence": "娥皇骑着高马快速前进",
+      "behavior_type": 4
+    },
+    {
+      "role": "女英",
+      "original_sentence": "娥皇骑了匹高高马，女英找的骡子把车拉。",
+      "sentence": "女英用骡子拉着车前行",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "娥皇",
+      "original_sentence": "高高大马跑得快，拉车的骡子傢要把驹子下。",
+      "sentence": "娥皇骑着马快速奔跑",
+      "behavior_type": 4
+    },
+    {
+      "role": "女英",
+      "original_sentence": "高高大马跑得快，拉车的骡子傢要把驹子下。",
+      "sentence": "女英的骡子即将产驹",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "娥皇",
+      "original_sentence": "娥皇抢先到了蒲坂，就把正宫皇后先来当。",
+      "sentence": "娥皇率先抵达蒲坂成为正宫",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "女英",
+      "original_sentence": "女英压后到蒲坂，只能当个妃子作偏房。",
+      "sentence": "女英后到蒲坂成为妃子",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "女英",
+      "original_sentence": "就怨这个骡子不争气，罚给它不能生驹子。",
+      "sentence": "女英因骡子不争气而愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "女英",
+      "original_sentence": "因为女英作了偏房，往后的骡子就不生养。",
+      "sentence": "女英因作偏房导致骡子不生养",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "虞舜一朝把天子当，天天还敬奉着家里的瞎老汉。",
+      "sentence": "虞舜成为天子后仍孝敬父亲",
+      "behavior_type": 12
+    },
+    {
+      "role": "瞽瞍",
+      "original_sentence": "虞舜一朝把天子当，天天还敬奉着家里的瞎老汉。",
+      "sentence": "瞽瞍受到虞舜的持续敬奉",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "虞舜一朝把天子当，把那个弟弟还封了个王。",
+      "sentence": "虞舜登基后将弟弟封为王",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人心就能换人心，又何必针尖儿对麦芒。",
+      "sentence": "人心可以相互感化",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "虞舜的孝心感动了天，瞎怂老汉的逼脸往哪里放？",
+      "sentence": "虞舜的孝心感动了上天",
+      "behavior_type": 2
+    },
+    {
+      "role": "瞽瞍",
+      "original_sentence": "虞舜的孝心感动了天，瞎怂老汉的逼脸往哪里放？",
+      "sentence": "瞽瞍感到羞愧难当",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "想当年黑了良心害死哩，到如今天子傢还认着亲爹哩。",
+      "sentence": "虞舜仍然认瞽瞍为亲爹",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人心就能换人心，又何必昧着良心想坏心。",
+      "sentence": "人心交换不应存有恶意",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "虞舜的孝心感动了天，坏怂弟弟的逼脸往哪里放？",
+      "sentence": "虞舜的孝心感动了上天",
+      "behavior_type": 2
+    },
+    {
+      "role": "象",
+      "original_sentence": "虞舜的孝心感动了天，坏怂弟弟的逼脸往哪里放？",
+      "sentence": "象的行为令人感到愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "想当年黑了良心害死哩，到如今天子傢还认着弟弟哩。",
+      "sentence": "虞舜至今仍然认弟弟为亲人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "虞舜执政到了三十九年，九条恶龙在湖南闹翻了天！",
+      "sentence": "虞舜执政长达三十九年",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "虞舜执政到了三十九年，九条恶龙在湖南闹翻了天！",
+      "sentence": "九条恶龙在湖南闹翻天",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "虞舜南巡把九条恶龙杀了个光，最后病死在了苍梧原。",
+      "sentence": "虞舜南巡时消灭了九条恶龙",
+      "behavior_type": 4
+    },
+    {
+      "role": "虞舜",
+      "original_sentence": "虞舜南巡把九条恶龙杀了个光，最后病死在了苍梧原。",
+      "sentence": "虞舜最终病逝于苍梧原",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "天子大位往下传，不传亲来只传贤，大位不传自己的亲儿郎，传给了治水的大禹王。",
+      "sentence": "虞舜将天子大位传给大禹",
+      "behavior_type": 3
+    },
+    {
+      "role": "大禹",
+      "original_sentence": "天子大位往下传，不传亲来只传贤，大位不传自己的亲儿郎，传给了治水的大禹王。",
+      "sentence": "大禹接受虞舜传位成为王",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "娥皇",
+      "original_sentence": "娥皇女英么留在家里边，日日夜夜盼着丈夫来凯旋。",
+      "sentence": "娥皇女英在家中等待丈夫归来",
+      "behavior_type": 12
+    },
+    {
+      "role": "女英",
+      "original_sentence": "娥皇女英么留在家里边，日日夜夜盼着丈夫来凯旋。",
+      "sentence": "娥皇女英在家中等待丈夫归来",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "娥皇",
+      "original_sentence": "燕子南飞一回又一回，花开花落一年又一年，就是看不见丈夫回家乡。",
+      "sentence": "娥皇始终未能见到丈夫归来",
+      "behavior_type": 2
+    },
+    {
+      "role": "女英",
+      "original_sentence": "燕子南飞一回又一回，花开花落一年又一年，就是看不见丈夫回家乡。",
+      "sentence": "女英始终未能见到丈夫归来",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "娥皇",
+      "original_sentence": "娥皇女英么着了忙，一骨碌起身么去湘江。",
+      "sentence": "娥皇女英匆忙起身前往湘江",
+      "behavior_type": 4
+    },
+    {
+      "role": "女英",
+      "original_sentence": "娥皇女英么着了忙，一骨碌起身么去湘江。",
+      "sentence": "娥皇女英匆忙起身前往湘江",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "娥皇女英",
+      "original_sentence": "爬过了一山又一山，渡过了一江又一江，娥皇女英来到了湖南的九嶷山。",
+      "sentence": "娥皇女英长途跋涉抵达九嶷山",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三块子大石头叫着个三峰石，有一座大坟傢还是珍珠贝壳的。",
+      "sentence": "三块大石头被称为三峰石",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "三块子大石头叫着个三峰石，有一座大坟傢还是珍珠贝壳的。",
+      "sentence": "一座大坟由珍珠贝壳构成",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "贝壳子堆成了一座山，上面的珍珠么亮闪闪。",
+      "sentence": "贝壳堆成了一座闪亮的珍珠山",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "虞舜杀了恶龙归了天，湘江的乡亲把他下了葬，哭声一片震动了天，好看的贝壳堆成座山。",
+      "sentence": "虞舜杀死恶龙后升天",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "虞舜杀了恶龙归了天，湘江的乡亲把他下了葬，哭声一片震动了天，好看的贝壳堆成座山。",
+      "sentence": "湘江乡亲将虞舜下葬",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "虞舜杀了恶龙归了天，湘江的乡亲把他下了葬，哭声一片震动了天，好看的贝壳堆成座山。",
+      "sentence": "乡亲们的哭声震动了天",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "虞舜杀了恶龙归了天，湘江的乡亲把他下了葬，哭声一片震动了天，好看的贝壳堆成座山。",
+      "sentence": "贝壳堆成了一座闪亮的山",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "九嶷山上仙鹤也不适闲，衔来了南海的珍珠撒到坟上。",
+      "sentence": "仙鹤衔来珍珠撒在坟上",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "娥皇",
+      "original_sentence": "既然丈夫归了天，娥皇女英么哭断肠。",
+      "sentence": "娥皇因丈夫去世而极度悲伤",
+      "behavior_type": 2
+    },
+    {
+      "role": "女英",
+      "original_sentence": "既然丈夫归了天，娥皇女英么哭断肠。",
+      "sentence": "女英因丈夫去世而极度悲伤",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "娥皇",
+      "original_sentence": "白天哭了夜里哭，夜里哭了白天哭。",
+      "sentence": "娥皇日夜不停地哭泣",
+      "behavior_type": 2
+    },
+    {
+      "role": "女英",
+      "original_sentence": "白天哭了夜里哭，夜里哭了白天哭。",
+      "sentence": "女英日夜不停地哭泣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "娥皇",
+      "original_sentence": "哭到眼睛里的眼泪都哭干，哭到眼睛里的鲜血一点点，血泪撒到了竹子上，湘江的竹子也变了样。",
+      "sentence": "娥皇因悲伤过度而哭出血泪",
+      "behavior_type": 2
+    },
+    {
+      "role": "女英",
+      "original_sentence": "哭到眼睛里的眼泪都哭干，哭到眼睛里的鲜血一点点，血泪撒到了竹子上，湘江的竹子也变了样。",
+      "sentence": "女英因悲伤过度而哭出血泪",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "哭到眼睛里的眼泪都哭干，哭到眼睛里的鲜血一点点，血泪撒到了竹子上，湘江的竹子也变了样。",
+      "sentence": "湘江的竹子因血泪而变色",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "娥皇",
+      "original_sentence": "既然丈夫归了天，娥皇女英跳湘江。",
+      "sentence": "娥皇因丈夫去世而跳湘江",
+      "behavior_type": 3
+    },
+    {
+      "role": "女英",
+      "original_sentence": "既然丈夫归了天，娥皇女英跳湘江。",
+      "sentence": "女英因丈夫去世而跳湘江",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "娥皇",
+      "original_sentence": "湘江里有了女神仙，乡亲们至今拜贤良。",
+      "sentence": "娥皇女英成为湘江女神仙",
+      "behavior_type": 8
+    },
+    {
+      "role": "女英",
+      "original_sentence": "湘江里有了女神仙，乡亲们至今拜贤良。",
+      "sentence": "娥皇女英成为湘江女神仙",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "湘江里有了女神仙，乡亲们至今拜贤良。",
+      "sentence": "乡亲们至今仍祭拜贤良者",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，这段子贤孝么已唱完，故事么一节一节交代全。",
+      "sentence": "这段贤孝故事已经全部唱完",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问唱的是那一段？",
+      "sentence": "询问唱的是哪一段故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二十四孝里的第一篇。",
+      "sentence": "二十四孝第一篇讲述虞舜故事",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问曲儿是啥名堂？",
+      "sentence": "询问曲子的名称是什么",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "虞舜",
+      "original_sentence": "虞舜孝行感动了天！",
+      "sentence": "虞舜的孝行感动了上天",
+      "behavior_type": 2
+    }
+  ]
+]

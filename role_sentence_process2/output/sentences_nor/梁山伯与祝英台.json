@@ -1,0 +1,4678 @@
+[
+  [
+    {
+      "role": "",
+      "original_sentence": "第七节凉州贤孝《梁山伯与祝英台》唱词弹唱：臧尚德我说的，高高山上一清泉，流来流去几千年，人人都喝泉中水，愚的愚来贤的贤。",
+      "sentence": "高山清泉流淌了几千年",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "第七节凉州贤孝《梁山伯与祝英台》唱词弹唱：臧尚德我说的，高高山上一清泉，流来流去几千年，人人都喝泉中水，愚的愚来贤的贤。",
+      "sentence": "人们都饮用泉水",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "第七节凉州贤孝《梁山伯与祝英台》唱词弹唱：臧尚德我说的，高高山上一清泉，流来流去几千年，人人都喝泉中水，愚的愚来贤的贤。",
+      "sentence": "愚者和贤者由此区分",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把这些闲言丢一旁，我把正事表一番。",
+      "sentence": "说话者将闲言放置一旁开始讲述正事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "今日开始唱的是梁山伯与祝英台啊，我把梁山伯的故事给你们往下明啊。",
+      "sentence": "今日开始唱梁山伯与祝英台",
+      "behavior_type": ""
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "今日开始唱的是梁山伯与祝英台啊，我把梁山伯的故事给你们往下明啊。",
+      "sentence": "梁山伯的故事将继续讲述下去",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "说的是明朝天子登了殿，说到了山东一座城啊，城里城外有两家人，南门上坐的梁员外，北门上坐的祝员外。",
+      "sentence": "梁员外居住在城南门附近",
+      "behavior_type": 12
+    },
+    {
+      "role": "祝员外",
+      "original_sentence": "说的是明朝天子登了殿，说到了山东一座城啊，城里城外有两家人，南门上坐的梁员外，北门上坐的祝员外。",
+      "sentence": "祝员外居住在城北门附近",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "我把故事往下唱，说的是那个梁员外，梁员外你看他是个家大富豪的有钱人。",
+      "sentence": "梁员外是一个家大富豪的有钱人",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "东库金子过梁停，西库银子过万担。",
+      "sentence": "梁员外拥有大量金子和银子",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "打场的磙子生铁倒，犁铧头上铜叶子包，窗板门扇包黄金，大门上石狮子是一对啊。",
+      "sentence": "梁员外家拥有大量金银财宝",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "夫人过门半辈整啊，床前没有个一男半女戴孝的人。",
+      "sentence": "梁员外夫妇婚后多年无子女",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "那天员外心里忧愁得不行，带了两个老家人，家人带上来到大街上，这时候梁员外可心里酸啊。",
+      "sentence": "梁员外心中充满忧愁",
+      "behavior_type": 2
+    },
+    {
+      "role": "梁员外",
+      "original_sentence": "那天员外心里忧愁得不行，带了两个老家人，家人带上来到大街上，这时候梁员外可心里酸啊。",
+      "sentence": "梁员外带着家人上街",
+      "behavior_type": 4
+    },
+    {
+      "role": "梁员外",
+      "original_sentence": "那天员外心里忧愁得不行，带了两个老家人，家人带上来到大街上，这时候梁员外可心里酸啊。",
+      "sentence": "梁员外感到心酸",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "为什么呢？",
+      "sentence": "梁员外心中感到十分忧愁",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "见到一打里的人，手里领的男孙孙，怀里抱的女花童。",
+      "sentence": "见到一群人带着孩子",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "他心里正在忧愁的时候，看到一群百姓是前三层，后三层，三三九层不透风。",
+      "sentence": "梁员外看到百姓感到忧愁",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这里议论的事情听不成。",
+      "sentence": "这里议论的事情无法听取",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "议论的什么呢？",
+      "sentence": "百姓们正在议论某些事情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说的是人在人世间，不孝有三，无后为大。",
+      "sentence": "人在世间不孝有三无后为大",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "梁员外不听便罢了，一听难肠得不得了。",
+      "sentence": "梁员外听后感到非常难过",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "回到个家厢中，他端着饭来饭不吃，端着茶来茶不喝。",
+      "sentence": "梁员外在家中不吃饭也不喝茶",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老夫人过来说道，我的官人啊官人，你到街上散心去了，来到家里怎么闷闷不乐，你忧愁的什么事情啊？",
+      "sentence": "老夫人询问官人为何忧愁",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "贤妻啊，你听我说，我连你过了半辈子，夫妻过了这么长时间，你长得相貌极俊，人才出众，我爱死了你呀，夫人。",
+      "sentence": "梁员外向妻子表达爱慕之情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你上炕能行裁，下炕能行剪，在伙房里能行炒几盘子啊。",
+      "sentence": "此人擅长烹饪和缝纫技能",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "我一男半女没有啊，心里忧愁得很。",
+      "sentence": "梁员外因无子女感到忧愁",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的夫人啊，怎么办哩呀？",
+      "sentence": "他感到非常忧愁和不安",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "今日个街上散心去了，人们在那里议论着，议论着说道，不孝有三，无后为大。",
+      "sentence": "街上人们议论不孝有三无后为大",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我想床前没有个戴孝的，坟园里没有个烧纸的。",
+      "sentence": "家中无人继承香火",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我说夫人啊，我有心把你休出门，自从过门没有红过一次脸啊，夫妻恩爱如山高，我怎么休得了你啊。",
+      "sentence": "夫妻恩爱如山高难以分离",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "妻子说，丈夫，你可就不要这样了，休了就把我休掉，三房五房夫人由你娶，都是为了生儿育女啊。",
+      "sentence": "妻子劝丈夫不要休她",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "丈夫说，夫人，你不要伤心啊，休你的事情是做不到了。",
+      "sentence": "丈夫安慰夫人不要伤心",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "丈夫说，夫人，你不要伤心啊，休你的事情是做不到了。",
+      "sentence": "丈夫表示不会休妻",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要不我们打扮身子，拿上香表白蜡，我们到庙里求儿女走吧。",
+      "sentence": "他们准备去庙里求儿女",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这才商量定，他们打扮身子多齐整，要到百子宫里去啊。",
+      "sentence": "他们打扮整齐准备前往百子宫",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "带上两个小丫鬟，他们夫妻二人起了身。",
+      "sentence": "夫妻二人起身前往目的地",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "低头走路抬头看，不学意来到十字路口上。",
+      "sentence": "低头行走时抬头看见十字路口",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "抬起头来一看，前面来了个骑着高头大马的人啊，陪的不少的家人。",
+      "sentence": "前方有人骑着高头大马而来",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "来了来了谁来了？",
+      "sentence": "有人骑着高头大马前来",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "祝员外到了。",
+      "sentence": "祝员外抵达了目的地",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "这时候梁员外前走几步，赶紧过去行了一礼，骑马的也就下了马了。",
+      "sentence": "梁员外向前走了几步",
+      "behavior_type": 4
+    },
+    {
+      "role": "梁员外",
+      "original_sentence": "这时候梁员外前走几步，赶紧过去行了一礼，骑马的也就下了马了。",
+      "sentence": "梁员外向骑马者行礼",
+      "behavior_type": 7
+    },
+    {
+      "role": "祝员外",
+      "original_sentence": "这时候梁员外前走几步，赶紧过去行了一礼，骑马的也就下了马了。",
+      "sentence": "祝员外从马背上下来",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你看我们两个人是，请见不如遇见，到一块儿了。",
+      "sentence": "两人相遇在十字路口",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "说是，梁兄，你到哪里去？",
+      "sentence": "梁山伯询问对方要去哪里",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我到百子宫里求子孙去哩。",
+      "sentence": "前往百子宫求取子孙",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们请见不如遇见啊，我也床前没有戴孝根，今日也是到百子宫里求子孙去哩。",
+      "sentence": "两人相遇胜过事先约定见面",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "我们请见不如遇见啊，我也床前没有戴孝根，今日也是到百子宫里求子孙去哩。",
+      "sentence": "今日前往百子宫祈求子孙",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "奥，我们今日个就在中途路上许下个姻缘，什么姻缘？",
+      "sentence": "梁山伯提议在中途路上许下姻缘",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "说是梁兄啊，你梁家生下个男的，我祝家生下个女的，那就给他们定下个夫妻了。",
+      "sentence": "梁山伯提议两家结为姻亲",
+      "behavior_type": 7
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "说是梁兄啊，你梁家生下个男的，我祝家生下个女的，那就给他们定下个夫妻了。",
+      "sentence": "祝英台同意两家结为姻亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "如果你们生了女的，我们生了男的，也就是这样，还是他们是夫妻了。",
+      "sentence": "若生女则与生男结为夫妻",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "如果生下两个女的，那就结拜成姊妹二人。",
+      "sentence": "两个女孩将结拜为姐妹",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "如果生下两个男的，那就是八拜之交生死的弟兄，如何呀？",
+      "sentence": "若生两男则结为生死兄弟",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那就这样，我们到百子宫里求子孙的时候许走。",
+      "sentence": "我们前往百子宫求子孙",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "这时二人起了身，赶着往百子宫庙宇里走。",
+      "sentence": "梁山伯与祝英台前往百子宫",
+      "behavior_type": 4
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "这时二人起了身，赶着往百子宫庙宇里走。",
+      "sentence": "祝英台随梁山伯同去百子宫",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "低头走路，抬头看，不学意来到庙门上。",
+      "sentence": "低头行走抬头看见庙门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "抬起头来看一看，四大金刚站两边，才进了庙宇里了，来到庙里四面八方观着看，上面供着各路神仙。",
+      "sentence": "抬头看见四大金刚站在两边",
+      "behavior_type": 6
+    },
+    {
+      "role": "",
+      "original_sentence": "抬起头来看一看，四大金刚站两边，才进了庙宇里了，来到庙里四面八方观着看，上面供着各路神仙。",
+      "sentence": "进入庙宇后四处观望各路神仙",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "他们就紧忙献上香表白蜡贡品，二人双双摆开姿势就跪倒，梁员外跪到了左一边，祝员外跪到了他身旁。",
+      "sentence": "梁员外跪在左边献上香蜡贡品",
+      "behavior_type": 13
+    },
+    {
+      "role": "祝员外",
+      "original_sentence": "他们就紧忙献上香表白蜡贡品，二人双双摆开姿势就跪倒，梁员外跪到了左一边，祝员外跪到了他身旁。",
+      "sentence": "祝员外跪在右边献上香蜡贡品",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "两个员外把香来上，双双夫妻来磕头。",
+      "sentence": "梁员外与祝员外一起上香",
+      "behavior_type": 14
+    },
+    {
+      "role": "祝员外",
+      "original_sentence": "两个员外把香来上，双双夫妻来磕头。",
+      "sentence": "祝员外与梁员外一起磕头",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "上拜了上面各位神灵，梁员外开言许愿心，生女生男都过双。",
+      "sentence": "梁员外向神灵许下心愿",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "祝员外这才许愿心，生女生男都过双。",
+      "sentence": "祝员外许愿生女生男都过双",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "他们上罢了香，磕罢了头，谢过了庙宇里的各位神灵。",
+      "sentence": "梁员外与祝员外上香磕头",
+      "behavior_type": 12
+    },
+    {
+      "role": "祝员外",
+      "original_sentence": "他们上罢了香，磕罢了头，谢过了庙宇里的各位神灵。",
+      "sentence": "祝员外与梁员外上香磕头",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "他们上罢了香，磕罢了头，谢过了庙宇里的各位神灵。",
+      "sentence": "他们上香磕头谢过神灵",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "这才二位员外回了家，丫鬟们献上茶水他们多高兴。",
+      "sentence": "梁员外与祝员外一同返回家中",
+      "behavior_type": 4
+    },
+    {
+      "role": "祝员外",
+      "original_sentence": "这才二位员外回了家，丫鬟们献上茶水他们多高兴。",
+      "sentence": "祝员外与梁员外一同返回家中",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "这才二位员外回了家，丫鬟们献上茶水他们多高兴。",
+      "sentence": "丫鬟们献上茶水令他们高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "到了深更半夜里，梁家的老太太做了一个梦啊，梦着一对仙桃滚进门，是紧摘哩慢摘哩，一下子滚到她的床沿里。",
+      "sentence": "梁家老太太深夜做了一个梦",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "再说祝家老太太，也在深更半夜做了一个梦，梦着了一对莲花滚进门，紧摘哩慢摘哩，一下子滚到她的床沿里。",
+      "sentence": "祝家老太太梦见一对莲花滚进门",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两家子太太做了这个梦，双双儿可就怀了身孕啊。",
+      "sentence": "两位太太因梦境而怀孕",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "各位观众听，娘怀胎一个月，是血水一片，娘怀胎两个月，是血片朦胧，娘怀胎三个月，是三子分财，娘怀胎四个月，是四肢成人，娘怀胎五个月，是五指周全，娘怀胎六个月，是六宝攒身娘怀胎七个月，是才分七窍，娘怀胎八个月，是八脉长全，娘怀胎九个月，是三回九转，九个月零了十五天。",
+      "sentence": "胎儿在母体内逐渐发育成形",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "再的日子她不生，就在午年午月午时生孩童啊。",
+      "sentence": "她在午时生下了一个孩子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "梁家员外来到客厅上，闷闷不乐心里还就忧愁着。",
+      "sentence": "梁员外坐在客厅里感到忧愁",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两个丫鬟来到客厅上，员外老爷在上，我们给你磕头了。",
+      "sentence": "两个丫鬟来到客厅上",
+      "behavior_type": 4
+    },
+    {
+      "role": "梁员外",
+      "original_sentence": "两个丫鬟来到客厅上，员外老爷在上，我们给你磕头了。",
+      "sentence": "丫鬟向梁员外磕头行礼",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "怎么说，生下的男娃娃么女娃娃？",
+      "sentence": "询问生下的孩子是男是女",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "生下的是个男娃娃啊。",
+      "sentence": "生下的孩子是一个男娃娃",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "你看梁员外高兴得不得了，生下了一个大胖小子啊。",
+      "sentence": "梁员外因得子感到非常高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "来来来，两位丫鬟，你们过来，快去给祝家报喜去。",
+      "sentence": "梁员外让丫鬟去祝家报喜",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两个丫鬟带上碎小银两，把身子打扮上，急急忙忙起了身就给祝家报喜去了。",
+      "sentence": "两个丫鬟急忙前往祝家报喜",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "再说祝员外祝老太太可是双眼流泪，就生下了个女花童啊。",
+      "sentence": "祝员外因生下女童而流泪",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他不知道梁家生下了个什么，说是丫鬟，赶紧去啊，赶紧去给梁家恭喜去啊。",
+      "sentence": "他不知道梁家生下了什么",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "他不知道梁家生下了个什么，说是丫鬟，赶紧去啊，赶紧去给梁家恭喜去啊。",
+      "sentence": "他让丫鬟去梁家恭喜",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "你们路上打听着，如果梁家生了个男的，你们就说祝家也是个男的，如果梁家生了个女的，你们就说祝家也是个女的，打听着报就是了。",
+      "sentence": "祝员外吩咐丫鬟打听梁家情况",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "你们路上打听着，如果梁家生了个男的，你们就说祝家也是个男的，如果梁家生了个女的，你们就说祝家也是个女的，打听着报就是了。",
+      "sentence": "根据梁家性别决定祝家说辞",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两个丫鬟领了命，两个丫鬟起了身。",
+      "sentence": "两个丫鬟领命后立即起身",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "赶着走赶着行，低头走路抬头看，不学意来到了大路上。",
+      "sentence": "两个丫鬟匆忙赶路来到大路上",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两家的丫鬟见了面，叫声姐姐在上，说是梁家妹妹，你们到哪里去哩？",
+      "sentence": "两家丫鬟见面互相问候对方去向",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们给你们祝家报喜去呢。",
+      "sentence": "我们前往祝家报告喜讯",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，我们正好也给你梁家恭喜去哩。",
+      "sentence": "我们正要去梁家报喜",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "姐姐，你是先来的你就先说，就是了，我们梁家可生了一个相公带把儿的，祝家丫鬟说，我们可生了一个带把儿的相公。",
+      "sentence": "梁家丫鬟告知祝家丫鬟喜讯",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "姐姐，你是先来的你就先说，就是了，我们梁家可生了一个相公带把儿的，祝家丫鬟说，我们可生了一个带把儿的相公。",
+      "sentence": "祝家丫鬟回应梁家丫鬟喜讯",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两家报完了喜，梁家的丫鬟可高兴得很，祝家的丫鬟可就不高兴。",
+      "sentence": "梁家丫鬟感到非常高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "两家报完了喜，梁家的丫鬟可高兴得很，祝家的丫鬟可就不高兴。",
+      "sentence": "祝家丫鬟感到不高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "来到家中说，老爷太太在上，我们回来了。",
+      "sentence": "丫鬟向老爷太太报告归来",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "祝员外说，你们报喜去了，梁家生下了个什么？",
+      "sentence": "祝员外询问梁家生下什么",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "说梁家生下了个男孩，祝员外就心里酸着不得行。",
+      "sentence": "祝员外听闻后心中感到酸涩",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "啊，祝太太就哭开了啊，我的天啊，我们一模样地庙里求子孙，上方的佛爷怎么小看人，傢们是个男孩童，我们怎么是个女孩童啊？",
+      "sentence": "祝员外因生女孩感到极度悲伤",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "还要在百子宫里还愿心，生男生女我们还得去还愿啊。",
+      "sentence": "祝员外决定去百子宫还愿",
+      "behavior_type": 10
+    },
+    {
+      "role": "祝太太",
+      "original_sentence": "还要在百子宫里还愿心，生男生女我们还得去还愿啊。",
+      "sentence": "祝太太决定去百子宫还愿",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "这时候员外老爷说道，夫人，不要哭了，不要哭了，是男是女是上天赐给了你，你再不要胡言乱语了，你安顿给家人千万不要说出去是个女的，这时候才安当定，好好抓养小孩童。",
+      "sentence": "祝员外劝夫人停止哭泣并接受现实",
+      "behavior_type": 7
+    },
+    {
+      "role": "祝员外",
+      "original_sentence": "这时候员外老爷说道，夫人，不要哭了，不要哭了，是男是女是上天赐给了你，你再不要胡言乱语了，你安顿给家人千万不要说出去是个女的，这时候才安当定，好好抓养小孩童。",
+      "sentence": "祝员外嘱咐家人隐瞒孩子性别",
+      "behavior_type": 7
+    },
+    {
+      "role": "祝员外",
+      "original_sentence": "这时候员外老爷说道，夫人，不要哭了，不要哭了，是男是女是上天赐给了你，你再不要胡言乱语了，你安顿给家人千万不要说出去是个女的，这时候才安当定，好好抓养小孩童。",
+      "sentence": "祝员外决定好好抚养孩子",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一个生日一岁半，两个生日将三岁。",
+      "sentence": "时间流逝孩子逐渐长大",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "孩儿眼看就七岁了，这时候他们就开始发愁了。",
+      "sentence": "祝员外夫妇因孩子性别感到忧愁",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那可怎么办哩？",
+      "sentence": "他们对此感到十分忧虑",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "马上读书的时候到了。",
+      "sentence": "马上到了读书的时间",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们是个姑娘，人家是个男孩童啊。",
+      "sentence": "我们是个姑娘人家是个男孩童",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那可不好了。",
+      "sentence": "情况变得非常糟糕",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "先不说祝员外家发愁肠，再说梁家可就高兴得不得了。",
+      "sentence": "祝员外因女儿读书问题感到忧愁",
+      "behavior_type": 2
+    },
+    {
+      "role": "梁员外",
+      "original_sentence": "先不说祝员外家发愁肠，再说梁家可就高兴得不得了。",
+      "sentence": "梁员外因儿子读书问题感到高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "马上到上学的时候了，他就打听着往南学里送学生，赶紧给祝家通个信，叫他的儿子打扮身子起了身，一块到南学里把书念。",
+      "sentence": "梁员外通知祝员外送孩子上学",
+      "behavior_type": 7
+    },
+    {
+      "role": "祝员外",
+      "original_sentence": "马上到上学的时候了，他就打听着往南学里送学生，赶紧给祝家通个信，叫他的儿子打扮身子起了身，一块到南学里把书念。",
+      "sentence": "祝员外让儿子准备去上学",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "丫鬟来到祝家的门，给祝员外行了礼说道，员外老爷，我们员外老爷说，叫你们家的公子明日个到南学里读书去，祝员外说，知道了，你们回去吧。",
+      "sentence": "祝员外回应说已经知道了消息",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "丫鬟走后，把祝员外难坏了，夫人说，这还难下了啊。",
+      "sentence": "祝员外感到非常为难",
+      "behavior_type": 2
+    },
+    {
+      "role": "夫人",
+      "original_sentence": "丫鬟走后，把祝员外难坏了，夫人说，这还难下了啊。",
+      "sentence": "夫人对此表示不解",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "夫人啊，傢们生下的男孩童，我们是个女花童，怎么能行送到南学里啊？",
+      "sentence": "祝员外因女儿无法上学感到忧愁",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "你说难不难啊？",
+      "sentence": "祝员外感到非常为难",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "夫人说，员外老爷不要愁了，这么办，我们天知地知你知我知，不要走漏消息，把男子的身袂给她拿回来啊，打扮成个男娃娃，叫他们上学就是了。",
+      "sentence": "夫人建议祝员外保守秘密",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "夫人说，员外老爷不要愁了，这么办，我们天知地知你知我知，不要走漏消息，把男子的身袂给她拿回来啊，打扮成个男娃娃，叫他们上学就是了。",
+      "sentence": "将男子服饰给祝英台穿戴",
+      "behavior_type": 1
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "夫人说，员外老爷不要愁了，这么办，我们天知地知你知我知，不要走漏消息，把男子的身袂给她拿回来啊，打扮成个男娃娃，叫他们上学就是了。",
+      "sentence": "祝英台将装扮成男子上学",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "把男孩的身袂忙拿上，打扮身子多齐整，好像读书的小相公。",
+      "sentence": "祝员外将男孩衣服拿来打扮整齐",
+      "behavior_type": 10
+    },
+    {
+      "role": "祝员外",
+      "original_sentence": "把男孩的身袂忙拿上，打扮身子多齐整，好像读书的小相公。",
+      "sentence": "祝员外将祝英台打扮成男童",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "又给姑娘安当了一会，在那学里千万不要漏你的机关呀。",
+      "sentence": "祝员外叮嘱女儿不要泄露秘密",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "姑娘听下了，谢过爹妈，骑了一匹高头大马就往南学里走。",
+      "sentence": "祝英台骑马前往南学",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "两家的学生同时起了身，走了一程又一程，说个到呀真个到，两个学生就来到南学了。",
+      "sentence": "梁山伯与祝英台一同前往南学",
+      "behavior_type": 4
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "两家的学生同时起了身，走了一程又一程，说个到呀真个到，两个学生就来到南学了。",
+      "sentence": "祝英台与梁山伯一同前往南学",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "两家的学生同时起了身，走了一程又一程，说个到呀真个到，两个学生就来到南学了。",
+      "sentence": "两个学生共同来到南学读书",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两个学生到了南学里，到了次日的清早间，师父才给他们定学名。",
+      "sentence": "师父为学生定下学名",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁家的学生起名叫梁山伯，祝家的学生起名叫祝英台。",
+      "sentence": "梁山伯被师父起名为梁山伯",
+      "behavior_type": 7
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "梁家的学生起名叫梁山伯，祝家的学生起名叫祝英台。",
+      "sentence": "祝英台被师父起名为祝英台",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "这两个人自从来到南学里，一块儿住，一块儿吃，还设下了香案，两个人磕头了一遍，拜下了生死的弟兄八拜之交。",
+      "sentence": "梁山伯与祝英台共同生活学习",
+      "behavior_type": 12
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "这两个人自从来到南学里，一块儿住，一块儿吃，还设下了香案，两个人磕头了一遍，拜下了生死的弟兄八拜之交。",
+      "sentence": "祝英台与梁山伯共同生活学习",
+      "behavior_type": 12
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "这两个人自从来到南学里，一块儿住，一块儿吃，还设下了香案，两个人磕头了一遍，拜下了生死的弟兄八拜之交。",
+      "sentence": "梁山伯与祝英台结为生死兄弟",
+      "behavior_type": 7
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "这两个人自从来到南学里，一块儿住，一块儿吃，还设下了香案，两个人磕头了一遍，拜下了生死的弟兄八拜之交。",
+      "sentence": "祝英台与梁山伯结为生死兄弟",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "两个人一块儿来用功，一日会读《三字经》，两日会读《百家姓》，每天在南学里读五经啊。",
+      "sentence": "梁山伯与祝英台共同研读经书",
+      "behavior_type": 14
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "两个人一块儿来用功，一日会读《三字经》，两日会读《百家姓》，每天在南学里读五经啊。",
+      "sentence": "祝英台与梁山伯共同研读经书",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "到了个月齐整，梁山伯是个粗心的人，他不细心，祝姑娘心里嘀咕着一件事啊，这样下去，到时候可怎么办？",
+      "sentence": "梁山伯是个粗心的人",
+      "behavior_type": 5
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "到了个月齐整，梁山伯是个粗心的人，他不细心，祝姑娘心里嘀咕着一件事啊，这样下去，到时候可怎么办？",
+      "sentence": "祝英台心里嘀咕着一件事",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "到了个月齐整，梁山伯是个粗心的人，他不细心，祝姑娘心里嘀咕着一件事啊，这样下去，到时候可怎么办？",
+      "sentence": "这样下去到时候可怎么办",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "有日来到小房中，看见师娘做针工，是长一针，短一针，姑娘看着看着不顺眼。",
+      "sentence": "祝英台看见师娘做针线活",
+      "behavior_type": 6
+    },
+    {
+      "role": "",
+      "original_sentence": "有日来到小房中，看见师娘做针工，是长一针，短一针，姑娘看着看着不顺眼。",
+      "sentence": "师娘针线活做得长短不一",
+      "behavior_type": 1
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "有日来到小房中，看见师娘做针工，是长一针，短一针，姑娘看着看着不顺眼。",
+      "sentence": "祝英台对针线活感到不满",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "说师娘，你去给我把砚水倒，我给你做这个鞋片子。",
+      "sentence": "祝英台让师娘去倒砚水",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "师娘",
+      "original_sentence": "师娘去把砚水倒，姑娘来把鞋片子做。",
+      "sentence": "师娘前去倒砚水",
+      "behavior_type": 7
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "师娘去把砚水倒，姑娘来把鞋片子做。",
+      "sentence": "祝英台动手做鞋片子",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "左面绣了个鱼戏莲，喜鹊登枝在右边。",
+      "sentence": "祝英台在鞋片上绣了鱼戏莲",
+      "behavior_type": 14
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "左面绣了个鱼戏莲，喜鹊登枝在右边。",
+      "sentence": "祝英台在鞋片上绣了喜鹊登枝",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "上面绣了个尕娃娃，西瓜圆圆头头儿，头发韭菜根根儿，眼睛胡椒星星儿，嘴嘴汾酒盅盅儿，鸡蛋大的个身身儿，麻杆胳膊纹纹儿。",
+      "sentence": "祝英台在鞋片上绣了个娃娃",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "金钱大的个手手儿，指头好像个葱根儿。",
+      "sentence": "手部大小如金钱一般",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "肚母脐子坑坑儿，两个腿腿灯芯儿。",
+      "sentence": "肚脐呈现凹陷形状",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "肚母脐子坑坑儿，两个腿腿灯芯儿。",
+      "sentence": "双腿纤细如灯芯",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "重嘟嘟的个下巴儿，毬毬就像个纸烟把把儿。",
+      "sentence": "下巴儿重嘟嘟的像纸烟把把儿",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这个绣的不得了，绣着绣着怪高兴，把鞋片儿给綉成了。",
+      "sentence": "绣制过程中感到非常高兴",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "这个绣的不得了，绣着绣着怪高兴，把鞋片儿给綉成了。",
+      "sentence": "最终将鞋片绣制完成",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "师娘",
+      "original_sentence": "师娘接过鞋，给师父忙穿上。",
+      "sentence": "师娘接过鞋给师父穿上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大叫我的夫人过来，有什么事情啊？",
+      "sentence": "大叫夫人过来询问事情",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夫人，你平日里做的那个鞋片子，就是牛粪片片，我看不上，今日个这个鞋片子是谁做的？",
+      "sentence": "夫人做的鞋片子如同牛粪片片",
+      "behavior_type": ""
+    },
+    {
+      "role": "",
+      "original_sentence": "夫人，你平日里做的那个鞋片子，就是牛粪片片，我看不上，今日个这个鞋片子是谁做的？",
+      "sentence": "今日的鞋片子是谁制作的",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "这个鞋片子就是那个祝学生给我做的。",
+      "sentence": "祝英台为师父制作了这双鞋",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "师父想了想说，这是怎么回事啊？",
+      "sentence": "师父思考后询问事情缘由",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "师父在心里放了一件事，平日里就偷着在暗中观察。",
+      "sentence": "师父在心中记下了一件事",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "师父在心里放了一件事，平日里就偷着在暗中观察。",
+      "sentence": "师父暗中观察了一段时间",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "这个先不说，又在南学里读书给了那么个月整，师娘在伙房里造茶饭，祝学生端饭去了，说是，师娘做下的这个茶饭太难看，说师娘你去给我把砚水舀，我给你赶着做一顿。",
+      "sentence": "祝英台评价师娘做的茶饭难看",
+      "behavior_type": 7
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "这个先不说，又在南学里读书给了那么个月整，师娘在伙房里造茶饭，祝学生端饭去了，说是，师娘做下的这个茶饭太难看，说师娘你去给我把砚水舀，我给你赶着做一顿。",
+      "sentence": "祝英台要求师娘帮忙舀砚水",
+      "behavior_type": 10
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "这个先不说，又在南学里读书给了那么个月整，师娘在伙房里造茶饭，祝学生端饭去了，说是，师娘做下的这个茶饭太难看，说师娘你去给我把砚水舀，我给你赶着做一顿。",
+      "sentence": "祝英台表示愿意帮忙做饭",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "师娘",
+      "original_sentence": "师娘说，恩，你这个学生怎么这么个，你一个七尺堂堂的男子汉，你怎么会做饭？",
+      "sentence": "师娘质疑学生为何会做饭",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "师娘，我家有个巧嫂嫂，我跟上学会了。",
+      "sentence": "祝英台表示自己学会了做饭",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "师娘",
+      "original_sentence": "师娘给他把砚水舀，学生给做饭了。",
+      "sentence": "师娘为学生舀了砚水",
+      "behavior_type": 13
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "师娘给他把砚水舀，学生给做饭了。",
+      "sentence": "祝英台为师娘做了饭",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这个学生灵着不得了，他擀下的雪花面，一边切了个一道墙，一边切了个百花样，各样的面条儿都切上，端给师父来吃饭。",
+      "sentence": "学生制作了各种精美的面条",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "紧一碗，慢一碗，吃了一碗又一碗，一下子吃了七八碗。",
+      "sentence": "连续吃了七八碗饭",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你看啊，夫人，你平日里端着来的饭，我口都没心张，今日个端着来的饭，怎么越吃越香，这个饭是谁做下的？",
+      "sentence": "夫人觉得今日的饭菜特别香",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "这就是那个祝学生，面貌上看去是个男子汉，做着一手好茶饭。",
+      "sentence": "祝英台外表看起来是个男子汉",
+      "behavior_type": 1
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "这就是那个祝学生，面貌上看去是个男子汉，做着一手好茶饭。",
+      "sentence": "祝英台擅长烹饪美味佳肴",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这是怎么回事？",
+      "sentence": "询问当前情况的原因",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "师父问他，你是一个七尺男子汉，怎么做出来的这个茶饭美味香甜，好吃得很啊，这是怎么回事啊？",
+      "sentence": "师父询问他为何能做出美味茶饭",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "师父啊，我家有个巧嫂嫂，我跟上学会了。",
+      "sentence": "他学会了做饭的技巧",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "师父在暗中观着看，姑娘她就冷不防啊，只顾在学里读五经。",
+      "sentence": "姑娘在学堂专心研读五经",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "师父",
+      "original_sentence": "整整又到个月整，师父可实在心里不放心啊，到底是怎么一会事啊？",
+      "sentence": "师父对祝学生的情况感到不放心",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "师父脑子里一动，来到学生前。",
+      "sentence": "师父走到学生面前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "今夜晚上你们谁都不要小便，明日早上在楼顶上尿尿，谁的尿尿得高，谁就能中状元。",
+      "sentence": "今夜不要小便明早楼顶尿尿",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "谁的尿低了，可就中不上状元了。",
+      "sentence": "尿得低者无法中状元",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "学生想，尿个尿能当考试中状元吗？",
+      "sentence": "学生质疑尿尿与中状元的关系",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "学生不知道这个原因。",
+      "sentence": "学生不明白其中的缘由",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "我背的你，怎么能看见公的母的，我可看见了，公鱼的眼睛圆着哩，母鱼的眼睛挑着哩。",
+      "sentence": "梁山伯背着祝英台未能看见鱼",
+      "behavior_type": 6
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "我背的你，怎么能看见公的母的，我可看见了，公鱼的眼睛圆着哩，母鱼的眼睛挑着哩。",
+      "sentence": "祝英台看见公鱼和母鱼游过",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "左思右想，难肠着睡不着觉呀。",
+      "sentence": "祝英台因忧虑而无法入睡",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯醒来说，你睡觉里不睡觉，深更半夜的你哭着怎么了？",
+      "sentence": "梁山伯询问对方为何深夜哭泣",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你不知道吗，明天早上叫高处小便哩，可怎么办哩？",
+      "sentence": "明天早上需在高处小便",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "你这个兄弟啊，堂堂男子汉，他说小便就小便，你可哭着为哪件啊？",
+      "sentence": "梁山伯询问兄弟为何哭泣",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "哎，哥哥，你睡觉吧，不管它了。",
+      "sentence": "祝英台劝梁山伯继续睡觉",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "到了第二天清早上，准备起来就小便哩，姑娘可怎么办哩？",
+      "sentence": "第二天早上准备起来小便",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "上街里跑到下街里，猪尿泡来买上，清泉水也装上，把笔杆子忙拿上，插到尿泡口子上，就准备小便。",
+      "sentence": "上街跑到下街购买猪尿泡",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "上街里跑到下街里，猪尿泡来买上，清泉水也装上，把笔杆子忙拿上，插到尿泡口子上，就准备小便。",
+      "sentence": "将清泉水装入猪尿泡中",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "上街里跑到下街里，猪尿泡来买上，清泉水也装上，把笔杆子忙拿上，插到尿泡口子上，就准备小便。",
+      "sentence": "把笔杆插入尿泡口准备",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "祝学生在高处小便，究竟尿得怎么样，我下一回了再唱一唱。",
+      "sentence": "祝学生在高处小便情况未详",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "师父这乎子叫学生排好了队形，按大小个子排好了队，开始尿尿。",
+      "sentence": "师父让学生按身高排列队伍",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "有的尿得很高，超过一丈，有个超过几寸，有的尿不到线上。",
+      "sentence": "学生们按照身高顺序进行排尿",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "这时到了祝英台尿的时间了，大家都在看，有的学生想看看祝英台怎么尿，师父也在一边观着看。",
+      "sentence": "祝英台准备进行小便",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "这时到了祝英台尿的时间了，大家都在看，有的学生想看看祝英台怎么尿，师父也在一边观着看。",
+      "sentence": "大家都在等待观看",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "这时到了祝英台尿的时间了，大家都在看，有的学生想看看祝英台怎么尿，师父也在一边观着看。",
+      "sentence": "学生好奇观察过程",
+      "behavior_type": 5
+    },
+    {
+      "role": "师父",
+      "original_sentence": "这时到了祝英台尿的时间了，大家都在看，有的学生想看看祝英台怎么尿，师父也在一边观着看。",
+      "sentence": "师父在一旁观看",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "这时候祝英台不急不忙，走到了前面，把早已准备好的那个物件，放到腿傍里，这时候祝英台把尿泡一挤，尿就一家伙尿了个高，不是师父避得快，差一点尿到师父的头上了啊。",
+      "sentence": "祝英台将尿泡挤出水来",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "这时候祝英台不急不忙，走到了前面，把早已准备好的那个物件，放到腿傍里，这时候祝英台把尿泡一挤，尿就一家伙尿了个高，不是师父避得快，差一点尿到师父的头上了啊。",
+      "sentence": "尿液差点溅到师父头上",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这时候师父大吃一惊，吸了一口凉气，这可不得了哎，这师父明白了三分，按她造茶饭、做鞋片，这个丫头可不得了啊。",
+      "sentence": "师父对祝英台的表现感到惊讶",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要想明出这个事情来，你看堂堂的南学里怎么有女学生，要是明出来可不行啊。",
+      "sentence": "南学里不可能有女学生",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "想办法让他早早回家去吧，再也没有好的出路啊。",
+      "sentence": "想办法让他早早回家去",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "这时候，祝英台来到了伙房中，伺候师父用过了茶饭。",
+      "sentence": "祝英台在伙房伺候师父用茶饭",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "到了深更半夜了，正是祝学生睡觉的时候，他才落了泪了啊。",
+      "sentence": "祝英台在深夜独自落泪",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "不知道造了什么孽，看来我们这辈子是不团圆啊，你看南学里读书整三年，这个懵呆星是千提万提提不醒啊，我是个女流之辈，这个事情说出来我活得了吗？",
+      "sentence": "祝英台感叹此生难以团圆",
+      "behavior_type": 2
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "不知道造了什么孽，看来我们这辈子是不团圆啊，你看南学里读书整三年，这个懵呆星是千提万提提不醒啊，我是个女流之辈，这个事情说出来我活得了吗？",
+      "sentence": "祝英台认为梁山伯未察觉真相",
+      "behavior_type": 5
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "不知道造了什么孽，看来我们这辈子是不团圆啊，你看南学里读书整三年，这个懵呆星是千提万提提不醒啊，我是个女流之辈，这个事情说出来我活得了吗？",
+      "sentence": "祝英台担忧揭露身份会丧命",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "你怎么就不知情啊，不知道回到家中又如何啊？",
+      "sentence": "祝英台不知回家后该如何",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "哭着哭着，这时候梁山伯醒来说，兄弟，你不睡觉哭着怎么了？",
+      "sentence": "梁山伯醒来询问兄弟为何哭泣",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "梁哥，梁哥，你听着，我给你早就说了，这个懵呆星你提不醒，我说我的痔疮疼着不得行，我们辞学走吧，辞了学到家里走吧。",
+      "sentence": "祝英台告诉梁山伯辞学回家",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯说，你的文字学得高，我还不行啊，不能回去。",
+      "sentence": "梁山伯表示自己文字水平不如对方",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "梁哥，我们回去吧，回去到家里去了，我给你教啊。",
+      "sentence": "祝英台劝说梁山伯一起回家",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "那没问题，二人就商量好了。",
+      "sentence": "梁山伯与祝英台达成一致意见",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "到第二天清早上，二人来到师父前跪下，说师父在上，请受弟子一拜。",
+      "sentence": "梁山伯和祝英台向师父跪拜",
+      "behavior_type": 7
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "到第二天清早上，二人来到师父前跪下，说师父在上，请受弟子一拜。",
+      "sentence": "祝英台和梁山伯向师父跪拜",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "师父说，你们二位来到我面前行大礼，有什么大事？",
+      "sentence": "师父询问二人行大礼的原因",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "师父啊，我们读书也这么长时间了，文字学得也差不多了，想起我们的家中，想念我们的爹妈着不得了啊。",
+      "sentence": "他们长时间学习后想念家中父母",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "在师父面前辞了学，告了假，回家一趟怎么样啊？",
+      "sentence": "梁山伯向师父辞学告假回家",
+      "behavior_type": 7
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "在师父面前辞了学，告了假，回家一趟怎么样啊？",
+      "sentence": "祝英台向师父辞学告假回家",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "正合我意啊，师父说，好好好，准了你们的假了。",
+      "sentence": "师父同意了两人的请假请求",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯祝英台，你们回去几时回来哩？",
+      "sentence": "梁山伯询问祝英台何时归来",
+      "behavior_type": 7
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "梁山伯祝英台，你们回去几时回来哩？",
+      "sentence": "祝英台被问及何时归来",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那就说不上，早上去下午回来也说不上，今日去明早回来也说不上，来里不来的也说不上，来里不来怎么了，这个事儿也就说不清楚了。",
+      "sentence": "归期未定难以明确说明",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "师父想，这一对回去成了者便罢，不成者事情难保啊。",
+      "sentence": "师父担心他们回去后情况难料",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "师父说，赶快你们回去吧，路上多加小心。",
+      "sentence": "师父叮嘱他们路上要小心",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "二人收拾完了各自的东西，辞别了师父就回家去了。",
+      "sentence": "梁山伯收拾东西后辞别师父",
+      "behavior_type": 4
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "二人收拾完了各自的东西，辞别了师父就回家去了。",
+      "sentence": "祝英台收拾东西后辞别师父",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "二人收拾完了各自的东西，辞别了师父就回家去了。",
+      "sentence": "二人辞别师父后回家去了",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "一路走来一路转，低头走路抬头看，不学意来到了大路上。",
+      "sentence": "梁山伯与祝英台行走在大路上",
+      "behavior_type": 4
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "一路走来一路转，低头走路抬头看，不学意来到了大路上。",
+      "sentence": "祝英台与梁山伯行走在大路上",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "这个祝英台心里七上八下不得了啊，跟在梁山伯的后面，提醒梁山伯这个懵呆星啊，提醒了我们合婚姻啊。",
+      "sentence": "祝英台内心感到十分不安",
+      "behavior_type": 2
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "这个祝英台心里七上八下不得了啊，跟在梁山伯的后面，提醒梁山伯这个懵呆星啊，提醒了我们合婚姻啊。",
+      "sentence": "祝英台提醒梁山伯婚姻之事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "低头走路抬头看，不学意来到了大路上，抬起头来我观着看，一对鸽子在墙头上盘，一对鸽子成两个，成了两个配婚姻啊。",
+      "sentence": "他们低头走路抬头看",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "低头走路抬头看，不学意来到了大路上，抬起头来我观着看，一对鸽子在墙头上盘，一对鸽子成两个，成了两个配婚姻啊。",
+      "sentence": "他们不学意来到大路",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "低头走路抬头看，不学意来到了大路上，抬起头来我观着看，一对鸽子在墙头上盘，一对鸽子成两个，成了两个配婚姻啊。",
+      "sentence": "他们抬头看见鸽子飞",
+      "behavior_type": 6
+    },
+    {
+      "role": "",
+      "original_sentence": "低头走路抬头看，不学意来到了大路上，抬起头来我观着看，一对鸽子在墙头上盘，一对鸽子成两个，成了两个配婚姻啊。",
+      "sentence": "鸽子在墙头上盘旋",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "低头走路抬头看，不学意来到了大路上，抬起头来我观着看，一对鸽子在墙头上盘，一对鸽子成两个，成了两个配婚姻啊。",
+      "sentence": "鸽子成对配婚姻",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "兄弟，你走路里不走，又是什么事情啊？",
+      "sentence": "祝英台询问梁山伯为何停下脚步",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "你看天上飞的一对鸽子，哪个是公的，哪个是母的？",
+      "sentence": "祝英台询问鸽子性别",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "哎，天上飞的人又瞭不见，谁知道哪个是公的，哪个是母的？",
+      "sentence": "祝英台询问鸽子性别",
+      "behavior_type": 7
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "哎，天上飞的人又瞭不见，谁知道哪个是公的，哪个是母的？",
+      "sentence": "梁山伯表示无法辨别鸽子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "哎，梁哥，你不晓得，我可晓得，你晓得，你给我说咔。",
+      "sentence": "祝英台表示她知道梁山伯不知道的事情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你看公鸽子的眼睛大啪啪而圆唧唧着哩，母鸽子的眼睛条细细而毛润润着哩。",
+      "sentence": "公鸽眼睛大而圆母鸽眼睛细而润",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "管它公的母的，我们赶紧赶路吧。",
+      "sentence": "他们决定立即启程赶路",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "迈开大步往前赶，哎，我怎么就遇下了个懵呆星啊，千提万提提不醒啊。",
+      "sentence": "梁山伯迈开大步向前赶路",
+      "behavior_type": 4
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "迈开大步往前赶，哎，我怎么就遇下了个懵呆星啊，千提万提提不醒啊。",
+      "sentence": "梁山伯感到困惑和无奈",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "低头走路抬头看，不学意来到了琉璃井上，说我们在这个井里讨上一碗水喝上走啊。",
+      "sentence": "他们低头走路抬头看",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "低头走路抬头看，不学意来到了琉璃井上，说我们在这个井里讨上一碗水喝上走啊。",
+      "sentence": "他们在井边讨水喝",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "二人爬到井沿上，二人的影子照在井里，心想就看到面目了，梁山伯说，哎，快赶路吧，姑娘一听，气着就打冷战，一遍一遍就是提不醒。",
+      "sentence": "梁山伯催促姑娘赶快赶路",
+      "behavior_type": 7
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "二人爬到井沿上，二人的影子照在井里，心想就看到面目了，梁山伯说，哎，快赶路吧，姑娘一听，气着就打冷战，一遍一遍就是提不醒。",
+      "sentence": "祝英台因被催促感到气愤",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "低头走路抬头看，二人来到了涝池边，抬起头来观着看，一对夫人来把水担，照着桶子照两边，照着了就配婚姻。",
+      "sentence": "低头走路抬头看来到涝池边",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "低头走路抬头看，二人来到了涝池边，抬起头来观着看，一对夫人来把水担，照着桶子照两边，照着了就配婚姻。",
+      "sentence": "二人抬起头来观察周围情况",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "低头走路抬头看，二人来到了涝池边，抬起头来观着看，一对夫人来把水担，照着桶子照两边，照着了就配婚姻。",
+      "sentence": "一对夫人前来担水照镜子",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "低头走路抬头看，二人来到了涝池边，抬起头来观着看，一对夫人来把水担，照着桶子照两边，照着了就配婚姻。",
+      "sentence": "照镜子后决定配婚姻",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁哥，你看抬水的那两个，哪个是个小姑子，哪个是个嫂子，哎，那很明白啊，戴帽子的是嫂子，掉辫子的是小姑子啊。",
+      "sentence": "梁山伯指出戴帽子的是嫂子",
+      "behavior_type": 7
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁哥，你看抬水的那两个，哪个是个小姑子，哪个是个嫂子，哎，那很明白啊，戴帽子的是嫂子，掉辫子的是小姑子啊。",
+      "sentence": "梁山伯说明掉辫子的是小姑子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你看那个松木杆子柳木桶，千提万提提不醒啊。",
+      "sentence": "松木杆子柳木桶无法被提起",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "走路吧，管他提醒不提醒。",
+      "sentence": "梁山伯决定继续向前行走",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "赶着行来，赶着走，二人来到水磨前，梁哥你看，在我们的前面，那高山大凸的是什么呀？",
+      "sentence": "祝英台询问梁山伯前方高山",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "赶着行来，赶着走，二人来到水磨前，梁哥你看，在我们的前面，那高山大凸的是什么呀？",
+      "sentence": "二人继续前行来到水磨前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "那是一盘磨，磨我记下的是上扇子转下扇子不转，这个磨怎么上扇子不转下扇子转啊？",
+      "sentence": "梁山伯发现磨的转动方式异常",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，那是一盘水磨，所以上扇子不转下扇子转。",
+      "sentence": "水磨上扇不转而下扇转动",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，管它的转不转，我们赶紧赶路吧。",
+      "sentence": "他们决定继续赶路前行",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "低头走路抬头看，二人来到了河沿上。",
+      "sentence": "二人低头走路抬头看来到河沿",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "照着小河提醒梁哥，提醒梁哥了我们配婚姻。",
+      "sentence": "祝英台提醒梁山伯婚姻之事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "姑娘越想越伤心，蹲到河沿上就哭开了。",
+      "sentence": "祝英台因伤心而蹲在河边哭泣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "亲娘啊，你不教我在家里做针工，为什么打发我去南学里读五经？",
+      "sentence": "不教我在家做针工",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这个懵呆星就多多少少提不醒啊。",
+      "sentence": "懵呆星无法被提醒",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "看来这个事情难得很，若是到了家中，不知我的爹妈的心是如何呀？",
+      "sentence": "事情困难程度超出预期",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "看来这个事情难得很，若是到了家中，不知我的爹妈的心是如何呀？",
+      "sentence": "不知父母对此有何看法",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要是不变心，就按许下的办，要是变了心，就难得很。",
+      "sentence": "若不变心则按约定行事",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁兄说，快快过河吧，你怎么又哭开了？",
+      "sentence": "梁山伯催促祝英台快速过河",
+      "behavior_type": 7
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "梁兄说，快快过河吧，你怎么又哭开了？",
+      "sentence": "祝英台因伤心而哭泣不止",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "又为的什么事？",
+      "sentence": "梁山伯询问对方为何哭泣",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "说把鞋脱掉裤子一揙，就过去了。",
+      "sentence": "梁山伯脱鞋挽裤渡过河流",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "祝英台说，梁哥，你过去了，我怎么办呀？",
+      "sentence": "祝英台询问梁山伯自己该怎么办",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "你也是个堂堂七尺男儿，这么个河，你过不来？",
+      "sentence": "祝英台质疑梁山伯无法过河",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "你看我生下就有痔疮病，过河千万过不成。",
+      "sentence": "祝英台因痔疮无法过河",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "你过不成，怎么办呀？",
+      "sentence": "祝英台因无法过河感到焦虑",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "哎，我们两个是八拜之交的生死兄弟，你把我背过河去就是了。",
+      "sentence": "祝英台请求梁山伯背她过河",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "背就背呀。",
+      "sentence": "梁山伯决定背祝英台过河",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "哎，梁哥，我人让你背哩，手可不让你抓呀，你手不让抓，我怎么背你啊？",
+      "sentence": "梁山伯询问如何背祝英台过河",
+      "behavior_type": 13
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "哎，梁哥，我人让你背哩，手可不让你抓呀，你手不让抓，我怎么背你啊？",
+      "sentence": "祝英台拒绝梁山伯触碰她的手",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你把你的腰带解下来勒住，背过去就对了。",
+      "sentence": "解下腰带勒住后背着过河",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "好好好，我来背你过河。",
+      "sentence": "梁山伯决定背祝英台过河",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯祝英台一步步过了河，姑娘心泪的不行，不叫抓来不叫抓，隔背背擩给了手一把。",
+      "sentence": "梁山伯与祝英台一起过了河",
+      "behavior_type": 4
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "梁山伯祝英台一步步过了河，姑娘心泪的不行，不叫抓来不叫抓，隔背背擩给了手一把。",
+      "sentence": "祝英台心中感到非常悲伤",
+      "behavior_type": 2
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "梁山伯祝英台一步步过了河，姑娘心泪的不行，不叫抓来不叫抓，隔背背擩给了手一把。",
+      "sentence": "祝英台不让梁山伯抓住手",
+      "behavior_type": 13
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯祝英台一步步过了河，姑娘心泪的不行，不叫抓来不叫抓，隔背背擩给了手一把。",
+      "sentence": "梁山伯背起祝英台过了河",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "祝英台说，梁哥，你背着我没有看见河里的景致吗?我背着你，哪有时间看去哩？",
+      "sentence": "祝英台询问梁山伯是否看见河景",
+      "behavior_type": 7
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "祝英台说，梁哥，你背着我没有看见河里的景致吗?我背着你，哪有时间看去哩？",
+      "sentence": "梁山伯回答没有时间看河景",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "是个什么景致啊，一条公鱼儿背着一条母鱼儿从水里过去了。",
+      "sentence": "祝英台描述河中鱼儿的景象",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "再的学生不在心，管他的小便不小便，祝学生晚上思想着就不得了，我的爹娘，我是堂堂正正的一个姑娘人，谁叫你们打发着我到南学里读五经啊，念的好不好啊，事情就给做大了，明早上在高处来小便，明早上的这个尿我怎么尿啊。",
+      "sentence": "祝英台思考自己为何要上学",
+      "behavior_type": 5
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "再的学生不在心，管他的小便不小便，祝学生晚上思想着就不得了，我的爹娘，我是堂堂正正的一个姑娘人，谁叫你们打发着我到南学里读五经啊，念的好不好啊，事情就给做大了，明早上在高处来小便，明早上的这个尿我怎么尿啊。",
+      "sentence": "祝英台对父母的决定感到困惑",
+      "behavior_type": 2
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "再的学生不在心，管他的小便不小便，祝学生晚上思想着就不得了，我的爹娘，我是堂堂正正的一个姑娘人，谁叫你们打发着我到南学里读五经啊，念的好不好啊，事情就给做大了，明早上在高处来小便，明早上的这个尿我怎么尿啊。",
+      "sentence": "祝英台担心明早如何解决小便",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "你怎么知道？",
+      "sentence": "祝英台询问梁山伯如何知道",
+      "behavior_type": 5
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "你怎么知道？",
+      "sentence": "梁山伯回答祝英台如何知道",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "恩，在南学里再的都是公鱼，只有一条母鱼。",
+      "sentence": "祝英台回忆南学里多是公鱼",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "你不知道吗？",
+      "sentence": "祝英台询问梁山伯是否知道",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，不知道，赶快行路吧。",
+      "sentence": "他们决定继续前行",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "二人来到河沿上，河沿上就落安然。",
+      "sentence": "梁山伯与祝英台来到河沿上",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "二人来到河沿上，河沿上就落安然。",
+      "sentence": "河沿上呈现一片安然景象",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "姑娘说道，这可了不得了，怎么了？",
+      "sentence": "姑娘表示情况非常紧急",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我就忘掉了一本四书，把一本书给忘到学里了。",
+      "sentence": "某人将四书遗忘在学堂里",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "你还得给我取去。",
+      "sentence": "祝英台要求对方取回书籍",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你取去吧。",
+      "sentence": "请你去取回那本书",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁哥，你懵啊，你把我背过河来，我又不能下水，你还得背我吗。",
+      "sentence": "梁山伯需要再次背祝英台过河",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "啊，梁哥，你呢给我取书去，我在河沿上等着你，等你来了我们走就是了。",
+      "sentence": "祝英台让梁山伯去取书",
+      "behavior_type": 7
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "啊，梁哥，你呢给我取书去，我在河沿上等着你，等你来了我们走就是了。",
+      "sentence": "祝英台在河沿上等待",
+      "behavior_type": 12
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "啊，梁哥，你呢给我取书去，我在河沿上等着你，等你来了我们走就是了。",
+      "sentence": "祝英台等待后一起走",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "那你把我等着不要走，等我回来了一起走。",
+      "sentence": "祝英台在河岸等待梁山伯归来",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "恩，那是自然。",
+      "sentence": "那是自然的事情",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯回去到南学里取书去了，这时祝英台姑娘抬头望了望，这里没有人烟啊，她坐在河沿上就哭开了。",
+      "sentence": "梁山伯返回南学取书去了",
+      "behavior_type": 4
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "梁山伯回去到南学里取书去了，这时祝英台姑娘抬头望了望，这里没有人烟啊，她坐在河沿上就哭开了。",
+      "sentence": "祝英台坐在河沿上哭泣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "我的天啊，往世里我不知道造下的什么孽，这世里你看我怎么这样了。",
+      "sentence": "祝英台感叹自己命运多舛",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "再的人遇上的是聪明伶俐的小相公，我怎么就遇上的一个懵呆星啊。",
+      "sentence": "祝英台感叹自己遇人不淑",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "怨一声爹妈，你不叫我在高楼上学针工，你们为什么让我在南学里就读五经啊？",
+      "sentence": "祝英台埋怨父母让她学习五经",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "我们南学里读了三年整，千提万提就提不醒啊，回到家中又不知道是啥情况啊。",
+      "sentence": "祝英台回忆南学读书三年经历",
+      "behavior_type": 5
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "我们南学里读了三年整，千提万提就提不醒啊，回到家中又不知道是啥情况啊。",
+      "sentence": "祝英台感到困惑和无奈",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "我要想在河沿上把他等，马上天黑夜晚了，来上个不学好的我怎么办？",
+      "sentence": "祝英台在河沿上等待天黑",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "我看，我在这里不能干等，要想回去就说不清啊，姑娘这时搬过来一个大石头，一面个压了一只绣花鞋，一面个压了一条花飘带，就回家了啊。",
+      "sentence": "祝英台搬来石头压住物品后离开",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯走了那么多半天，进一步来到那个南学门，东看西看没有人，梁山伯在门头子顶上摸了一把，是书一本，绣花鞋一只，梁山伯大吃一惊，这是怎么回事？",
+      "sentence": "梁山伯走了半天来到南学门",
+      "behavior_type": 4
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯走了那么多半天，进一步来到那个南学门，东看西看没有人，梁山伯在门头子顶上摸了一把，是书一本，绣花鞋一只，梁山伯大吃一惊，这是怎么回事？",
+      "sentence": "梁山伯东看西看没有发现人",
+      "behavior_type": 12
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯走了那么多半天，进一步来到那个南学门，东看西看没有人，梁山伯在门头子顶上摸了一把，是书一本，绣花鞋一只，梁山伯大吃一惊，这是怎么回事？",
+      "sentence": "梁山伯在门顶上摸到物品",
+      "behavior_type": 13
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯走了那么多半天，进一步来到那个南学门，东看西看没有人，梁山伯在门头子顶上摸了一把，是书一本，绣花鞋一只，梁山伯大吃一惊，这是怎么回事？",
+      "sentence": "梁山伯对所见之物感到惊讶",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯把书本小鞋揣到怀里就要走，转身就出南学门。",
+      "sentence": "梁山伯将书本和绣鞋放入怀中",
+      "behavior_type": 4
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯把书本小鞋揣到怀里就要走，转身就出南学门。",
+      "sentence": "梁山伯转身离开南学大门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "师父就看了个真啊，哎，梁山伯，你过来，他转过去给师父行了大礼，说恩师在上，有何吩咐？",
+      "sentence": "梁山伯向师父行礼并询问吩咐",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯，你回家去了，今天刚走，这么短时间怎么又回来了？",
+      "sentence": "梁山伯刚离开不久又返回",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "祝英台说他忘了一本书，让我给他取书来了。",
+      "sentence": "祝英台表示她忘记了一本书",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯你转过身来，你看你脊背里谁给你留的字啊？",
+      "sentence": "梁山伯转身看到脊背上的字",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "敢是祝英台兄弟么，写的什么呀？",
+      "sentence": "梁山伯询问祝英台所写内容",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "你看上写丈夫梁山伯，下写妻子祝英台，谁为阳谁为阴，梁哥为阳祝妹为阴啊。",
+      "sentence": "梁山伯与祝英台被分别称为阳与阴",
+      "behavior_type": 7
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "你看上写丈夫梁山伯，下写妻子祝英台，谁为阳谁为阴，梁哥为阳祝妹为阴啊。",
+      "sentence": "祝英台与梁山伯被分别称为阴与阳",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯，你赶快追啊，追上就是你的妻子，追不上就是别人的妻啊。",
+      "sentence": "梁山伯应迅速追赶祝英台",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯给师父行了礼，转过身就跑了。",
+      "sentence": "梁山伯向师父行礼后转身离开",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "他一路之上不停地跑，慌慌张张往前赶。",
+      "sentence": "梁山伯一路不停地向前奔跑",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "赶着来到了那个大门上，低头走路抬头看，你看梁山伯跑得真可怜，草杆子绊到梁山伯，土块子绊到梁山伯，草苗子绊到梁山伯，石头子也绊到梁山伯，你说可怜实可怜，我梁山伯才真可怜。",
+      "sentence": "梁山伯匆忙赶路被绊倒多次",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "赶着来到了那个大门上，低头走路抬头看，你看梁山伯跑得真可怜，草杆子绊到梁山伯，土块子绊到梁山伯，草苗子绊到梁山伯，石头子也绊到梁山伯，你说可怜实可怜，我梁山伯才真可怜。",
+      "sentence": "梁山伯在赶路时显得很可怜",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "赶着来到河沿上，抬起头来观着看，怎么不见我的祝姑娘，我的妹妹呀，叫你河沿上就把我等，为什么就不见你的面？",
+      "sentence": "梁山伯匆忙赶到河沿上",
+      "behavior_type": 4
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "赶着来到河沿上，抬起头来观着看，怎么不见我的祝姑娘，我的妹妹呀，叫你河沿上就把我等，为什么就不见你的面？",
+      "sentence": "梁山伯抬头四处张望",
+      "behavior_type": 6
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "赶着来到河沿上，抬起头来观着看，怎么不见我的祝姑娘，我的妹妹呀，叫你河沿上就把我等，为什么就不见你的面？",
+      "sentence": "梁山伯未见祝英台感到失落",
+      "behavior_type": 2
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "赶着来到河沿上，抬起头来观着看，怎么不见我的祝姑娘，我的妹妹呀，叫你河沿上就把我等，为什么就不见你的面？",
+      "sentence": "梁山伯呼唤祝英台等待他",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "你叫我怎么办？",
+      "sentence": "梁山伯感到无助和困惑",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "你让我给你取书本，为什么这回子就不见了人？",
+      "sentence": "梁山伯询问祝英台为何不见人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "不知你这回子到哪里去了？",
+      "sentence": "梁山伯询问祝英台去向",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯哭得就太伤心，东张西望不见个人。",
+      "sentence": "梁山伯因伤心而哭泣不止",
+      "behavior_type": 2
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯哭得就太伤心，东张西望不见个人。",
+      "sentence": "梁山伯四处张望寻找人影",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "前面一块大石头，在石头下放着一只绣花鞋，一条罗裙带，梁山伯大吃一惊，说明你就是我的妻啊。",
+      "sentence": "梁山伯发现绣花鞋和罗裙带",
+      "behavior_type": 5
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "前面一块大石头，在石头下放着一只绣花鞋，一条罗裙带，梁山伯大吃一惊，说明你就是我的妻啊。",
+      "sentence": "梁山伯感到非常吃惊",
+      "behavior_type": 2
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "前面一块大石头，在石头下放着一只绣花鞋，一条罗裙带，梁山伯大吃一惊，说明你就是我的妻啊。",
+      "sentence": "梁山伯认定对方是其妻子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "今日个见不上你的面，回家去了再见一见你妹妹的面。",
+      "sentence": "今日回家去见妹妹一面",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯就急急忙忙回家了，回去了我急着见一见我妻子的面啊。",
+      "sentence": "梁山伯急忙回家想见妻子",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "不怨天来不怨地，就怨我梁山伯太愚钝，在南学里睡在一张床上，怎么就不知道啊。",
+      "sentence": "梁山伯懊悔自己太过愚钝",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "走着来到家门上，朝家门拜了四拜，给兄弟带送书本着见一下我妻子的面。",
+      "sentence": "梁山伯走到家门前拜了四拜",
+      "behavior_type": 4
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "走着来到家门上，朝家门拜了四拜，给兄弟带送书本着见一下我妻子的面。",
+      "sentence": "梁山伯请求兄弟送书见妻子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "急急忙忙赶着来到祝家的门，一看就是个有钱人。",
+      "sentence": "梁山伯匆忙赶到祝家门前",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "急急忙忙赶着来到祝家的门，一看就是个有钱人。",
+      "sentence": "祝家门前显得非常富有",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "门前灯笼高高挂，大门上挂着一块匾啊，写的是大大有名的祝家府。",
+      "sentence": "祝家府门前挂着灯笼和匾额",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯上前把门叫，双手开开门两扇，两个丫鬟在面前。",
+      "sentence": "梁山伯上前敲门并打开门扇",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "梁山伯上前把门叫，双手开开门两扇，两个丫鬟在面前。",
+      "sentence": "两个丫鬟站在门前等候",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "两个丫鬟把梁山伯细细观了一番。",
+      "sentence": "两个丫鬟仔细观察梁山伯",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "丫鬟",
+      "original_sentence": "说这位小相公，你来到我们门上有什么干事啊？",
+      "sentence": "丫鬟询问小相公来此目的",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "二位丫鬟，请通报你们少爷，说梁山伯回来了，让你出来见个面哩。",
+      "sentence": "梁山伯请丫鬟通报少爷见面",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两个丫鬟说，我们没有少爷，也没有相公。",
+      "sentence": "两个丫鬟表示没有少爷和相公",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二位丫鬟究竟是怎么回事啊？",
+      "sentence": "梁山伯询问丫鬟具体情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，你赶紧回去吧，我们没有少爷，只有美貌的小姐。",
+      "sentence": "丫鬟告知没有少爷只有小姐",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "小姐也好，少爷也好，你报给一声，我梁山伯给她送着书本来了。",
+      "sentence": "梁山伯告知丫鬟送来书本",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那你等一等，我们给你通报走。",
+      "sentence": "丫鬟让梁山伯稍等片刻",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两个丫鬟来到绣楼上，姑娘正在做针工。",
+      "sentence": "两个丫鬟来到绣楼上",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "两个丫鬟来到绣楼上，姑娘正在做针工。",
+      "sentence": "姑娘正在做针线活",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "小姐在上，我们给你行礼呀。",
+      "sentence": "丫鬟向小姐行礼问候",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "什么事？",
+      "sentence": "询问发生了什么事情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "门上来了一位相公，长得眉清目秀，是一个白面书生呀，他说他是梁山伯，让你取书本见个面哩。",
+      "sentence": "梁山伯告知门房自己是来送书的",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "不听倒还罢了，一听姑娘心里才如刀割啊，我的天啊，不怨天来不怨地，就怨你这个懵呆星，千提万提你就提不醒啊，看来也没治了。",
+      "sentence": "祝英台听闻后感到心如刀割",
+      "behavior_type": 2
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "不听倒还罢了，一听姑娘心里才如刀割啊，我的天啊，不怨天来不怨地，就怨你这个懵呆星，千提万提你就提不醒啊，看来也没治了。",
+      "sentence": "祝英台不怨天地只怨对方",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "打发小丫鬟，你去给我的爹妈说一声，梁山伯到来了，我亲自下楼去和他见个面啊。",
+      "sentence": "祝英台让丫鬟告知父母梁山伯到来",
+      "behavior_type": 7
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "打发小丫鬟，你去给我的爹妈说一声，梁山伯到来了，我亲自下楼去和他见个面啊。",
+      "sentence": "祝英台准备下楼与梁山伯见面",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "两个丫鬟报了一声，祝员外说，不行，那个万万不行，你是黄花闺女，怎么能见他个相公啊。",
+      "sentence": "祝员外拒绝让女儿见梁山伯",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "姑娘又来给爹妈行了个礼，说爹妈在上。",
+      "sentence": "姑娘向父母行礼并问候",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你有什么事吗？",
+      "sentence": "询问对方有何事情",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "你看我们南学里整三年，梁山伯到来，我们见个面，我去取我的四书。",
+      "sentence": "祝英台请求与梁山伯见面",
+      "behavior_type": 7
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "你看我们南学里整三年，梁山伯到来，我们见个面，我去取我的四书。",
+      "sentence": "梁山伯来到祝英台家",
+      "behavior_type": 4
+    },
+    {
+      "role": "祝员外",
+      "original_sentence": "你看我们南学里整三年，梁山伯到来，我们见个面，我去取我的四书。",
+      "sentence": "祝员外拒绝女儿见梁山伯",
+      "behavior_type": 7
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "你看我们南学里整三年，梁山伯到来，我们见个面，我去取我的四书。",
+      "sentence": "祝英台向父母行礼问安",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "老两口子说不能，不能，万不能啊。",
+      "sentence": "祝员外坚决不同意女儿见梁山伯",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "二老爹娘啊，我们读书整三年，是八拜之交结拜的生死兄弟啊，我们在南学里也有了情谊了，求你爹妈让我们去见个面啊。",
+      "sentence": "祝英台请求父母允许与梁山伯见面",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "见一见，我也就心甘了。",
+      "sentence": "祝英台渴望与梁山伯见面",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "姑娘求着，老两口子才勉勉强强答应了，说你去把身子打扮好，收拾停当，两个丫鬟陪着姑娘去到大门上，见上个面就行了，可不能出门啊。",
+      "sentence": "祝英台打扮整齐准备去见梁山伯",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "姑娘求着，老两口子才勉勉强强答应了，说你去把身子打扮好，收拾停当，两个丫鬟陪着姑娘去到大门上，见上个面就行了，可不能出门啊。",
+      "sentence": "老两口勉强同意他们见面要求",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "姑娘长出了一口气上楼去了。",
+      "sentence": "祝英台长出一口气上楼去",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "姑娘来到绣楼上，打发小丫鬟左面抬过梳妆镜，右面拿过穿衣镜，自己打扮自己身。",
+      "sentence": "祝英台在绣楼上精心打扮自己",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "你看她上上下下把身子收拾齐整，两个丫鬟陪上下楼去了。",
+      "sentence": "祝英台整理好仪容下楼去",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "你看她上上下下把身子收拾齐整，两个丫鬟陪上下楼去了。",
+      "sentence": "两个丫鬟陪同她一起下楼",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "姑娘行一步来到大门口，丫鬟拉开大门，一眼看见了梁山伯，激沥沥打了个冷战。",
+      "sentence": "祝英台走到大门口看见梁山伯",
+      "behavior_type": 4
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "姑娘行一步来到大门口，丫鬟拉开大门，一眼看见了梁山伯，激沥沥打了个冷战。",
+      "sentence": "梁山伯看见祝英台感到震惊",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "上上下下把梁山伯看了个仔细。",
+      "sentence": "祝英台仔细打量梁山伯",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "说道，梁哥，四书搁下了你回去吧，再也没有办法了。",
+      "sentence": "祝英台告诉梁山伯放下四书回家",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯一听抬起头，才把姑娘看呀，一看姑娘，八宝罗裙身上穿，露出金莲一点点。",
+      "sentence": "梁山伯抬头仔细看姑娘",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "梁山伯一听抬起头，才把姑娘看呀，一看姑娘，八宝罗裙身上穿，露出金莲一点点。",
+      "sentence": "姑娘穿着八宝罗裙露出金莲",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "不望姑娘可罢了，一见姑娘就心酸着，难受了。",
+      "sentence": "梁山伯见到姑娘感到心酸",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "头上青丝拿墨染啊，弯弯眉毛在中央，两个眼睛里水汪汪，唇白齿红鼻鼻儿尖啊。",
+      "sentence": "头发乌黑眉毛弯眼睛水汪汪",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "上上下下看了个遍啊，越看越好看，不看姑娘可罢了，一看姑娘浑身发麻两腿软啊，好像身靠花椒树，格里格里就打冷战啊。",
+      "sentence": "梁山伯看到姑娘后感到浑身发软",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "姑娘也盯着梁山伯看啊，真是一表人才太好看啊，姑娘看着看着打冷战啊。",
+      "sentence": "祝英台凝视梁山伯心生爱慕",
+      "behavior_type": 2
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "姑娘也盯着梁山伯看啊，真是一表人才太好看啊，姑娘看着看着打冷战啊。",
+      "sentence": "祝英台因激动而浑身颤抖",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "姑娘把相公看定了，相公把姑娘看上了啊，你望我来我望你，越望心里痒酥酥啊，好像是老鹰看下了麻母鸡啊，两个人就看呆了。",
+      "sentence": "祝英台注视着梁山伯目不转睛",
+      "behavior_type": 7
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "姑娘把相公看定了，相公把姑娘看上了啊，你望我来我望你，越望心里痒酥酥啊，好像是老鹰看下了麻母鸡啊，两个人就看呆了。",
+      "sentence": "梁山伯凝视着祝英台出神",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "姑娘把相公看定了，相公把姑娘看上了啊，你望我来我望你，越望心里痒酥酥啊，好像是老鹰看下了麻母鸡啊，两个人就看呆了。",
+      "sentence": "两人相互对视久久不愿移开",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "姑娘一想，哎，时间快到了，从口袋里掏出个手帕说，梁哥啊，把这个手帕你带上，带上了回去吧。",
+      "sentence": "祝英台掏出手帕递给梁山伯",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯抬头观着看，越看心里越难肠，两个眼睛里把眼泪淌，叫一声我的好姑娘啊，今世里看来不团圆，今日我和你见了面，以后见面可太难肠。",
+      "sentence": "梁山伯看着姑娘感到非常难过",
+      "behavior_type": 2
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯抬头观着看，越看心里越难肠，两个眼睛里把眼泪淌，叫一声我的好姑娘啊，今世里看来不团圆，今日我和你见了面，以后见面可太难肠。",
+      "sentence": "梁山伯眼中流下了悲伤的泪水",
+      "behavior_type": 2
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯抬头观着看，越看心里越难肠，两个眼睛里把眼泪淌，叫一声我的好姑娘啊，今世里看来不团圆，今日我和你见了面，以后见面可太难肠。",
+      "sentence": "梁山伯向姑娘表达离别之情",
+      "behavior_type": 7
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯抬头观着看，越看心里越难肠，两个眼睛里把眼泪淌，叫一声我的好姑娘啊，今世里看来不团圆，今日我和你见了面，以后见面可太难肠。",
+      "sentence": "梁山伯觉得以后见面很困难",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "叫一声祝小姐，你听我言，梁山伯我太可怜，回去不知啥时候才能再见面。",
+      "sentence": "梁山伯表达对祝英台的思念之情",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这时丫鬟催着说，小姐快走吧，太太说只让你们见个面。",
+      "sentence": "丫鬟催促小姐尽快离开",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "姑娘转身就走了。",
+      "sentence": "祝英台转身离开",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯看着就泪流满面，梁山伯看不见姑娘了，转过身也就回家了。",
+      "sentence": "梁山伯因悲伤而泪流满面",
+      "behavior_type": 2
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯看着就泪流满面，梁山伯看不见姑娘了，转过身也就回家了。",
+      "sentence": "梁山伯转身离开回家",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "来到家门上推开门，来到院子里，家人把他接进屋中，来到了父母堂前行了大礼，爹爹妈妈在上。",
+      "sentence": "梁山伯回到家推开了大门",
+      "behavior_type": 4
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "来到家门上推开门，来到院子里，家人把他接进屋中，来到了父母堂前行了大礼，爹爹妈妈在上。",
+      "sentence": "梁山伯走进院子被家人迎接",
+      "behavior_type": 4
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "来到家门上推开门，来到院子里，家人把他接进屋中，来到了父母堂前行了大礼，爹爹妈妈在上。",
+      "sentence": "梁山伯向父母恭敬地行礼",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "爹妈说，儿啊，起来吧，南学里读书如何啊？",
+      "sentence": "梁员外询问儿子南学读书情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "我读书三年也学了些东西。",
+      "sentence": "梁山伯读书三年学到不少知识",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "二老一看儿子面色难看，你怎么了？",
+      "sentence": "梁员外发现儿子面色难看",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "二老一看儿子面色难看，你怎么了？",
+      "sentence": "询问儿子发生了什么事情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "赶快打发家人把少爷接到房中让休息去啊。",
+      "sentence": "梁员外命人将少爷接回房中休息",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "谢过二老就走了，来到他的小房中，躺在床上就不起身啊。",
+      "sentence": "他回到房间躺在床上休息",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "饭端来也不吃，茶端来也不喝，眼泪汪汪就话不说啊。",
+      "sentence": "他拒绝进食并沉默流泪",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "浑身无力就动不动啊，浑浑噩噩就神不清啊，口口喊的是姑娘的名啊。",
+      "sentence": "梁山伯浑身无力精神恍惚",
+      "behavior_type": 2
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "浑身无力就动不动啊，浑浑噩噩就神不清啊，口口喊的是姑娘的名啊。",
+      "sentence": "梁山伯口中呼唤姑娘名字",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "叫姑娘，回来吧，回来吧，我们见个面，见不上个面，我是难活人啊。",
+      "sentence": "梁山伯呼唤姑娘回来见面",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "叫姑娘，回来吧，回来吧，我们见个面，见不上个面，我是难活人啊。",
+      "sentence": "无法见面使他感到痛苦",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "家人一看吓掉魂啊，快快给老爷报，说，老爷不好了，不妙了，少爷端着饭去不吃饭，端着茶去不喝茶，睡在床上还说胡话啊。",
+      "sentence": "家人见状立即向老爷报告",
+      "behavior_type": 2
+    },
+    {
+      "role": "马兰春之子",
+      "original_sentence": "家人一看吓掉魂啊，快快给老爷报，说，老爷不好了，不妙了，少爷端着饭去不吃饭，端着茶去不喝茶，睡在床上还说胡话啊。",
+      "sentence": "少爷躺在床上不吃不喝",
+      "behavior_type": 12
+    },
+    {
+      "role": "马兰春之子",
+      "original_sentence": "家人一看吓掉魂啊，快快给老爷报，说，老爷不好了，不妙了，少爷端着饭去不吃饭，端着茶去不喝茶，睡在床上还说胡话啊。",
+      "sentence": "少爷躺在床上说胡话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老两口子吓坏了，赶快起身就看来了。",
+      "sentence": "老两口子急忙起身前去查看",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "二老来到小房中，不看儿子还罢了，一看儿子就吓坏了，一看儿子这个样，老两口子就吓掉了魂，坐在旁边就冒哭声啊。",
+      "sentence": "梁员外看到儿子状况感到惊恐",
+      "behavior_type": 2
+    },
+    {
+      "role": "祝员外",
+      "original_sentence": "二老来到小房中，不看儿子还罢了，一看儿子就吓坏了，一看儿子这个样，老两口子就吓掉了魂，坐在旁边就冒哭声啊。",
+      "sentence": "祝员外看到儿子状况感到惊恐",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "二老来到小房中，不看儿子还罢了，一看儿子就吓坏了，一看儿子这个样，老两口子就吓掉了魂，坐在旁边就冒哭声啊。",
+      "sentence": "老两口坐在旁边开始哭泣",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叫声冤家，你醒来吧，你到底得下了个什么病啊，把病的根源说分明，在街上请名先生给你娃娃来看病啊，你快快醒来给我说分明，你到底得下的什么病啊？",
+      "sentence": "询问病因并请求告知详情",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你到南学里把书念，回到家里你这个样。",
+      "sentence": "你到南学里把书念",
+      "behavior_type": ""
+    },
+    {
+      "role": "",
+      "original_sentence": "你到南学里把书念，回到家里你这个样。",
+      "sentence": "回到家里你这个样",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯听着有人声，是不是到阴曹地府了啊，狠着就睁开双眼啊，一看爹爹妈妈在面前。",
+      "sentence": "梁山伯听见声音睁开双眼",
+      "behavior_type": 6
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯听着有人声，是不是到阴曹地府了啊，狠着就睁开双眼啊，一看爹爹妈妈在面前。",
+      "sentence": "梁山伯看见父母在面前",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "爹娘啊，你把你的儿子白养了啊，你把你的儿子就白抓了，给你们二老报不上个恩啊，一时三刻我就难活人啊。",
+      "sentence": "梁山伯感叹自己无法报答父母恩情",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "儿啊，你得下的什么病啊，赶快给我们说分明，我们请上个名医了给你来看病啊。",
+      "sentence": "梁员外询问儿子病情并请医生",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯这时又不省人事了，口口就叫开那个姑娘了。",
+      "sentence": "梁山伯再次陷入昏迷状态",
+      "behavior_type": 3
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯这时又不省人事了，口口就叫开那个姑娘了。",
+      "sentence": "梁山伯不断呼唤那位姑娘",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老两口一听，就难肠了，赶快请上个人到祝家订婚去啊。",
+      "sentence": "老两口听闻后感到非常难过",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "老两口一听，就难肠了，赶快请上个人到祝家订婚去啊。",
+      "sentence": "他们决定请人去祝家提亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "各样的礼物都带上，就进一步来到了祝家来说婚。",
+      "sentence": "梁员外携带礼物前往祝家提亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "他们来到祝家的门，丫鬟赶快去给老爷报，梁家的老爷带的家人抬的轿子，来到门前不知是什么大事啊。",
+      "sentence": "梁员外带家人抬轿来到祝家",
+      "behavior_type": 4
+    },
+    {
+      "role": "祝员外",
+      "original_sentence": "他们来到祝家的门，丫鬟赶快去给老爷报，梁家的老爷带的家人抬的轿子，来到门前不知是什么大事啊。",
+      "sentence": "丫鬟向祝员外报告梁家来访",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "他们来到祝家的门，丫鬟赶快去给老爷报，梁家的老爷带的家人抬的轿子，来到门前不知是什么大事啊。",
+      "sentence": "他们来到门前不知是何大事",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那赶快去接，把人接到客厅上。",
+      "sentence": "赶快去接人并带到客厅",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "烟酒茶饭端齐全，酒过三巡才说话啊，梁兄啊，你来了有什么要事啊？",
+      "sentence": "祝员外准备齐全烟酒茶饭",
+      "behavior_type": 11
+    },
+    {
+      "role": "祝员外",
+      "original_sentence": "烟酒茶饭端齐全，酒过三巡才说话啊，梁兄啊，你来了有什么要事啊？",
+      "sentence": "祝员外询问梁山伯来意",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "我来着不为别的事，就是给我的儿子定婚姻啊，何年何月和我的儿子来成婚啊？",
+      "sentence": "梁员外前来为儿子商议婚事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "祝员外眼睛一瞪不认人，那时节你们梁家有钱哩，这时候你们梁家没钱了，你就给你的儿子重定亲啊，我两家事儿不可能，我早都许给了大大有名的马兰春的儿子定了亲了，年过了就来抬人啊。",
+      "sentence": "祝员外瞪眼拒绝承认婚约",
+      "behavior_type": 2
+    },
+    {
+      "role": "祝员外",
+      "original_sentence": "祝员外眼睛一瞪不认人，那时节你们梁家有钱哩，这时候你们梁家没钱了，你就给你的儿子重定亲啊，我两家事儿不可能，我早都许给了大大有名的马兰春的儿子定了亲了，年过了就来抬人啊。",
+      "sentence": "祝员外表示已与马家定亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "梁员外一听便开了言，你怎么胡说开了，那时节我们遇到一起，到百子宫里求子孙，在佛爷面前发了誓，许了愿啊，两家生下男的是八拜之交，生下女的是结为姊妹，生下一男一女就一道杆子两道门，两家就定婚姻啊。",
+      "sentence": "梁员外表示两家曾约定联姻",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "你怎么胡说开了，祝员外。",
+      "sentence": "梁员外指责祝员外胡说八道",
+      "behavior_type": 7
+    },
+    {
+      "role": "祝员外",
+      "original_sentence": "你怎么胡说开了，祝员外。",
+      "sentence": "祝员外被指责胡说八道",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "你赶紧回去吧，再不要胡言乱语了，不给你了是你太穷啊，我的女儿早都定给马家了，择上个日子就要成亲抬人哩。",
+      "sentence": "祝员外拒绝梁员外的提亲请求",
+      "behavior_type": 7
+    },
+    {
+      "role": "祝员外",
+      "original_sentence": "你赶紧回去吧，再不要胡言乱语了，不给你了是你太穷啊，我的女儿早都定给马家了，择上个日子就要成亲抬人哩。",
+      "sentence": "祝员外已将女儿许配给马家",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "梁员外就没治了，带上他的家人们回家走。",
+      "sentence": "梁员外带领家人返回家中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "回来一看儿子就心酸啊，叫一声小冤家你醒来吧，醒来吧，我给你说咔吧。",
+      "sentence": "梁员外看到儿子感到心酸",
+      "behavior_type": 2
+    },
+    {
+      "role": "梁员外",
+      "original_sentence": "回来一看儿子就心酸啊，叫一声小冤家你醒来吧，醒来吧，我给你说咔吧。",
+      "sentence": "梁员外呼唤儿子醒来交谈",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "一声喊得太高了，梁山伯睁开双眼，坐的还是他的爹妈，二位老人哭得泪人一般。",
+      "sentence": "梁山伯被喊声惊醒睁开双眼",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "一声喊得太高了，梁山伯睁开双眼，坐的还是他的爹妈，二位老人哭得泪人一般。",
+      "sentence": "二位老人因悲伤而泪流满面",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "说，爹爹妈妈，你们定亲去了，如何说？",
+      "sentence": "梁山伯询问父母关于定亲的事情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "说孩儿啊，你看你长得人才出众，一表人才，他家的那个黄毛丫头片子她不贤良啊。",
+      "sentence": "梁员外评价祝英台不贤良",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "你好好地养病，等你病离身你好了，给你挑着定婚姻啊。",
+      "sentence": "梁员外告诉儿子好好养病再定亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯问道，爹爹妈妈，你们去人家怎么说来？",
+      "sentence": "梁山伯询问父母提亲结果",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "他说那时候我们有钱哩，现在没钱了，穷了不给了，早就给了马兰春的儿子定下亲了，定下日子就成亲哩。",
+      "sentence": "梁员外表示已无钱为梁山伯定亲",
+      "behavior_type": 7
+    },
+    {
+      "role": "梁员外",
+      "original_sentence": "他说那时候我们有钱哩，现在没钱了，穷了不给了，早就给了马兰春的儿子定下亲了，定下日子就成亲哩。",
+      "sentence": "梁员外已将亲事定给马兰春之子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯一听就躺下了，他还茶不思来饭不想，不吃不喝，起不了床，如若见不上姑娘的面，我在人世间还能活几天啊，如若见不上，我就一时三刻活不成啊。",
+      "sentence": "梁山伯听闻后悲伤卧床不起",
+      "behavior_type": 2
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯一听就躺下了，他还茶不思来饭不想，不吃不喝，起不了床，如若见不上姑娘的面，我在人世间还能活几天啊，如若见不上，我就一时三刻活不成啊。",
+      "sentence": "梁山伯拒绝进食任何食物",
+      "behavior_type": 11
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯一听就躺下了，他还茶不思来饭不想，不吃不喝，起不了床，如若见不上姑娘的面，我在人世间还能活几天啊，如若见不上，我就一时三刻活不成啊。",
+      "sentence": "梁山伯表示无法继续生存",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "日思夜想想的就是姑娘啊，这就是相思病得在了脏腑上，血疤疤儿掉在那个嘴唇上啊，白天黑夜昏沉沉啊，要想活命是难上难啊。",
+      "sentence": "梁山伯因思念姑娘而患上相思病",
+      "behavior_type": 2
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "日思夜想想的就是姑娘啊，这就是相思病得在了脏腑上，血疤疤儿掉在那个嘴唇上啊，白天黑夜昏沉沉啊，要想活命是难上难啊。",
+      "sentence": "梁山伯嘴唇干裂显现出血疤",
+      "behavior_type": 1
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "日思夜想想的就是姑娘啊，这就是相思病得在了脏腑上，血疤疤儿掉在那个嘴唇上啊，白天黑夜昏沉沉啊，要想活命是难上难啊。",
+      "sentence": "梁山伯日夜昏沉难以清醒",
+      "behavior_type": 12
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "日思夜想想的就是姑娘啊，这就是相思病得在了脏腑上，血疤疤儿掉在那个嘴唇上啊，白天黑夜昏沉沉啊，要想活命是难上难啊。",
+      "sentence": "梁山伯生命垂危难以存活",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "口口哭的就是姑娘人啊，我的祝妹你回来我们见上一面，我心也甘呀。",
+      "sentence": "梁山伯因思念祝英台而哭泣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "母亲啊，再的人养儿防备个老啊，你养儿就一场空啊，看来这个孝心就敬不上啊，等到来世再报吧，这次活命看来是难上难啊。",
+      "sentence": "母亲养儿防备老却成空",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "老两口一看儿子这般面容，就叫一声儿，你醒醒吧，喊了半天才睁开眼，我的母亲啊，我见天的日子少了，见地的日子多了，看来是不能活了，你们说着叫姑娘见上个面，我在人世间还能活几天，如若见不上个面，要想活命是难上难啊。",
+      "sentence": "梁山伯因思念祝英台而病倒",
+      "behavior_type": 2
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "老两口一看儿子这般面容，就叫一声儿，你醒醒吧，喊了半天才睁开眼，我的母亲啊，我见天的日子少了，见地的日子多了，看来是不能活了，你们说着叫姑娘见上个面，我在人世间还能活几天，如若见不上个面，要想活命是难上难啊。",
+      "sentence": "梁山伯躺在床上不吃不喝",
+      "behavior_type": 12
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "老两口一看儿子这般面容，就叫一声儿，你醒醒吧，喊了半天才睁开眼，我的母亲啊，我见天的日子少了，见地的日子多了，看来是不能活了，你们说着叫姑娘见上个面，我在人世间还能活几天，如若见不上个面，要想活命是难上难啊。",
+      "sentence": "梁山伯渴望见到祝英台",
+      "behavior_type": 2
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "老两口一看儿子这般面容，就叫一声儿，你醒醒吧，喊了半天才睁开眼，我的母亲啊，我见天的日子少了，见地的日子多了，看来是不能活了，你们说着叫姑娘见上个面，我在人世间还能活几天，如若见不上个面，要想活命是难上难啊。",
+      "sentence": "梁山伯因相思病而痛苦",
+      "behavior_type": 2
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "老两口一看儿子这般面容，就叫一声儿，你醒醒吧，喊了半天才睁开眼，我的母亲啊，我见天的日子少了，见地的日子多了，看来是不能活了，你们说着叫姑娘见上个面，我在人世间还能活几天，如若见不上个面，要想活命是难上难啊。",
+      "sentence": "梁山伯向母亲表达绝望",
+      "behavior_type": 7
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "老两口一看儿子这般面容，就叫一声儿，你醒醒吧，喊了半天才睁开眼，我的母亲啊，我见天的日子少了，见地的日子多了，看来是不能活了，你们说着叫姑娘见上个面，我在人世间还能活几天，如若见不上个面，要想活命是难上难啊。",
+      "sentence": "梁山伯认为自己即将死亡",
+      "behavior_type": 2
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "老两口一看儿子这般面容，就叫一声儿，你醒醒吧，喊了半天才睁开眼，我的母亲啊，我见天的日子少了，见地的日子多了，看来是不能活了，你们说着叫姑娘见上个面，我在人世间还能活几天，如若见不上个面，要想活命是难上难啊。",
+      "sentence": "梁山伯希望见祝英台最后一面",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "我的儿啊，祝家变心了，我们梁家穷了不给了，儿啊，你快些好吧，好了我们给你各处另找人啊，等你中了状元做了官，有的是相貌极俊的好姑娘啊。",
+      "sentence": "梁员外告诉儿子祝家已变心",
+      "behavior_type": 7
+    },
+    {
+      "role": "梁员外",
+      "original_sentence": "我的儿啊，祝家变心了，我们梁家穷了不给了，儿啊，你快些好吧，好了我们给你各处另找人啊，等你中了状元做了官，有的是相貌极俊的好姑娘啊。",
+      "sentence": "梁员外劝儿子病愈后另寻人",
+      "behavior_type": 7
+    },
+    {
+      "role": "梁员外",
+      "original_sentence": "我的儿啊，祝家变心了，我们梁家穷了不给了，儿啊，你快些好吧，好了我们给你各处另找人啊，等你中了状元做了官，有的是相貌极俊的好姑娘啊。",
+      "sentence": "梁员外说中状元后有好姑娘",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯不听便罢了，一听就昏倒了。",
+      "sentence": "梁山伯听闻后立即昏倒",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二老一看着了急，打发两个丫鬟你们再去一趟吧，去了给姑娘通上个信，让她想办法来见上个面。",
+      "sentence": "二老着急让丫鬟去送信",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两个丫鬟起了身，进一步来到了祝家的门。",
+      "sentence": "两个丫鬟前往祝家的门口",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "手拍门框高声喊，祝家的丫鬟忙听见。",
+      "sentence": "有人拍门框并高声呼喊",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "手拍门框高声喊，祝家的丫鬟忙听见。",
+      "sentence": "祝家的丫鬟听见了声音",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，梁家的二位姐姐，你们来到我们祝家有何干事？",
+      "sentence": "询问梁家二位姐姐来祝家目的",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "我们少爷梁山伯是昏迷不醒，双眼难睁，看来是活不成了，我们赶紧过来给你们小姐想办法通上个信，叫她想办法去见一面，如若见不上面，看来就活不成了呀。",
+      "sentence": "梁山伯昏迷不醒生命垂危",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "我们少爷梁山伯是昏迷不醒，双眼难睁，看来是活不成了，我们赶紧过来给你们小姐想办法通上个信，叫她想办法去见一面，如若见不上面，看来就活不成了呀。",
+      "sentence": "通知祝英台前来见最后一面",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你们上楼去给你们小姐通上个信，看有没有办法。",
+      "sentence": "丫鬟们上楼通知小姐想办法",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你们等一等我去给小姐报信走。",
+      "sentence": "等待片刻我去通知小姐",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "丫鬟来到绣楼上，叫声小姐你是听，不好了，不妙了，梁家的两个丫鬟来了，说梁山伯公子不能活了，得了重病了，她们说给通上个信，见上个面就好了。",
+      "sentence": "丫鬟向祝英台报告梁山伯病危",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "丫鬟来到绣楼上，叫声小姐你是听，不好了，不妙了，梁家的两个丫鬟来了，说梁山伯公子不能活了，得了重病了，她们说给通上个信，见上个面就好了。",
+      "sentence": "丫鬟传达梁山伯病危的消息",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "姑娘一听就心酸了啊，不怨天来不怨地，单怨我的爹妈可恶得很啊，说下的话就变掉了啊，我可恶的老子，害癀的娘，那时候，你们佛爷面前给我定下的婚，到如今你们说话不算变了心啊，拆散了我们两个的好婚姻啊。",
+      "sentence": "祝英台听闻后感到非常心酸",
+      "behavior_type": 2
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "姑娘一听就心酸了啊，不怨天来不怨地，单怨我的爹妈可恶得很啊，说下的话就变掉了啊，我可恶的老子，害癀的娘，那时候，你们佛爷面前给我定下的婚，到如今你们说话不算变了心啊，拆散了我们两个的好婚姻啊。",
+      "sentence": "祝英台怨恨父母违背承诺",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "姑娘一听就心酸了啊，不怨天来不怨地，单怨我的爹妈可恶得很啊，说下的话就变掉了啊，我可恶的老子，害癀的娘，那时候，你们佛爷面前给我定下的婚，到如今你们说话不算变了心啊，拆散了我们两个的好婚姻啊。",
+      "sentence": "父母违背了当初的婚约",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "姑娘一听就心酸了啊，不怨天来不怨地，单怨我的爹妈可恶得很啊，说下的话就变掉了啊，我可恶的老子，害癀的娘，那时候，你们佛爷面前给我定下的婚，到如今你们说话不算变了心啊，拆散了我们两个的好婚姻啊。",
+      "sentence": "婚约被父母单方面解除",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "她就连哭带写，写了一封书信，给丫鬟说你们去，就说我们马上见面，想个法子我们配婚姻啊。",
+      "sentence": "祝英台边哭边写了一封书信",
+      "behavior_type": 14
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "她就连哭带写，写了一封书信，给丫鬟说你们去，就说我们马上见面，想个法子我们配婚姻啊。",
+      "sentence": "祝英台让丫鬟去传话要见面",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "姑娘拿过来一件衫子说，给你，你们去给他穿上，我想办法和他见面。",
+      "sentence": "祝英台递给丫鬟一件衫子",
+      "behavior_type": 13
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "姑娘拿过来一件衫子说，给你，你们去给他穿上，我想办法和他见面。",
+      "sentence": "祝英台让丫鬟给梁山伯穿上",
+      "behavior_type": 7
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "姑娘拿过来一件衫子说，给你，你们去给他穿上，我想办法和他见面。",
+      "sentence": "祝英台想办法与梁山伯见面",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "丫鬟来给梁家的丫鬟安顿好，说这个衫子让他穿上，想办法和他见一面，让他好好活着，两人一定能见面。",
+      "sentence": "丫鬟安顿好梁家丫鬟并传达信息",
+      "behavior_type": ""
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "丫鬟来给梁家的丫鬟安顿好，说这个衫子让他穿上，想办法和他见一面，让他好好活着，两人一定能见面。",
+      "sentence": "梁山伯穿上衫子等待见面",
+      "behavior_type": 13
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "丫鬟来给梁家的丫鬟安顿好，说这个衫子让他穿上，想办法和他见一面，让他好好活着，两人一定能见面。",
+      "sentence": "祝英台想办法与梁山伯见面",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "这封书信给给让他看。",
+      "sentence": "祝英台让丫鬟送书信给梁山伯",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "丫鬟来到家中，她把书信拆开看了看，没有给梁山伯看。",
+      "sentence": "丫鬟拆开书信后未给梁山伯看",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两个丫鬟来到了老爷前，行了礼说，祝家姑娘给了一件衫子，说让少爷穿上，再想办法让他见一面。",
+      "sentence": "丫鬟向老爷行礼并传达姑娘的话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "让他的病快好转。",
+      "sentence": "梁山伯的病情需要尽快好转",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "丫鬟没有把书信的事情给老爷说，老爷打发着给少爷拿着衣服去了。",
+      "sentence": "梁员外未被告知书信之事",
+      "behavior_type": 7
+    },
+    {
+      "role": "梁员外",
+      "original_sentence": "丫鬟没有把书信的事情给老爷说，老爷打发着给少爷拿着衣服去了。",
+      "sentence": "梁员外派人送衣服给少爷",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "她们来到小房中，不看梁山伯倒还罢，一看还把人吓坏了啊。",
+      "sentence": "丫鬟看到梁山伯后感到非常害怕",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯口吐白沫，两眼不睁，嘴里一直念的是姑娘的名字。",
+      "sentence": "梁山伯口吐白沫念姑娘名字",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "这时候，母亲来到身边说，儿啊，你睁开眼睛我给你说，姑娘到来了，梁山伯睁开眼睛一看，没有姑娘，只有老母亲啊，把双眼一闭就昏过去了。",
+      "sentence": "梁山伯睁开眼睛看见母亲",
+      "behavior_type": 1
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "这时候，母亲来到身边说，儿啊，你睁开眼睛我给你说，姑娘到来了，梁山伯睁开眼睛一看，没有姑娘，只有老母亲啊，把双眼一闭就昏过去了。",
+      "sentence": "梁山伯闭上眼睛昏了过去",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "两个丫鬟说，少爷你睁开眼睛吧，我们到姑娘的楼上，姑娘给了个绸衫子让你穿上，让病离身了好了，姑娘想办法和你见面啊。",
+      "sentence": "丫鬟劝说梁山伯睁开眼睛",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "两个丫鬟说，少爷你睁开眼睛吧，我们到姑娘的楼上，姑娘给了个绸衫子让你穿上，让病离身了好了，姑娘想办法和你见面啊。",
+      "sentence": "姑娘赠送绸衫子给梁山伯",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "两个丫鬟说，少爷你睁开眼睛吧，我们到姑娘的楼上，姑娘给了个绸衫子让你穿上，让病离身了好了，姑娘想办法和你见面啊。",
+      "sentence": "姑娘计划与梁山伯见面",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "她们把绸衫子拿到梁山伯鼻子前，闻了闻，梁山伯哗的睁开双眼了，他起了身，他起来把姑娘给的衫子穿上，丫鬟端过茶来他喝了个净啊，浑身也有了力气了，说道，丫鬟，我今日个觉得肚子怎么饿了，赶快给我造点茶饭去。",
+      "sentence": "梁山伯睁开双眼并起身穿衣",
+      "behavior_type": 4
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "她们把绸衫子拿到梁山伯鼻子前，闻了闻，梁山伯哗的睁开双眼了，他起了身，他起来把姑娘给的衫子穿上，丫鬟端过茶来他喝了个净啊，浑身也有了力气了，说道，丫鬟，我今日个觉得肚子怎么饿了，赶快给我造点茶饭去。",
+      "sentence": "梁山伯喝完茶后感到有力气",
+      "behavior_type": 11
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "她们把绸衫子拿到梁山伯鼻子前，闻了闻，梁山伯哗的睁开双眼了，他起了身，他起来把姑娘给的衫子穿上，丫鬟端过茶来他喝了个净啊，浑身也有了力气了，说道，丫鬟，我今日个觉得肚子怎么饿了，赶快给我造点茶饭去。",
+      "sentence": "梁山伯表示自己感到肚子饿",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "她们把绸衫子拿到梁山伯鼻子前，闻了闻，梁山伯哗的睁开双眼了，他起了身，他起来把姑娘给的衫子穿上，丫鬟端过茶来他喝了个净啊，浑身也有了力气了，说道，丫鬟，我今日个觉得肚子怎么饿了，赶快给我造点茶饭去。",
+      "sentence": "丫鬟被要求准备茶饭",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "全家人一听太高兴，赶紧把茶饭给端过去，梁山伯闻着香，端过来就吃了一大碗。",
+      "sentence": "梁山伯闻到香味后吃了一碗饭",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老太太一看高兴着不得了，我儿子给梁家能留根了。",
+      "sentence": "老太太看到儿子好转非常高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "梁山伯这几天是天天能吃饭了，也有了精神了。",
+      "sentence": "梁山伯近日饮食正常精神好转",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "过了三天，梁山伯心急眼跳，说丫鬟，你们过来，到底是怎么回事？",
+      "sentence": "梁山伯感到心急如焚",
+      "behavior_type": 2
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "过了三天，梁山伯心急眼跳，说丫鬟，你们过来，到底是怎么回事？",
+      "sentence": "梁山伯询问丫鬟情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "不是说我的身子好了让我见面哩，怎么音无音的信无信啊？",
+      "sentence": "梁山伯询问为何没有消息",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "这时丫鬟过来给公子行了礼，说公子，我给你实话说了吧。",
+      "sentence": "丫鬟向梁山伯行礼并告知实情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "你快讲，说少爷，姑娘给了一封书信，我没有让你知道啊。",
+      "sentence": "祝英台给梁山伯写了一封信",
+      "behavior_type": 7
+    },
+    {
+      "role": "丫鬟",
+      "original_sentence": "你快讲，说少爷，姑娘给了一封书信，我没有让你知道啊。",
+      "sentence": "丫鬟向梁山伯隐瞒了书信",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "快快拿来，丫鬟把书信递给梁山伯。",
+      "sentence": "丫鬟将书信递给梁山伯",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "若得梁祝二人再相见，第二世里蓝桥担水见个面，第三世里要想夫妻来团圆，玉堂春三堂会审才团圆啊。",
+      "sentence": "梁山伯与祝英台再次相见",
+      "behavior_type": 3
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "若得梁祝二人再相见，第二世里蓝桥担水见个面，第三世里要想夫妻来团圆，玉堂春三堂会审才团圆啊。",
+      "sentence": "祝英台与梁山伯再次相见",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "若得梁祝二人再相见，第二世里蓝桥担水见个面，第三世里要想夫妻来团圆，玉堂春三堂会审才团圆啊。",
+      "sentence": "第二世里蓝桥担水见个面",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "若得梁祝二人再相见，第二世里蓝桥担水见个面，第三世里要想夫妻来团圆，玉堂春三堂会审才团圆啊。",
+      "sentence": "第三世里夫妻才能团圆",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "若得梁祝二人再相见，第二世里蓝桥担水见个面，第三世里要想夫妻来团圆，玉堂春三堂会审才团圆啊。",
+      "sentence": "玉堂春三堂会审才团圆",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "看完了书信，梁山伯栽倒在床沿上，昏迷不醒，不省人事，他的爹妈就吓掉魂啊，哭一声我的冤家，你又怎么了，你快快醒来，连喊几声不答应啊，梁山伯一口气就上不来了啊。",
+      "sentence": "梁山伯看完书信后昏迷不醒",
+      "behavior_type": 3
+    },
+    {
+      "role": "梁员外",
+      "original_sentence": "看完了书信，梁山伯栽倒在床沿上，昏迷不醒，不省人事，他的爹妈就吓掉魂啊，哭一声我的冤家，你又怎么了，你快快醒来，连喊几声不答应啊，梁山伯一口气就上不来了啊。",
+      "sentence": "梁员外因儿子昏迷感到恐惧",
+      "behavior_type": 2
+    },
+    {
+      "role": "梁员外",
+      "original_sentence": "看完了书信，梁山伯栽倒在床沿上，昏迷不醒，不省人事，他的爹妈就吓掉魂啊，哭一声我的冤家，你又怎么了，你快快醒来，连喊几声不答应啊，梁山伯一口气就上不来了啊。",
+      "sentence": "梁员外呼唤儿子快快醒来",
+      "behavior_type": 7
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "看完了书信，梁山伯栽倒在床沿上，昏迷不醒，不省人事，他的爹妈就吓掉魂啊，哭一声我的冤家，你又怎么了，你快快醒来，连喊几声不答应啊，梁山伯一口气就上不来了啊。",
+      "sentence": "梁山伯最终停止了呼吸",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "哭一声我的儿啊，你醒来吧，醒来吧，梁山伯用手指了指书信让他们看，这时梁山伯就见了阎王了。",
+      "sentence": "梁山伯用手指了指书信让他们看",
+      "behavior_type": 2
+    },
+    {
+      "role": "梁山伯",
+      "original_sentence": "哭一声我的儿啊，你醒来吧，醒来吧，梁山伯用手指了指书信让他们看，这时梁山伯就见了阎王了。",
+      "sentence": "梁山伯最终不幸去世",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "我的冤家，你怎么就见了阎王啊？",
+      "sentence": "梁员外悲痛地质问梁山伯的死因",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "我就把你白养了啊，你走了让我怎么活啊？",
+      "sentence": "梁员外因儿子离世感到极度悲痛",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梁员外",
+      "original_sentence": "我的儿啊，再的人养儿是防备的老啊，我养你是一场空啊，你把我们撇下，我们怎么活啊？",
+      "sentence": "梁员外因儿子去世感到极度悲伤",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你看我们可怜不可怜啊！",
+      "sentence": "他们感到非常可怜",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "当家邻居得知情，来吧老两口劝着说，人死不能复生啊，你们老两口子还是恨着活着吧。",
+      "sentence": "邻居劝告老两口节哀顺变",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "大家把他们劝了又劝，老两口子才安稳了，就给梁山伯下了葬啊。",
+      "sentence": "众人最终将梁山伯安葬",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "祝员外",
+      "original_sentence": "祝家人一听梁山伯去世了，就高兴得不得了啊，把时间给给马家了，让他们赶紧拿人啊。",
+      "sentence": "祝员外听闻梁山伯去世很高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "祝员外",
+      "original_sentence": "祝家人一听梁山伯去世了，就高兴得不得了啊，把时间给给马家了，让他们赶紧拿人啊。",
+      "sentence": "祝员外通知马家前来迎娶",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "马兰春之子",
+      "original_sentence": "马家一听高兴得很，把良辰吉日择现成，请上各路的朋友，左邻右舍，就娶姑娘去了。",
+      "sentence": "马家听闻后感到非常高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "马兰春之子",
+      "original_sentence": "马家一听高兴得很，把良辰吉日择现成，请上各路的朋友，左邻右舍，就娶姑娘去了。",
+      "sentence": "马家择定良辰吉日并邀请朋友",
+      "behavior_type": 10
+    },
+    {
+      "role": "马兰春之子",
+      "original_sentence": "马家一听高兴得很，把良辰吉日择现成，请上各路的朋友，左邻右舍，就娶姑娘去了。",
+      "sentence": "马家前往迎娶祝英台",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "马兰春之子",
+      "original_sentence": "各样的身袂拿齐全，各样的礼品都拿上，打扮身子多齐整。",
+      "sentence": "马兰春之子精心打扮准备迎亲",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一路走一路行，不学意来到祝家门。",
+      "sentence": "一路行走来到祝家门前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "马兰春之子",
+      "original_sentence": "抬的轿子来娶人。",
+      "sentence": "马兰春之子抬轿前来迎娶新娘",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "祝家门上乱纷纷，说姑娘你赶快打扮吧，马家的抬亲的人都到了。",
+      "sentence": "祝英台被催促尽快梳妆打扮",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "祝家门上乱纷纷，说姑娘你赶快打扮吧，马家的抬亲的人都到了。",
+      "sentence": "祝家门上呈现一片混乱景象",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "姑娘听罢是一动不动，两个眼睛里流泪下来。",
+      "sentence": "祝英台听闻后流泪不止",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "丫鬟说，小姐收拾吧，娶亲的来了。",
+      "sentence": "丫鬟告知小姐娶亲的人已到",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "姑娘说，你们高兴，我高兴不起来啊，拿过来的身袂来打扮呀，是白的腰带来缠上，上上下下穿上了孝衫啊，白裙子穿在了下面，然后又把成亲的身袂套上。",
+      "sentence": "祝英台穿上白色孝衫和裙子",
+      "behavior_type": 1
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "姑娘说，你们高兴，我高兴不起来啊，拿过来的身袂来打扮呀，是白的腰带来缠上，上上下下穿上了孝衫啊，白裙子穿在了下面，然后又把成亲的身袂套上。",
+      "sentence": "祝英台套上成亲的服饰",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "说苍天啊苍天，把我们婚姻散了啊。",
+      "sentence": "祝英台感叹婚姻被拆散",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "小姐啊，你到了马家去了，你给我们交杯酒喝一下行不行？",
+      "sentence": "小姐到了马家喝交杯酒",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "奴才，交杯酒给你喝，到了马家路口上，有个话让你说你说不说？",
+      "sentence": "奴才询问是否愿意在路口说话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "小姐，你吩咐，我就说啊。",
+      "sentence": "小姐吩咐奴才说话",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那好，到了马家路口上，你就说到了。",
+      "sentence": "到达马家路口时进行报告",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "小姐，我知道了。",
+      "sentence": "祝英台表示已经知晓此事",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这时把姑娘抱到轿子中，一家人忙得欢欢乐乐，轿子抬上就起了身，她的爹妈就高兴得很，吹吹打打就轿子起了身，一路来到了马家路口上。",
+      "sentence": "轿子被抬起开始移动",
+      "behavior_type": 4
+    },
+    {
+      "role": "祝员外",
+      "original_sentence": "这时把姑娘抱到轿子中，一家人忙得欢欢乐乐，轿子抬上就起了身，她的爹妈就高兴得很，吹吹打打就轿子起了身，一路来到了马家路口上。",
+      "sentence": "祝员外夫妇感到非常高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "这时把姑娘抱到轿子中，一家人忙得欢欢乐乐，轿子抬上就起了身，她的爹妈就高兴得很，吹吹打打就轿子起了身，一路来到了马家路口上。",
+      "sentence": "队伍一路行进至马家路口",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "丫鬟说，小姐，马家路口到了。",
+      "sentence": "丫鬟告知小姐已到达马家路口",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你赶快给他们说一声，把轿子停一停。",
+      "sentence": "请将轿子在此处停下",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说轿子停着怎么了，说姑娘吩咐的。",
+      "sentence": "轿子停着是姑娘吩咐的",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "轿子停下问姑娘，停着轿子怎么了？",
+      "sentence": "轿子停下询问姑娘停轿原因",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "姑娘说，新郎啊，这里正是梁山伯的坟，我们南学里读书三年整，情深义又重啊，下来我烧些纸钱，祭奠些酒。",
+      "sentence": "祝英台请求停轿祭奠梁山伯",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那可不行，新人下不得轿子。",
+      "sentence": "新人不得离开轿子",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "你让我烧些纸，奠些酒就算了，要不然我就死在你们马家门里。",
+      "sentence": "祝英台要求烧纸祭奠梁山伯",
+      "behavior_type": 3
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "你让我烧些纸，奠些酒就算了，要不然我就死在你们马家门里。",
+      "sentence": "祝英台威胁要死在马家门里",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "马兰春之子",
+      "original_sentence": "把马秀才吓得一屁股坐在地上，说不要这样，你下去拜就是了。",
+      "sentence": "马秀才被吓得坐在地上",
+      "behavior_type": 2
+    },
+    {
+      "role": "马兰春之子",
+      "original_sentence": "把马秀才吓得一屁股坐在地上，说不要这样，你下去拜就是了。",
+      "sentence": "马秀才同意让她下去拜祭",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "这才姑娘下了轿子，来到坟的跟前，她左手取出千张纸，右手拿的玉酒壶，姑娘这才哭成了个泪人儿。",
+      "sentence": "祝英台在梁山伯坟前痛哭流涕",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "祝告天来祝告地，祝告各路的神仙啊，我活的实在可怜得很，祝告祝告多祝告啊，我们在人间不能为夫妻，在阴间我们能成夫妻吗？",
+      "sentence": "祝英台向天地神仙诉说心中悲苦",
+      "behavior_type": 2
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "祝告天来祝告地，祝告各路的神仙啊，我活的实在可怜得很，祝告祝告多祝告啊，我们在人间不能为夫妻，在阴间我们能成夫妻吗？",
+      "sentence": "祝英台询问能否在阴间成为夫妻",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我头一拜来土门开，二一拜来土门开，三一拜来土门全开开。",
+      "sentence": "进行三次跪拜后土门开启",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "祝英台",
+      "original_sentence": "拜了三拜，咔嚓一声，一个惊雷，土门开了，姑娘一下栽下去了。",
+      "sentence": "祝英台拜了三拜土门开了",
+      "behavior_type": 4
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "拜了三拜，咔嚓一声，一个惊雷，土门开了，姑娘一下栽下去了。",
+      "sentence": "祝英台栽入土门之中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "忙了忙了马家的秀才，才缒下了个罗裙带啊，这时从坟中飞出一对蝴蝶，飞到半虚空，坟就合住没有了啊。",
+      "sentence": "从坟中飞出一对蝴蝶",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "马兰春之子",
+      "original_sentence": "哭的哭，喊的喊但是枉然了啊，马秀才说，贤妻啊贤妻，我花掉了多少银子，没有见上个面，今天缒下了个罗裙带啊，你说我难肠不难肠啊。",
+      "sentence": "马秀才感到非常难过",
+      "behavior_type": 2
+    },
+    {
+      "role": "马兰春之子",
+      "original_sentence": "哭的哭，喊的喊但是枉然了啊，马秀才说，贤妻啊贤妻，我花掉了多少银子，没有见上个面，今天缒下了个罗裙带啊，你说我难肠不难肠啊。",
+      "sentence": "马秀才诉说心中苦闷",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "再说一对蝴蝶来到半虚空，对着众人开了言。",
+      "sentence": "蝴蝶在半空中对众人说话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "送亲的你们送不到家，你们羞死吧，变上个蜻蜓了你们沟里爬。",
+      "sentence": "送亲者因羞愧而变成蜻蜓",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "娶亲的你们娶不到家，你们羞死吧，端上个狗头缸子你们就去吧。",
+      "sentence": "娶亲者未能完成任务感到羞愧",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "迎亲的你们迎不到家，你们羞死吧，好吃肉了你们变上个苍蝇肉缝里爬。",
+      "sentence": "迎亲者未能完成任务感到羞愧",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "马兰春之子",
+      "original_sentence": "马家的娃子你娶不到家，你羞死吧，变上个黑叫驴了你沙滩上爬。",
+      "sentence": "马兰春之子因娶亲失败感到羞耻",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "厨子你就娶不到家，你就羞死吧，变上个虫虫子你树梢上爬。",
+      "sentence": "厨子无法将新娘娶回家",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "丫鬟你说了实话，羞死吧，你变上个石柱花了在花园里爬。",
+      "sentence": "丫鬟因说实话感到羞愧",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "爹爹妈妈你们把我许二家，羞死吧，变成狗眼穿的九斤花，开花的时节不见它，十冬腊月才开花。",
+      "sentence": "父母将女儿许配给第二家",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "众人听啊，吹的笛儿配的萧，冤屈的古人打书里表。",
+      "sentence": "众人聆听笛声与箫声",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "众人听啊，吹的笛儿配的萧，冤屈的古人打书里表。",
+      "sentence": "古人通过书籍表达冤屈",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "还愿不要小看神，待客不要小看人。",
+      "sentence": "不要轻视神明和他人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "待客小看人，客人记在心。",
+      "sentence": "轻视客人会被对方记在心中",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "庙里还愿小看了神，在神仙面前少了一炷香啊，就造成了夫妻恩爱断。",
+      "sentence": "庙里还愿少香导致夫妻分离",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一块铜，两离分，一半儿落到南京城，一半儿落到山东省。",
+      "sentence": "铜块分离后分别落到两地",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一半做罄嗡嗡嗡，一半做钟咚咚咚。",
+      "sentence": "一半铜块被制成罄和钟",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "梁山伯",
+      "original_sentence": "不看罢了，一看泪流满面，我就说不成了，书信里说，公子，我连你读书三年整，是八拜之交的生死弟兄，一个床上睡觉，一个学里吃饭，你多少年来是一个懵呆星，千提万提你提不醒啊，这个时候我们的婚姻是万不成啊，坏良心的爹娘他们不同意，背着我把婚定了，我连你配婚的事就不成了，在回家的路上我一路提醒你，可是你提不醒啊，回到家中就把我配给了马兰春的儿子，和马秀才定了婚，过日就拿人哩，时间我给你写好着哩，你当活着就不说了，当死了在去马家的路上等我来。",
+      "sentence": "梁山伯看完书信后泪流满面",
+      "behavior_type": 2
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "不看罢了，一看泪流满面，我就说不成了，书信里说，公子，我连你读书三年整，是八拜之交的生死弟兄，一个床上睡觉，一个学里吃饭，你多少年来是一个懵呆星，千提万提你提不醒啊，这个时候我们的婚姻是万不成啊，坏良心的爹娘他们不同意，背着我把婚定了，我连你配婚的事就不成了，在回家的路上我一路提醒你，可是你提不醒啊，回到家中就把我配给了马兰春的儿子，和马秀才定了婚，过日就拿人哩，时间我给你写好着哩，你当活着就不说了，当死了在去马家的路上等我来。",
+      "sentence": "祝英台在信中表达三年同窗情",
+      "behavior_type": 7
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "不看罢了，一看泪流满面，我就说不成了，书信里说，公子，我连你读书三年整，是八拜之交的生死弟兄，一个床上睡觉，一个学里吃饭，你多少年来是一个懵呆星，千提万提你提不醒啊，这个时候我们的婚姻是万不成啊，坏良心的爹娘他们不同意，背着我把婚定了，我连你配婚的事就不成了，在回家的路上我一路提醒你，可是你提不醒啊，回到家中就把我配给了马兰春的儿子，和马秀才定了婚，过日就拿人哩，时间我给你写好着哩，你当活着就不说了，当死了在去马家的路上等我来。",
+      "sentence": "祝英台被迫与马家定下婚约",
+      "behavior_type": 3
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "不看罢了，一看泪流满面，我就说不成了，书信里说，公子，我连你读书三年整，是八拜之交的生死弟兄，一个床上睡觉，一个学里吃饭，你多少年来是一个懵呆星，千提万提你提不醒啊，这个时候我们的婚姻是万不成啊，坏良心的爹娘他们不同意，背着我把婚定了，我连你配婚的事就不成了，在回家的路上我一路提醒你，可是你提不醒啊，回到家中就把我配给了马兰春的儿子，和马秀才定了婚，过日就拿人哩，时间我给你写好着哩，你当活着就不说了，当死了在去马家的路上等我来。",
+      "sentence": "祝英台告知梁山伯婚约已定",
+      "behavior_type": 7
+    },
+    {
+      "role": "祝英台",
+      "original_sentence": "不看罢了，一看泪流满面，我就说不成了，书信里说，公子，我连你读书三年整，是八拜之交的生死弟兄，一个床上睡觉，一个学里吃饭，你多少年来是一个懵呆星，千提万提你提不醒啊，这个时候我们的婚姻是万不成啊，坏良心的爹娘他们不同意，背着我把婚定了，我连你配婚的事就不成了，在回家的路上我一路提醒你，可是你提不醒啊，回到家中就把我配给了马兰春的儿子，和马秀才定了婚，过日就拿人哩，时间我给你写好着哩，你当活着就不说了，当死了在去马家的路上等我来。",
+      "sentence": "祝英台约定死后与梁山伯相见",
+      "behavior_type": 7
+    }
+  ]
+]

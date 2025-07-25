@@ -1,0 +1,118 @@
+[
+  {
+    "roleName": "俞百生",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "12": 2,
+      "10": 1,
+      "7": 2,
+      "8": 1
+    },
+    "total_sentences": 15,
+    "entropy": 2.656564762130954
+  },
+  {
+    "roleName": "刘小儿",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "2": 7,
+      "3": 2,
+      "10": 7,
+      "11": 1,
+      "8": 12,
+      "5": 2,
+      "4": 8,
+      "6": 2,
+      "13": 5,
+      "7": 11,
+      "1": 5,
+      "12": 1,
+      "9": 1
+    },
+    "total_sentences": 64,
+    "entropy": 3.2875695676352463
+  },
+  {
+    "roleName": "仁宗",
+    "roleType": "帝王将相",
+    "behaviorCounts": {
+      "7": 2,
+      "4": 2,
+      "8": 1,
+      "2": 1
+    },
+    "total_sentences": 6,
+    "entropy": 1.9182958340544893
+  },
+  {
+    "roleName": "包文拯",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "7": 33,
+      "10": 7,
+      "4": 2,
+      "8": 2,
+      "2": 2,
+      "12": 2,
+      "5": 3,
+      "3": 1,
+      "13": 1
+    },
+    "total_sentences": 53,
+    "entropy": 1.9756303055934696
+  },
+  {
+    "roleName": "王朝",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "12": 1,
+      "4": 1,
+      "7": 2
+    },
+    "total_sentences": 4,
+    "entropy": 1.5
+  },
+  {
+    "roleName": "马汉",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "12": 1,
+      "7": 1
+    },
+    "total_sentences": 2,
+    "entropy": 1.0
+  },
+  {
+    "roleName": "欧阳春",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "12": 1,
+      "7": 2,
+      "14": 2,
+      "10": 1
+    },
+    "total_sentences": 6,
+    "entropy": 1.9182958340544893
+  },
+  {
+    "roleName": "沈翠英",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "3": 7,
+      "2": 9,
+      "10": 3,
+      "7": 8,
+      "12": 3,
+      "14": 1,
+      "13": 1,
+      "8": 1,
+      "5": 2,
+      "4": 1
+    },
+    "total_sentences": 36,
+    "entropy": 2.8451865438947848
+  }
+]

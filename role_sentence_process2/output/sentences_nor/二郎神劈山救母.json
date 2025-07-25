@@ -1,0 +1,1734 @@
+[
+  [
+    {
+      "role": "",
+      "original_sentence": "第十一节凉州贤孝《二郎神劈山救母》唱词哎，天连地来地连天，龙连的大海虎连的山。",
+      "sentence": "天地相连龙虎各有所依",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大佛爷手指的是麦脐山，老君爷连的是煤炭山。",
+      "sentence": "大佛爷用手指着麦脐山",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "大佛爷手指的是麦脐山，老君爷连的是煤炭山。",
+      "sentence": "老君爷连接着煤炭山",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "玉帝",
+      "original_sentence": "柏子儿靠的是花前院，玉皇爷连的是灵霄殿。",
+      "sentence": "玉皇爷与灵霄殿紧密相连",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "柏子儿靠的是花前院，玉皇爷连的是灵霄殿。",
+      "sentence": "柏子儿与花前院紧密相连",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "白杨树紧靠的水沟沿，柳树凭的是草湖滩。",
+      "sentence": "白杨树紧靠在水沟沿上",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "白杨树紧靠的水沟沿，柳树凭的是草湖滩。",
+      "sentence": "柳树依凭于草湖滩边",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "伙计们凭的是房子炕，妇人们凭的个男子汉。",
+      "sentence": "伙计们依靠的是房子和炕",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "伙计们凭的是房子炕，妇人们凭的个男子汉。",
+      "sentence": "妇人们依靠的是男子汉",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "单丢下光棍们没有个下场，吆喝上几个朋友们了晒一个南墙。",
+      "sentence": "光棍们没有好下场",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "单丢下光棍们没有个下场，吆喝上几个朋友们了晒一个南墙。",
+      "sentence": "朋友们一起晒太阳",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把这些诗条对句丢在后，唱一段凉州贤孝给大家听。",
+      "sentence": "将诗条对句丢弃后开始演唱凉州贤孝",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "今天我不把别的唱，唱的是二郎神劈山救母的书一段。",
+      "sentence": "二郎神劈山救母的故事被讲述",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "哎，话说这个二郎神，仪容清俊貌堂堂，两耳垂肩目有光。",
+      "sentence": "二郎神仪容清俊两耳垂肩",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "头戴三山飞凤帽，身穿一领淡鹅黄。",
+      "sentence": "二郎神头戴三山飞凤帽",
+      "behavior_type": 1
+    },
+    {
+      "role": "二郎神",
+      "original_sentence": "头戴三山飞凤帽，身穿一领淡鹅黄。",
+      "sentence": "二郎神身穿一领淡鹅黄",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "缕金靴衬盘龙袜，玉带团花八宝妆。",
+      "sentence": "二郎神穿着缕金靴和盘龙袜",
+      "behavior_type": 1
+    },
+    {
+      "role": "二郎神",
+      "original_sentence": "缕金靴衬盘龙袜，玉带团花八宝妆。",
+      "sentence": "二郎神佩戴玉带团花八宝妆",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "腰挎弹弓新月样，手执三尖两刃枪。",
+      "sentence": "二郎神腰间挎着新月样弹弓",
+      "behavior_type": 1
+    },
+    {
+      "role": "二郎神",
+      "original_sentence": "腰挎弹弓新月样，手执三尖两刃枪。",
+      "sentence": "二郎神手持三尖两刃枪",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "力诛八怪声名远，义结梅山七圣行。",
+      "sentence": "二郎神力诛八怪声名远扬",
+      "behavior_type": 9
+    },
+    {
+      "role": "二郎神",
+      "original_sentence": "力诛八怪声名远，义结梅山七圣行。",
+      "sentence": "二郎神义结梅山七圣同行",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "心高不认天家眷，性傲归神住灌江。",
+      "sentence": "二郎神心高气傲不认天家眷属",
+      "behavior_type": 2
+    },
+    {
+      "role": "二郎神",
+      "original_sentence": "心高不认天家眷，性傲归神住灌江。",
+      "sentence": "二郎神性傲归神后住于灌江",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "赤城昭惠英灵圣，显化无边号二郎。",
+      "sentence": "二郎神被尊称为英灵圣者",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎本是三只眼，七十二变本领强。",
+      "sentence": "二郎神天生具有三只眼睛",
+      "behavior_type": 1
+    },
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎本是三只眼，七十二变本领强。",
+      "sentence": "二郎神掌握七十二种变化",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "梅山六圣护两边，身后跟着哮天犬。",
+      "sentence": "二郎神身后跟随着哮天犬",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "梅山六圣护两边，身后跟着哮天犬。",
+      "sentence": "梅山六圣守护在二郎神两侧",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "虽是玉帝亲外甥，却是听调不听宣。",
+      "sentence": "二郎神听调但不接受宣召",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎的故事说不完，先唱一个二郎神打凤凰。",
+      "sentence": "二郎神的故事讲述不完",
+      "behavior_type": 7
+    },
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎的故事说不完，先唱一个二郎神打凤凰。",
+      "sentence": "二郎神与凤凰进行战斗",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "手使金弓银弹丸，梧桐树上打凤凰。",
+      "sentence": "二郎神用金弓银弹打凤凰",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "斧王庙老妖",
+      "original_sentence": "冰雹不打庄稼汉，单往老妖的锛喽上降。",
+      "sentence": "冰雹只落在老妖的头上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "有心再打三五个，误了担山赶太阳。",
+      "sentence": "二郎神因赶路而停止打猎",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十三个太阳来作乱，地上的黎民遭了秧。",
+      "sentence": "十三个太阳导致黎民受灾",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎拿起三尖两刃枪，挑起了地上的两座山。",
+      "sentence": "二郎神用三尖两刃枪挑起两座山",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎担山名声扬，要除祸患追太阳。",
+      "sentence": "二郎神担山追赶太阳除祸患",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "抓住一个压给一座山，抓住两个压给山一双。",
+      "sentence": "二郎神用山压住抓住的太阳",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "太阳原本十三个，压掉了整整十一个。",
+      "sentence": "二郎神压掉了十一个太阳",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "剩下一个追得忙，赶紧就往海里藏。",
+      "sentence": "二郎神匆忙追赶最后一个太阳",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "剩下一个追得忙，赶紧就往海里藏。",
+      "sentence": "最后一个太阳迅速躲入海中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "白天不敢来露面，夜里现身做月亮。",
+      "sentence": "白天不敢露面夜里现身做月亮",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "还有一个没处藏，就叫二郎抓了个着。",
+      "sentence": "二郎神抓住了最后一个太阳",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "正要压给一座山，二郎的师父着了忙。",
+      "sentence": "正要压给一座山",
+      "behavior_type": 12
+    },
+    {
+      "role": "二郎神",
+      "original_sentence": "正要压给一座山，二郎的师父着了忙。",
+      "sentence": "二郎神的师父感到着急",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "口称二郎你听我言，师父有话要对你讲。",
+      "sentence": "二郎神的师父有话要对他讲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不了慌，不了忙，慌忙了干不下好道场。",
+      "sentence": "慌忙导致无法做好道场",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "天上得留一太阳，不然黎民遭黑暗。",
+      "sentence": "天上必须保留一个太阳",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎闻听心里亮，多谢师父来指点。",
+      "sentence": "二郎神听闻后心中豁然开朗",
+      "behavior_type": 5
+    },
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎闻听心里亮，多谢师父来指点。",
+      "sentence": "二郎神感谢师父的指点",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "抓住的太阳放上了天，叫它给黎民百姓照光亮。",
+      "sentence": "二郎神将太阳放回天上",
+      "behavior_type": 13
+    },
+    {
+      "role": "二郎神",
+      "original_sentence": "抓住的太阳放上了天，叫它给黎民百姓照光亮。",
+      "sentence": "二郎神命令太阳照亮人间",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "早上升起在东边，晚上落下在西边。",
+      "sentence": "太阳从东边升起西边落下",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十三个太阳不再来作乱，天下的黎民百姓都落安康。",
+      "sentence": "十三个太阳不再作乱天下",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "十三个太阳不再来作乱，天下的黎民百姓都落安康。",
+      "sentence": "黎民百姓从此获得安康",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "玉帝",
+      "original_sentence": "玉帝一见心喜欢，大摆御宴请二郎。",
+      "sentence": "玉帝见到后感到非常高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "玉帝",
+      "original_sentence": "玉帝一见心喜欢，大摆御宴请二郎。",
+      "sentence": "玉帝设宴款待二郎神",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎喝了个熏熏醉，躺在长生不老床。",
+      "sentence": "二郎神喝醉酒后躺在长生床上",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "躺在床上做一梦，梦里梦见他的养身娘。",
+      "sentence": "二郎神梦见他的养身娘",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎惊醒是一梦，尊一声玉帝舅舅听衷肠。",
+      "sentence": "二郎神惊醒后发现是一场梦",
+      "behavior_type": 5
+    },
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎惊醒是一梦，尊一声玉帝舅舅听衷肠。",
+      "sentence": "二郎神向玉帝舅舅诉说衷肠",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "人人都有个生身母，二郎咋没养身娘。",
+      "sentence": "二郎神疑惑自己没有养身娘",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "玉帝",
+      "original_sentence": "玉皇闻听着了忙，叫声外甥你听我言。",
+      "sentence": "玉帝听闻后急忙回应外甥",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "玉帝",
+      "original_sentence": "要想知道你的娘，你到那斗牛宫里去问你的舅母去。",
+      "sentence": "玉帝告诉二郎去问王母娘娘",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎闻听不怠慢，迈开仙足往前赶。",
+      "sentence": "二郎神迅速迈步向前行进",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "走得快，跑得欢，斗牛宫不远在面前。",
+      "sentence": "二郎神快速奔向斗牛宫",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "来是就到斗牛宫，见到了王母娘娘舅母亲。",
+      "sentence": "二郎神迅速抵达斗牛宫",
+      "behavior_type": 4
+    },
+    {
+      "role": "王母娘娘",
+      "original_sentence": "来是就到斗牛宫，见到了王母娘娘舅母亲。",
+      "sentence": "王母娘娘在斗牛宫等候",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "双膝儿就跪到了斗牛宫，连连就把我的舅母尊几声。",
+      "sentence": "二郎神在斗牛宫向王母娘娘下跪",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "我的舅母亲哎，人人都有生身母，二郎怎没一个养身娘？",
+      "sentence": "二郎神质问为何自己没有养身娘",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "叫声我的舅母大人你是听，今个你把事情给我说分明。",
+      "sentence": "二郎神请求王母娘娘说明事情",
+      "behavior_type": 7
+    },
+    {
+      "role": "王母娘娘",
+      "original_sentence": "叫声我的舅母大人你是听，今个你把事情给我说分明。",
+      "sentence": "王母娘娘被二郎神请求说明事情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "今个你把事情给我说清了还倒罢，你当若是事情给我说不清，大闹天宫我不留情。",
+      "sentence": "二郎神要求王母娘娘说明真相",
+      "behavior_type": 7
+    },
+    {
+      "role": "二郎神",
+      "original_sentence": "今个你把事情给我说清了还倒罢，你当若是事情给我说不清，大闹天宫我不留情。",
+      "sentence": "二郎神威胁要大闹天宫",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "王母娘娘",
+      "original_sentence": "王母娘娘闻听吓掉魂，个儿搂抖坐在了斗牛宫。",
+      "sentence": "王母娘娘听闻后感到极度恐惧",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "腿子里困脑子里愣，眼睛里发的是黑眼风。",
+      "sentence": "腿困脑愣眼睛发黑",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "天也旋，地也转，心慌谋乱不安闲。",
+      "sentence": "天地旋转令人心慌意乱",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王母娘娘",
+      "original_sentence": "幺幺缓了多半晌，定下神来赶紧把外甥娃娃来安当。",
+      "sentence": "王母娘娘定神后安抚外甥",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王母娘娘",
+      "original_sentence": "叫二郎你是听，舅母有话给你说分明。",
+      "sentence": "王母娘娘有话要对二郎神说",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王母娘娘",
+      "original_sentence": "不提起你的母亲还倒罢，提起来你的母亲叫我好心伤。",
+      "sentence": "王母娘娘提起二郎神母亲感到伤心",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "云华仙女",
+      "original_sentence": "你母亲本是云华仙女，动了凡心下了凡。",
+      "sentence": "云华仙女动了凡心下凡尘",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "杨天佑",
+      "original_sentence": "确州城里把杨天佑书生来遇上，成就了一段好姻缘。",
+      "sentence": "杨天佑在确州城遇见云华仙女",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "云华仙女",
+      "original_sentence": "生下了你个杨二郎，她却把玉帝的天条犯。",
+      "sentence": "云华仙女生下杨二郎后触犯天条",
+      "behavior_type": 3
+    },
+    {
+      "role": "玉帝",
+      "original_sentence": "生下了你个杨二郎，她却把玉帝的天条犯。",
+      "sentence": "玉帝的天条被云华仙女所触犯",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "玉帝",
+      "original_sentence": "兄妹有情天条无情，玉帝无奈把罪来降。",
+      "sentence": "玉帝无奈降罪于兄妹",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "玉帝",
+      "original_sentence": "发去了天兵天将捉住你娘，压在了桃山底下叫受磨难。",
+      "sentence": "玉帝派遣天兵天将捉拿云华仙女",
+      "behavior_type": 7
+    },
+    {
+      "role": "云华仙女",
+      "original_sentence": "发去了天兵天将捉住你娘，压在了桃山底下叫受磨难。",
+      "sentence": "云华仙女被镇压在桃山之下",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "如今我捻着指儿掐着算，你母亲的刑期快要满，合该你们母子要相见。",
+      "sentence": "如今我计算你母亲的刑期将满",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "如今我捻着指儿掐着算，你母亲的刑期快要满，合该你们母子要相见。",
+      "sentence": "你们母子即将能够再次相见",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "你若有真心救你的娘，宝仓库里有一把开山斧。",
+      "sentence": "二郎神拥有开山斧",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "你去取上了赶紧搭救你的生身娘。",
+      "sentence": "二郎神前去取斧搭救母亲",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎闻听莫贪慢，迈开大步往前赶。",
+      "sentence": "二郎神听闻后立即快步前行",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "来是就到宝仓库，各样的宝贝放光芒。",
+      "sentence": "宝仓库内各种宝贝闪耀光芒",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "各样的宝贝都在哩，唯独不见开山斧。",
+      "sentence": "宝库中未见开山斧",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎这里怒气生，七窍生烟了不成。",
+      "sentence": "二郎神因愤怒而情绪激动",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "眼睛绷得有灯笼大，大嘴一张叫人怪害怕。",
+      "sentence": "二郎神眼睛瞪得极大",
+      "behavior_type": 1
+    },
+    {
+      "role": "二郎神",
+      "original_sentence": "眼睛绷得有灯笼大，大嘴一张叫人怪害怕。",
+      "sentence": "二郎神张嘴令人害怕",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "看宝的童子吓着赶紧跪上前，个栗栗个栗栗打冷颤。",
+      "sentence": "童子因恐惧而跪地颤抖",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎开言便把童子叫，宝仓库里的事情你给我说根苗。",
+      "sentence": "二郎神询问童子关于宝仓库的事情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "看宝童闻听不怠慢，叫声二爷你听我讲。",
+      "sentence": "看宝童立即回应二郎神的询问",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "此斧正在下方来做乱，但愿你能把妖来降。",
+      "sentence": "此斧正在下方制造混乱",
+      "behavior_type": 12
+    },
+    {
+      "role": "二郎神",
+      "original_sentence": "此斧正在下方来做乱，但愿你能把妖来降。",
+      "sentence": "二郎神被期望能够降妖",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎这里不怠慢，迈开仙足走得欢。",
+      "sentence": "二郎神迅速迈开脚步前行",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "不觉意来到南天门，打开南天门要下天宫。",
+      "sentence": "二郎神来到南天门准备下天宫",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "就地画个双十字，二足跺起云一片。",
+      "sentence": "二郎神跺脚腾起一片云雾",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "一架云头十万里，二架云头百万长。",
+      "sentence": "二郎神架云飞行十万里",
+      "behavior_type": 4
+    },
+    {
+      "role": "二郎神",
+      "original_sentence": "一架云头十万里，二架云头百万长。",
+      "sentence": "二郎神架云飞行百万长",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "三架云头来的快，下方不远在眼前。",
+      "sentence": "二郎神迅速抵达目的地",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "收云头，落地面，双足落在地中央。",
+      "sentence": "二郎神收云头落在地面中央",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "云华仙女",
+      "original_sentence": "有心就这样进村庄，又怕失落仙体我难以回天堂。",
+      "sentence": "云华仙女担忧失落仙体难回天堂",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎这里说声变，变个道童身穿黄。",
+      "sentence": "二郎神变身为一名穿黄衣的道童",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "迈开仙步进了庄，只见一个老汉愁眉苦脸泪汪汪。",
+      "sentence": "二郎神迈步进入村庄",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "迈开仙步进了庄，只见一个老汉愁眉苦脸泪汪汪。",
+      "sentence": "老汉愁眉苦脸泪汪汪",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎来到老汉的面，叫声老汉你听我言。",
+      "sentence": "二郎神向老汉开口说话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "你是缺儿缺哈女，还是家中缺哈吃来缺哈穿，你把实话对我讲！",
+      "sentence": "二郎神询问老汉家中困难情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老汉这里抬头看，见一个道童身穿黄。",
+      "sentence": "老汉抬头看见一个穿黄衣的道童",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老汉这里开言道，叫了声道童你听根苗。",
+      "sentence": "老汉向道童讲述事情缘由",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我不缺女来不缺男，仓中不缺万石粮。",
+      "sentence": "老汉家中不缺儿女和粮食",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "斧王庙老妖",
+      "original_sentence": "庄西有一个斧王庙，有一个老妖住庙堂。",
+      "sentence": "斧王庙老妖居住在庙堂之中",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "斧王庙老妖",
+      "original_sentence": "他一天要吃一个人，两天要吃人一双。",
+      "sentence": "斧王庙老妖每日需食一人",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "斧王庙老妖",
+      "original_sentence": "四面八方全吃到，今天傢就轮到我头上。",
+      "sentence": "斧王庙老妖每天都要吃一个人",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "四面八方全吃到，今天傢就轮到我头上。",
+      "sentence": "今天轮到我被老妖吃掉",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老汉我今生今世只有一个女一个男，你说这叫我怎么能够不心伤。",
+      "sentence": "老汉因子女之事感到极度悲伤",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎闻听便开言，叫声老汉你莫悲伤，只要你能供我一顿饭，我替你老汉把妖降。",
+      "sentence": "二郎神告诉老汉不要悲伤",
+      "behavior_type": 7
+    },
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎闻听便开言，叫声老汉你莫悲伤，只要你能供我一顿饭，我替你老汉把妖降。",
+      "sentence": "二郎神承诺替老汉降妖",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老汉闻听心欢喜，叫声道童你听衷肠。",
+      "sentence": "老汉听闻后感到非常高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "老汉闻听心欢喜，叫声道童你听衷肠。",
+      "sentence": "老汉向道童表达内心想法",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "老汉",
+      "original_sentence": "别说管你一顿饭，十顿八顿又何妨？",
+      "sentence": "老汉表示愿意提供多顿饭食",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "老汉前头把路带上，后头紧跟的杨二郎。",
+      "sentence": "二郎神紧随老汉身后前行",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "老汉前头把路带上，后头紧跟的杨二郎。",
+      "sentence": "老汉在前方带领二郎神",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "一前一后走得欢，不觉意来到了老汉的庄。",
+      "sentence": "二郎神跟随老汉来到村庄",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "一前一后走得欢，不觉意来到了老汉的庄。",
+      "sentence": "他们一前一后行走在路上",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "请请请，让让让，把杨二郎让在了上客房。",
+      "sentence": "老汉将杨二郎请入上客房",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老汉这里着了忙，叫声厨子你听我言。",
+      "sentence": "老汉急忙呼唤厨子前来听令",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "赶快给我把酒席上，我要连道童饮酒浆。",
+      "sentence": "要求赶快准备酒席并饮酒",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "厨师这里不怠慢，僮子丫环着了忙。",
+      "sentence": "厨师和僮子丫环迅速行动",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "洗葱的，剥蒜的，杀鸡儿的切肉的。",
+      "sentence": "厨师和丫环正在准备酒席",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "烧火的，劈柴的，清油缸里舀油的。",
+      "sentence": "烧火劈柴舀油的人们正在忙碌",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "切菜的，和面的，勺头子抡上炒菜的。",
+      "sentence": "厨师们正在准备各种食材",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "龙须海菜做得香，烹炸煎炒样样全。",
+      "sentence": "龙须海菜经过精心烹饪味道香",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "家僮小子莫贪慢，好酒抱出了几大坛。",
+      "sentence": "家僮小子迅速抱出几坛好酒",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "南路酒，北路酒，西凉平川的小米酒。",
+      "sentence": "南路酒北路酒西凉小米酒",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "竹叶青，状元红，青稞烧哈的二不愣。",
+      "sentence": "竹叶青状元红青稞烧酒",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不多一时做周全，连酒带菜端进房。",
+      "sentence": "将酒菜迅速端进了房间内",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老汉这里把酒斟上，请着道童边吃边喝把谎儿喧。",
+      "sentence": "老汉为道童斟酒并邀请共饮",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎这里作了难，前思后想没主张。",
+      "sentence": "二郎神感到困惑且无法决断",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "有心不吃这顿饭，老汉的心意白费上。",
+      "sentence": "二郎神犹豫不决是否接受这顿饭",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "有心吃了这顿饭，失落了仙体我难以回天堂。",
+      "sentence": "二郎神担心吃饭会失去仙体",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "眉头一皱计上心来，使了个法术一桌酒席吃了个光。",
+      "sentence": "二郎神施展法术吃光酒席",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎这里便开言，叫声老汉你听衷肠，领我快到大庙前，我替你老汉把妖降。",
+      "sentence": "二郎神告诉老汉要带他去大庙",
+      "behavior_type": 7
+    },
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎这里便开言，叫声老汉你听衷肠，领我快到大庙前，我替你老汉把妖降。",
+      "sentence": "二郎神承诺替老汉降服妖怪",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "老汉前头把路带上，后头紧跟的杨二郎。",
+      "sentence": "二郎神跟随老汉前往大庙",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "老汉前头把路带上，后头紧跟的杨二郎。",
+      "sentence": "老汉带领二郎神前往大庙",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "一前一后走得欢，不觉意来到了大庙前。",
+      "sentence": "二郎神跟随老汉来到大庙前",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "一前一后走得欢，不觉意来到了大庙前。",
+      "sentence": "他们一前一后到达大庙前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老汉害怕着没式样，急急忙忙回家园。",
+      "sentence": "老汉感到害怕急忙返回家园",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "剩下了灌口杨二郎，单枪匹马进庙堂。",
+      "sentence": "二郎神独自进入庙堂",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎在庙堂里观着看，老妖的影影子都不见。",
+      "sentence": "二郎神在庙堂内未发现老妖",
+      "behavior_type": 6
+    },
+    {
+      "role": "",
+      "original_sentence": "二郎在庙堂里观着看，老妖的影影子都不见。",
+      "sentence": "庙堂内未见老妖的踪影",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "变一个小孩儿躺在了供桌上，等着老妖把身现。",
+      "sentence": "二郎神变成小孩躺在供桌上",
+      "behavior_type": 4
+    },
+    {
+      "role": "斧王庙老妖",
+      "original_sentence": "变一个小孩儿躺在了供桌上，等着老妖把身现。",
+      "sentence": "斧王庙老妖等待现身时机",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎这里把法术变，冰雹冷弹往下降。",
+      "sentence": "二郎神施展法术降下冰雹冷弹",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "上打一只不成对，下打一只配成双。",
+      "sentence": "二郎神用金弓银弹打凤凰",
+      "behavior_type": 9
+    },
+    {
+      "role": "二郎神",
+      "original_sentence": "上打一只不成对，下打一只配成双。",
+      "sentence": "二郎神打凤凰使其成双对",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "斧王庙老妖",
+      "original_sentence": "打得老妖哭爹又叫娘，一溜火光进庙堂。",
+      "sentence": "老妖被打得痛苦哀嚎",
+      "behavior_type": 2
+    },
+    {
+      "role": "斧王庙老妖",
+      "original_sentence": "打得老妖哭爹又叫娘，一溜火光进庙堂。",
+      "sentence": "老妖迅速逃进庙堂",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "斧王庙老妖",
+      "original_sentence": "老妖来到庙堂前，闻见了碰鼻儿的人肉香。",
+      "sentence": "老妖闻到庙堂前的人肉香味",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "斧王庙老妖",
+      "original_sentence": "细细瞅来细细看，观见一个小孩儿躺在了供桌上。",
+      "sentence": "斧王庙老妖仔细查看供桌上的小孩",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "斧王庙老妖",
+      "original_sentence": "往常我吃人先吃大腿，今天我先把这脑袋尝一尝。",
+      "sentence": "斧王庙老妖决定先品尝小孩脑袋",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "斧王庙老妖",
+      "original_sentence": "老妖我走上近前咬一口，二郎脑袋我长一双。",
+      "sentence": "老妖走近咬了一口二郎的脑袋",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "老妖我走上近前咬一口，二郎脑袋我长一双。",
+      "sentence": "老妖声称自己长了一双脑袋",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "斧王庙老妖",
+      "original_sentence": "老妖我走上近前咬两口，二郎脑袋长两双。",
+      "sentence": "老妖上前咬了两口二郎的脑袋",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "斧王庙老妖",
+      "original_sentence": "老妖我连三带四咬几口，满屋人头闹嚷嚷。",
+      "sentence": "斧王庙老妖连续咬了几口人头",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "斧王庙老妖",
+      "original_sentence": "老妖一见吓破胆，原来是灌口杨二郎。",
+      "sentence": "老妖见到二郎神感到极度恐惧",
+      "behavior_type": 2
+    },
+    {
+      "role": "二郎神",
+      "original_sentence": "老妖一见吓破胆，原来是灌口杨二郎。",
+      "sentence": "二郎神出现在斧王庙老妖面前",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "斧王庙老妖",
+      "original_sentence": "老妖转身就要跑，可把那二郎急坏了。",
+      "sentence": "老妖转身就要逃跑",
+      "behavior_type": 4
+    },
+    {
+      "role": "二郎神",
+      "original_sentence": "老妖转身就要跑，可把那二郎急坏了。",
+      "sentence": "二郎神因此感到着急",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "急忙放出了哮天犬，咬在老妖的背膀上。",
+      "sentence": "二郎神放出哮天犬咬老妖",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "斧王庙老妖",
+      "original_sentence": "咬得老妖疼难忍，哐啷啷开山大斧掉在了地流平。",
+      "sentence": "老妖因疼痛难忍而掉落大斧",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "杨二郎急忙拣起斧，大步流星往前赶。",
+      "sentence": "杨二郎迅速拾起斧头向前追赶",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "走得快，跑得欢，这压母的桃山在面前。",
+      "sentence": "二郎神快速走向前方的桃山",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "杨二郎高高举起了劈山斧，使出了九牛二虎的力。",
+      "sentence": "杨二郎举起劈山斧使出全力",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "咵嚓一声见着中，一座大山两离分。",
+      "sentence": "二郎神将一座大山劈成两半",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "霎时间天也昏来地也暗，红日云遮月无光，弥天大雾把桃山罩了个严。",
+      "sentence": "天空瞬间变得昏暗无光",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "霎时间天也昏来地也暗，红日云遮月无光，弥天大雾把桃山罩了个严。",
+      "sentence": "红日被云层遮蔽无光",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "霎时间天也昏来地也暗，红日云遮月无光，弥天大雾把桃山罩了个严。",
+      "sentence": "弥天大雾笼罩整个桃山",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "幺幺过了多半晌，一条大道在面前。",
+      "sentence": "一条大道出现在面前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎顺着大道往前赶，看见了母亲云华仙。",
+      "sentence": "二郎神沿着大道快速前行",
+      "behavior_type": 4
+    },
+    {
+      "role": "云华仙女",
+      "original_sentence": "二郎顺着大道往前赶，看见了母亲云华仙。",
+      "sentence": "二郎神看见母亲云华仙女",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎站着不敢把话讲，搂起铠甲双膝跪地把母亲喊。",
+      "sentence": "二郎神站立着不敢说话",
+      "behavior_type": 12
+    },
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎站着不敢把话讲，搂起铠甲双膝跪地把母亲喊。",
+      "sentence": "二郎神跪地呼唤母亲",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "说是母亲母亲，你就苏醒苏醒快苏醒，明白明白你就醒来吧。",
+      "sentence": "二郎神呼唤母亲希望她苏醒",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "云华仙女",
+      "original_sentence": "昏沉沉在桃山下把觉眠，耳听旁边有人喊。",
+      "sentence": "云华仙女在桃山下听见有人呼唤",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "云华仙女",
+      "original_sentence": "风声雨声听给了十八年，人的声音没有听过一丁点。",
+      "sentence": "云华仙女十八年未闻人声",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "云华仙女",
+      "original_sentence": "慢慢儿就睁开我的一双描花眼，观见一个小孩儿怎么跪面前。",
+      "sentence": "云华仙女睁开双眼看见二郎神",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "云华仙女",
+      "original_sentence": "开言来不把那个别的我就尊，连连就把这个小冤家我就尊几声。",
+      "sentence": "云华仙女连声呼唤小冤家",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "云华仙女",
+      "original_sentence": "不知你是谁家的个儿来谁家的郎，为什么你口口声声把我叫的娘呀？",
+      "sentence": "云华仙女询问小孩为何称她为娘",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎！",
+      "sentence": "",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎这里便开言，叫声母亲你听周祥。",
+      "sentence": "二郎神开口呼唤母亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "我不是谁家的儿，也不是谁家的郎，我是你的亲生儿子么杨二郎。",
+      "sentence": "二郎神表明自己是亲生儿子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "前些天舅母在斗牛宫里把你的事情对我讲，所以我今个力劈桃山来救你娘。",
+      "sentence": "二郎神力劈桃山救母亲",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "叫母亲叫母亲，十八年天气时光长，你在桃山底下吃什么饭来喝什么汤？",
+      "sentence": "二郎神询问母亲在桃山的饮食情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "观什么景来睡什么床？",
+      "sentence": "二郎神询问母亲观景和睡眠情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "实话对你的儿郎讲。",
+      "sentence": "二郎神向母亲讲述真实情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "云华仙女",
+      "original_sentence": "叫娃娃你是听，妈妈我饿了吃的是松柏籽，渴了喝的是露水汤。",
+      "sentence": "云华仙女饿了吃松柏籽渴了喝露水汤",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "云华仙女",
+      "original_sentence": "白天为娘的观的是这棵芭蕉树，到夜晚睡的是冰雪床。",
+      "sentence": "云华仙女白天观看芭蕉树夜晚睡冰床",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "云华仙女",
+      "original_sentence": "爬冰卧雪十八年，母亲的溜辛我说不完。",
+      "sentence": "云华仙女十八年受尽苦难",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "爬冰卧雪十八年，母亲的溜辛我说不完。",
+      "sentence": "母亲遭受了无尽的辛酸",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "云华仙女",
+      "original_sentence": "娃娃你若有有怜母的意，赶快把你的母亲背上上这个确州城，确州城里寻你的老父亲。",
+      "sentence": "云华仙女要求儿子寻找父亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "杨二郎这里不怠慢，弯下身子走上前。",
+      "sentence": "杨二郎迅速弯下身子走上前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "背起母亲云华仙，一溜火光就往着确州赶。",
+      "sentence": "二郎神背着母亲迅速赶往确州城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "确州城把父亲来找见，一家三口得团圆。",
+      "sentence": "一家三口最终得以团圆",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不得相逢唱相逢，不得相见唱相见，不得团圆念团圆。",
+      "sentence": "无法相逢时便歌唱相逢",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "不得相逢唱相逢，不得相见唱相见，不得团圆念团圆。",
+      "sentence": "无法相见时便歌唱相见",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "不得相逢唱相逢，不得相见唱相见，不得团圆念团圆。",
+      "sentence": "无法团圆时便思念团圆",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "曲曲流流到跟前，我把话儿说清干。",
+      "sentence": "曲曲流流到跟前把话儿说清干",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨天佑",
+      "original_sentence": "本是人间好姻缘，无奈冷酷的天条一棒打散了一对好鸳鸯。",
+      "sentence": "天条拆散了杨天佑与云华仙女",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "幸亏二郎本领强，斧劈桃山救回了娘。",
+      "sentence": "二郎神劈开桃山救出母亲",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "云华仙女",
+      "original_sentence": "夫妻离别十八年，如今破镜又重圆。",
+      "sentence": "云华仙女与杨天佑破镜重圆",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "云华仙女",
+      "original_sentence": "夫妻抱头哭一场，没想到今日又相见。",
+      "sentence": "云华仙女与丈夫相拥而泣",
+      "behavior_type": 2
+    },
+    {
+      "role": "云华仙女",
+      "original_sentence": "夫妻抱头哭一场，没想到今日又相见。",
+      "sentence": "云华仙女未料今日能重逢",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "杨天佑",
+      "original_sentence": "不慕神来不慕仙，就想把人间的夫妻当。",
+      "sentence": "杨天佑不慕神仙只愿为人间夫妻",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "杨天佑",
+      "original_sentence": "二郎的父母重团圆，夫妻恩爱乐无边。",
+      "sentence": "杨天佑与云华仙女团圆后恩爱",
+      "behavior_type": 2
+    },
+    {
+      "role": "云华仙女",
+      "original_sentence": "二郎的父母重团圆，夫妻恩爱乐无边。",
+      "sentence": "云华仙女与杨天佑团圆后恩爱",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二郎回到了灌口上，原哩把他的神仙当。",
+      "sentence": "二郎神回到了灌口继续当神仙",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "哎，要问此曲的亘古传，杨二郎劈山救母的事一桩。",
+      "sentence": "杨二郎劈山救母的故事流传千古",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "二郎神",
+      "original_sentence": "二十四孝的哪一孝？",
+      "sentence": "二郎神询问二十四孝中的具体内容",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二十四孝的十一孝。",
+      "sentence": "二十四孝中的第十一孝",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一节一节交代完，给你们大家就把心散。",
+      "sentence": "讲述者将故事完整地交代完毕",
+      "behavior_type": 7
+    }
+  ]
+]

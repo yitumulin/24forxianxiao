@@ -1,0 +1,106 @@
+[
+  {
+    "roleName": "杨百顺",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "7": 6,
+      "2": 2,
+      "1": 2,
+      "5": 2,
+      "10": 3,
+      "8": 2
+    },
+    "total_sentences": 17,
+    "entropy": 2.424835634986198
+  },
+  {
+    "roleName": "杨生元",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "7": 16,
+      "5": 6,
+      "3": 11,
+      "12": 2,
+      "4": 11,
+      "1": 1,
+      "2": 3,
+      "14": 4,
+      "8": 2,
+      "10": 2,
+      "9": 1
+    },
+    "total_sentences": 59,
+    "entropy": 2.9271827423023336
+  },
+  {
+    "roleName": "左金莲",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "7": 13,
+      "1": 9,
+      "10": 1,
+      "2": 13,
+      "5": 2,
+      "6": 1,
+      "4": 15,
+      "13": 3,
+      "8": 4,
+      "3": 3
+    },
+    "total_sentences": 64,
+    "entropy": 2.8304079433890017
+  },
+  {
+    "roleName": "玉皇爷",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "7": 7
+    },
+    "total_sentences": 7,
+    "entropy": 0.0
+  },
+  {
+    "roleName": "张三爷",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "12": 1,
+      "7": 15,
+      "4": 9,
+      "13": 3,
+      "11": 1,
+      "3": 1,
+      "5": 1,
+      "6": 1
+    },
+    "total_sentences": 32,
+    "entropy": 2.128513392210248
+  },
+  {
+    "roleName": "周武举",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "7": 5,
+      "8": 2,
+      "2": 4,
+      "3": 2,
+      "9": 3,
+      "12": 1,
+      "4": 2
+    },
+    "total_sentences": 19,
+    "entropy": 2.649794462043571
+  },
+  {
+    "roleName": "白志春",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "7": 6,
+      "10": 2,
+      "4": 2,
+      "5": 2,
+      "13": 2
+    },
+    "total_sentences": 14,
+    "entropy": 2.1280852788913944
+  }
+]

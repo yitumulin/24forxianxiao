@@ -1,0 +1,3164 @@
+[
+  [
+    {
+      "role": "",
+      "original_sentence": "第三节凉州贤孝《灯盏记》唱词原曲弹唱：贾福德唱词整理：贾旭峰赵大泰【贤孝甜音】唐王打坐西京城，唐朝时节表古人。",
+      "sentence": "唐王在西京城中打坐",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "第三节凉州贤孝《灯盏记》唱词原曲弹唱：贾福德唱词整理：贾旭峰赵大泰【贤孝甜音】唐王打坐西京城，唐朝时节表古人。",
+      "sentence": "唐朝时节讲述古人故事",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张百万",
+      "original_sentence": "古人表在山东省五常县，五常县东门有个张家湾，住着个财主是张百万，张百万是家大业大的有钱汉。",
+      "sentence": "张百万是家大业大的有钱汉",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "张百万",
+      "original_sentence": "说个有真个有，庄子又深门又深，一道庄子十二道门，道道门上包黄金，挣下的前院子后院子，中间夹的中庄子，院里院外是砖包的。",
+      "sentence": "张百万拥有多处豪华宅院",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "张百万",
+      "original_sentence": "东库金，西库银，南库的粮石过两囷。",
+      "sentence": "张百万拥有大量金银和粮食",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "烧火的丫鬟头带金花，放羊的骑的骏走马。",
+      "sentence": "烧火丫鬟头上戴着金花",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "烧火的丫鬟头带金花，放羊的骑的骏走马。",
+      "sentence": "放羊人骑着骏马行走",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "蒋氏夫人",
+      "original_sentence": "娶妻娶的蒋家女，蒋氏夫人是贤人。",
+      "sentence": "蒋氏夫人是一位贤良淑德的女性",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "蒋氏夫人",
+      "original_sentence": "夫妻过门半辈整，蒋氏身怀有了孕，怀胎怀了十个月整。",
+      "sentence": "蒋氏夫人怀孕已有十个月整",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "蒋氏夫人",
+      "original_sentence": "十个月满孩童生，孩儿生到床沿中，落就了上方的东斗星。",
+      "sentence": "蒋氏夫人生下了一个孩子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "蒋氏夫人",
+      "original_sentence": "夫妻抓养小孩童，娃娃抓养两岁整，蒋氏夫人身染病，针灸吃药药不应，燎里插里病渐重。",
+      "sentence": "蒋氏夫人身染重病无法治愈",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "蒋氏夫人",
+      "original_sentence": "白天轻晚上重，夜夜晚夕更加重。",
+      "sentence": "蒋氏夫人病情逐渐加重",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "张百万",
+      "original_sentence": "丈夫百万着了紧，走上前把妻子叫一声：贤妻，你身染重病不起身，夜夜晚夕更加重，你有什么话来给我说分明。",
+      "sentence": "张百万询问妻子有何遗言",
+      "behavior_type": 7
+    },
+    {
+      "role": "蒋氏夫人",
+      "original_sentence": "丈夫百万着了紧，走上前把妻子叫一声：贤妻，你身染重病不起身，夜夜晚夕更加重，你有什么话来给我说分明。",
+      "sentence": "蒋氏夫人病情日益加重",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "蒋氏夫人",
+      "original_sentence": "【贤孝悲音】夫人闻听这一声，再把夫君口中尊。",
+      "sentence": "蒋氏夫人恭敬地回应丈夫的话语",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "蒋氏夫人",
+      "original_sentence": "我的大病沉重不离身，我看我的病好万不能。",
+      "sentence": "蒋氏夫人身患重病难以痊愈",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "蒋氏夫人",
+      "original_sentence": "夫君，当若你的妻子归了阴，你好好抓养两岁的好孩童。",
+      "sentence": "蒋氏夫人嘱咐丈夫抚养孩子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "蒋氏夫人",
+      "original_sentence": "我有句话儿你夫君记在心，我死后你要办夫人，你打问着娶个贤德人，若是娶个糊涂虫，叫我们的娃娃受罪行。",
+      "sentence": "蒋氏夫人嘱咐丈夫再娶贤德人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "蒋氏夫人",
+      "original_sentence": "夫人随说好话随变脸，一口气上不来见阎王。",
+      "sentence": "蒋氏夫人说完话后突然去世",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这里的丈夫着了忙，怀抱儿郎把悲声放。",
+      "sentence": "丈夫怀抱儿郎放声痛哭",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "蒋氏夫人",
+      "original_sentence": "叫娃娃，你的母亲命归天，丢下你两岁的孩儿真孽障。",
+      "sentence": "蒋氏夫人因病去世留下两岁孩童",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "张百万",
+      "original_sentence": "【转贤孝甜音】员外哭得如酒醉，忙了左邻又右舍，邻里邻居走上前，再把员外叫一言。",
+      "sentence": "张百万因悲伤而痛哭流涕",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "【转贤孝甜音】员外哭得如酒醉，忙了左邻又右舍，邻里邻居走上前，再把员外叫一言。",
+      "sentence": "左邻右舍纷纷前来帮忙",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "【转贤孝甜音】员外哭得如酒醉，忙了左邻又右舍，邻里邻居走上前，再把员外叫一言。",
+      "sentence": "邻居们上前安慰张百万",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "员外你不要哭来不要喊，把夫人阴魂入土落安然。",
+      "sentence": "员外停止哭泣并将夫人安葬",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "员外闻听这一言，请了僧请了道，僧道两堂真热闹，念了三天的水陆经，打了七天的罗汉醮，才把蒋氏夫人尊魂掉。",
+      "sentence": "员外听闻后请僧道举行法事",
+      "behavior_type": 7
+    },
+    {
+      "role": "蒋氏夫人",
+      "original_sentence": "员外闻听这一言，请了僧请了道，僧道两堂真热闹，念了三天的水陆经，打了七天的罗汉醮，才把蒋氏夫人尊魂掉。",
+      "sentence": "蒋氏夫人被超度尊魂归天",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "蒋氏夫人",
+      "original_sentence": "夫人尊魂到家族坟，两岁的孩儿日夜不停地放悲声。",
+      "sentence": "蒋氏夫人的灵魂回归家族坟墓",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "夫人尊魂到家族坟，两岁的孩儿日夜不停地放悲声。",
+      "sentence": "两岁孩儿日夜不停地放声哭泣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "张百万",
+      "original_sentence": "百万这里暗思忖，我要打问的娶个贤妻抓孩童。",
+      "sentence": "张百万暗自思考要娶贤妻照顾孩子",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张百万",
+      "original_sentence": "这里问婚婚不成，那里问婚不成婚，他看着夫人丫鬟美貌有几成，连丫鬟凑头拜堂成了婚，如今的丫鬟升成姨娘们。",
+      "sentence": "张百万询问婚事却未能成功",
+      "behavior_type": 7
+    },
+    {
+      "role": "张百万",
+      "original_sentence": "这里问婚婚不成，那里问婚不成婚，他看着夫人丫鬟美貌有几成，连丫鬟凑头拜堂成了婚，如今的丫鬟升成姨娘们。",
+      "sentence": "张百万再次询问婚事仍失败",
+      "behavior_type": 7
+    },
+    {
+      "role": "张百万",
+      "original_sentence": "这里问婚婚不成，那里问婚不成婚，他看着夫人丫鬟美貌有几成，连丫鬟凑头拜堂成了婚，如今的丫鬟升成姨娘们。",
+      "sentence": "张百万观察夫人丫鬟美貌",
+      "behavior_type": 1
+    },
+    {
+      "role": "张百万",
+      "original_sentence": "这里问婚婚不成，那里问婚不成婚，他看着夫人丫鬟美貌有几成，连丫鬟凑头拜堂成了婚，如今的丫鬟升成姨娘们。",
+      "sentence": "张百万与丫鬟拜堂成婚",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "这里问婚婚不成，那里问婚不成婚，他看着夫人丫鬟美貌有几成，连丫鬟凑头拜堂成了婚，如今的丫鬟升成姨娘们。",
+      "sentence": "丫鬟如今已升为姨娘",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "起初姨娘不变心，用心抓养小孩童。",
+      "sentence": "姨娘起初用心照顾小孩童",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "成婚不上一年整，姨娘身怀有了孕，怀胎怀了十个月整，十月圆满孩童生。",
+      "sentence": "姨娘怀孕已满十个月整",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "成婚不上一年整，姨娘身怀有了孕，怀胎怀了十个月整，十月圆满孩童生。",
+      "sentence": "十月期满姨娘生下孩童",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "蒋氏夫人",
+      "original_sentence": "贵人等的贵年成，等到午年午月午日整，夫人肚子疼的很，一疼疼到午时整，正在午时生孩童.娃娃掉落床沿中，落就上方的武曲星。",
+      "sentence": "蒋氏夫人在午时顺利生下孩童",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "贵人等的贵年成，等到午年午月午日整，夫人肚子疼的很，一疼疼到午时整，正在午时生孩童.娃娃掉落床沿中，落就上方的武曲星。",
+      "sentence": "孩童出生时武曲星显现",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一家在楼下两位星，长子本是东斗星，次子本是武曲星。",
+      "sentence": "一家在楼下有两位星宿",
+      "behavior_type": 3
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "一家在楼下两位星，长子本是东斗星，次子本是武曲星。",
+      "sentence": "长子张世云是东斗星",
+      "behavior_type": 3
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "一家在楼下两位星，长子本是东斗星，次子本是武曲星。",
+      "sentence": "次子张世登是武曲星",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夫妻二人抓养小孩童，把长子抓养九岁整，次子抓养七岁整。",
+      "sentence": "夫妻二人共同抚养两个儿子",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夫妻二人商量定，把娃娃送男学读五经。",
+      "sentence": "夫妻决定送孩子去读书",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张百万",
+      "original_sentence": "百万把娃娃送到男学中，如今给娃娃起冠名，起名按的排行起，一辈一辈赶着起。",
+      "sentence": "张百万将孩子送到学校读书",
+      "behavior_type": 7
+    },
+    {
+      "role": "张百万",
+      "original_sentence": "百万把娃娃送到男学中，如今给娃娃起冠名，起名按的排行起，一辈一辈赶着起。",
+      "sentence": "张百万按照排行给孩子起名",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "张百万",
+      "original_sentence": "老子起名张百万，长子起名张世云，次子起名张世登，起罢名讳念五经、夫子面前下苦心。",
+      "sentence": "张百万为长子起名张世云",
+      "behavior_type": 7
+    },
+    {
+      "role": "张百万",
+      "original_sentence": "老子起名张百万，长子起名张世云，次子起名张世登，起罢名讳念五经、夫子面前下苦心。",
+      "sentence": "张百万为次子起名张世登",
+      "behavior_type": 7
+    },
+    {
+      "role": "张百万",
+      "original_sentence": "老子起名张百万，长子起名张世云，次子起名张世登，起罢名讳念五经、夫子面前下苦心。",
+      "sentence": "张百万决定让娃娃念五经",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "张世云本是东斗星，傢读经念书歪得很，一日念会《三字经》，三日读会《千字文》，《中庸》《大学》读得精，上下的《孟子》讲的清。",
+      "sentence": "张世云读书能力非常出色",
+      "behavior_type": 5
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "张世云本是东斗星，傢读经念书歪得很，一日念会《三字经》，三日读会《千字文》，《中庸》《大学》读得精，上下的《孟子》讲的清。",
+      "sentence": "张世云精通中庸大学孟子",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "男学的三百六十众学生，张世云算是头一名。",
+      "sentence": "张世云在男学中名列前茅",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "张世登读书不用心，不读书不念文，使枪弄棒耍武功。",
+      "sentence": "张世登不专心读书而练习武功",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张百万",
+      "original_sentence": "张世云读到十八岁整，百万员外暗思忖，世云孩儿十八岁整，要给我娃娃定婚姻，请的媒公去问婚。",
+      "sentence": "张百万暗中思考儿子的婚事",
+      "behavior_type": 5
+    },
+    {
+      "role": "张百万",
+      "original_sentence": "张世云读到十八岁整，百万员外暗思忖，世云孩儿十八岁整，要给我娃娃定婚姻，请的媒公去问婚。",
+      "sentence": "张百万请媒公去询问婚姻",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "这里问婚婚不成，那里问婚婚不应，问婚问到北门中，蒋员外的姑娘叫蒋玉珍，和蒋玉珍小姐定了婚，这是舅舅的姑娘许外甥，姑表姊妹配成婚。",
+      "sentence": "张世云与蒋玉珍定下婚约",
+      "behavior_type": 7
+    },
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "这里问婚婚不成，那里问婚婚不应，问婚问到北门中，蒋员外的姑娘叫蒋玉珍，和蒋玉珍小姐定了婚，这是舅舅的姑娘许外甥，姑表姊妹配成婚。",
+      "sentence": "蒋玉珍与张世云定下婚约",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张百万",
+      "original_sentence": "三月春风婚问定，四月立夏送过婚，到了秋后来抬亲。",
+      "sentence": "张百万为张世云定下婚姻",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "三月春风婚问定，四月立夏送过婚，到了秋后来抬亲。",
+      "sentence": "三月春风中确定了婚事",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "三月春风婚问定，四月立夏送过婚，到了秋后来抬亲。",
+      "sentence": "四月立夏时送过了婚约",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "三月春风婚问定，四月立夏送过婚，到了秋后来抬亲。",
+      "sentence": "秋后准备抬亲迎娶新娘",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "黄道吉日择现成，八月二十四来抬亲。",
+      "sentence": "八月二十四日举行婚礼",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "蒋小姐抬到了张家门，和世云拜堂成了婚。",
+      "sentence": "蒋玉珍被抬至张家与世云成婚",
+      "behavior_type": 4
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "蒋小姐抬到了张家门，和世云拜堂成了婚。",
+      "sentence": "张世云与蒋玉珍完成拜堂仪式",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "这玉珍小姐是贤德人，公婆面前很孝顺。",
+      "sentence": "蒋玉珍对公婆非常孝顺",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "少夫妻二人过了门，玉珍身怀有了孕，怀胎十月娃娃生，落就上方的文曲星。",
+      "sentence": "蒋玉珍怀孕后生下文曲星",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "张家出了三员星，五常县遭哈的大年成。",
+      "sentence": "张家出现了三位杰出人物",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "张家出了三员星，五常县遭哈的大年成。",
+      "sentence": "五常县遭遇了严重灾年",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "头一年庄稼没收成，蝗虫嚓断田苗根。",
+      "sentence": "头一年庄稼没有收成",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "头一年庄稼没收成，蝗虫嚓断田苗根。",
+      "sentence": "蝗虫啃断了田苗根",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "第二年庄稼没收成，冰雹冷弹打得净。",
+      "sentence": "第二年庄稼再次没有收成",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "第二年庄稼没收成，冰雹冷弹打得净。",
+      "sentence": "冰雹冷弹将庄稼打得干净",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "第三年天爷不落雨，黄土晒了有三尺。",
+      "sentence": "第三年天气持续干旱无雨",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "第三年天爷不落雨，黄土晒了有三尺。",
+      "sentence": "黄土因暴晒而干裂三尺",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三年的庄稼没收成，五常落下大年成。",
+      "sentence": "五常县连续三年庄稼无收成",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "饿得人吃人狗吃狗，鹰雀乌鸦嗑石头。",
+      "sentence": "灾民被迫以人肉和狗肉充饥",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "张世登男学不念书，三友四弟武艺练。",
+      "sentence": "张世登放弃学业专心练习武艺",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "练武练到了半中央，有的练得地下躺，有的直不起腰一点。",
+      "sentence": "张世登与同伴们一起练习武艺",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "练武练到了半中央，有的练得地下躺，有的直不起腰一点。",
+      "sentence": "部分人因疲惫而躺在地上",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "练武练到了半中央，有的练得地下躺，有的直不起腰一点。",
+      "sentence": "部分人因疲惫而直不起腰",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "世登这里开言讲：我们在这里武功练，你们躺着为何方？",
+      "sentence": "张世登询问众人为何躺在地上",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "【转贤孝悲音】众弟兄这里开言讲：再把二少爷尊一言，我们两天了没有吃饭一点点啊，饿得我们肚子又饿腿子里酸啊，浑身无力一点点，哪里的心情把武功练？",
+      "sentence": "众弟兄向二少爷诉说饥饿情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "【转贤孝甜音】世登闻听这一言，由不得心中做了难。",
+      "sentence": "张世登听闻后感到十分为难",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "世登这里着了忙，慌慌忙忙回家园。",
+      "sentence": "张世登匆忙返回家中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "世登这里暗思想，哥哥男学五经念，我和嫂子去了来商量。",
+      "sentence": "张世登思考与嫂子商量事宜",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "世登来到自家中，一直来到嫂嫂房，嫂嫂！",
+      "sentence": "张世登匆忙回到自己家中",
+      "behavior_type": 4
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "世登来到自家中，一直来到嫂嫂房，嫂嫂！",
+      "sentence": "张世登径直走向嫂嫂房间",
+      "behavior_type": 4
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "世登来到自家中，一直来到嫂嫂房，嫂嫂！",
+      "sentence": "张世登呼唤嫂嫂寻求商量",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们五常县遭下了三年的大年荒，饿得黎民百姓遍街躺，我们是家大富豪的有钱汉，我和你去到我爹爹的面，给我的爹爹说清干。",
+      "sentence": "五常县遭遇了三年的大年荒",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "我们五常县遭下了三年的大年荒，饿得黎民百姓遍街躺，我们是家大富豪的有钱汉，我和你去到我爹爹的面，给我的爹爹说清干。",
+      "sentence": "黎民百姓因饥饿而遍街躺",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "我们五常县遭下了三年的大年荒，饿得黎民百姓遍街躺，我们是家大富豪的有钱汉，我和你去到我爹爹的面，给我的爹爹说清干。",
+      "sentence": "家中有富豪的有钱汉",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "我们五常县遭下了三年的大年荒，饿得黎民百姓遍街躺，我们是家大富豪的有钱汉，我和你去到我爹爹的面，给我的爹爹说清干。",
+      "sentence": "他们前往父亲的面",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "我们五常县遭下了三年的大年荒，饿得黎民百姓遍街躺，我们是家大富豪的有钱汉，我和你去到我爹爹的面，给我的爹爹说清干。",
+      "sentence": "向父亲说明情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老爹爹！",
+      "sentence": "老爹爹未在可选角色列表中",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们此地遭了大年荒，饿得黎民百姓把阎王爷见。",
+      "sentence": "此地遭遇了严重的年荒",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "我们此地遭了大年荒，饿得黎民百姓把阎王爷见。",
+      "sentence": "黎民百姓因饥饿而死亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "我思想我们豁出南库的两石施舍饭，把银钱拿出来给穷人放。",
+      "sentence": "张世登思考如何施舍粮食和银钱",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "员外闻听这一言，再把你勺娃子哏一言。",
+      "sentence": "员外听闻后对勺娃子说了一句话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张百万",
+      "original_sentence": "我挣下银钱你使唤，散给黎民为何方？",
+      "sentence": "张百万询问为何将银钱散给黎民",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "玉珍闻听这一言，双膝跪地把公爹喊，兄弟说的是实言，老百姓饿死了一大层，我们舍弃银钱去救人。",
+      "sentence": "蒋玉珍跪地向公爹陈述实情",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "玉珍闻听这一言，双膝跪地把公爹喊，兄弟说的是实言，老百姓饿死了一大层，我们舍弃银钱去救人。",
+      "sentence": "老百姓因饥饿而大量死亡",
+      "behavior_type": 3
+    },
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "玉珍闻听这一言，双膝跪地把公爹喊，兄弟说的是实言，老百姓饿死了一大层，我们舍弃银钱去救人。",
+      "sentence": "蒋玉珍决定舍弃银钱救人",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "嫂子叔叔给公爹劝了多一会，劝得公爹回了心，拿出来两石施舍饭，拿出来银钱给穷人散。",
+      "sentence": "蒋玉珍劝说公爹改变心意",
+      "behavior_type": 7
+    },
+    {
+      "role": "张百万",
+      "original_sentence": "嫂子叔叔给公爹劝了多一会，劝得公爹回了心，拿出来两石施舍饭，拿出来银钱给穷人散。",
+      "sentence": "张百万拿出两石施舍饭",
+      "behavior_type": 8
+    },
+    {
+      "role": "张百万",
+      "original_sentence": "嫂子叔叔给公爹劝了多一会，劝得公爹回了心，拿出来两石施舍饭，拿出来银钱给穷人散。",
+      "sentence": "张百万散银钱救济穷人",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "五常县的百姓太可恨，又吃舍饭又拿钱，联络万民进去抢，把张百万的家财金银粮食抢得光。",
+      "sentence": "五常县百姓抢夺张百万家财",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "张百万",
+      "original_sentence": "张百万如今也无吃穿。",
+      "sentence": "张百万如今没有吃穿",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "张百万",
+      "original_sentence": "如今的老爷是忧忧愁愁身染重病倒在了床。",
+      "sentence": "张百万因忧愁而身染重病",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "张百万",
+      "original_sentence": "员外的病实在重，没有过上两日整，员外哀哉命归阴。",
+      "sentence": "张百万因病重不治身亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "(张世云、张世登兄弟安葬父亲）张世云在男学里听得真，听见父亲归了阴，请假慌忙回家中。",
+      "sentence": "张世云在男学里听闻父亲去世",
+      "behavior_type": 5
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "(张世云、张世登兄弟安葬父亲）张世云在男学里听得真，听见父亲归了阴，请假慌忙回家中。",
+      "sentence": "张世云请假匆忙赶回家中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "世云来到自家中，世登这里着了紧，把哥哥让进来，兄弟二人来到爹爹跟。",
+      "sentence": "张世云匆忙回到自己家中",
+      "behavior_type": 4
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "世云来到自家中，世登这里着了紧，把哥哥让进来，兄弟二人来到爹爹跟。",
+      "sentence": "张世登感到非常紧张",
+      "behavior_type": 2
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "世云来到自家中，世登这里着了紧，把哥哥让进来，兄弟二人来到爹爹跟。",
+      "sentence": "张世登将哥哥让进屋内",
+      "behavior_type": 7
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "世云来到自家中，世登这里着了紧，把哥哥让进来，兄弟二人来到爹爹跟。",
+      "sentence": "张世云兄弟二人来到父亲面前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "【转贤孝悲音】双膝跪倒地流平，双眼落泪哭父亲。",
+      "sentence": "张世云跪地痛哭思念父亲",
+      "behavior_type": 2
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "【转贤孝悲音】双膝跪倒地流平，双眼落泪哭父亲。",
+      "sentence": "张世登跪地痛哭思念父亲",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "如今爹爹归了阴，丢下你的两个娃娃们。",
+      "sentence": "父亲去世留下两个年幼的孩子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们年纪轻骨又嫩，谁能喊教我们能成人，当初我们是有钱人，兄弟说的两担金银救穷人，实际是个正事情，如今却成了穷汉人。",
+      "sentence": "兄弟二人如今变成了穷苦人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "弟兄二人哭的正伤心，上来了贤德的蒋玉珍，把夫君叔叔口中尊，我的公爹已经归了阴，让父亲入土为安是正事情。",
+      "sentence": "蒋玉珍劝慰夫君和叔叔节哀",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "弟兄二人哭的正伤心，上来了贤德的蒋玉珍，把夫君叔叔口中尊，我的公爹已经归了阴，让父亲入土为安是正事情。",
+      "sentence": "公爹已经去世需要入土为安",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "张家当初是有钱人，如今成了穷汉人，把父亲将就尊到家祖坟。",
+      "sentence": "张家从富有变为贫穷",
+      "behavior_type": 3
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "张家当初是有钱人，如今成了穷汉人，把父亲将就尊到家祖坟。",
+      "sentence": "张世云将父亲安葬于祖坟",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "世云低头暗思忖，如今成了穷汉人，男学的五经念不成，家中我们兄弟二人务庄农。",
+      "sentence": "张世云低头思考家庭现状",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "世云低头暗思忖，如今成了穷汉人，男学的五经念不成，家中我们兄弟二人务庄农。",
+      "sentence": "家庭经济状况由富转贫",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "世云低头暗思忖，如今成了穷汉人，男学的五经念不成，家中我们兄弟二人务庄农。",
+      "sentence": "兄弟二人从事农业劳动",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "世登闻听这一声，再把我哥哥口中尊，哥哥啊，你在男学好好读《五经》，兄弟一个人务庄农。",
+      "sentence": "张世登劝哥哥专心学习五经",
+      "behavior_type": 7
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "世登闻听这一声，再把我哥哥口中尊，哥哥啊，你在男学好好读《五经》，兄弟一个人务庄农。",
+      "sentence": "张世登决定独自务农",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "你把五经来读通，皇王爷开了科场门，你上京科考中功名。",
+      "sentence": "蒋玉珍劝张世云专心读书考功名",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "但若功名能中成，改换先人的旧门庭。",
+      "sentence": "张世登希望功名能改换门庭",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "世云闻听这一声，再把我贤德的兄弟口中尊。",
+      "sentence": "张世云听闻后称赞其贤德兄弟",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "一个人务庄农农活重，我们兄弟两人把庄稼种。",
+      "sentence": "张世登独自承担繁重农活",
+      "behavior_type": 10
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "一个人务庄农农活重，我们兄弟两人把庄稼种。",
+      "sentence": "张世云与兄弟共同耕种",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "兄弟二人务庄农，互爱互助情意重。",
+      "sentence": "张世云与兄弟共同务农",
+      "behavior_type": 10
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "兄弟二人务庄农，互爱互助情意重。",
+      "sentence": "张世登与兄弟共同务农",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "兄弟二人务庄农，互爱互助情意重。",
+      "sentence": "兄弟二人互爱互助情意重",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "蒋玉珍媳妇是个贤德人，婆婆面前太孝顺，早问安晚问安一日三回安，丈夫叔叔面前多贤顺，造茶造饭把叔叔问，叔叔想喝什么汤想吃什么饭，嫂嫂给你做茶饭。",
+      "sentence": "蒋玉珍每日向婆婆请安三次",
+      "behavior_type": 10
+    },
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "蒋玉珍媳妇是个贤德人，婆婆面前太孝顺，早问安晚问安一日三回安，丈夫叔叔面前多贤顺，造茶造饭把叔叔问，叔叔想喝什么汤想吃什么饭，嫂嫂给你做茶饭。",
+      "sentence": "蒋玉珍为叔叔准备茶饭",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "弟兄二人务庄农，庄稼种了三年整，年年庄稼有收成，三年光阴胜过人。",
+      "sentence": "弟兄二人共同耕种农田三年",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "一日的蒋玉珍来到婆婆跟，口称母亲你细听，叫母亲，我娘家母亲有了病，喊我姑娘探一会。",
+      "sentence": "蒋玉珍向婆婆告知娘家母亲生病",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "蒋氏夫人",
+      "original_sentence": "婆婆闻听这一声，既然你母亲有了病，你就回家去探问。",
+      "sentence": "蒋氏夫人同意蒋玉珍回家探病",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "玉珍来到丈夫叔叔跟，叫声夫君叔叔你细听，我娘家母亲身染病，我母亲面前请了令，前去看我的老母亲，家中的事情你们兄弟二人来担承。",
+      "sentence": "蒋玉珍向丈夫叔叔说明母亲病情",
+      "behavior_type": 7
+    },
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "玉珍来到丈夫叔叔跟，叫声夫君叔叔你细听，我娘家母亲身染病，我母亲面前请了令，前去看我的老母亲，家中的事情你们兄弟二人来担承。",
+      "sentence": "蒋玉珍请求兄弟二人承担家务",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "世登闻听着了紧，叫嫂嫂，你要走你娘家的门，我槽沿上给你备给马吊尊，我把你送到你娘家的门。",
+      "sentence": "张世登为嫂嫂备马准备送行",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "世登这里着了紧，槽沿上备了匹马吊遵。",
+      "sentence": "张世登迅速准备了一匹马",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "世登拉马出了门，大叫嫂嫂快起身。",
+      "sentence": "张世登牵着马走出大门",
+      "behavior_type": 4
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "世登拉马出了门，大叫嫂嫂快起身。",
+      "sentence": "张世登呼唤嫂嫂立即出发",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "玉珍抱来三岁的小孩童，出门骑到马的身，扬鞭打马往前行，世登跟着把嫂嫂送。",
+      "sentence": "蒋玉珍抱着孩子骑马前行",
+      "behavior_type": 4
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "玉珍抱来三岁的小孩童，出门骑到马的身，扬鞭打马往前行，世登跟着把嫂嫂送。",
+      "sentence": "张世登跟随护送嫂嫂离开",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "嫂嫂送到了娘家门，进门舅母面前把礼行，行罢礼问罢安，辞别舅母你好好把病缓，外甥我要回家乡。",
+      "sentence": "张世登将嫂嫂送至娘家门",
+      "behavior_type": 7
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "嫂嫂送到了娘家门，进门舅母面前把礼行，行罢礼问罢安，辞别舅母你好好把病缓，外甥我要回家乡。",
+      "sentence": "张世登在舅母面前行礼问安",
+      "behavior_type": 7
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "嫂嫂送到了娘家门，进门舅母面前把礼行，行罢礼问罢安，辞别舅母你好好把病缓，外甥我要回家乡。",
+      "sentence": "张世登辞别舅母返回家乡",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "世登这里出了门，骑上马儿回家中。",
+      "sentence": "张世登出门骑马返回家中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "一时来到自家中，把马栓到槽头中。",
+      "sentence": "张世登将马拴在槽头",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "世登来到母亲跟，先问母亲你多安宁，我今日把嫂嫂送到娘家门，她娘家门上看母亲。",
+      "sentence": "张世登向母亲报告送嫂嫂回家",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "【道白】吆，娃娃！",
+      "sentence": "娃娃被呼唤",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "你把你的嫂嫂送到娘家门啊，她娘的病是轻么重？",
+      "sentence": "张世登询问舅母病情如何",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "世登闻听这一声，母亲，我看舅母的病也不重，过上几日就病离身。",
+      "sentence": "张世登告诉母亲舅母病不重",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆闻听说道：吆吆吆，娃娃，那个就不是你的舅母，那是张世云的舅母。",
+      "sentence": "妖婆子告诉娃娃那不是他的舅母",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "你的外爷爷没有儿孙，只生你母亲有一人，你的外爷爷归阴外奶奶身有病，把你为娘的卖到张家，我张家门上被养大，养大给世云母亲做贴身的丫鬟。",
+      "sentence": "妖婆子讲述外爷爷没有儿孙",
+      "behavior_type": 7
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "你的外爷爷没有儿孙，只生你母亲有一人，你的外爷爷归阴外奶奶身有病，把你为娘的卖到张家，我张家门上被养大，养大给世云母亲做贴身的丫鬟。",
+      "sentence": "妖婆子说明外爷爷已经去世",
+      "behavior_type": 3
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "你的外爷爷没有儿孙，只生你母亲有一人，你的外爷爷归阴外奶奶身有病，把你为娘的卖到张家，我张家门上被养大，养大给世云母亲做贴身的丫鬟。",
+      "sentence": "妖婆子讲述外奶奶身患疾病",
+      "behavior_type": 3
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "你的外爷爷没有儿孙，只生你母亲有一人，你的外爷爷归阴外奶奶身有病，把你为娘的卖到张家，我张家门上被养大，养大给世云母亲做贴身的丫鬟。",
+      "sentence": "妖婆子说明母亲被卖到张家",
+      "behavior_type": 3
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "你的外爷爷没有儿孙，只生你母亲有一人，你的外爷爷归阴外奶奶身有病，把你为娘的卖到张家，我张家门上被养大，养大给世云母亲做贴身的丫鬟。",
+      "sentence": "妖婆子讲述母亲成为丫鬟",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "后来世云母亲归了阴，你母亲才拜堂成亲，我才生你到如今，蒋家不是你舅舅。",
+      "sentence": "妖婆子讲述世云母亲去世经过",
+      "behavior_type": 3
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "后来世云母亲归了阴，你母亲才拜堂成亲，我才生你到如今，蒋家不是你舅舅。",
+      "sentence": "妖婆子说明母亲改嫁缘由",
+      "behavior_type": 3
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "后来世云母亲归了阴，你母亲才拜堂成亲，我才生你到如今，蒋家不是你舅舅。",
+      "sentence": "妖婆子指出蒋家非其舅舅",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "【贤孝甜音】世登闻听这一声，你母亲讲话礼不通，我和哥哥虽说不是一母生，一父两母也是亲。",
+      "sentence": "张世登认为母亲讲话不合礼仪",
+      "behavior_type": 7
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "【贤孝甜音】世登闻听这一声，你母亲讲话礼不通，我和哥哥虽说不是一母生，一父两母也是亲。",
+      "sentence": "张世登强调与哥哥的亲情关系",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "蒋氏夫人",
+      "original_sentence": "母亲听罢气上身，手指着奴才骂一声，老娘说的正事情，你不懂情谊还骂母亲。",
+      "sentence": "蒋氏夫人听完后感到非常生气",
+      "behavior_type": 2
+    },
+    {
+      "role": "蒋氏夫人",
+      "original_sentence": "母亲听罢气上身，手指着奴才骂一声，老娘说的正事情，你不懂情谊还骂母亲。",
+      "sentence": "蒋氏夫人用手指着奴才骂",
+      "behavior_type": 1
+    },
+    {
+      "role": "蒋氏夫人",
+      "original_sentence": "母亲听罢气上身，手指着奴才骂一声，老娘说的正事情，你不懂情谊还骂母亲。",
+      "sentence": "蒋氏夫人指责奴才不懂情谊",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "世登这里出了门，去陪我哥哥喧一阵。",
+      "sentence": "张世登离开家门去陪伴哥哥",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "不说兄弟二人喧二阵，回言把妖婆表分明。",
+      "sentence": "妖婆子被明确地提及在对话中",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆这里暗思忖，虽然我的娃娃恨母亲，纵然也是我亲生的人，说我我白生气一点点，纵然我们骨头也连筋，我见我孩郎稀罕得很，我若看到那张世云，气破我胆子气烂我的心。",
+      "sentence": "妖婆子暗自思考孩子恨母亲",
+      "behavior_type": 5
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆这里暗思忖，虽然我的娃娃恨母亲，纵然也是我亲生的人，说我我白生气一点点，纵然我们骨头也连筋，我见我孩郎稀罕得很，我若看到那张世云，气破我胆子气烂我的心。",
+      "sentence": "妖婆子对张世云感到极度愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆这里暗思忖，玉珍媳妇是个贤德人，我给他怎么害了张世云，我的孩儿和玉珍也投缘啊，让他们小叔子找嫂子，万贯家财是我们一家人。",
+      "sentence": "妖婆子暗中思考如何陷害张世云",
+      "behavior_type": 5
+    },
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "妖婆这里暗思忖，玉珍媳妇是个贤德人，我给他怎么害了张世云，我的孩儿和玉珍也投缘啊，让他们小叔子找嫂子，万贯家财是我们一家人。",
+      "sentence": "蒋玉珍被妖婆子视为贤德之人",
+      "behavior_type": 1
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆这里暗思忖，玉珍媳妇是个贤德人，我给他怎么害了张世云，我的孩儿和玉珍也投缘啊，让他们小叔子找嫂子，万贯家财是我们一家人。",
+      "sentence": "妖婆子考虑让张世云找蒋玉珍",
+      "behavior_type": 5
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆这里暗思忖，玉珍媳妇是个贤德人，我给他怎么害了张世云，我的孩儿和玉珍也投缘啊，让他们小叔子找嫂子，万贯家财是我们一家人。",
+      "sentence": "妖婆子计划独占万贯家财",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "今日的媳妇走了她娘家门，今天就是好机会，我设法害死这个张世云。",
+      "sentence": "妖婆子计划趁机害死张世云",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "到了夜里三更整，妖婆子就出了门，一心要害这张世云。",
+      "sentence": "妖婆子在深夜离开家门",
+      "behavior_type": 4
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "到了夜里三更整，妖婆子就出了门，一心要害这张世云。",
+      "sentence": "妖婆子企图杀害张世云",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子低头暗思忖，刀子拿上杀不成，但若杀了张世云，鲜血人见知了情，妖婆子这里难了难，我前去掐死张世云。",
+      "sentence": "妖婆子思考如何杀害张世云",
+      "behavior_type": 5
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子低头暗思忖，刀子拿上杀不成，但若杀了张世云，鲜血人见知了情，妖婆子这里难了难，我前去掐死张世云。",
+      "sentence": "妖婆子计划掐死张世云",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "自古大事有天定，张世云夜起去尿尿，屋里睡的张世登。",
+      "sentence": "张世云夜间起床去小便",
+      "behavior_type": 4
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "自古大事有天定，张世云夜起去尿尿，屋里睡的张世登。",
+      "sentence": "张世登在屋里睡觉",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子这里进了门，妖婆子哪知道睡的谁，只见炕上睡个人，妖婆子一见气上身，一个灯盏拿手中，咔嚓一下着了中，打死了世登命归阴。",
+      "sentence": "妖婆子进入房间内",
+      "behavior_type": 4
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子这里进了门，妖婆子哪知道睡的谁，只见炕上睡个人，妖婆子一见气上身，一个灯盏拿手中，咔嚓一下着了中，打死了世登命归阴。",
+      "sentence": "妖婆子不知道睡的是谁",
+      "behavior_type": 5
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子这里进了门，妖婆子哪知道睡的谁，只见炕上睡个人，妖婆子一见气上身，一个灯盏拿手中，咔嚓一下着了中，打死了世登命归阴。",
+      "sentence": "妖婆子看见炕上有人",
+      "behavior_type": 1
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子这里进了门，妖婆子哪知道睡的谁，只见炕上睡个人，妖婆子一见气上身，一个灯盏拿手中，咔嚓一下着了中，打死了世登命归阴。",
+      "sentence": "妖婆子感到非常愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子这里进了门，妖婆子哪知道睡的谁，只见炕上睡个人，妖婆子一见气上身，一个灯盏拿手中，咔嚓一下着了中，打死了世登命归阴。",
+      "sentence": "妖婆子拿起一个灯盏",
+      "behavior_type": 13
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子这里进了门，妖婆子哪知道睡的谁，只见炕上睡个人，妖婆子一见气上身，一个灯盏拿手中，咔嚓一下着了中，打死了世登命归阴。",
+      "sentence": "妖婆子打死了张世登",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "张世云上罢厕所进了门，妖婆子一见张世云，妖婆子一见吓掉魂！",
+      "sentence": "张世云上完厕所后进入房间",
+      "behavior_type": 4
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "张世云上罢厕所进了门，妖婆子一见张世云，妖婆子一见吓掉魂！",
+      "sentence": "妖婆子见到张世云后惊恐万分",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "一见世云进了门，那我打死的是何人？",
+      "sentence": "妖婆子疑惑自己打死的是谁",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "急忙点灯看分明，打死的正是我亲生孩儿张世登！",
+      "sentence": "妖婆子发现打死的是亲生孩儿",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子吓得暗思忖，世登为何睡到世云处？",
+      "sentence": "妖婆子思考世登为何睡在世云处",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子的泪纷纷，喊声我的娃娃张世云，我进门看你张世云，不小心灯盏掉下来砸死人，可怜我的娃娃命归阴，世云一见酸了心。",
+      "sentence": "妖婆子流泪呼喊张世云",
+      "behavior_type": 2
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子的泪纷纷，喊声我的娃娃张世云，我进门看你张世云，不小心灯盏掉下来砸死人，可怜我的娃娃命归阴，世云一见酸了心。",
+      "sentence": "妖婆子解释灯盏掉落",
+      "behavior_type": 7
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "妖婆子的泪纷纷，喊声我的娃娃张世云，我进门看你张世云，不小心灯盏掉下来砸死人，可怜我的娃娃命归阴，世云一见酸了心。",
+      "sentence": "张世云感到心酸",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "【贤孝悲音】世云这里酸了心，爬到世登身上放悲声，弟弟啊，母亲前来把我看，灯盏掉到你头上，你兄弟怎么不耐得很，灯盏掉下砸死了你命归阴！",
+      "sentence": "张世云因弟弟去世感到伤心",
+      "behavior_type": 2
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "【贤孝悲音】世云这里酸了心，爬到世登身上放悲声，弟弟啊，母亲前来把我看，灯盏掉到你头上，你兄弟怎么不耐得很，灯盏掉下砸死了你命归阴！",
+      "sentence": "张世云趴在弟弟身上哭泣",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "【贤孝悲音】世云这里酸了心，爬到世登身上放悲声，弟弟啊，母亲前来把我看，灯盏掉到你头上，你兄弟怎么不耐得很，灯盏掉下砸死了你命归阴！",
+      "sentence": "灯盏掉落导致张世登死亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "你怎么不耐得很，掉下个灯盏要了你的命！",
+      "sentence": "妖婆子感叹灯盏掉落导致死亡",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "你不要怪年大的老母亲，这是你兄弟不耐得很，今日你弟弟归了阴，丢下你哥哥一个人，我单身独起咋活人！",
+      "sentence": "妖婆子因丧子而感到极度悲伤",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "你不要怪年大的老母亲，这是你兄弟不耐得很，今日你弟弟归了阴，丢下你哥哥一个人，我单身独起咋活人！",
+      "sentence": "张世登因意外而丧命归阴",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "你不要怪年大的老母亲，这是你兄弟不耐得很，今日你弟弟归了阴，丢下你哥哥一个人，我单身独起咋活人！",
+      "sentence": "张世云因弟弟去世而伤心",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "世云哭了好一会，世云低头暗思忖，怎么发送我的好弟弟！",
+      "sentence": "张世云因悲伤而哭泣良久",
+      "behavior_type": 2
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "世云哭了好一会，世云低头暗思忖，怎么发送我的好弟弟！",
+      "sentence": "张世云低头思考如何安葬弟弟",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "【贤孝甜音】世云低头暗思忖，我的弟弟很年轻，家族坟里进不成。",
+      "sentence": "张世云思考弟弟的安葬问题",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "世云这才请了些人，再叫众位你当听，你们抬出尸身火化落安稳。",
+      "sentence": "张世云请人抬出尸身火化",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "众人",
+      "original_sentence": "众人闻听遵了令，把世登抬上出了门，这也倒是坏事情，就地子起来了个黑旋风，众人眼睛睁不开一丁丁，一时风平浪静睁眼看，张世登的尸身全不见。",
+      "sentence": "众人听闻命令后立即执行",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "众人闻听遵了令，把世登抬上出了门，这也倒是坏事情，就地子起来了个黑旋风，众人眼睛睁不开一丁丁，一时风平浪静睁眼看，张世登的尸身全不见。",
+      "sentence": "将张世登抬出门外",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "众人闻听遵了令，把世登抬上出了门，这也倒是坏事情，就地子起来了个黑旋风，众人眼睛睁不开一丁丁，一时风平浪静睁眼看，张世登的尸身全不见。",
+      "sentence": "这是一件非常糟糕的事情",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "众人闻听遵了令，把世登抬上出了门，这也倒是坏事情，就地子起来了个黑旋风，众人眼睛睁不开一丁丁，一时风平浪静睁眼看，张世登的尸身全不见。",
+      "sentence": "黑旋风使众人无法睁开眼睛",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "众人闻听遵了令，把世登抬上出了门，这也倒是坏事情，就地子起来了个黑旋风，众人眼睛睁不开一丁丁，一时风平浪静睁眼看，张世登的尸身全不见。",
+      "sentence": "张世登的尸身突然消失不见",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "王敖老祖",
+      "original_sentence": "这是王敖老祖显了神，张世登本是武曲星，打发的黄巾力士，把张世登刮到了华山中。",
+      "sentence": "王敖老祖显神将张世登刮走",
+      "behavior_type": 7
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "这是王敖老祖显了神，张世登本是武曲星，打发的黄巾力士，把张世登刮到了华山中。",
+      "sentence": "张世登被黄巾力士刮到华山",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "王敖老祖",
+      "original_sentence": "这里的老祖着了紧，给嘴里喂上了起死还魂丹，把仙药敷到伤口上。",
+      "sentence": "王敖老祖给张世登喂起死还魂丹",
+      "behavior_type": 13
+    },
+    {
+      "role": "王敖老祖",
+      "original_sentence": "这里的老祖着了紧，给嘴里喂上了起死还魂丹，把仙药敷到伤口上。",
+      "sentence": "王敖老祖将仙药敷在伤口上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "一时的张世登还了阳，这里老祖开言讲，叫声世登你听我言，你的母亲心不良，她灯盏拿上想砸张世云，她夜黑难辨砸到你身上。",
+      "sentence": "张世登在王敖老祖帮助下复活",
+      "behavior_type": 3
+    },
+    {
+      "role": "王敖老祖",
+      "original_sentence": "一时的张世登还了阳，这里老祖开言讲，叫声世登你听我言，你的母亲心不良，她灯盏拿上想砸张世云，她夜黑难辨砸到你身上。",
+      "sentence": "王敖老祖告诉张世登真相",
+      "behavior_type": 7
+    },
+    {
+      "role": "蒋氏夫人",
+      "original_sentence": "一时的张世登还了阳，这里老祖开言讲，叫声世登你听我言，你的母亲心不良，她灯盏拿上想砸张世云，她夜黑难辨砸到你身上。",
+      "sentence": "蒋氏夫人企图伤害张世云",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "王敖老祖",
+      "original_sentence": "今日我把你救到山，收你为弟子把武艺练，世登闻听这一声，双膝跪倒地流平，磕头谢过师父的恩。",
+      "sentence": "王敖老祖收张世登为弟子传授武艺",
+      "behavior_type": 7
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "今日我把你救到山，收你为弟子把武艺练，世登闻听这一声，双膝跪倒地流平，磕头谢过师父的恩。",
+      "sentence": "张世登跪地感谢师父的救命之恩",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "不说张世登在华山把武艺练，回言再表他家乡。",
+      "sentence": "张世登在华山练习武艺",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "不说张世登在华山把武艺练，回言再表他家乡。",
+      "sentence": "回言再表他的家乡情况",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "蒋玉珍看罢母亲回家乡，来到婆婆面前问平安。",
+      "sentence": "蒋玉珍返回家乡看望婆婆",
+      "behavior_type": 4
+    },
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "蒋玉珍看罢母亲回家乡，来到婆婆面前问平安。",
+      "sentence": "蒋玉珍向婆婆问候平安",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子一见媳妇子到，叫娃娃，我去前把孩儿看，灯盏没有抓好一点点，掉下去砸死娃娃把命丧。",
+      "sentence": "妖婆子告诉媳妇她去看孩子",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "妖婆子一见媳妇子到，叫娃娃，我去前把孩儿看，灯盏没有抓好一点点，掉下去砸死娃娃把命丧。",
+      "sentence": "灯盏掉落导致孩子不幸丧命",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "左邻右里把娃娃抬出门，一场大风把娃娃刮得影无踪。",
+      "sentence": "左邻右里将娃娃抬出门外",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "左邻右里把娃娃抬出门，一场大风把娃娃刮得影无踪。",
+      "sentence": "大风将娃娃刮得无影无踪",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "玉珍闻听这一声，双眼落泪放悲声，哭了声我贤德叔叔张世登。",
+      "sentence": "蒋玉珍听闻后悲伤地哭泣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "这里的世云走上前，再叫贤妻听我言。",
+      "sentence": "张世云走上前对妻子说话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "如今兄弟归了阴，我也《五经》念不成，家中照顾家事务庄农，我们好好抓养好孩童，把娃娃抓大成了人，叫娃娃再男学读五经。",
+      "sentence": "张世云决定放弃学业照顾家庭",
+      "behavior_type": 5
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "如今兄弟归了阴，我也《五经》念不成，家中照顾家事务庄农，我们好好抓养好孩童，把娃娃抓大成了人，叫娃娃再男学读五经。",
+      "sentence": "张世云计划好好抚养孩子成人",
+      "behavior_type": 10
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "如今兄弟归了阴，我也《五经》念不成，家中照顾家事务庄农，我们好好抓养好孩童，把娃娃抓大成了人，叫娃娃再男学读五经。",
+      "sentence": "张世云希望孩子将来学习五经",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "把娃娃抓养了七岁整，已送到男学读五经。",
+      "sentence": "张世云将娃娃抚养至七岁整",
+      "behavior_type": 14
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "把娃娃抓养了七岁整，已送到男学读五经。",
+      "sentence": "张世云送娃娃去男学读五经",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张宝通",
+      "original_sentence": "早上送到男学中，男学先生起名讳，起下个名字张宝通，起罢名讳念五经。",
+      "sentence": "张宝通被男学先生起名为张宝通",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "早上送到男学中，男学先生起名讳，起下个名字张宝通，起罢名讳念五经。",
+      "sentence": "男学先生为张宝通起名后教五经",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张宝通",
+      "original_sentence": "宝通本是文曲星，傢才念书厉害得很！",
+      "sentence": "张宝通天生具备卓越的文学才能",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张宝通",
+      "original_sentence": "一日读会《三字经》，三日读会《百家姓》。",
+      "sentence": "张宝通迅速掌握三字经和百家姓",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张宝通",
+      "original_sentence": "读书读到十五岁，压定男学众学生。",
+      "sentence": "张宝通在男学中超越众学生",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "不说宝通读五经，再把家中妖婆子说分明。",
+      "sentence": "妖婆子在家中表现得很明显",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子一见暗思忖，我夜黑难辨打错人，我一见张世云是眼中钉，见了世云气得我跳蹦蹦。",
+      "sentence": "妖婆子暗中思考打错了人",
+      "behavior_type": 5
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子一见暗思忖，我夜黑难辨打错人，我一见张世云是眼中钉，见了世云气得我跳蹦蹦。",
+      "sentence": "妖婆子视张世云为眼中钉",
+      "behavior_type": 2
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子一见暗思忖，我夜黑难辨打错人，我一见张世云是眼中钉，见了世云气得我跳蹦蹦。",
+      "sentence": "妖婆子见到张世云很愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "我要想着害死这狗贱人，给我的娃娃报怨恨。",
+      "sentence": "妖婆子意图杀害仇人以报仇",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子想了就好一阵，一个主意想在心。",
+      "sentence": "妖婆子思考后想出一个主意",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "我叫这个狗贱人出外干营生，酒里头给他下毒药，砒霜给他烙到馍馍头。",
+      "sentence": "妖婆子计划让张世云外出谋生",
+      "behavior_type": 10
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "我叫这个狗贱人出外干营生，酒里头给他下毒药，砒霜给他烙到馍馍头。",
+      "sentence": "妖婆子打算在酒中下毒药",
+      "behavior_type": 11
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "我叫这个狗贱人出外干营生，酒里头给他下毒药，砒霜给他烙到馍馍头。",
+      "sentence": "妖婆子准备将砒霜放入馍馍",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子在这厨房中，烙馍馍感觉砒霜放上轻得很，又把荏炎放到馍馍中。",
+      "sentence": "妖婆子在厨房中烙馍馍并放入砒霜",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子厨房里忙的很，进去了贤德的蒋玉珍，叫声母亲你当听，你母亲想吃什么给你媳妇说分明，你在家中歇缓的人。",
+      "sentence": "妖婆子在厨房里忙碌不停",
+      "behavior_type": 10
+    },
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "妖婆子厨房里忙的很，进去了贤德的蒋玉珍，叫声母亲你当听，你母亲想吃什么给你媳妇说分明，你在家中歇缓的人。",
+      "sentence": "蒋玉珍询问母亲想吃何物",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子闻听这一声，再叫娃娃你当听，我给世云烙油饼，让娃娃出来干营生。",
+      "sentence": "妖婆子告诉张世云要外出干活",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "娃娃吃了娘们子的饼，一路顺利时运通。",
+      "sentence": "张世云吃了妖婆子做的饼",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "娃娃吃了娘们子的饼，一路顺利时运通。",
+      "sentence": "张世云一路顺利时运通",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子把饼子烙齐整，回到家的小房中，褡裢放到床沿中，装了白铜假银二百两整，荏炎饼子药酒瓶，一起装到褡裢中，打发丫鬟把世云请。",
+      "sentence": "妖婆子将烙好的饼子整齐摆放",
+      "behavior_type": 14
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子把饼子烙齐整，回到家的小房中，褡裢放到床沿中，装了白铜假银二百两整，荏炎饼子药酒瓶，一起装到褡裢中，打发丫鬟把世云请。",
+      "sentence": "妖婆子回到自己的小房间",
+      "behavior_type": 4
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子把饼子烙齐整，回到家的小房中，褡裢放到床沿中，装了白铜假银二百两整，荏炎饼子药酒瓶，一起装到褡裢中，打发丫鬟把世云请。",
+      "sentence": "妖婆子将褡裢放在床沿上",
+      "behavior_type": 13
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子把饼子烙齐整，回到家的小房中，褡裢放到床沿中，装了白铜假银二百两整，荏炎饼子药酒瓶，一起装到褡裢中，打发丫鬟把世云请。",
+      "sentence": "妖婆子装入假银和毒饼",
+      "behavior_type": 8
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子把饼子烙齐整，回到家的小房中，褡裢放到床沿中，装了白铜假银二百两整，荏炎饼子药酒瓶，一起装到褡裢中，打发丫鬟把世云请。",
+      "sentence": "妖婆子将物品装入褡裢",
+      "behavior_type": 13
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆子把饼子烙齐整，回到家的小房中，褡裢放到床沿中，装了白铜假银二百两整，荏炎饼子药酒瓶，一起装到褡裢中，打发丫鬟把世云请。",
+      "sentence": "妖婆子让丫鬟去请世云",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "把世云请到母亲跟，再叫娃娃你当听，叫娃娃，家里光种庄稼不中用，以我心中主意定，你出门你要好营生，人说的蒲州的绸缎爱死人，你去到了蒲州城，取上绸缎南京送，这是一本万利我就是大财东。",
+      "sentence": "妖婆子告诉世云出门做生意",
+      "behavior_type": 7
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "把世云请到母亲跟，再叫娃娃你当听，叫娃娃，家里光种庄稼不中用，以我心中主意定，你出门你要好营生，人说的蒲州的绸缎爱死人，你去到了蒲州城，取上绸缎南京送，这是一本万利我就是大财东。",
+      "sentence": "妖婆子认为种庄稼不中用",
+      "behavior_type": 5
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "把世云请到母亲跟，再叫娃娃你当听，叫娃娃，家里光种庄稼不中用，以我心中主意定，你出门你要好营生，人说的蒲州的绸缎爱死人，你去到了蒲州城，取上绸缎南京送，这是一本万利我就是大财东。",
+      "sentence": "妖婆子建议世云去蒲州城",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "世云闻听这一声，一直来到妻子跟，叫声妻子你细听，母亲让我出门干营生，蒲州的绸缎让南京送！",
+      "sentence": "张世云告诉妻子母亲让他出门",
+      "behavior_type": 7
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "世云闻听这一声，一直来到妻子跟，叫声妻子你细听，母亲让我出门干营生，蒲州的绸缎让南京送！",
+      "sentence": "张世云告知妻子需送绸缎至南京",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "我但今日出了门，你好好孝顺老母亲，喊叫着孩儿读《五经》。",
+      "sentence": "张世云嘱咐妻子孝顺母亲并教育孩子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "玉珍闻听这一声，请你丈夫放宽心，那些事情我要知道，不用你丈夫细叮咛！",
+      "sentence": "蒋玉珍请丈夫放心并承诺知晓",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "世云来到槽沿中，背了一匹马吊尊。",
+      "sentence": "张世云来到槽边背了一匹马",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "蒋氏夫人",
+      "original_sentence": "母亲给他把盘费褡裢送，褡裢子驮到马的身。",
+      "sentence": "蒋氏夫人将盘费褡裢放在马背上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "世云拜别了老母亲，鹞子翻身战狼心，扬鞭打马上路程。",
+      "sentence": "张世云拜别母亲后骑马启程",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "赶着走来赶着行，行到二日中午整，天气热着难行走，他在重杨树下来缓身，腰腰缓了多一会，腹中感觉又是饥又是渴。",
+      "sentence": "张世云连续赶路至中午时分",
+      "behavior_type": 4
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "赶着走来赶着行，行到二日中午整，天气热着难行走，他在重杨树下来缓身，腰腰缓了多一会，腹中感觉又是饥又是渴。",
+      "sentence": "张世云在树下休息了一段时间",
+      "behavior_type": 12
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "赶着走来赶着行，行到二日中午整，天气热着难行走，他在重杨树下来缓身，腰腰缓了多一会，腹中感觉又是饥又是渴。",
+      "sentence": "张世云感到又饿又渴",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "世云这里站起身，掏出酒和饼子来接济。",
+      "sentence": "张世云站起身拿出酒和饼子",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "太白金星",
+      "original_sentence": "忙了忙了谁忙了，忙了九宫铁叉山，八宝云光洞，仁义礼智的太白李金星。",
+      "sentence": "太白金星在九宫铁叉山忙碌",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "太白金星",
+      "original_sentence": "李金星云游四海在空中，一见张世云遭难行。",
+      "sentence": "太白金星在空中云游四海",
+      "behavior_type": 4
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "李金星云游四海在空中，一见张世云遭难行。",
+      "sentence": "张世云正在遭受困难前行",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "太白金星",
+      "original_sentence": "太白金星暗思忖，苟角星要害东斗星，太白金星使神通，点禳了乌鸦喜鹊一大阵，一起落到世云跟，叽叽嘎嘎叫得真。",
+      "sentence": "太白金星暗中思考要害东斗星",
+      "behavior_type": 5
+    },
+    {
+      "role": "太白金星",
+      "original_sentence": "太白金星暗思忖，苟角星要害东斗星，太白金星使神通，点禳了乌鸦喜鹊一大阵，一起落到世云跟，叽叽嘎嘎叫得真。",
+      "sentence": "太白金星施展神通点禳乌鸦喜鹊",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "太白金星暗思忖，苟角星要害东斗星，太白金星使神通，点禳了乌鸦喜鹊一大阵，一起落到世云跟，叽叽嘎嘎叫得真。",
+      "sentence": "乌鸦喜鹊一起落到张世云跟前",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "世云一见暗思忖，这个鸟儿想必肚子饥饿乱叫声，世云拿出饼子掰了半块整，半块撕成碎纷纷，丢在乌鸦喜鹊中，乌鸦喜鹊吃了没有跳上三步整，乌鸦喜鹊死下了一大片！",
+      "sentence": "张世云认为鸟儿因饥饿而鸣叫",
+      "behavior_type": 5
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "世云一见暗思忖，这个鸟儿想必肚子饥饿乱叫声，世云拿出饼子掰了半块整，半块撕成碎纷纷，丢在乌鸦喜鹊中，乌鸦喜鹊吃了没有跳上三步整，乌鸦喜鹊死下了一大片！",
+      "sentence": "张世云将饼子撕碎喂给鸟儿",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "世云一见暗思忖，这个鸟儿想必肚子饥饿乱叫声，世云拿出饼子掰了半块整，半块撕成碎纷纷，丢在乌鸦喜鹊中，乌鸦喜鹊吃了没有跳上三步整，乌鸦喜鹊死下了一大片！",
+      "sentence": "乌鸦喜鹊食用后立即死亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "世云一见吓掉魂，低着头暗思忖，我的母亲烙饼子不小心，把毒药带在了饼子中。",
+      "sentence": "张世云因惊吓而陷入沉思",
+      "behavior_type": 2
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "世云一见吓掉魂，低着头暗思忖，我的母亲烙饼子不小心，把毒药带在了饼子中。",
+      "sentence": "张世云怀疑饼子含有毒药",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "世云掏出酒壶瓶，嘱告了乌鸦喜鹊你们的魂，是我张世云害了你们的命，我给你奠上些酒你们重投胎。",
+      "sentence": "张世云向乌鸦喜鹊表达歉意",
+      "behavior_type": 7
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "世云掏出酒壶瓶，嘱告了乌鸦喜鹊你们的魂，是我张世云害了你们的命，我给你奠上些酒你们重投胎。",
+      "sentence": "张世云为乌鸦喜鹊倒酒",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "张世云把酒土上奠，只见五色火光冒得凶！",
+      "sentence": "张世云将酒洒在地上祭奠",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "张世云把酒土上奠，只见五色火光冒得凶！",
+      "sentence": "五色火光突然猛烈地冒出",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "【贤孝悲音】张世云这里暗思忖，我的母亲是善良人，她也不是害我的人，饼子里毒药带在饼子中，为什么饼子中也有毒性，不是乌鸦喜鹊替我的身，我今日活人也万不能。",
+      "sentence": "张世云思考母亲为何在饼中下毒",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "张世云这里暗思忖，有心我把毒酒毒饼弃荒野，毒死的乌鸦喜鹊多的很。",
+      "sentence": "张世云思考是否丢弃毒酒毒饼",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "他拿上毒酒毒饼往前行，想着埋到土里莫害生灵。",
+      "sentence": "张世云携带毒酒毒饼前行",
+      "behavior_type": 4
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "他拿上毒酒毒饼往前行，想着埋到土里莫害生灵。",
+      "sentence": "张世云打算将毒物埋入土中",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "寻了地方大半天，没有找上合适的埋地方。",
+      "sentence": "张世云寻找合适地点埋毒物",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "世云抬头向西看，西面有个沙子滩。",
+      "sentence": "张世云向西面望去发现沙子滩",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "世云来到沙子滩，用手挖了个大坑牢，把毒酒毒饼放里边，坑牢填得结实盖得严，世云来到树跟前，扬鞭骑马把路上。",
+      "sentence": "张世云来到西面的沙子滩",
+      "behavior_type": 4
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "世云来到沙子滩，用手挖了个大坑牢，把毒酒毒饼放里边，坑牢填得结实盖得严，世云来到树跟前，扬鞭骑马把路上。",
+      "sentence": "张世云用手挖了一个大坑",
+      "behavior_type": 13
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "世云来到沙子滩，用手挖了个大坑牢，把毒酒毒饼放里边，坑牢填得结实盖得严，世云来到树跟前，扬鞭骑马把路上。",
+      "sentence": "张世云将毒酒毒饼放入坑中",
+      "behavior_type": 13
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "世云来到沙子滩，用手挖了个大坑牢，把毒酒毒饼放里边，坑牢填得结实盖得严，世云来到树跟前，扬鞭骑马把路上。",
+      "sentence": "张世云将坑填得结实严密",
+      "behavior_type": 13
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "世云来到沙子滩，用手挖了个大坑牢，把毒酒毒饼放里边，坑牢填得结实盖得严，世云来到树跟前，扬鞭骑马把路上。",
+      "sentence": "张世云来到一棵树跟前",
+      "behavior_type": 4
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "世云来到沙子滩，用手挖了个大坑牢，把毒酒毒饼放里边，坑牢填得结实盖得严，世云来到树跟前，扬鞭骑马把路上。",
+      "sentence": "张世云扬鞭骑马踏上路途",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "逢着山山上过，山山不断，逢着林林上行，林林不绝，整整行了数日整，一日到了蒲州城。",
+      "sentence": "行走了数日到达蒲州城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "张世云着了紧，蒲州城把绸缎铺子寻，一寻寻到东街中，一个铺子绸缎摆的满墩墩。",
+      "sentence": "张世云在蒲州城寻找绸缎铺子",
+      "behavior_type": 4
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "张世云着了紧，蒲州城把绸缎铺子寻，一寻寻到东街中，一个铺子绸缎摆的满墩墩。",
+      "sentence": "张世云在东街找到绸缎铺子",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "他和掌柜商量好要买货，拿出来了二百两银。",
+      "sentence": "张世云与掌柜商定购买货物",
+      "behavior_type": 8
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "他和掌柜商量好要买货，拿出来了二百两银。",
+      "sentence": "张世云取出二百两银子",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "掌柜子用目仔细观，尽是白铜和假银。",
+      "sentence": "掌柜仔细查看发现是假银",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "也是张世云受流行，铺子里蹲的正是查白铜假银的官差们，官差来到世云跟，怀里掏出捆贼绳，一把锁子锁现成，世云这里吓掉魂。",
+      "sentence": "张世云因官差出现感到极度恐惧",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "也是张世云受流行，铺子里蹲的正是查白铜假银的官差们，官差来到世云跟，怀里掏出捆贼绳，一把锁子锁现成，世云这里吓掉魂。",
+      "sentence": "官差使用绳索将张世云捆绑",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "【道白】世云说道:官爷，我本是一个规矩人，不知犯了啥事情，捆绑我世云为何情？",
+      "sentence": "张世云向官爷解释自己很规矩",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "官差说道:小伙子，现在我们万岁是有道明君，给天下行文下旨，不叫用这白铜假银，谁要用了白铜假银，十两坐牢一年整。",
+      "sentence": "官差向小伙子解释万岁禁令",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你这整整二百两整，二十年的监狱你得蹲。",
+      "sentence": "二百两假银需坐牢二十年",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "【贤孝甜音】差人赶了张世云，把张世云赶到县衙中。",
+      "sentence": "差人将张世云赶至县衙中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "差人上前把大人云，这个小子拿的白银假铜二百两整。",
+      "sentence": "差人向大人报告张世云使用假银",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "问你什么名，什么姓，家乡住在在何村？",
+      "sentence": "询问对方姓名及家乡住址",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "【贤孝悲音】世云闻听这一声，双膝跪倒大堂中，我家住山东五常县，小人名叫张世云，我客厅遵了母亲命，一上蒲州我干营生，这是我母亲给的银，我也不知道是白铜和假银。",
+      "sentence": "张世云听闻后立即跪在大堂中",
+      "behavior_type": 2
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "【贤孝悲音】世云闻听这一声，双膝跪倒大堂中，我家住山东五常县，小人名叫张世云，我客厅遵了母亲命，一上蒲州我干营生，这是我母亲给的银，我也不知道是白铜和假银。",
+      "sentence": "张世云告知自己家住山东五常县",
+      "behavior_type": 7
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "【贤孝悲音】世云闻听这一声，双膝跪倒大堂中，我家住山东五常县，小人名叫张世云，我客厅遵了母亲命，一上蒲州我干营生，这是我母亲给的银，我也不知道是白铜和假银。",
+      "sentence": "张世云说明自己名叫张世云",
+      "behavior_type": 7
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "【贤孝悲音】世云闻听这一声，双膝跪倒大堂中，我家住山东五常县，小人名叫张世云，我客厅遵了母亲命，一上蒲州我干营生，这是我母亲给的银，我也不知道是白铜和假银。",
+      "sentence": "张世云陈述自己遵从母亲命令",
+      "behavior_type": 7
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "【贤孝悲音】世云闻听这一声，双膝跪倒大堂中，我家住山东五常县，小人名叫张世云，我客厅遵了母亲命，一上蒲州我干营生，这是我母亲给的银，我也不知道是白铜和假银。",
+      "sentence": "张世云解释银两来自母亲",
+      "behavior_type": 7
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "【贤孝悲音】世云闻听这一声，双膝跪倒大堂中，我家住山东五常县，小人名叫张世云，我客厅遵了母亲命，一上蒲州我干营生，这是我母亲给的银，我也不知道是白铜和假银。",
+      "sentence": "张世云表示不知银两为假",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "【贤孝甜音】县官闻听这一声，我不管是谁给的银，你总归拿的白铜和假银。",
+      "sentence": "县官表示不管银两来源",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这是皇王爷下的令，使唤了白铜假银就定罪，你白铜假银二百整，判你二十年酷刑你大牢里蹲。",
+      "sentence": "使用白铜假银将被判二十年刑",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "衙役们，把张世云押到牢狱中，押到牢狱中让他受流辛！",
+      "sentence": "衙役将张世云押入牢狱中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "衙役闻听遵了令，把张世云押到牢狱中。",
+      "sentence": "衙役将张世云押入牢狱中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我不表张世云受流辛，这是皇王爷文书得执行！",
+      "sentence": "皇王爷的文书必须严格执行",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "各州府县文书行，国家开了文武科场门，挑选天下文武众童生，那个文武的举子不上进，犯了国法罪不轻。",
+      "sentence": "各州府县发布文书选拔文武童生",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张宝通",
+      "original_sentence": "不说国家开了文武科场门，再说山东五常县的张宝通。",
+      "sentence": "张宝通出现在山东五常县",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "蒋氏夫人",
+      "original_sentence": "他的母亲把盘缠供，供他西京中功名。",
+      "sentence": "蒋氏夫人为张宝通提供盘缠",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "张宝通",
+      "original_sentence": "宝通尊了母亲的命，扬鞭打马上西京。",
+      "sentence": "张宝通骑马前往西京",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张宝通",
+      "original_sentence": "整整行了数日整，这才到了长安门，他在馆驿安了身，等着要开科场门。",
+      "sentence": "张宝通经过数日到达长安城门",
+      "behavior_type": 4
+    },
+    {
+      "role": "张宝通",
+      "original_sentence": "整整行了数日整，这才到了长安门，他在馆驿安了身，等着要开科场门。",
+      "sentence": "张宝通在馆驿等待科场开门",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "不表张宝通馆驿安了身，再说华山的张世登。",
+      "sentence": "张世登在华山上行动",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "王敖老祖",
+      "original_sentence": "王敖老祖今日开言讲，把弟子张世登喊到他跟前，王敖老祖开言讲，再叫弟子听我言，今日唐王开了文武的科场门，选的天下文武众童生，今日你下山去这长安城，你去长安城里中功名，你把功名能中成。",
+      "sentence": "王敖老祖呼唤弟子张世登前来",
+      "behavior_type": 7
+    },
+    {
+      "role": "王敖老祖",
+      "original_sentence": "王敖老祖今日开言讲，把弟子张世登喊到他跟前，王敖老祖开言讲，再叫弟子听我言，今日唐王开了文武的科场门，选的天下文武众童生，今日你下山去这长安城，你去长安城里中功名，你把功名能中成。",
+      "sentence": "王敖老祖告知弟子科场开启",
+      "behavior_type": 7
+    },
+    {
+      "role": "王敖老祖",
+      "original_sentence": "王敖老祖今日开言讲，把弟子张世登喊到他跟前，王敖老祖开言讲，再叫弟子听我言，今日唐王开了文武的科场门，选的天下文武众童生，今日你下山去这长安城，你去长安城里中功名，你把功名能中成。",
+      "sentence": "王敖老祖命弟子下山赴长安",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "你的哥哥张世云，让你母亲害到蒲州城，在蒲州牢狱受重刑。",
+      "sentence": "张世云被母亲害至蒲州城",
+      "behavior_type": 3
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "你的哥哥张世云，让你母亲害到蒲州城，在蒲州牢狱受重刑。",
+      "sentence": "张世云在蒲州牢狱受重刑",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "搭救你的哥哥脱难行。",
+      "sentence": "张世登准备搭救他的哥哥",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张宝通",
+      "original_sentence": "你的侄儿张宝通，也在京城中功名。",
+      "sentence": "张宝通前往京城参加科举考试",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你们父子两个人，一文一武能扬名。",
+      "sentence": "父子二人将能扬名立万",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "王敖老祖",
+      "original_sentence": "老祖领的张世登，出了洞府把徒儿送，老祖现在东门口，念咒真言手一绕，跑下雪白宝马到了身，鞍缠肚带都周全，霸王披头在口中含。",
+      "sentence": "王敖老祖带领张世登离开洞府",
+      "behavior_type": 4
+    },
+    {
+      "role": "王敖老祖",
+      "original_sentence": "老祖领的张世登，出了洞府把徒儿送，老祖现在东门口，念咒真言手一绕，跑下雪白宝马到了身，鞍缠肚带都周全，霸王披头在口中含。",
+      "sentence": "王敖老祖在洞口念咒召唤宝马",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "老祖领的张世登，出了洞府把徒儿送，老祖现在东门口，念咒真言手一绕，跑下雪白宝马到了身，鞍缠肚带都周全，霸王披头在口中含。",
+      "sentence": "雪白宝马迅速来到他们面前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "世登正眼把马看，老祖两个童儿到跟前，一个拿着一杠枪，一个拿的乾坤锏，把枪锏一起送给张世登，张世登这里谢了恩。",
+      "sentence": "张世登仔细查看那匹白马",
+      "behavior_type": 1
+    },
+    {
+      "role": "王敖老祖",
+      "original_sentence": "世登正眼把马看，老祖两个童儿到跟前，一个拿着一杠枪，一个拿的乾坤锏，把枪锏一起送给张世登，张世登这里谢了恩。",
+      "sentence": "王敖老祖的两个童儿走上前",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "世登正眼把马看，老祖两个童儿到跟前，一个拿着一杠枪，一个拿的乾坤锏，把枪锏一起送给张世登，张世登这里谢了恩。",
+      "sentence": "一个童儿手持一杠长枪",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "世登正眼把马看，老祖两个童儿到跟前，一个拿着一杠枪，一个拿的乾坤锏，把枪锏一起送给张世登，张世登这里谢了恩。",
+      "sentence": "另一个童儿拿着乾坤锏",
+      "behavior_type": 13
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "世登正眼把马看，老祖两个童儿到跟前，一个拿着一杠枪，一个拿的乾坤锏，把枪锏一起送给张世登，张世登这里谢了恩。",
+      "sentence": "张世登接过枪锏表示感谢",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "王敖老祖",
+      "original_sentence": "老祖这里开言讲，再叫弟子听我言，今日我宝马宝枪宝锏你带上，你要保国精忠记心间，万万不能克扣百姓当赃官。",
+      "sentence": "王敖老祖告诫弟子要精忠报国",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "世登闻听尊了令，谢过师父同门一片恩。",
+      "sentence": "张世登感谢师父和同门的恩情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "张世登鹞子翻身战狼心，扬鞭打马起了身！",
+      "sentence": "张世登翻身上马扬鞭启程",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "宝马行程快如风，一日就到长安城。",
+      "sentence": "张世登骑着宝马快速到达长安城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "张世登到了长安城，也在馆驿安下身。",
+      "sentence": "张世登抵达长安城并在馆驿安身",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "整整等了就好整，天下举子等齐整，就听大炮一声响，文的举子入文场，只听大炮二声响，武的举子下校场。",
+      "sentence": "天下举子等待考试开始",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "整整等了就好整，天下举子等齐整，就听大炮一声响，文的举子入文场，只听大炮二声响，武的举子下校场。",
+      "sentence": "文举子进入考场准备考试",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "整整等了就好整，天下举子等齐整，就听大炮一声响，文的举子入文场，只听大炮二声响，武的举子下校场。",
+      "sentence": "武举子前往校场进行比武",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "张宝通",
+      "original_sentence": "张宝通本是文曲星，入场打笔快的很，一时写了十二首诗，再的举子想着诗，张宝通已把考卷交。",
+      "sentence": "张宝通迅速完成了十二首诗",
+      "behavior_type": 14
+    },
+    {
+      "role": "张宝通",
+      "original_sentence": "张宝通本是文曲星，入场打笔快的很，一时写了十二首诗，再的举子想着诗，张宝通已把考卷交。",
+      "sentence": "张宝通已经提交了考试卷",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "主考把卷子收齐整，主考把卷子送到九龙宫。",
+      "sentence": "主考将考卷收齐并送至九龙宫",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张宝通",
+      "original_sentence": "万岁这里仔细观，头卷子答得真好观，字体一看爱死人，诗句写的好规整，万岁这里龙心喜，张宝通选到金殿中。",
+      "sentence": "张宝通被选入金殿中",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "万岁这里仔细观，头卷子答得真好观，字体一看爱死人，诗句写的好规整，万岁这里龙心喜，张宝通选到金殿中。",
+      "sentence": "万岁对张宝通感到非常满意",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "张宝通",
+      "original_sentence": "张宝通跪倒金殿中，三呼万岁万万岁！",
+      "sentence": "张宝通跪倒在金殿中央",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张宝通",
+      "original_sentence": "万岁这里开言讲，抬起头来我把你看，张宝通抬头万岁看，万岁一见心喜欢。",
+      "sentence": "张宝通抬头看向万岁",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "万岁这里开言讲，抬起头来我把你看，张宝通抬头万岁看，万岁一见心喜欢。",
+      "sentence": "万岁见到张宝通心生欢喜",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "皇上这里暗思忖，我国家兴旺我国家出贵人。",
+      "sentence": "皇上暗自思考国家的兴旺与贵人",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张宝通",
+      "original_sentence": "这张宝通虽然年轻人聪慧，文章写的通古今。",
+      "sentence": "张宝通聪慧且文章通古今",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "万岁亲口册封状元头一人。",
+      "sentence": "万岁册封张宝通为状元",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "正宫娘娘插金花，文武百官来庆贺。",
+      "sentence": "正宫娘娘接受文武百官的庆贺",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张宝通",
+      "original_sentence": "不说插花状元张宝通，再说他的叔父张世登。",
+      "sentence": "张宝通被册封为状元",
+      "behavior_type": 7
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "不说插花状元张宝通，再说他的叔父张世登。",
+      "sentence": "张世登是张宝通的叔父",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "张世登进场把功名中，走马射箭第一人，一马射了十二只箭，十一只射在红心上，刚要拉弓射第十二只箭，天上飞过来一只雁，大雁张口只呱喊，世登一箭射在口中央。",
+      "sentence": "张世登走马射箭获得第一名",
+      "behavior_type": 4
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "张世登进场把功名中，走马射箭第一人，一马射了十二只箭，十一只射在红心上，刚要拉弓射第十二只箭，天上飞过来一只雁，大雁张口只呱喊，世登一箭射在口中央。",
+      "sentence": "张世登射箭命中十一只红心",
+      "behavior_type": 9
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "张世登进场把功名中，走马射箭第一人，一马射了十二只箭，十一只射在红心上，刚要拉弓射第十二只箭，天上飞过来一只雁，大雁张口只呱喊，世登一箭射在口中央。",
+      "sentence": "张世登一箭射中大雁口中",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "主考一见心喜欢，带着武举子来到金殿上。",
+      "sentence": "主考官见到武举子感到高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "主考一见心喜欢，带着武举子来到金殿上。",
+      "sentence": "主考官带领武举子前往金殿",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "主考和世登跪金殿，三呼万岁龙驾安。",
+      "sentence": "张世登与主考跪拜金殿",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "主考和世登跪金殿，三呼万岁龙驾安。",
+      "sentence": "他们向皇帝行礼问安",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "主考这里开言讲，再把万岁尊一言。",
+      "sentence": "主考向皇帝表达了自己的意见",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "这张世登的武艺不寻常，一马射了十二只箭，第十二只射下空中雁。",
+      "sentence": "张世登骑马射箭技艺高超",
+      "behavior_type": 4
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "这张世登的武艺不寻常，一马射了十二只箭，第十二只射下空中雁。",
+      "sentence": "张世登射下空中飞雁",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "皇上闻听龙心喜，文状元封成头一名，张世登武状元第二名。",
+      "sentence": "张世登被皇上封为武状元第二名",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "张宝通",
+      "original_sentence": "这里万岁开言讲，把张宝通张世登问一言，你们家住何处什么县？",
+      "sentence": "张宝通被询问家庭住址",
+      "behavior_type": 7
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "这里万岁开言讲，把张宝通张世登问一言，你们家住何处什么县？",
+      "sentence": "张世登被询问家庭住址",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "张世登这里开言讲，请听世登说名堂，我家住山东五常县，南门以外的张家湾。",
+      "sentence": "张世登向皇上陈述家庭住址",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张宝通",
+      "original_sentence": "宝通闻听这一言，怎么住的地方和我一模样？",
+      "sentence": "张宝通发现住址与自己相同",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张宝通",
+      "original_sentence": "宝通这里开言讲，事奏万岁听我言，我也家住山东五常县，南门以外的张家湾。",
+      "sentence": "张宝通向皇上陈述自己的住址",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "世登闻听暗思想，下山来我的师父对我讲，说我家侄儿也中状元，这张宝通想必就是我的侄儿。",
+      "sentence": "张世登暗自思考师父的话语",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张宝通",
+      "original_sentence": "再把宝通叫一言。",
+      "sentence": "张宝通被叫到一言",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "叫宝通，我问你你的爹娘是何人在何方？",
+      "sentence": "张世登询问张宝通父母情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张宝通",
+      "original_sentence": "宝通闻听这一言，再叫大人听我言，我的爹爹名叫张世云，母亲名叫蒋玉珍，我的爹爹出门蒲州干营生，一去多年无音讯。",
+      "sentence": "张宝通告诉大人其父母姓名",
+      "behavior_type": 7
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "宝通闻听这一言，再叫大人听我言，我的爹爹名叫张世云，母亲名叫蒋玉珍，我的爹爹出门蒲州干营生，一去多年无音讯。",
+      "sentence": "张世云前往蒲州从事营生",
+      "behavior_type": 4
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "宝通闻听这一言，再叫大人听我言，我的爹爹名叫张世云，母亲名叫蒋玉珍，我的爹爹出门蒲州干营生，一去多年无音讯。",
+      "sentence": "张世云多年未有音讯传回",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "张世登走到宝通跟，一把拉过张宝通，叫声贤侄你当听，我是你叔父张世登！",
+      "sentence": "张世登走到张宝通面前",
+      "behavior_type": 4
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "张世登走到宝通跟，一把拉过张宝通，叫声贤侄你当听，我是你叔父张世登！",
+      "sentence": "张世登拉过张宝通",
+      "behavior_type": 13
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "张世登走到宝通跟，一把拉过张宝通，叫声贤侄你当听，我是你叔父张世登！",
+      "sentence": "张世登告诉张宝通自己是叔父",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张宝通",
+      "original_sentence": "宝通闻听暗思忖，我的母亲给我说分明，我的叔父叫张世登，邻舍众人把叔父送，一风刮得无影踪。",
+      "sentence": "张宝通暗自思考母亲的话语",
+      "behavior_type": 5
+    },
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "宝通闻听暗思忖，我的母亲给我说分明，我的叔父叫张世登，邻舍众人把叔父送，一风刮得无影踪。",
+      "sentence": "蒋玉珍向张宝通说明情况",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "宝通闻听暗思忖，我的母亲给我说分明，我的叔父叫张世登，邻舍众人把叔父送，一风刮得无影踪。",
+      "sentence": "众人将张世登送走消失",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张宝通",
+      "original_sentence": "这里的宝通双膝跪，把我的叔父大人口中尊！",
+      "sentence": "张宝通双膝跪地向叔父行礼",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "我的母亲给我说分明，我有个叔叔就是张世登。",
+      "sentence": "蒋玉珍告诉宝通他有个叔叔",
+      "behavior_type": 7
+    },
+    {
+      "role": "张宝通",
+      "original_sentence": "我的母亲给我说分明，我有个叔叔就是张世登。",
+      "sentence": "张宝通得知自己有个叔叔",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "蒋玉珍",
+      "original_sentence": "我的母亲说我叔叔命归了阴，左邻右舍把尸身送，梦不起老天爷刮怪风，把叔叔刮的影无踪。",
+      "sentence": "蒋玉珍告诉儿子叔叔已去世",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "我的母亲说我叔叔命归了阴，左邻右舍把尸身送，梦不起老天爷刮怪风，把叔叔刮的影无踪。",
+      "sentence": "邻居们将叔叔的尸体送回家",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "我的母亲说我叔叔命归了阴，左邻右舍把尸身送，梦不起老天爷刮怪风，把叔叔刮的影无踪。",
+      "sentence": "怪风将叔叔刮得无影无踪",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "张世登又把贤侄称，你说的就是真事情，我被华山老祖救到华山中，拜了老祖为师学武功，今日我奉命下山把功名中。",
+      "sentence": "张世登称贤侄所述为真实情况",
+      "behavior_type": 7
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "张世登又把贤侄称，你说的就是真事情，我被华山老祖救到华山中，拜了老祖为师学武功，今日我奉命下山把功名中。",
+      "sentence": "张世登被华山老祖救至山中",
+      "behavior_type": 3
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "张世登又把贤侄称，你说的就是真事情，我被华山老祖救到华山中，拜了老祖为师学武功，今日我奉命下山把功名中。",
+      "sentence": "张世登拜老祖为师学习武功",
+      "behavior_type": 10
+    },
+    {
+      "role": "张世登",
+      "original_sentence": "张世登又把贤侄称，你说的就是真事情，我被华山老祖救到华山中，拜了老祖为师学武功，今日我奉命下山把功名中。",
+      "sentence": "张世登奉命下山争取功名",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世登",
+      "original_sentence": "小贤侄啊，我下山师父给我说得清，你的爹爹张世云，一上蒲州干营生，拿的白铜和假银，蒲州县官把罪定，他在监牢受流辛！",
+      "sentence": "张世登告知贤侄其父遭遇不幸",
+      "behavior_type": 7
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "小贤侄啊，我下山师父给我说得清，你的爹爹张世云，一上蒲州干营生，拿的白铜和假银，蒲州县官把罪定，他在监牢受流辛！",
+      "sentence": "张世云前往蒲州从事商业活动",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "小贤侄啊，我下山师父给我说得清，你的爹爹张世云，一上蒲州干营生，拿的白铜和假银，蒲州县官把罪定，他在监牢受流辛！",
+      "sentence": "张世云携带白铜和假银出行",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "小贤侄啊，我下山师父给我说得清，你的爹爹张世云，一上蒲州干营生，拿的白铜和假银，蒲州县官把罪定，他在监牢受流辛！",
+      "sentence": "蒲州县官判定张世云有罪",
+      "behavior_type": 3
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "小贤侄啊，我下山师父给我说得清，你的爹爹张世云，一上蒲州干营生，拿的白铜和假银，蒲州县官把罪定，他在监牢受流辛！",
+      "sentence": "张世云在监牢中遭受苦难",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "张宝通",
+      "original_sentence": "宝通闻听这一声，噗通跪下把万岁尊！",
+      "sentence": "张宝通听闻后立即跪拜尊称万岁",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张宝通",
+      "original_sentence": "万岁！",
+      "sentence": "张宝通向皇帝表达敬意",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "我的爹爹是好人，认不得白铜和假银，一上蒲州犯了罪，押在蒲州监牢受流辛。",
+      "sentence": "张世云因白铜假银在蒲州获罪",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "万岁闻听这一声，一道旨意往下行，行至蒲州县官门，速速把张世云送到长安城！",
+      "sentence": "一道旨意迅速传至蒲州县官门",
+      "behavior_type": 4
+    },
+    {
+      "role": "张世云",
+      "original_sentence": "万岁闻听这一声，一道旨意往下行，行至蒲州县官门，速速把张世云送到长安城！",
+      "sentence": "张世云被送往长安城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "蒲州县官得到信，吓得县官神不清，吩咐衙役你当听，南牢放出张世云。",
+      "sentence": "蒲州县官下令释放张世云",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "县官给张世云换身袂，洗脸打扮装世云！",
+      "sentence": "县官为张世云更换衣服并梳洗",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "县官这里吩咐定，一顶娇子送现成，敲锣开道送到长安城！",
+      "sentence": "县官安排轿子送张世云到长安",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张世云",
+      "original_sentence": "一日送到长安城，兄弟父子见了面，抱头相见哭一场！",
+      "sentence": "张世云与兄弟父子抱头痛哭",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "皇上这里龙心喜，三顶轿子赏现成，赏给三百护卫军，桅杆给了四根整，三个轿子起了身，拦家值司随后跟。",
+      "sentence": "皇上赏赐三顶轿子和护卫军",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "皇上这里龙心喜，三顶轿子赏现成，赏给三百护卫军，桅杆给了四根整，三个轿子起了身，拦家值司随后跟。",
+      "sentence": "三顶轿子随后开始启程前行",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "敲锣喝道往前行，把贵人送到山东城。",
+      "sentence": "敲锣开道将贵人送往山东城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "张家出来大贵人，张家改换旧门庭，坟沿里立了碑，大门上悬了匾，山东的府台来到张家门，给张家大人来庆贺啊。",
+      "sentence": "张家改换了旧时的门庭",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "张家出来大贵人，张家改换旧门庭，坟沿里立了碑，大门上悬了匾，山东的府台来到张家门，给张家大人来庆贺啊。",
+      "sentence": "坟沿里立起了一块石碑",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "张家出来大贵人，张家改换旧门庭，坟沿里立了碑，大门上悬了匾，山东的府台来到张家门，给张家大人来庆贺啊。",
+      "sentence": "大门上悬挂了一块匾额",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "张家出来大贵人，张家改换旧门庭，坟沿里立了碑，大门上悬了匾，山东的府台来到张家门，给张家大人来庆贺啊。",
+      "sentence": "山东府台来到张家门前",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "张家出来大贵人，张家改换旧门庭，坟沿里立了碑，大门上悬了匾，山东的府台来到张家门，给张家大人来庆贺啊。",
+      "sentence": "府台为张家大人来庆贺",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "这里的妖婆会高兴，听着儿子在人世中，妖婆子暗思忖，多年没见我亲生儿，我要出去看分明。",
+      "sentence": "妖婆子因儿子在世感到高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "这里的妖婆会高兴，听着儿子在人世中，妖婆子暗思忖，多年没见我亲生儿，我要出去看分明。",
+      "sentence": "妖婆子思考多年未见亲生儿",
+      "behavior_type": 5
+    },
+    {
+      "role": "妖婆子",
+      "original_sentence": "这里的妖婆会高兴，听着儿子在人世中，妖婆子暗思忖，多年没见我亲生儿，我要出去看分明。",
+      "sentence": "妖婆子决定出门去看望儿子",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "妖婆子",
+      "original_sentence": "妖婆刚到当院中，这也倒是怪事情，风雨不见一丁丁，炸雷响了两三声，把妖婆子烧成黑棍棍。",
+      "sentence": "妖婆子被炸雷击中烧成黑炭",
+      "behavior_type": 3
+    }
+  ]
+]

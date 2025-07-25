@@ -1,0 +1,22 @@
+[
+  {
+    "roleName": "目连僧",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "3": 2,
+      "10": 1
+    },
+    "total_sentences": 3,
+    "entropy": 0.9182958340544896
+  },
+  {
+    "roleName": "观世音",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "3": 1,
+      "10": 1
+    },
+    "total_sentences": 2,
+    "entropy": 1.0
+  }
+]

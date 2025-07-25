@@ -1,0 +1,810 @@
+[
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "第九节新编凉州贤孝唱词：王祥卧冰求鲤三九真理传天下，二十四孝表贤人。",
+      "sentence": "王祥卧冰求鲤传为孝道典范",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "第九节新编凉州贤孝唱词：王祥卧冰求鲤三九真理传天下，二十四孝表贤人。",
+      "sentence": "二十四孝表彰贤人的行为",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个时代说贤书？",
+      "sentence": "哪个时代讲述贤书内容",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个国家论孝子？",
+      "sentence": "哪个国家讨论孝子问题",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "魏晋时代说贤书，西晋里头论孝子。",
+      "sentence": "魏晋时代讲述贤书内容",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "魏晋时代说贤书，西晋里头论孝子。",
+      "sentence": "西晋时期讨论孝子事迹",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "今天不把别的唱，唱一段王祥卧冰的孝子传。",
+      "sentence": "王祥卧冰求鲤的故事广为流传",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "自从盘古开天地，三皇完了传五帝。",
+      "sentence": "盘古开天辟地后三皇传五帝",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "虞舜禅位给了大禹王，大禹传位给了亲儿郎。",
+      "sentence": "虞舜将帝位禅让给大禹",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "虞舜禅位给了大禹王，大禹传位给了亲儿郎。",
+      "sentence": "大禹将帝位传给亲儿子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夏启传到了残暴的夏桀王，商汤传到了荒淫的殷纣王。",
+      "sentence": "夏启将王位传给残暴的夏桀王",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "夏启传到了残暴的夏桀王，商汤传到了荒淫的殷纣王。",
+      "sentence": "商汤将王位传给荒淫的殷纣王",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周武王讨伐的殷纣王，狐狸精妲己也归了天。",
+      "sentence": "殷纣王被周武王讨伐",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "周武王讨伐的殷纣王，狐狸精妲己也归了天。",
+      "sentence": "狐狸精妲己最终死亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周幽王烽火戏诸侯，周平王迁都到洛阳。",
+      "sentence": "周幽王点燃烽火戏弄诸侯",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "周幽王烽火戏诸侯，周平王迁都到洛阳。",
+      "sentence": "周平王将都城迁移至洛阳",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "春秋五霸争天下，战国七雄归大秦。",
+      "sentence": "春秋五霸争夺天下霸权",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "春秋五霸争天下，战国七雄归大秦。",
+      "sentence": "战国七雄最终被秦国统一",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "楚霸王项羽不过江，便宜了泼皮无赖的汉刘邦。",
+      "sentence": "项羽未过江而选择自刎",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "楚霸王项羽不过江，便宜了泼皮无赖的汉刘邦。",
+      "sentence": "刘邦趁机夺取了天下",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "王莽篡汉天下乱，光武中兴建东汉。",
+      "sentence": "王莽篡汉导致天下大乱",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "王莽篡汉天下乱，光武中兴建东汉。",
+      "sentence": "光武帝中兴建立东汉",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "桓帝灵帝乱朝纲，东汉不到二百年。",
+      "sentence": "东汉王朝持续不到二百年",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "天下三分魏蜀吴，乱世纷争英雄出。",
+      "sentence": "天下三分魏蜀吴",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "天下三分魏蜀吴，乱世纷争英雄出。",
+      "sentence": "乱世纷争英雄出",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "奸雄曹操挟天子，打败袁绍据北方。",
+      "sentence": "曹操挟天子以令诸侯",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "奸雄曹操挟天子，打败袁绍据北方。",
+      "sentence": "曹操击败袁绍占据北方",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周瑜诸葛烧赤壁，刘备荆州借不还。",
+      "sentence": "周瑜和诸葛亮在赤壁放火",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "周瑜诸葛烧赤壁，刘备荆州借不还。",
+      "sentence": "刘备借荆州后没有归还",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吴侯孙权据江东，父兄三代根基固。",
+      "sentence": "孙权在江东拥有稳固的根基",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "曹丕篡汉来称帝，未想曹魏也被司马篡。",
+      "sentence": "曹丕篡汉后建立了魏国",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "曹丕篡汉来称帝，未想曹魏也被司马篡。",
+      "sentence": "司马家族最终篡夺了魏国",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "鹰视狼顾司马懿，路人皆知司马昭。",
+      "sentence": "司马懿展现出鹰视狼顾之态",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "鹰视狼顾司马懿，路人皆知司马昭。",
+      "sentence": "司马昭的野心路人皆知",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一统天下司马炎，西晋建都在洛阳。",
+      "sentence": "司马炎统一天下并建都洛阳",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "哎，把这些诗条对句丢在后，说一段西晋的孝子是王祥。",
+      "sentence": "王祥是西晋时期的孝子典范",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "水有源么树有根，为人都有父母亲。",
+      "sentence": "水有源头树有根",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "水有源么树有根，为人都有父母亲。",
+      "sentence": "每个人都有父母亲",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "只要在家敬父母，何必烧香出远门。",
+      "sentence": "在家敬父母无需烧香出远门",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说的是太阳上来照四方，照见山东临沂的王家庄。",
+      "sentence": "太阳升起照耀着四方大地",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "王员外",
+      "original_sentence": "王家庄有个王员外，家有一子叫王祥。",
+      "sentence": "王员外家中有一个儿子叫王祥",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "王祥那年才三岁，他的娘不幸染病一命亡。",
+      "sentence": "王祥的母亲不幸染病去世",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "王员外",
+      "original_sentence": "亲生母亲去世早，他的爹二娶继母来拜堂。",
+      "sentence": "王员外再娶继母进门",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "继母娘",
+      "original_sentence": "王祥长到十三上，上房里病下他继母娘。",
+      "sentence": "继母娘患病卧床不起",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "继母娘",
+      "original_sentence": "继母娘得了一个呵喽喽病，大夫说病好必须喝鱼汤。",
+      "sentence": "继母娘患上了一种奇怪的病症",
+      "behavior_type": 3
+    },
+    {
+      "role": "大夫",
+      "original_sentence": "继母娘得了一个呵喽喽病，大夫说病好必须喝鱼汤。",
+      "sentence": "大夫说需要鱼汤才能治愈病症",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "喝了鱼汤病能好，不喝鱼汤怕见阎王。",
+      "sentence": "喝了鱼汤病情会好转",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "喝了鱼汤病能好，不喝鱼汤怕见阎王。",
+      "sentence": "不喝鱼汤恐有生命危险",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "王祥闻听不怠慢，拿上钥匙开皮箱。",
+      "sentence": "王祥迅速拿起钥匙打开皮箱",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "铜钱拿了两三串，慌忙来到大街上。",
+      "sentence": "王祥拿着铜钱来到大街上",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "东街卖的是煮羊肉，西街卖的有好灌肠。",
+      "sentence": "东街售卖煮羊肉西街售卖灌肠",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "南街卖的是糖烧饼，软儿梨在北街上。",
+      "sentence": "南街售卖的是糖烧饼",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "南街卖的是糖烧饼，软儿梨在北街上。",
+      "sentence": "软儿梨在北街上售卖",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十冬腊月数九天，大街上没有一个卖鱼郎。",
+      "sentence": "十冬腊月数九天街上无卖鱼郎",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "要想买鱼买不上，难肠了娃娃小王祥。",
+      "sentence": "王祥因买不到鱼感到难过",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "又一想鱼儿离不开水，不免我来到大河边。",
+      "sentence": "王祥来到大河边寻找鱼儿",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "一边思想来的快，不觉来到河岸旁。",
+      "sentence": "王祥快速来到河岸旁",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "低下头来仔细看，河水结冰硬邦邦。",
+      "sentence": "王祥低头仔细观察结冰的河水",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "万无奈双膝跪在河岸旁，口口不住祝上苍。",
+      "sentence": "王祥跪在河岸旁向苍天祈祷",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "上有神来下有神，举头三尺有神王。",
+      "sentence": "上方有神下方也有神灵存在",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "神灵不分大和小，可怜可怜我小王祥。",
+      "sentence": "王祥恳求神灵怜悯他的处境",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "继母娘",
+      "original_sentence": "高堂老母生的病，喝不上鱼汤怕见阎王。",
+      "sentence": "继母娘生病担心喝不到鱼汤",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "神灵赐我一条鱼，我满斗焚香谢神王。",
+      "sentence": "王祥获得神灵赐予的一条鱼",
+      "behavior_type": 8
+    },
+    {
+      "role": "王祥",
+      "original_sentence": "神灵赐我一条鱼，我满斗焚香谢神王。",
+      "sentence": "王祥焚香感谢神灵的恩赐",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "保佑保佑多保佑，保佑我娘身安康。",
+      "sentence": "王祥祈求神灵保佑母亲身体健康",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "王祥又哭又祷告，大河边上他脱衣裳。",
+      "sentence": "王祥在大河边哭泣并祈祷",
+      "behavior_type": 2
+    },
+    {
+      "role": "王祥",
+      "original_sentence": "王祥又哭又祷告，大河边上他脱衣裳。",
+      "sentence": "王祥在大河边脱下衣裳",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "浑身衣服都脱去，赤条条趴在冷冰上。",
+      "sentence": "王祥脱去衣服趴在冰上",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "肚朝下背朝上，卧冰求鱼要孝他娘。",
+      "sentence": "王祥卧冰求鱼以孝顺母亲",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "正是十冬腊月数九天，阵阵寒风透骨凉。",
+      "sentence": "十冬腊月寒风刺骨",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "赤身裸体如刀割，冻得个娃娃直叫嚷。",
+      "sentence": "王祥因寒冷而痛苦地叫嚷",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "哭声天来叫声地，又叫爹来又唤娘。",
+      "sentence": "王祥因痛苦而大声哭喊",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "今天冻死我小王祥，继母老娘谁奉养？",
+      "sentence": "王祥担心继母无人奉养",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "王祥越哭越悲伤，大哭嚎啕好凄凉。",
+      "sentence": "王祥因悲伤而嚎啕大哭",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "头一声哭得惊天地，第二声哭得震万方。",
+      "sentence": "王祥痛哭惊动天地",
+      "behavior_type": 2
+    },
+    {
+      "role": "王祥",
+      "original_sentence": "头一声哭得惊天地，第二声哭得震万方。",
+      "sentence": "王祥哭声震动四方",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "老龙王",
+      "original_sentence": "三声哭得太高了，惊动东海老龙王。",
+      "sentence": "老龙王被王祥的哭声所惊动",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "老龙王",
+      "original_sentence": "老龙王正在龙宫坐，耳热眼跳心发慌。",
+      "sentence": "老龙王在龙宫感到耳热眼跳",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "老龙王",
+      "original_sentence": "左眼不跳右眼跳，左耳不烧右耳发痒。",
+      "sentence": "老龙王右眼跳右耳发痒",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "老龙王",
+      "original_sentence": "手切中指算一卦，冰凌上困住小王祥。",
+      "sentence": "老龙王切中指算了一卦",
+      "behavior_type": 5
+    },
+    {
+      "role": "王祥",
+      "original_sentence": "手切中指算一卦，冰凌上困住小王祥。",
+      "sentence": "王祥被困在冰凌之上",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "王祥他不是凡夫俗子，他本是天下第一孝子郎。",
+      "sentence": "王祥并非凡夫俗子而是孝子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "老龙王",
+      "original_sentence": "今天我不把他救，活生生冻死在冰凌上。",
+      "sentence": "老龙王决定救下冰凌上的王祥",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "老龙王",
+      "original_sentence": "开口就把夜叉叫，把鲤鱼送在冰面上。",
+      "sentence": "老龙王开口呼唤夜叉前来",
+      "behavior_type": 7
+    },
+    {
+      "role": "夜叉",
+      "original_sentence": "开口就把夜叉叫，把鲤鱼送在冰面上。",
+      "sentence": "夜叉将鲤鱼放置在冰面上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "夜叉",
+      "original_sentence": "夜叉闻听不怠慢，拿上鱼儿走慌忙。",
+      "sentence": "夜叉迅速拿起鱼儿匆忙离开",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "老龙王",
+      "original_sentence": "吹口仙气使法度，鱼儿送在冰面上。",
+      "sentence": "老龙王施展仙法将鱼儿送至冰面",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "吹口仙气使法度，鱼儿送在冰面上。",
+      "sentence": "鱼儿被放置在冰面上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "王祥正在冰上躺，觉得肚底下乱攘攘。",
+      "sentence": "王祥躺在冰上感觉到肚下动静",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "掀起身子仔细看，原来是热肚化冰水汪汪。",
+      "sentence": "王祥掀起身子仔细查看冰面",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一滩清水在冰面上，两条鲤鱼儿蹦得欢。",
+      "sentence": "一滩清水出现在冰面上",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "一滩清水在冰面上，两条鲤鱼儿蹦得欢。",
+      "sentence": "两条鲤鱼在冰面上跳跃",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "王祥用手把鱼抓，来到河岸穿衣裳。",
+      "sentence": "王祥用手抓住了两条鲤鱼",
+      "behavior_type": 13
+    },
+    {
+      "role": "王祥",
+      "original_sentence": "王祥用手把鱼抓，来到河岸穿衣裳。",
+      "sentence": "王祥带着鱼来到河岸边",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "迈开大步他回了家，赶紧给他娘熬鱼汤。",
+      "sentence": "王祥迈开大步迅速回到家中",
+      "behavior_type": 4
+    },
+    {
+      "role": "王祥",
+      "original_sentence": "迈开大步他回了家，赶紧给他娘熬鱼汤。",
+      "sentence": "王祥为母亲熬制新鲜鱼汤",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "大鱼切了铜钱厚，小鱼切成柳叶长。",
+      "sentence": "王祥将大鱼切成铜钱厚度",
+      "behavior_type": 10
+    },
+    {
+      "role": "王祥",
+      "original_sentence": "大鱼切了铜钱厚，小鱼切成柳叶长。",
+      "sentence": "王祥将小鱼切成柳叶长度",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "微火慢炖熬好汤，双手端汤喂他娘。",
+      "sentence": "王祥用双手端汤喂给母亲",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "那是又怕冷又怕烫，口口鱼汤亲自尝。",
+      "sentence": "王祥亲自品尝鱼汤的温度",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "用嘴吹的汤不烫，采用勺勺儿喂他娘。",
+      "sentence": "王祥用嘴吹凉鱼汤喂母亲",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "继母娘",
+      "original_sentence": "他的娘喝了一口润胃肠，喝了两口精神长。",
+      "sentence": "继母娘喝鱼汤后精神变好",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "继母娘",
+      "original_sentence": "一碗鱼汤喝下去，神清气爽病好光。",
+      "sentence": "继母娘喝鱼汤后病情好转",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，这段子贤孝么已唱完，故事么一节一节交代全。",
+      "sentence": "这段故事已经全部讲述完毕",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问唱的是那一段？",
+      "sentence": "询问唱的是哪一段故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二十四孝里的第九篇。",
+      "sentence": "二十四孝中的第九篇被提及",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问曲儿是啥名堂？",
+      "sentence": "询问这首曲子的名称是什么",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王祥",
+      "original_sentence": "王祥卧冰的事一桩。",
+      "sentence": "王祥卧冰是一个孝行故事",
+      "behavior_type": 10
+    }
+  ]
+]

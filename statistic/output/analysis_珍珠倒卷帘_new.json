@@ -1,0 +1,96 @@
+[
+  {
+    "roleName": "岑彭",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 1,
+      "10": 1
+    },
+    "total_sentences": 2,
+    "entropy": 1.0
+  },
+  {
+    "roleName": "马武",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 1,
+      "10": 1,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 1.584962500721156
+  },
+  {
+    "roleName": "王三小姐",
+    "roleType": "才子佳人",
+    "behaviorCounts": {
+      "4": 1
+    },
+    "total_sentences": 1,
+    "entropy": 0.0
+  },
+  {
+    "roleName": "黎山老母",
+    "roleType": "佛道神仙",
+    "behaviorCounts": {
+      "4": 2
+    },
+    "total_sentences": 2,
+    "entropy": 0.0
+  },
+  {
+    "roleName": "樊梨花",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "12": 1
+    },
+    "total_sentences": 1,
+    "entropy": 0.0
+  },
+  {
+    "roleName": "杨六郎",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "12": 2,
+      "4": 1
+    },
+    "total_sentences": 3,
+    "entropy": 0.9182958340544896
+  },
+  {
+    "roleName": "焦赞",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 1
+    },
+    "total_sentences": 1,
+    "entropy": 0.0
+  },
+  {
+    "roleName": "孟良",
+    "roleType": "忠臣良将",
+    "behaviorCounts": {
+      "9": 1
+    },
+    "total_sentences": 1,
+    "entropy": 0.0
+  },
+  {
+    "roleName": "王氏夫人",
+    "roleType": "贤妻烈妇",
+    "behaviorCounts": {
+      "12": 1
+    },
+    "total_sentences": 1,
+    "entropy": 0.0
+  },
+  {
+    "roleName": "庞涓",
+    "roleType": "至恶反派",
+    "behaviorCounts": {
+      "9": 1
+    },
+    "total_sentences": 1,
+    "entropy": 0.0
+  }
+]

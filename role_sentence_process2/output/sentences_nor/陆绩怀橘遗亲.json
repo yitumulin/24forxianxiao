@@ -1,0 +1,534 @@
+[
+  [
+    {
+      "role": "陆绩",
+      "original_sentence": "第八节新编凉州贤孝唱词：陆绩怀橘遗亲三九真理传天下，二十四孝表贤人。",
+      "sentence": "陆绩怀橘遗亲传颂孝道真理",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "第八节新编凉州贤孝唱词：陆绩怀橘遗亲三九真理传天下，二十四孝表贤人。",
+      "sentence": "二十四孝表彰贤人孝行",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个时代说贤书？",
+      "sentence": "询问哪个时代讲述贤书",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆绩",
+      "original_sentence": "哪个地界论孝子？",
+      "sentence": "陆绩讨论孝子的相关话题",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三国时代说贤书，吴国地界里头论孝子。",
+      "sentence": "三国时代讲述贤书内容",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "三国时代说贤书，吴国地界里头论孝子。",
+      "sentence": "吴国地区讨论孝子事迹",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆绩",
+      "original_sentence": "今天不把别的唱，唱一段陆绩怀橘遗亲的孝子传。",
+      "sentence": "陆绩怀橘遗亲传颂孝子故事",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "自从盘古开天地，三皇完了传五帝。",
+      "sentence": "盘古开天地后三皇传五帝",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "虞舜禅位给了大禹王，大禹传位给了亲儿郎。",
+      "sentence": "虞舜将帝位禅让给大禹",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "虞舜禅位给了大禹王，大禹传位给了亲儿郎。",
+      "sentence": "大禹将帝位传给其儿子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夏启传到了残暴的夏桀王，商汤传到了荒淫的殷纣王。",
+      "sentence": "夏启传位给了残暴的夏桀王",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "夏启传到了残暴的夏桀王，商汤传到了荒淫的殷纣王。",
+      "sentence": "商汤传位给了荒淫的殷纣王",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周武王讨伐的殷纣王，狐狸精妲己也归了天。",
+      "sentence": "周武王讨伐了殷纣王",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "周武王讨伐的殷纣王，狐狸精妲己也归了天。",
+      "sentence": "狐狸精妲己最终死亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "周幽王烽火戏诸侯，周平王迁都到洛阳。",
+      "sentence": "周幽王点燃烽火戏弄诸侯",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "周幽王烽火戏诸侯，周平王迁都到洛阳。",
+      "sentence": "周平王将都城迁至洛阳",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "春秋五霸争天下，战国七雄归秦王。",
+      "sentence": "春秋五霸争夺天下霸权",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "春秋五霸争天下，战国七雄归秦王。",
+      "sentence": "战国七雄最终被秦王统一",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "楚霸王项羽不过江，便宜了泼皮无赖的汉刘邦。",
+      "sentence": "项羽未渡江导致刘邦得利",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "王莽篡汉天下乱，光武中兴建东汉。",
+      "sentence": "王莽篡汉导致天下大乱",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "王莽篡汉天下乱，光武中兴建东汉。",
+      "sentence": "光武中兴建立了东汉",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "桓帝灵帝乱朝纲，东汉不到二百年。",
+      "sentence": "桓帝灵帝导致东汉朝纲混乱",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "桓帝灵帝乱朝纲，东汉不到二百年。",
+      "sentence": "东汉王朝存在不到二百年",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "何进无谋引豺狼，董卓进京睡龙床。",
+      "sentence": "何进无谋引来了豺狼",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "何进无谋引豺狼，董卓进京睡龙床。",
+      "sentence": "董卓进京占据了龙床",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "孙坚",
+      "original_sentence": "十八路诸侯讨董卓，长沙孙坚勇当先。",
+      "sentence": "孙坚率先讨伐董卓",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "孙坚",
+      "original_sentence": "孙坚偶得传国玺，怀璧其罪逃命急。",
+      "sentence": "孙坚获得传国玉玺后迅速逃离",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "袁术",
+      "original_sentence": "国玺最终送袁术，借上兵马占江东。",
+      "sentence": "袁术最终获得了传国玉玺",
+      "behavior_type": 8
+    },
+    {
+      "role": "孙坚",
+      "original_sentence": "国玺最终送袁术，借上兵马占江东。",
+      "sentence": "孙坚借助兵马占据了江东",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "袁术",
+      "original_sentence": "袁术得宝野心长，称帝不久吐血亡。",
+      "sentence": "袁术获得宝物后野心膨胀",
+      "behavior_type": 3
+    },
+    {
+      "role": "袁术",
+      "original_sentence": "袁术得宝野心长，称帝不久吐血亡。",
+      "sentence": "袁术称帝不久后吐血身亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "陆绩",
+      "original_sentence": "哎，把这些诗条对句丢在后，说一段怀橘遗亲的孝子传。",
+      "sentence": "陆绩讲述怀橘遗亲的孝子故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆绩",
+      "original_sentence": "说起陆绩不简单，父子两个太守官。",
+      "sentence": "陆绩与其父皆为太守官",
+      "behavior_type": 8
+    },
+    {
+      "role": "陆康",
+      "original_sentence": "说起陆绩不简单，父子两个太守官。",
+      "sentence": "陆康与其子皆为太守官",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "陆绩",
+      "original_sentence": "精通天文和历法，算是古代科学家。",
+      "sentence": "陆绩精通天文和历法",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "陆康",
+      "original_sentence": "陆绩的父亲叫陆康，泸州太守曾经当。",
+      "sentence": "陆康曾经担任泸州太守",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "陆康",
+      "original_sentence": "和袁术关系不一般，某日做客到九江。",
+      "sentence": "陆康曾前往九江做客",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆绩",
+      "original_sentence": "带上陆绩小儿郎，就把袁术来拜访。",
+      "sentence": "陆绩随同前往拜访袁术",
+      "behavior_type": 4
+    },
+    {
+      "role": "袁术",
+      "original_sentence": "带上陆绩小儿郎，就把袁术来拜访。",
+      "sentence": "袁术接待了来访的陆绩",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "袁术",
+      "original_sentence": "看到老友来拜访，袁术高兴得没式样。",
+      "sentence": "袁术因老友来访感到非常高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "袁术",
+      "original_sentence": "上好的橘子往上端，就让老友尝尝鲜。",
+      "sentence": "袁术端上橘子让老友品尝",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "橘子皮黄金灿灿，一看叫人口水淌。",
+      "sentence": "橘子皮金黄令人垂涎欲滴",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "拨开皮儿分八瓣，瓤瓤儿是沙又甜。",
+      "sentence": "橘子瓤分瓣后呈现出沙甜口感",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "陆绩",
+      "original_sentence": "陆绩也是怪喜欢，敞开肚皮吃了个香。",
+      "sentence": "陆绩非常喜欢并享用了橘子",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "陆绩",
+      "original_sentence": "吃了一个吃两个，吃了两个想三个。",
+      "sentence": "陆绩连续吃了多个橘子",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "陆绩",
+      "original_sentence": "吃完橘子心中想，家里还有亲老娘。",
+      "sentence": "陆绩吃完橘子后思念母亲",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "陆绩",
+      "original_sentence": "爷父两个吃得香，也得让亲娘尝一尝。",
+      "sentence": "陆绩想让亲娘品尝橘子",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "陆绩",
+      "original_sentence": "趁着别人不注意，偷拿两个怀里藏。",
+      "sentence": "陆绩悄悄将橘子藏入怀中",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "袁术",
+      "original_sentence": "父亲袁术喧得欢，不知不觉天色晚。",
+      "sentence": "袁术喧闹导致天色已晚",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "袁术",
+      "original_sentence": "父亲起身要回家，叫上陆绩行礼来告别。",
+      "sentence": "袁术起身准备回家",
+      "behavior_type": 4
+    },
+    {
+      "role": "陆绩",
+      "original_sentence": "父亲起身要回家，叫上陆绩行礼来告别。",
+      "sentence": "陆绩行礼向众人告别",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆绩",
+      "original_sentence": "陆绩身子刚一弯，两个橘子露了面。",
+      "sentence": "陆绩弯腰时露出两个橘子",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "陆绩",
+      "original_sentence": "只听咚咚两声响，橘子掉到地面上。",
+      "sentence": "陆绩不慎将橘子掉落在地面上",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "父亲一看么很丢脸，这个孩子咋这样？",
+      "sentence": "父亲感到非常丢脸",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "陆绩",
+      "original_sentence": "吃不完了还兜上，这和小偷没两样。",
+      "sentence": "陆绩将未吃完的橘子带走",
+      "behavior_type": 11
+    },
+    {
+      "role": "袁术",
+      "original_sentence": "吃不完了还兜上，这和小偷没两样。",
+      "sentence": "袁术认为此行为与小偷无异",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "袁术",
+      "original_sentence": "袁术一看笑开颜，走上跟前问陆郎。",
+      "sentence": "袁术看到后开心地笑了起来",
+      "behavior_type": 2
+    },
+    {
+      "role": "袁术",
+      "original_sentence": "袁术一看笑开颜，走上跟前问陆郎。",
+      "sentence": "袁术走到陆绩面前询问",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆绩",
+      "original_sentence": "陆郎做客来我家，怎把橘子揣身上？",
+      "sentence": "陆绩将橘子藏在身上",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "陆绩",
+      "original_sentence": "陆绩一点不慌张，跪在地上答尊长。",
+      "sentence": "陆绩跪在地上回答尊长问题",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆绩",
+      "original_sentence": "陆绩言说橘子甜，拿上两个孝亲娘。",
+      "sentence": "陆绩说橘子甜要带给母亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆绩",
+      "original_sentence": "众人一听都称赞，原来是个孝顺郎。",
+      "sentence": "众人称赞陆绩是个孝顺郎",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "陆绩",
+      "original_sentence": "碰到橘子真是甜，不忘拿给亲娘尝。",
+      "sentence": "陆绩将甜橘子带给母亲品尝",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "袁术",
+      "original_sentence": "袁术也是连夸赞，这个孩子不一般。",
+      "sentence": "袁术称赞这个孩子不一般",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆绩",
+      "original_sentence": "从小知道孝亲娘，长大定是好儿郎。",
+      "sentence": "陆绩从小就知道孝顺母亲",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "从小知道孝亲娘，长大定是好儿郎。",
+      "sentence": "长大必定会成为好儿郎",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，这段子贤孝么已唱完，故事么一节一节交代全。",
+      "sentence": "这段故事已经全部讲述完毕",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问唱的是那一段？",
+      "sentence": "询问唱的是哪一段故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二十四孝里的第八篇。",
+      "sentence": "二十四孝包含第八个篇章",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要问曲儿是啥名堂？",
+      "sentence": "询问这首曲子的名称是什么",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆绩",
+      "original_sentence": "怀橘遗亲的事一桩。",
+      "sentence": "陆绩怀揣橘子回家孝敬母亲",
+      "behavior_type": 3
+    }
+  ]
+]

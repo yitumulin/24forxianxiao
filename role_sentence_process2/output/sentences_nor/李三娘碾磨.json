@@ -1,0 +1,7434 @@
+[
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "李三娘碾磨先前的盘古开天地，三皇五帝治了世。",
+      "sentence": "李三娘讲述盘古开天地的故事",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "伏羲神农尝百草，轩辕皇帝治易经。",
+      "sentence": "伏羲神农尝试百草治病救人",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "伏羲神农尝百草，轩辕皇帝治易经。",
+      "sentence": "轩辕皇帝研究易经治理天下",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把这些诗条对句丢在后，提起正传表古人。",
+      "sentence": "将诗条对句暂时搁置一旁",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "把这些诗条对句丢在后，提起正传表古人。",
+      "sentence": "开始讲述古人的故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "打开了国家的书箱柜，书里头择出本古人传。",
+      "sentence": "有人打开了国家的书箱柜",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "打开了国家的书箱柜，书里头择出本古人传。",
+      "sentence": "书中择出一本古人传",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个朝里说贤书?哪位手里论古人?唐朝手里说贤书，唐王手里论古人。",
+      "sentence": "唐朝时期讲述贤书和古人故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "自从唐王来做帝，滨州城上不太平。",
+      "sentence": "唐王登基后滨州城不太平",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "东沟的鞑子西沟里犯西沟的鞑子贼造反。",
+      "sentence": "东沟鞑子西沟里犯事",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "东沟的鞑子西沟里犯西沟的鞑子贼造反。",
+      "sentence": "西沟鞑子贼人造反",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "手指着文武大臣恨几声太平年间你们嫌官小，狂乱年间你们不救君。",
+      "sentence": "文武大臣在太平年间嫌官小",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "手指着文武大臣恨几声太平年间你们嫌官小，狂乱年间你们不救君。",
+      "sentence": "文武大臣在狂乱年间不救君",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "哪个大将军掌兵权，把长剑挑到天花板。",
+      "sentence": "刘高询问大将军谁掌兵权",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "哪个大将军掌兵权，把长剑挑到天花板。",
+      "sentence": "长剑被挑到天花板之上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "骂得大将起了义，起义的大将叫刘龙。",
+      "sentence": "大将因被骂而起义",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "骂得大将起了义，起义的大将叫刘龙。",
+      "sentence": "起义的大将名为刘龙",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大校场里来挑兵，人里头携的是少英雄，马里头挑的是菊花青。",
+      "sentence": "大校场中进行挑选士兵",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "鞍里头挑的宝鞍鞯，镫里头挑的葵花蹬。",
+      "sentence": "挑选宝鞍鞯和葵花蹬",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "箭里头挑的雕翎箭，弓里头挑的八石弓。",
+      "sentence": "挑选了雕翎箭和八石弓",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人上二十英雄汉，人上三十正当年。",
+      "sentence": "二十岁是英雄汉三十岁正当年",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人上四十算老兵，挑将过后挑了兵。",
+      "sentence": "人上四十算作老兵",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "人上四十算老兵，挑将过后挑了兵。",
+      "sentence": "挑将过后开始挑选士兵",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大兵挑了十三万，民兵多得数不清。",
+      "sentence": "大兵挑选了十三万士兵",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "大兵挑了十三万，民兵多得数不清。",
+      "sentence": "民兵数量多得难以计数",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "挑兵挑到马鞍城，马鞍城里扎老营。",
+      "sentence": "挑兵到达马鞍城后驻扎老营",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "竹叶青，状元红，花开两朵另表人。",
+      "sentence": "竹叶青和状元红同时绽放",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "表到南门外有个刘家庄，那庄倒坐个刘百万。",
+      "sentence": "南门外有个刘家庄",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "表到南门外有个刘家庄，那庄倒坐个刘百万。",
+      "sentence": "庄内住着刘百万",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "娶妻本是康家女，康氏夫人娶过门所生一子名叫小刘高，白天在学堂读诗书，晚上在校场练武功。",
+      "sentence": "刘高白天在学堂读诗书",
+      "behavior_type": 5
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "娶妻本是康家女，康氏夫人娶过门所生一子名叫小刘高，白天在学堂读诗书，晚上在校场练武功。",
+      "sentence": "刘高晚上在校场练武功",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "娶妻本是康家女，康氏夫人娶过门所生一子名叫小刘高，白天在学堂读诗书，晚上在校场练武功。",
+      "sentence": "康氏夫人生下一子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "再说西门外有个李家庄那庄倒坐个李乐天。",
+      "sentence": "西门外有个李家庄",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "娶妻桑家女，桑氏大贤人。",
+      "sentence": "娶妻桑家女桑氏是贤人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夫妻过门半辈整，家中所生两苗根。",
+      "sentence": "夫妻婚后生育了两个孩子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李宏信",
+      "original_sentence": "所生的男孩名叫李宏信，所生的女孩名叫李三春。",
+      "sentence": "李宏信是李家所生的男孩",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "所生的男孩名叫李宏信，所生的女孩名叫李三春。",
+      "sentence": "李三春是李家所生的女孩",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李宏信",
+      "original_sentence": "李宏信，来定亲，定亲定到张家门。",
+      "sentence": "李宏信前往张家门定亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "定下的姑娘叫张秀英自从把张秀英娶过门，外号就叫个一丈青。",
+      "sentence": "张秀英被娶过门后得一丈青外号",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三春读书成了人，就在高楼学针工。",
+      "sentence": "三春通过学习掌握了读书技能",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "三春读书成了人，就在高楼学针工。",
+      "sentence": "三春在楼上专心学习针线活",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "针工学了十七春，针线茶饭样样通。",
+      "sentence": "针工学习了十七年时间",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "针工学了十七春，针线茶饭样样通。",
+      "sentence": "针线茶饭全部精通",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不说三春针线茶饭都学通再说刘百万喜在心。",
+      "sentence": "刘百万听闻后感到非常高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "眼看我的刘高娃娃成了人赶紧给娃娃把亲来定。",
+      "sentence": "刘高已经长大成人准备定亲",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "定亲没有往旁处定定亲定到李家门。",
+      "sentence": "刘高与李家定下亲事",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "定下李乐天的姑娘李三春，一十六岁送过婚一十七岁娶到刘家门。",
+      "sentence": "刘高与李三春定下婚事",
+      "behavior_type": 3
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "定下李乐天的姑娘李三春，一十六岁送过婚一十七岁娶到刘家门。",
+      "sentence": "刘高十七岁迎娶李三春",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "高堂设喜香案桌宝斗设的个满堂红。",
+      "sentence": "高堂设喜香案桌宝斗满堂红",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "拜罢天，拜罢地，拜罢上房的掌柜的。",
+      "sentence": "拜天地后拜上房掌柜的",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "掛红毡，进新房，剪子两把交杯盏。",
+      "sentence": "掛红毡进新房进行剪子交杯盏",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "红头绳，等床沿驴鞍子备在门槛上。",
+      "sentence": "红头绳被放置在床沿上",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "红头绳，等床沿驴鞍子备在门槛上。",
+      "sentence": "驴鞍子被备在门槛上",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "鸳鸯枕头高垫上，红绫被儿铺一床。",
+      "sentence": "鸳鸯枕头被高高垫起",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "鸳鸯枕头高垫上，红绫被儿铺一床。",
+      "sentence": "红绫被儿铺在床上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说说话话上了床核头枣儿夸拉拉响。",
+      "sentence": "说说话话上了床核头枣儿响",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一对新人配姻缘。",
+      "sentence": "一对新人结为夫妻",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "妆新妆了三天整，待客待了三天整。",
+      "sentence": "新人连续三天进行婚礼仪式",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "亲感回上亲感门邻舍回上各庄村，各人各干各营生、自从把三春娶家园，排行就叫下了个李三娘打里打外能操心，公婆的面前就尽孝心草问勤、晚问安公婆面前问三遍早问公婆吃什么饭晚问公婆喝什么汤公婆的面前多孝敬李三春是下凡星宿凤团星刘高是下凡星宿东斗星东斗星，凤团星这两个星宿大得很自从两人成了婚天下要出大贵人。",
+      "sentence": "李三娘打里打外操持家务",
+      "behavior_type": 10
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "亲感回上亲感门邻舍回上各庄村，各人各干各营生、自从把三春娶家园，排行就叫下了个李三娘打里打外能操心，公婆的面前就尽孝心草问勤、晚问安公婆面前问三遍早问公婆吃什么饭晚问公婆喝什么汤公婆的面前多孝敬李三春是下凡星宿凤团星刘高是下凡星宿东斗星东斗星，凤团星这两个星宿大得很自从两人成了婚天下要出大贵人。",
+      "sentence": "李三娘早晚向公婆问安",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "亲感回上亲感门邻舍回上各庄村，各人各干各营生、自从把三春娶家园，排行就叫下了个李三娘打里打外能操心，公婆的面前就尽孝心草问勤、晚问安公婆面前问三遍早问公婆吃什么饭晚问公婆喝什么汤公婆的面前多孝敬李三春是下凡星宿凤团星刘高是下凡星宿东斗星东斗星，凤团星这两个星宿大得很自从两人成了婚天下要出大贵人。",
+      "sentence": "李三娘对公婆极为孝敬",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "亲感回上亲感门邻舍回上各庄村，各人各干各营生、自从把三春娶家园，排行就叫下了个李三娘打里打外能操心，公婆的面前就尽孝心草问勤、晚问安公婆面前问三遍早问公婆吃什么饭晚问公婆喝什么汤公婆的面前多孝敬李三春是下凡星宿凤团星刘高是下凡星宿东斗星东斗星，凤团星这两个星宿大得很自从两人成了婚天下要出大贵人。",
+      "sentence": "刘高与李三娘结为夫妻",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "亲感回上亲感门邻舍回上各庄村，各人各干各营生、自从把三春娶家园，排行就叫下了个李三娘打里打外能操心，公婆的面前就尽孝心草问勤、晚问安公婆面前问三遍早问公婆吃什么饭晚问公婆喝什么汤公婆的面前多孝敬李三春是下凡星宿凤团星刘高是下凡星宿东斗星东斗星，凤团星这两个星宿大得很自从两人成了婚天下要出大贵人。",
+      "sentence": "两人成婚后天下将出贵人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把马鞍县的地脉拔了个净，马鞍县遭下的大年成。",
+      "sentence": "马鞍县的地脉被彻底拔除",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "把马鞍县的地脉拔了个净，马鞍县遭下的大年成。",
+      "sentence": "马鞍县遭遇了严重的年成",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "头一年的庄稼没收成，第二年庄稼齐晒净，第三年的庄稼蝗虫嚓，第四年的庄稼冷子打。",
+      "sentence": "连续四年庄稼遭受自然灾害",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "第五年的庄稼望着来收成，梦不起上了黄疸又给作岔净。",
+      "sentence": "第五年庄稼因黄疸而绝收",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "望着那秋季里的庄稼来收成谁知道八月初降就叫雪压净。",
+      "sentence": "秋季庄稼被八月初雪压净",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一斗地里收着一斗谷，一斗谷子碾着十升糠。",
+      "sentence": "一斗谷子可碾出十升糠",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "鞍子备到石头上，独木桥上飘寒霜，家寒无米实实难。",
+      "sentence": "鞍子备在石头上",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "鞍子备到石头上，独木桥上飘寒霜，家寒无米实实难。",
+      "sentence": "独木桥上飘寒霜",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "鞍子备到石头上，独木桥上飘寒霜，家寒无米实实难。",
+      "sentence": "家寒无米实实难",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一斗黄米卖着十五两银一斗小米卖着十四两银。",
+      "sentence": "黄米和小米的价格分别为十五两和十四两",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一斗麦麸子卖着六吊钱一斗谷糠卖着吊八钱。",
+      "sentence": "麦麸子和谷糠的价格被标明",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "天遭年荒真苦情斗米大价了不成。",
+      "sentence": "天灾导致粮食价格飞涨",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "地里的老草拿上戥子称树上的榆树皮剥着吃了一个净。",
+      "sentence": "老草被称重后榆树皮被剥光",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "爷爷们认不得亲孙孙地埂子上翻着吃的干草根。",
+      "sentence": "爷爷们未能认出亲孙孙",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "爷爷们认不得亲孙孙地埂子上翻着吃的干草根。",
+      "sentence": "地埂上翻找干草根充饥",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "纸薄的烧饼卖着三百吊钱，小豆儿拿的毛线穿五个小豆儿卖着十五吊钱。",
+      "sentence": "烧饼售价高达三百吊钱",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "纸薄的烧饼卖着三百吊钱，小豆儿拿的毛线穿五个小豆儿卖着十五吊钱。",
+      "sentence": "五个小豆儿售价十五吊钱",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "弟兄们就认不得个弟兄们，亲戚不顾亲戚们。",
+      "sentence": "弟兄们互相之间不再认识",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "弟兄们就认不得个弟兄们，亲戚不顾亲戚们。",
+      "sentence": "亲戚们彼此之间不再照顾",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "自己的老子不顾儿爷爷顾不得亲孙子。",
+      "sentence": "父亲不顾儿子爷爷不顾孙子",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "瞅着哪个孙子肥着哩，瞭着媳妇子出门去赶紧丢着锅里煮上往掉吃。",
+      "sentence": "观察孙子并准备食物",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "媳妇子她是一个年轻的年成好咔了再叫她们重生去。",
+      "sentence": "年轻媳妇在年成好时重生",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你看人吃的人呀狗吃的狗鹰雀老磕石头。",
+      "sentence": "人和动物各自食用不同食物",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "东庄人不敢往西庄上去，西庄人不敢往东庄上行，亲舅舅煮着吃过亲外甥。",
+      "sentence": "东庄人不敢前往西庄",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "东庄人不敢往西庄上去，西庄人不敢往东庄上行，亲舅舅煮着吃过亲外甥。",
+      "sentence": "西庄人不敢前往东庄",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "东庄人不敢往西庄上去，西庄人不敢往东庄上行，亲舅舅煮着吃过亲外甥。",
+      "sentence": "亲舅舅煮食亲外甥",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "唉，天遭年荒真苦情斗米大价了不成饿死了刘高的爹妈们。",
+      "sentence": "刘高的父母因饥荒而饿死",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你看我没一把米来没一把面，没个钱儿实棺板邻居们帮携吧，卷了些树条把老娘埋到坟堰滩刘高家寒贫穷无度用再叫干个啥营生?买了根扁担买了根绳担柴卖草过兆征(光阴)也不说刘高担柴卖草过兆征再说那刘大人挂帅的人黄榜贴到营门中哪个城里遭年成哪个城里就有贵人马鞍县里遭年成马鞍县里就有贵人谁揽了黄榜投了营谁能平定了滨洲的贼。",
+      "sentence": "邻居们帮助埋葬了老母亲",
+      "behavior_type": 8
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "你看我没一把米来没一把面，没个钱儿实棺板邻居们帮携吧，卷了些树条把老娘埋到坟堰滩刘高家寒贫穷无度用再叫干个啥营生?买了根扁担买了根绳担柴卖草过兆征(光阴)也不说刘高担柴卖草过兆征再说那刘大人挂帅的人黄榜贴到营门中哪个城里遭年成哪个城里就有贵人马鞍县里遭年成马鞍县里就有贵人谁揽了黄榜投了营谁能平定了滨洲的贼。",
+      "sentence": "刘高家境贫寒无以为生",
+      "behavior_type": 8
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "你看我没一把米来没一把面，没个钱儿实棺板邻居们帮携吧，卷了些树条把老娘埋到坟堰滩刘高家寒贫穷无度用再叫干个啥营生?买了根扁担买了根绳担柴卖草过兆征(光阴)也不说刘高担柴卖草过兆征再说那刘大人挂帅的人黄榜贴到营门中哪个城里遭年成哪个城里就有贵人马鞍县里遭年成马鞍县里就有贵人谁揽了黄榜投了营谁能平定了滨洲的贼。",
+      "sentence": "刘高靠担柴卖草维持生计",
+      "behavior_type": 10
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "你看我没一把米来没一把面，没个钱儿实棺板邻居们帮携吧，卷了些树条把老娘埋到坟堰滩刘高家寒贫穷无度用再叫干个啥营生?买了根扁担买了根绳担柴卖草过兆征(光阴)也不说刘高担柴卖草过兆征再说那刘大人挂帅的人黄榜贴到营门中哪个城里遭年成哪个城里就有贵人马鞍县里遭年成马鞍县里就有贵人谁揽了黄榜投了营谁能平定了滨洲的贼。",
+      "sentence": "刘高挂帅平定滨洲贼乱",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "想做官也不小，想挣银子么也不少刘高担柴卖草来到大街上把那黄榜观一番唉，罢罢罢，浑身的武艺遮不了寒满肚子的文章充不了饥。",
+      "sentence": "刘高想当官并挣取大量银子",
+      "behavior_type": 5
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "想做官也不小，想挣银子么也不少刘高担柴卖草来到大街上把那黄榜观一番唉，罢罢罢，浑身的武艺遮不了寒满肚子的文章充不了饥。",
+      "sentence": "刘高来到街上观看黄榜",
+      "behavior_type": 4
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "想做官也不小，想挣银子么也不少刘高担柴卖草来到大街上把那黄榜观一番唉，罢罢罢，浑身的武艺遮不了寒满肚子的文章充不了饥。",
+      "sentence": "刘高感叹武艺文章无用",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人人曾说个个讲，饥荒年饿不死守营的人离了当兵吃粮不得成。",
+      "sentence": "人们常说饥荒年饿不死守营人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "柴担子撂到大街中揽了黄榜投了营刘高吃粮当了兵。",
+      "sentence": "刘高将柴担子放在大街中央",
+      "behavior_type": 4
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "柴担子撂到大街中揽了黄榜投了营刘高吃粮当了兵。",
+      "sentence": "刘高揭下黄榜并投身军营",
+      "behavior_type": 10
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "柴担子撂到大街中揽了黄榜投了营刘高吃粮当了兵。",
+      "sentence": "刘高参军成为了一名士兵",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘高当兵三天整。",
+      "sentence": "刘高已经当兵三天整",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "妻子在家里还不知情。",
+      "sentence": "李三娘在家中尚不知情",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "个姓周的邻舍叫个小周同，给刘大嫂通了个信。",
+      "sentence": "邻居通知刘大嫂相关消息",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "哎，刘大嫂，李三春不好了，不妙了你的男人到了营里了。",
+      "sentence": "李三娘得知丈夫已去军营",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "投军吃粮当了兵马上开差就起身。",
+      "sentence": "刘高投军后立即出发",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "赶着要上滨州城，滨州城上把贼平。",
+      "sentence": "刘高前往滨州城平定贼寇",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "你在家里不知情赶紧快起身呀去瞭你的夫郎君。",
+      "sentence": "李三娘不知情需立即起身",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "如果是开差起了身想瞭你的丈夫是万不能。",
+      "sentence": "李三娘无法前往探望丈夫",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "李三春一听吓掉魂赶紧收拾快出门赶着来到营门中抬起头来观着看夫郎君拉马在营里站。",
+      "sentence": "李三娘听闻后感到极度惊恐",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "李三春一听吓掉魂赶紧收拾快出门赶着来到营门中抬起头来观着看夫郎君拉马在营里站。",
+      "sentence": "李三娘匆忙赶往军营",
+      "behavior_type": 4
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "李三春一听吓掉魂赶紧收拾快出门赶着来到营门中抬起头来观着看夫郎君拉马在营里站。",
+      "sentence": "李三娘抬头观察军营情况",
+      "behavior_type": 1
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "李三春一听吓掉魂赶紧收拾快出门赶着来到营门中抬起头来观着看夫郎君拉马在营里站。",
+      "sentence": "刘高在军营中站立等待",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "李三春，狠了心，不顾羞怯往前行。",
+      "sentence": "李三娘下定决心不顾羞怯前行",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "双手捉住马缰绳，双眼落泪哭伤心。",
+      "sentence": "李三娘抓住马缰绳伤心落泪",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "哭着不为别的事慢慢就把丈夫叫几声。",
+      "sentence": "李三娘哭泣着呼唤丈夫",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "夫郎君呀，夫郎君家寒贫穷无度用谁叫你把终身卖朝廷。",
+      "sentence": "李三娘质问丈夫为何卖身朝廷",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "有一个我们用一个你为什么吃粮去当兵担柴卖草有你的手为什么你要当兵吃粮进军营?皇上家的二俸二禄也不是好吃的。",
+      "sentence": "李三娘质问丈夫为何要去当兵",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "爬冰卧雪你不容易白天站岗你连廛战、到晚了把你扎到墙子上当兵吃粮可不是好事情肩膀上背着六十斤你去到了军队上吃饭出战都有时间听着头次号令响支起罗锅就造饭。",
+      "sentence": "李三娘为丈夫当兵感到伤心",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "爬冰卧雪你不容易白天站岗你连廛战、到晚了把你扎到墙子上当兵吃粮可不是好事情肩膀上背着六十斤你去到了军队上吃饭出战都有时间听着头次号令响支起罗锅就造饭。",
+      "sentence": "李三娘询问丈夫为何去当兵",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "爬冰卧雪你不容易白天站岗你连廛战、到晚了把你扎到墙子上当兵吃粮可不是好事情肩膀上背着六十斤你去到了军队上吃饭出战都有时间听着头次号令响支起罗锅就造饭。",
+      "sentence": "当兵吃粮并不是一件好事情",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "爬冰卧雪你不容易白天站岗你连廛战、到晚了把你扎到墙子上当兵吃粮可不是好事情肩膀上背着六十斤你去到了军队上吃饭出战都有时间听着头次号令响支起罗锅就造饭。",
+      "sentence": "军队生活需要严格遵守时间",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "听着二次号令响端起木碗子就吃饭。",
+      "sentence": "听到号令后立即开始用餐",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三次号令响了就出战碗里的饭都吃不上蹬掉罗锅倒掉饭木碗子揣到怀里就出战。",
+      "sentence": "三次号令响起后立即出战",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "三次号令响了就出战碗里的饭都吃不上蹬掉罗锅倒掉饭木碗子揣到怀里就出战。",
+      "sentence": "碗里的饭来不及吃完",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "三次号令响了就出战碗里的饭都吃不上蹬掉罗锅倒掉饭木碗子揣到怀里就出战。",
+      "sentence": "揣起木碗就立即出战",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "前头的箭头子哗啦啦啦滴雨点，后头催阵的老哥拿的大刀砍。",
+      "sentence": "箭头子如雨点般密集落下",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "前头的箭头子哗啦啦啦滴雨点，后头催阵的老哥拿的大刀砍。",
+      "sentence": "老哥持大刀催促士兵前进",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "军队上死人不如一个鸡，谁叫你当兵吃粮去?你今个当兵吃粮进军营，丢下妻子叫我靠何人?家无主呀身无靠身子靠的是城隍庙，直正哭着不得了。",
+      "sentence": "军队上死人不如一个鸡",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "军队上死人不如一个鸡，谁叫你当兵吃粮去?你今个当兵吃粮进军营，丢下妻子叫我靠何人?家无主呀身无靠身子靠的是城隍庙，直正哭着不得了。",
+      "sentence": "有人质问为何要当兵吃粮",
+      "behavior_type": 7
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "军队上死人不如一个鸡，谁叫你当兵吃粮去?你今个当兵吃粮进军营，丢下妻子叫我靠何人?家无主呀身无靠身子靠的是城隍庙，直正哭着不得了。",
+      "sentence": "李三娘因丈夫当兵感到悲伤",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "军队上死人不如一个鸡，谁叫你当兵吃粮去?你今个当兵吃粮进军营，丢下妻子叫我靠何人?家无主呀身无靠身子靠的是城隍庙，直正哭着不得了。",
+      "sentence": "李三娘失去依靠无处安身",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘高拉着妻子的手不要哭，不要喊，哭着喊着是枉然。",
+      "sentence": "刘高劝慰妻子不要哭泣",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "刘高拉着妻子的手不要哭，不要喊，哭着喊着是枉然。",
+      "sentence": "哭泣和喊叫都是徒劳的",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "我走了家里没人手就剩你妻子一个人。",
+      "sentence": "刘高告知妻子家中只剩她一人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "我把你送到娘家门，连你的爹爹妈妈哥哥嫂嫂在家中你在娘家过几春我已经揽了黄榜投了营，滨州城上把贼平。",
+      "sentence": "刘高告诉妻子送她回娘家",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "我把你送到娘家门，连你的爹爹妈妈哥哥嫂嫂在家中你在娘家过几春我已经揽了黄榜投了营，滨州城上把贼平。",
+      "sentence": "刘高已应征入伍平叛贼",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "我去把滨州的贼子平太平，回来了我们夫妻双双再相逢。",
+      "sentence": "刘高前往滨州平定贼寇",
+      "behavior_type": 4
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "我去把滨州的贼子平太平，回来了我们夫妻双双再相逢。",
+      "sentence": "刘高承诺归来与妻重逢",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "领着妻儿往前行赶着来到了李家门。",
+      "sentence": "刘高带着妻子来到李家门前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "李乐天夫妇眼看女儿女婿到赶紧迎到书房中。",
+      "sentence": "李乐天夫妇迎接女儿女婿到书房",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "抬起头来细端详两个人的面色怎么不宽展。",
+      "sentence": "抬起头来仔细观察两人面色",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "顶嘴了么是打架了?夫妻们打架是经常的，夫妻没有隔夜的气，哎，好好去了过去吧。",
+      "sentence": "夫妻之间发生了争执",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "夫妻们双膝跪倒地埃尘.叫声父母老双亲。",
+      "sentence": "李三娘跪地向父母诉说心声",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "夫妻们双膝跪倒地埃尘.叫声父母老双亲。",
+      "sentence": "刘知远跪地向父母诉说心声",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们也不是吵了嘴了打了架了家里的事情难得很。",
+      "sentence": "家庭事务令人感到十分困扰",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "如今天遭了年荒真苦情爹妈饿死到了家廊中。",
+      "sentence": "年荒导致爹妈饿死在家中",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "我已经当兵吃粮投了营，去到滨州把贼平。",
+      "sentence": "刘知远已参军前往滨州平叛",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "明天开差就起身，不能耽搁国家的大事情。",
+      "sentence": "刘知远明日启程前往滨州",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "丢下你的女儿李三春无依无靠一个人。",
+      "sentence": "李三娘被抛弃后无依无靠",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我今个带到你娘家门，你也给我议上二斗麦子十两银我去了拿到路上当个小盘用。",
+      "sentence": "带到娘家商议麦子和银两",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "我投军吃粮当了兵把滨州的贼子平太平。",
+      "sentence": "刘知远投军平定滨州贼子",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "回来了我撤约来赎身赎我的妻子李三春。",
+      "sentence": "刘高回来赎妻子李三春",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "夫妻双双再相逢，不知道岳父岳母从不从?李乐天一听无奈何门婿已经当了兵不能耽搁国家的大事情给了二斗麦子十两银议了个议约把三春议到娘家的门你把滨州的贼子平太平有官没官就回家中你不了站到滨州城把妻子撇到家廊中背祖忘恩昧良心我们是年高寿大老了的人人有当时之灾哩，马有拴缰之病哩我们活着倒不要紧我们若果归了阴三春定要受溜辛(艰难)。",
+      "sentence": "李三娘与丈夫重逢感到无奈",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "夫妻双双再相逢，不知道岳父岳母从不从?李乐天一听无奈何门婿已经当了兵不能耽搁国家的大事情给了二斗麦子十两银议了个议约把三春议到娘家的门你把滨州的贼子平太平有官没官就回家中你不了站到滨州城把妻子撇到家廊中背祖忘恩昧良心我们是年高寿大老了的人人有当时之灾哩，马有拴缰之病哩我们活着倒不要紧我们若果归了阴三春定要受溜辛(艰难)。",
+      "sentence": "刘高投军吃粮当了兵",
+      "behavior_type": 4
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "夫妻双双再相逢，不知道岳父岳母从不从?李乐天一听无奈何门婿已经当了兵不能耽搁国家的大事情给了二斗麦子十两银议了个议约把三春议到娘家的门你把滨州的贼子平太平有官没官就回家中你不了站到滨州城把妻子撇到家廊中背祖忘恩昧良心我们是年高寿大老了的人人有当时之灾哩，马有拴缰之病哩我们活着倒不要紧我们若果归了阴三春定要受溜辛(艰难)。",
+      "sentence": "李三春被议到娘家门",
+      "behavior_type": 12
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "夫妻双双再相逢，不知道岳父岳母从不从?李乐天一听无奈何门婿已经当了兵不能耽搁国家的大事情给了二斗麦子十两银议了个议约把三春议到娘家的门你把滨州的贼子平太平有官没官就回家中你不了站到滨州城把妻子撇到家廊中背祖忘恩昧良心我们是年高寿大老了的人人有当时之灾哩，马有拴缰之病哩我们活着倒不要紧我们若果归了阴三春定要受溜辛(艰难)。",
+      "sentence": "刘高要平定滨州贼子",
+      "behavior_type": 9
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "夫妻双双再相逢，不知道岳父岳母从不从?李乐天一听无奈何门婿已经当了兵不能耽搁国家的大事情给了二斗麦子十两银议了个议约把三春议到娘家的门你把滨州的贼子平太平有官没官就回家中你不了站到滨州城把妻子撇到家廊中背祖忘恩昧良心我们是年高寿大老了的人人有当时之灾哩，马有拴缰之病哩我们活着倒不要紧我们若果归了阴三春定要受溜辛(艰难)。",
+      "sentence": "刘高承诺回家赎妻子",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "夫妻双双再相逢，不知道岳父岳母从不从?李乐天一听无奈何门婿已经当了兵不能耽搁国家的大事情给了二斗麦子十两银议了个议约把三春议到娘家的门你把滨州的贼子平太平有官没官就回家中你不了站到滨州城把妻子撇到家廊中背祖忘恩昧良心我们是年高寿大老了的人人有当时之灾哩，马有拴缰之病哩我们活着倒不要紧我们若果归了阴三春定要受溜辛(艰难)。",
+      "sentence": "年高寿大的人担心李三春",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘高跪在地埃尘叫声岳父岳母亲我若站到滨州城背祖忘恩昧良心我就不是刘家的好子孙。",
+      "sentence": "刘高跪地呼唤岳父岳母",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘高跪在地埃尘叫声岳父岳母亲我若站到滨州城背祖忘恩昧良心我就不是刘家的好子孙。",
+      "sentence": "刘高表示不愿背祖忘恩",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘高马上要起身李三春一把拽住了夫郎君，开言就把我的丈夫尊。",
+      "sentence": "刘高准备起身离开",
+      "behavior_type": 4
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "刘高马上要起身李三春一把拽住了夫郎君，开言就把我的丈夫尊。",
+      "sentence": "李三娘拉住丈夫刘高",
+      "behavior_type": 13
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "刘高马上要起身李三春一把拽住了夫郎君，开言就把我的丈夫尊。",
+      "sentence": "李三娘尊称丈夫刘高",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "我的夫郎君啊你就慢慢儿地走来慢慢儿地行妻子我有话给你来安顿。",
+      "sentence": "李三娘叮嘱丈夫慢行有话要说",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "出远门的事儿最要紧千年的古墙根不稳风吹日晒的松了劲遇上天爷刮怪风古墙跌到砸死人，单就等你出门的人。",
+      "sentence": "出远门的事情最为重要",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "了远门你不能忘了家，勒勤儿往家里你捎书信。",
+      "sentence": "李三娘叮嘱丈夫常寄家书",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "三步儿的湾里你把家书给我捎，五步儿的远里你把口信给我带。",
+      "sentence": "李三娘嘱咐丈夫捎带家书口信",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "你去了你就早去早回程你不了背祖忘妻昧良心。",
+      "sentence": "李三娘嘱咐丈夫早去早回",
+      "behavior_type": 7
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "你去了你就早去早回程你不了背祖忘妻昧良心。",
+      "sentence": "李三娘担忧丈夫背祖忘妻",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "夫妻们正然来安顿，刘大人大炮通通响三声即刻点兵要起身。",
+      "sentence": "刘知远立即点兵准备出发",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘高两膀攒了十股子劲摔开腿子一溜风妻子撇在大门中，满眼落泪哭伤心。",
+      "sentence": "刘高迅速离开妻子奔向远方",
+      "behavior_type": 4
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "刘高两膀攒了十股子劲摔开腿子一溜风妻子撇在大门中，满眼落泪哭伤心。",
+      "sentence": "李三娘因离别而伤心落泪",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "丈夫走掉一场空孤孤单单叫我活什么人?丈夫走掉一场空越走越远瞭不真嘴里说的不想他.心里好像刀子扎。",
+      "sentence": "李三娘因丈夫离去感到孤独悲伤",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "丈夫走掉一场空孤孤单单叫我活什么人?丈夫走掉一场空越走越远瞭不真嘴里说的不想他.心里好像刀子扎。",
+      "sentence": "李三娘心中痛苦如刀割一般",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘高来到军营中点了前营点后营。",
+      "sentence": "刘高在军营中检阅前后营",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "点了左营点右营众兵官点齐了十三名。",
+      "sentence": "刘高在军营中清点士兵数量",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "大炮通通通的响三声连人带马出了那马鞍城。",
+      "sentence": "刘高率领兵马离开马鞍城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "逢山就打山上过遇岭就打岭上行。",
+      "sentence": "刘高带领军队翻山越岭行进",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "书上唱起眼一睁路上走起数月整。",
+      "sentence": "书上唱起眼一睁路上走起数月整",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "说个到，真格到，刘高到了滨州城上了。",
+      "sentence": "刘高最终抵达了滨州城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘高到了滨州城，滨州城上扎了营。",
+      "sentence": "刘高率领军队抵达滨州城",
+      "behavior_type": 4
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘高到了滨州城，滨州城上扎了营。",
+      "sentence": "刘高在滨州城安营扎寨",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘高正在军营里站，帅字旗插在军营上，杆杆黄旗遮太阳。",
+      "sentence": "刘高在军营中站立",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "刘高正在军营里站，帅字旗插在军营上，杆杆黄旗遮太阳。",
+      "sentence": "帅字旗插在军营上",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "刘高正在军营里站，帅字旗插在军营上，杆杆黄旗遮太阳。",
+      "sentence": "黄旗遮挡了太阳光",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "抬起头，观分明，草地里扑来了贼一群。",
+      "sentence": "刘高抬头看见草地里扑来贼群",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "来了贼头子四十名，把刘高四面团团围了个硬。",
+      "sentence": "刘高被四十名贼头子团团围住",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘高一见怒气生拿了一根熟铜棍在贼娃子的伙里下歹心头一棒打了个白马歇蹄第二榛打了个燕子衔泥，第三棒打了个黑驴儿打滚。",
+      "sentence": "刘高见状愤怒地拿起熟铜棍",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘高一见怒气生拿了一根熟铜棍在贼娃子的伙里下歹心头一棒打了个白马歇蹄第二榛打了个燕子衔泥，第三棒打了个黑驴儿打滚。",
+      "sentence": "刘高连续击打敌人三次",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "第四棒打了个老和尚倒顶山门，第五棒打了个旋风嘟噜噜圆，第六棒打了个老汉过白毡。",
+      "sentence": "刘高连续击打敌人展现武艺",
+      "behavior_type": 9
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "第四棒打了个老和尚倒顶山门，第五棒打了个旋风嘟噜噜圆，第六棒打了个老汉过白毡。",
+      "sentence": "刘高施展棍法击败多名敌人",
+      "behavior_type": 9
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "第四棒打了个老和尚倒顶山门，第五棒打了个旋风嘟噜噜圆，第六棒打了个老汉过白毡。",
+      "sentence": "刘高以棍法击退围攻的敌人",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "贼人使的八步小洪拳刘高使的白马扑草滩。",
+      "sentence": "刘高使用白马扑草滩招式对抗敌人",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "贼人使的八步小洪拳刘高使的白马扑草滩。",
+      "sentence": "贼人施展八步小洪拳进行攻击",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "贼人使的泥里栽葱刘高使的鹞子翻身。",
+      "sentence": "刘高使用鹞子翻身招式",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "贼人使的泥里栽葱刘高使的鹞子翻身。",
+      "sentence": "贼人使用泥里栽葱招式",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "贼人使的一指挖油刘高使的五把抓喉。",
+      "sentence": "刘高使用五把抓喉对抗贼人",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "贼人使的一指挖油刘高使的五把抓喉。",
+      "sentence": "贼人使用一指挖油攻击刘高",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "贼人使的胸前挂印刘高使的黄老鼠打洞。",
+      "sentence": "刘高使用黄老鼠打洞招式",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "贼人使的胸前挂印刘高使的黄老鼠打洞。",
+      "sentence": "贼人使用胸前挂印招式",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "贼人使的黑虎掏心刘高使的两耳贯风。",
+      "sentence": "刘高使用两耳贯风对抗敌人",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "贼人使的黑虎掏心刘高使的两耳贯风。",
+      "sentence": "贼人使用黑虎掏心攻击刘高",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "贼人使的金鸡捏嗉刘高使的黄鹰晒翅。",
+      "sentence": "刘高使出了黄鹰晒翅的招式",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "贼人使的金鸡捏嗉刘高使的黄鹰晒翅。",
+      "sentence": "贼人使出了金鸡捏嗉的招式",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "杀杀杀，战战战，来来往往丁丁当当，杀了二百多个回合，打了一百多个照面，两家不分胜败。",
+      "sentence": "双方激烈交战未分胜负",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "来了来了谁来了十万八千鞑子都来了。",
+      "sentence": "十万八千鞑子已经全部到达",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "前也是人，后也是人，左也是人，右也是人。",
+      "sentence": "前后左右都是人",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "把刘高战了个力尽汗干无法行。",
+      "sentence": "刘高战斗至力竭无法行动",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "眼睛一眯丢了个盹，梦见了神仙爷给教兵法。",
+      "sentence": "某人梦见神仙传授兵法",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "提起刀来刀也会，拿起剑来剑也全。",
+      "sentence": "提起刀和剑都能熟练使用",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "文也全，武也全，岁数不大二十三，十八般武艺样样全。",
+      "sentence": "刘高十八般武艺样样精通",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "胯下两匹千里马，骑一匹，拉一匹，一保一坐。",
+      "sentence": "刘高骑着一匹千里马前行",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "身背硬弓雕翎箭，左挎弓，右挎箭，一马双箭。",
+      "sentence": "刘高身背硬弓并携带雕翎箭",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "我有心叫我的兵丁们冲，怕的是自己踏乱自己的营，自己杀坏自己的人。",
+      "sentence": "刘高担心兵丁冲乱自己的军营",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "一马纵到贼当中，随手使了个杀手锏。",
+      "sentence": "刘知远骑马冲入敌阵中",
+      "behavior_type": 4
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "一马纵到贼当中，随手使了个杀手锏。",
+      "sentence": "刘知远使出致命杀手锏",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "喝一声杀声炸雷响。",
+      "sentence": "杀声如雷响彻战场",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人头就像瓜一般。",
+      "sentence": "人头形状如同瓜一般",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "前头杀了个人摞人，后头杀得尸首马难行。",
+      "sentence": "前方杀戮导致尸体堆积如山",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "前头杀了个人摞人，后头杀得尸首马难行。",
+      "sentence": "后方杀戮使马匹难以行进",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "杀得人头如瓜滚，杀得人血如河深。",
+      "sentence": "战场上人头落地血流成河",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "杀了个天也红，地也红，土也红、草也红。",
+      "sentence": "刘知远杀敌使天地染红",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人身上冒得血淋淋，菊花青染成枣儿红。",
+      "sentence": "人身上冒出血淋淋",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "人身上冒得血淋淋，菊花青染成枣儿红。",
+      "sentence": "菊花青染成枣儿红",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "遥遥儿杀了一天整，把十万八千鞑子都杀尽，活捉了贼寇四十名。",
+      "sentence": "连续战斗一整天消灭大量敌人",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "遥遥儿杀了一天整，把十万八千鞑子都杀尽，活捉了贼寇四十名。",
+      "sentence": "成功活捉四十名敌方贼寇",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "摩岩青",
+      "original_sentence": "一刀下去照得准，杀掉贼蛮子九崖都督叫个摩岩青把滨州的贼子平太平，收了军兵回营中。",
+      "sentence": "摩岩青被一刀精准击杀",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "一刀下去照得准，杀掉贼蛮子九崖都督叫个摩岩青把滨州的贼子平太平，收了军兵回营中。",
+      "sentence": "军队平定滨州后返回营中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "赶着来了上金殿，主儿的面前交印鉴。",
+      "sentence": "刘知远前往金殿上交印鉴",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "一时就到午朝门，金钟玉鼓头起响，文武大臣登金殿金钟玉鼓二起响文武大臣排两班金钟玉鼓三起响主人坐到龙案前金钟玉鼓四起响文武大臣拜君王金钟玉鼓五起响爱卿来到君面前下边来的是何人，下边来的刘爱卿。",
+      "sentence": "刘高来到君王面前行礼",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "一时就到午朝门，金钟玉鼓头起响，文武大臣登金殿金钟玉鼓二起响文武大臣排两班金钟玉鼓三起响主人坐到龙案前金钟玉鼓四起响文武大臣拜君王金钟玉鼓五起响爱卿来到君面前下边来的是何人，下边来的刘爱卿。",
+      "sentence": "文武大臣在殿前排班",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "一时就到午朝门，金钟玉鼓头起响，文武大臣登金殿金钟玉鼓二起响文武大臣排两班金钟玉鼓三起响主人坐到龙案前金钟玉鼓四起响文武大臣拜君王金钟玉鼓五起响爱卿来到君面前下边来的是何人，下边来的刘爱卿。",
+      "sentence": "君王坐在龙案前听政",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘高生来杀心重，能给主人定太平。",
+      "sentence": "刘高生性喜好杀戮",
+      "behavior_type": 10
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘高生来杀心重，能给主人定太平。",
+      "sentence": "刘高能够平定动乱",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "主人听罢心喜欢，把刘高叫到金殿上。",
+      "sentence": "刘高被主人召至金殿上",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "主人听罢心喜欢，把刘高叫到金殿上。",
+      "sentence": "主人听闻后感到非常高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "哎，好一个骁勇的小刘高，能给我主人定太平，保我主人落安宁。",
+      "sentence": "刘高向主人保证能够平定太平",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "平了贼，功劳重，给你个大官你莫可弃给你个小官你莫可争给你些绫罗绸缎没名声我先问问你的家里是什么人。",
+      "sentence": "刘高因平贼有功被询问家世",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘高生来贼得很走上前来叫主人。",
+      "sentence": "刘高走上前来向主人问好",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "天遭年荒真苦情爹娘饿死到家廊中。",
+      "sentence": "天灾导致父母在家中饿死",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "上无哥哥下无兄再无姐儿姊妹们。",
+      "sentence": "刘高家中没有兄弟姐妹",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "我的爷爷爸爸都死尽就是我刘高一个人。",
+      "sentence": "刘高的父母都已去世",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "我无依无靠无法行，我才揽的皇榜投的营今儿个来到滨州城。",
+      "sentence": "刘高因无依无靠而投军",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "主人听罢此番言好一个清真的小刘高。",
+      "sentence": "主人听完刘高讲述自身经历",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "既然你是单身独立一个人我有几句话儿要对你明。",
+      "sentence": "有话要对刘高说明",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "不知道你刘高从不从?白：哎，主人，有什么话讲出口来，能从的尽量从，不能从的万可不从。",
+      "sentence": "刘高询问主人有何话语要讲",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "不知道你刘高从不从?白：哎，主人，有什么话讲出口来，能从的尽量从，不能从的万可不从。",
+      "sentence": "主人向刘高表明自己的态度",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "能从不能从，讲出来我先听。",
+      "sentence": "刘高表示愿意听取主人意见",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "月娘娘",
+      "original_sentence": "我有个公主叫个月娘娘，收你个东床驸马你从不从?刘高听罢腰子一伸，磕头谢罢岳父老大人。",
+      "sentence": "月娘娘提议收刘高为东床驸马",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "我有个公主叫个月娘娘，收你个东床驸马你从不从?刘高听罢腰子一伸，磕头谢罢岳父老大人。",
+      "sentence": "刘高向岳父大人磕头致谢",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "唱：主人把刘高带到了金殿上头戴了乌纱帽身穿了大红袍，罗丝装的靴子足下蹬让刘高坐在了金殿中。",
+      "sentence": "刘高头戴乌纱帽身穿大红袍",
+      "behavior_type": 1
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "唱：主人把刘高带到了金殿上头戴了乌纱帽身穿了大红袍，罗丝装的靴子足下蹬让刘高坐在了金殿中。",
+      "sentence": "刘高被安排坐在金殿中",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "月娘娘",
+      "original_sentence": "吩咐了十二个美宫女.赶紧给我找月娘娘，打扮身子上金殿。",
+      "sentence": "月娘娘被要求打扮后上金殿",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "你去了给她说清干，就说平了贼的个大将军名叫刘高，招一个东床驸马，叫她赶紧来上殿。",
+      "sentence": "刘高告知月娘娘招驸马之事",
+      "behavior_type": 7
+    },
+    {
+      "role": "月娘娘",
+      "original_sentence": "你去了给她说清干，就说平了贼的个大将军名叫刘高，招一个东床驸马，叫她赶紧来上殿。",
+      "sentence": "月娘娘需立即前往金殿",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十二美女听了言，赶着来到了高楼上。",
+      "sentence": "十二位美女迅速前往高楼",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "月娘娘",
+      "original_sentence": "说了声公主月娘娘，说是你家老父吩咐的，平了滨州贼的大将军，收一个驸马你可从不从?公主一听好高兴，抓耳挠腮跳蹦蹦。",
+      "sentence": "月娘娘听闻后感到非常高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "月娘娘",
+      "original_sentence": "好了好了实好了，我的父亲眼力高，平贼的大将军给我瞅下了。",
+      "sentence": "月娘娘对父亲的选择感到高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "松树高，柳树也高，这样的一个女婿子就配成了。",
+      "sentence": "松树和柳树都很高",
+      "behavior_type": 12
+    },
+    {
+      "role": "月娘娘",
+      "original_sentence": "松树高，柳树也高，这样的一个女婿子就配成了。",
+      "sentence": "月娘娘对婚事感到满意",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "月娘娘",
+      "original_sentence": "鸡毛掸下的掸肘儿，老天给我配下的两口儿。",
+      "sentence": "月娘娘对婚事感到非常高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "低头走来抬头看不觉意来到了金殿上。",
+      "sentence": "低头行走不觉来到金殿上",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "月娘娘",
+      "original_sentence": "双膝跪到地埃尘父王爹爹面前把礼行。",
+      "sentence": "月娘娘双膝跪地向父王行礼",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "叫声我的父亲你在上，娇生女儿跪面前。",
+      "sentence": "李三娘跪地向父亲问安",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李宏信",
+      "original_sentence": "李宏信双手拉着妻儿，妻儿呀妻儿我不敢出头露面啊白：唱：我们同胞姊妹亲下这个手去我难得很。",
+      "sentence": "李宏信双手拉着妻儿",
+      "behavior_type": 13
+    },
+    {
+      "role": "李宏信",
+      "original_sentence": "李宏信双手拉着妻儿，妻儿呀妻儿我不敢出头露面啊白：唱：我们同胞姊妹亲下这个手去我难得很。",
+      "sentence": "李宏信不敢出头露面",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "他的左肩高右肩低，必定他家里有前妻。",
+      "sentence": "刘高左肩高右肩低",
+      "behavior_type": 1
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "他的左肩高右肩低，必定他家里有前妻。",
+      "sentence": "刘高家中已有前妻",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘高听罢此言，一见公主娘娘长得实在漂亮，咬住牙子，不给他承认。",
+      "sentence": "刘高见到公主后心生爱慕之情",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘高听罢此言，一见公主娘娘长得实在漂亮，咬住牙子，不给他承认。",
+      "sentence": "刘高咬紧牙关拒绝承认事实",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "唱：哎，叫公主，你当听，天遭年荒真苦情爹娘饿死到家廊中。",
+      "sentence": "天遭年荒导致父母饿死家中",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "上无哥哥下无兄，再无姐儿姊妹们。",
+      "sentence": "此人无兄弟姐妹",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "我的爷爷爸爸都死尽，就是我刘高一个人。",
+      "sentence": "刘高表示他的爷爷爸爸都已去世",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "我无依无靠无法行我才揽的皇榜投的营。",
+      "sentence": "刘高因无依靠而投军",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "公主娘娘听的言你说此话我不信。",
+      "sentence": "公主娘娘听到这番话表示不相信",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你当是连我招了亲你的家里还有人你背祖忘恩昧良心。",
+      "sentence": "你背弃祖先忘记恩情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "等到你的家人找上京你说这个事情叫我咋样行?刘高双膝跪在地叫声公主娘娘听听我给你说仔细。",
+      "sentence": "刘高向公主娘娘详细解释情况",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "等到你的家人找上京你说这个事情叫我咋样行?刘高双膝跪在地叫声公主娘娘听听我给你说仔细。",
+      "sentence": "刘高双膝跪地向公主诉说",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "我若果家里还有人我的老父老母娃娃大小找上门。",
+      "sentence": "刘高家中仍有父母子女存在",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "你告诉你的老父亲把我的脑袋挂到午朝门。",
+      "sentence": "刘高告诉父亲将头挂午门",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "主人听罢此番话在金殿上设起了香案供和公主娘娘成了亲。",
+      "sentence": "刘高在金殿上与公主娘娘成亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘高这里登了殿过后改名叫了个刘知远。",
+      "sentence": "刘高登殿后改名为刘知远",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "把刘高说到滨州城，滨州城上招了亲，再要回家万不能。",
+      "sentence": "刘高被派遣至滨州城招亲",
+      "behavior_type": 4
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "把刘高说到滨州城，滨州城上招了亲，再要回家万不能。",
+      "sentence": "刘高在滨州城无法再回家",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "竹叶青，状元红，花开两朵另表人。",
+      "sentence": "竹叶青和状元红花开两朵",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "唱的东，表的西此话表到他家里。",
+      "sentence": "唱东表西此话表到他家里",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "他家不表别的人，再说他的妻子李三春。",
+      "sentence": "李三娘在家中等待丈夫归来",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "李三春，正在家，李家出来了个新歹人。",
+      "sentence": "李家出现了一个新的歹人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李宏信",
+      "original_sentence": "歹人不是别的人，正是他的哥哥李宏信，和他的嫂子一丈青。",
+      "sentence": "李宏信与一丈青成为新歹人",
+      "behavior_type": 10
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "歹人不是别的人，正是他的哥哥李宏信，和他的嫂子一丈青。",
+      "sentence": "一丈青与李宏信成为新歹人",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "说起哥哥还倒罢，提起嫂子心肠狠。",
+      "sentence": "一丈青心肠狠毒令人发指",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "傢把丈夫尊几声，叫声丈夫呀，我们天遭年荒真苦情，一斗麦子十两银，买下了一个小奴根。",
+      "sentence": "李三娘向丈夫诉说家中困境",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "爹爹妈妈都死尽，你说该叫我们怎样行?爹妈在着还倒罢，如今的爹妈病倒床，一死叫我们怎么办?爹妈病倒在床上起不了身，吃不吃的用不用。",
+      "sentence": "父母去世后他们陷入困境",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "爹爹妈妈都死尽，你说该叫我们怎样行?爹妈在着还倒罢，如今的爹妈病倒床，一死叫我们怎么办?爹妈病倒在床上起不了身，吃不吃的用不用。",
+      "sentence": "父母病倒后他们不知所措",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "爹爹妈妈都死尽，你说该叫我们怎样行?爹妈在着还倒罢，如今的爹妈病倒床，一死叫我们怎么办?爹妈病倒在床上起不了身，吃不吃的用不用。",
+      "sentence": "父母病倒在床无法起身",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "活该这李三春受难辛。",
+      "sentence": "李三春遭受苦难是应得的",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李宏信",
+      "original_sentence": "李三春李宏信来到病房中，开言便把双亲叫几声。",
+      "sentence": "李宏信来到病房中看望双亲",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "李三春李宏信来到病房中，开言便把双亲叫几声。",
+      "sentence": "李宏信在病房中呼唤双亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李宏信",
+      "original_sentence": "我的老双亲啊，你们到底得的什么病?我查访到一个好医生，看好双亲的病起身，啊，我的老双亲。",
+      "sentence": "李宏信询问双亲病情并提及医生",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李宏信",
+      "original_sentence": "病了的双亲开言道，忙把小冤家叫一叫。",
+      "sentence": "李宏信询问双亲的病情",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "病了的双亲开言道，忙把小冤家叫一叫。",
+      "sentence": "双亲呼唤小冤家前来",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的一对小冤家啊，我这病，也不是天降病，也不是地给病，阎君爷就要下我的活性命。",
+      "sentence": "阎君爷即将夺走我的性命",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一阵阵热着来架火烧一阵阵冷着来凉水浇。",
+      "sentence": "身体忽冷忽热如同水火交替",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李宏信",
+      "original_sentence": "想着叫我活起万不能盼着活呀活不到夜黄昏呀，我的娃娃们。",
+      "sentence": "李宏信认为自己无法活到黄昏",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李宏信",
+      "original_sentence": "宏信娃娃你听真再的事情我不扯心扯的是你的妹子李三春。",
+      "sentence": "李宏信告诉娃娃不要担心妹妹",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "刘姑爷上了滨州城书没书的信没信。",
+      "sentence": "刘姑爷前往滨州城后无书信",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "李宏信",
+      "original_sentence": "我若活下了我照应，我若今个归了阴可怜了你的妹妹李三春。",
+      "sentence": "李宏信担心妹妹李三春的未来",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "你要在家里好照应等着那刘高转回程，让傢们夫妻双双得相逢。",
+      "sentence": "李三娘在家等待刘高归来",
+      "behavior_type": 12
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "你要在家里好照应等着那刘高转回程，让傢们夫妻双双得相逢。",
+      "sentence": "刘高从滨州城返回家中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "李宏信",
+      "original_sentence": "你可万万不了难为你的妹妹李三春也不了冲撞着说傢李三春。",
+      "sentence": "李宏信被告知不要难为李三春",
+      "behavior_type": 7
+    },
+    {
+      "role": "李宏信",
+      "original_sentence": "你可万万不了难为你的妹妹李三春也不了冲撞着说傢李三春。",
+      "sentence": "李宏信被告知不要冲撞李三春",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们家里多福分，吃吃喝喝不要紧。",
+      "sentence": "家中饮食无忧无虑",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "要等着刘姑爷回来了叫傢夫妻得相逢。",
+      "sentence": "李三娘等待刘姑爷归来重逢",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "我说的话儿你记在心。",
+      "sentence": "李三娘叮嘱对方记住她的话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "万万不能过了耳边风。",
+      "sentence": "不能将话语当作耳边风",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一句话儿刚说完嗓子里克啷啷啷克啷啷啷响。",
+      "sentence": "说话时嗓子里发出声响",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两个眼睛往上翻七窍流血归了阴。",
+      "sentence": "某人七窍流血后死亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "午时爷爷归了阴未时奶奶见阎君。",
+      "sentence": "午时爷爷去世未时奶奶离世",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一对爹妈归了阴李三春姊妹两个哭在了丧房中。",
+      "sentence": "父母去世后姐妹两人在丧房哭泣",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的双亲啊!我的父亲死了母亲给我留，母亲死了父亲给我在。",
+      "sentence": "双亲相继去世子女悲痛万分",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "父亲母亲一满归了阴.撇下了我冤家年纪儿轻。",
+      "sentence": "父母双亡留下年轻子女",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "年又轻、骨又嫩、千斤重的担子我也驮不动。",
+      "sentence": "李三娘感到无力承担重担",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我东门没有出过西门没有进，掐掉头的苍蝇叫我哪里碰?我的双亲呀!我的老双亲!姊妹两个哭着不下场，左邻右舍好相劝。",
+      "sentence": "李三春姐妹两人在丧房哭泣",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "我东门没有出过西门没有进，掐掉头的苍蝇叫我哪里碰?我的双亲呀!我的老双亲!姊妹两个哭着不下场，左邻右舍好相劝。",
+      "sentence": "李三春姐妹两人感到极度悲伤",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "我东门没有出过西门没有进，掐掉头的苍蝇叫我哪里碰?我的双亲呀!我的老双亲!姊妹两个哭着不下场，左邻右舍好相劝。",
+      "sentence": "左邻右舍前来劝慰姐妹两人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不要哭来不要喊，哭着喊着是枉然。",
+      "sentence": "哭泣和喊叫都是徒劳的",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "柏木棺材做现成，一对爹妈并到祖坟茔。",
+      "sentence": "柏木棺材已经制作完成",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "柏木棺材做现成，一对爹妈并到祖坟茔。",
+      "sentence": "父母被安葬在祖坟中",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三春在房中起了身，李家出了新歹人。",
+      "sentence": "三春在房中起身离开",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "三春在房中起了身，李家出了新歹人。",
+      "sentence": "李家出现了新的歹人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李宏信",
+      "original_sentence": "歹人不是别的人，就是哥哥李宏信，还有嫂子张秀英。",
+      "sentence": "李宏信与张秀英是歹人",
+      "behavior_type": 10
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "歹人不是别的人，就是哥哥李宏信，还有嫂子张秀英。",
+      "sentence": "张秀英与李宏信是歹人",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一丈青，心肠狠，要叫他李三春反穿罗裙另嫁人。",
+      "sentence": "一丈青强迫李三春改嫁他人",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "背地里想了曲曲心，枕头上就把丈夫哄。",
+      "sentence": "张秀英在枕头上哄骗丈夫",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "爹妈在着，有爹妈来照应，爹妈不在了，这个奴根又不正经。",
+      "sentence": "父母在世时有父母照顾",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "爹妈在着，有爹妈来照应，爹妈不在了，这个奴根又不正经。",
+      "sentence": "父母去世后无人照应",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "再不了勾溜上个旁人来闹哄，私疙瘩生到我们娘家可瞬(倒霉、晦气)得很!我思想叫她反穿罗裙重嫁人，早些儿离过我们李家的门。",
+      "sentence": "一丈青计划让李三春改嫁他人",
+      "behavior_type": 7
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "再不了勾溜上个旁人来闹哄，私疙瘩生到我们娘家可瞬(倒霉、晦气)得很!我思想叫她反穿罗裙重嫁人，早些儿离过我们李家的门。",
+      "sentence": "一丈青希望李三春离开李家",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李宏信",
+      "original_sentence": "白：李宏信便说，叫声我家妻儿，我的爹妈去世时给我安顿，不能虐待了三春。",
+      "sentence": "李宏信告诉妻子不能虐待三春",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哟，这个龟头精，塌头精。",
+      "sentence": "龟头精塌头精行为不端",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "李宏信",
+      "original_sentence": "唱：你若不听我的话，你的家里我不站它。",
+      "sentence": "李宏信威胁妻子若不听话就离开",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "我不是投井就落河，我不是上吊就抹脖。",
+      "sentence": "李三娘选择投井或落河结束生命",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李宏信",
+      "original_sentence": "口我不能活，你的家里我不能。",
+      "sentence": "李宏信表示无法继续留在家里",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "白：主人听罢此言，说道我家女儿，金殿上是平了贼的大将军，名叫小刘高，他是孤身一人，做一个半边儿子半边女婿和你招了亲，连你配成婚，不知道你女儿从不从?公主娘娘走上前来，我看刘高这个人他的左眼青右眼红，肯定他家里还有人。",
+      "sentence": "主人称赞刘高是平贼大将军",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "白：主人听罢此言，说道我家女儿，金殿上是平了贼的大将军，名叫小刘高，他是孤身一人，做一个半边儿子半边女婿和你招了亲，连你配成婚，不知道你女儿从不从?公主娘娘走上前来，我看刘高这个人他的左眼青右眼红，肯定他家里还有人。",
+      "sentence": "公主观察刘高眼睛颜色异常",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "白：主人听罢此言，说道我家女儿，金殿上是平了贼的大将军，名叫小刘高，他是孤身一人，做一个半边儿子半边女婿和你招了亲，连你配成婚，不知道你女儿从不从?公主娘娘走上前来，我看刘高这个人他的左眼青右眼红，肯定他家里还有人。",
+      "sentence": "公主怀疑刘高家中仍有亲人",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的爹妈死掉了那可了不成但若叫傢一把来挠硬我想者起去也起不动想者走去也走不成。",
+      "sentence": "父母去世导致无法行动",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李宏信",
+      "original_sentence": "哎，这个事情交给你妻儿你问去吧，傢若是想嫁就嫁了如果不嫁了叫傢站着吧。",
+      "sentence": "李宏信将事情交给妻儿处理",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一丈青，怪高兴甩开腿子一溜风赶着来到小房中开言把小姑子尊几声。",
+      "sentence": "一丈青快步走向小房间",
+      "behavior_type": 4
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一丈青，怪高兴甩开腿子一溜风赶着来到小房中开言把小姑子尊几声。",
+      "sentence": "一丈青对小姑子说了几句话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "哎，小姑子，小姑子昨日接到了一封信，你的丈夫小刘高死到乱军阵上了叫你反穿罗裙改嫁人去哩。",
+      "sentence": "一丈青告诉小姑子刘高已战死",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "你去吧，咬，你去好好嫁个人我陪房嫁妆给你办齐整。",
+      "sentence": "一丈青劝说小姑子改嫁他人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "瞅上个高门大户的，聪明伶俐的你跟上个人了去了吧。",
+      "sentence": "一丈青劝小姑子改嫁高门大户",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "嫂嫂啊，远路上的事情谁知道?我等者丈失转回程，来了夫要双双再相逢。",
+      "sentence": "远路上的事情无人知晓",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "嫂嫂啊，远路上的事情谁知道?我等者丈失转回程，来了夫要双双再相逢。",
+      "sentence": "等待丈夫归来再相逢",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "想着叫我反穿罗裙再嫁人，这样的事情万不能。",
+      "sentence": "李三娘拒绝改嫁他人",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "白：哎、你好好嫁人还倒罢了、你若好好不嫁人去、你在我的手里活人也难肠了!嫂、哪怕你把我摊成个肉煎饼、想着叫我反穿罗裙再嫁别人、那是万不能哟!唱：一丈青，心肠狠，赶着来到了小房中。",
+      "sentence": "一丈青威胁李三娘必须改嫁",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "白：哎、你好好嫁人还倒罢了、你若好好不嫁人去、你在我的手里活人也难肠了!嫂、哪怕你把我摊成个肉煎饼、想着叫我反穿罗裙再嫁别人、那是万不能哟!唱：一丈青，心肠狠，赶着来到了小房中。",
+      "sentence": "李三娘坚决拒绝改嫁他人",
+      "behavior_type": 2
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "白：哎、你好好嫁人还倒罢了、你若好好不嫁人去、你在我的手里活人也难肠了!嫂、哪怕你把我摊成个肉煎饼、想着叫我反穿罗裙再嫁别人、那是万不能哟!唱：一丈青，心肠狠，赶着来到了小房中。",
+      "sentence": "一丈青迅速进入小房间中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "麻花剪子拿手中，双瓣子香也点上。",
+      "sentence": "一丈青手持麻花剪子点燃香",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一双破皮鞋也拿上，对着小姑子耍威风。",
+      "sentence": "一丈青手持破皮鞋对小姑子耍威风",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "狗贱人，狗杂种，头顶家法我给你教礼行。",
+      "sentence": "一丈青用家法教训对方",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "李三娘这里泪纷纷，双膝跪到了地埃尘。",
+      "sentence": "李三娘跪地痛哭流涕",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一头的青丝拿的剪子剪，两下里的眉毛拿的香头子烫。",
+      "sentence": "一丈青用剪刀剪断对方头发",
+      "behavior_type": 1
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一头的青丝拿的剪子剪，两下里的眉毛拿的香头子烫。",
+      "sentence": "一丈青用香头烫对方眉毛",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "脚底下扎脚裹脚全取光，给了一双破皮鞋把麦草垫。",
+      "sentence": "一丈青取光脚裹脚换上破皮鞋",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "叫你这个贱人不嫁人你给我担水浇花干营生。",
+      "sentence": "一丈青强迫贱人担水浇花",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "三个棱的扁担你肩头担，一天给我挑水三十担早晚你要打扫我的玉花廊各个花池里把水浇上，各个花儿上把粪壅上。",
+      "sentence": "一丈青命令李三娘每日挑水三十担",
+      "behavior_type": 10
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "三个棱的扁担你肩头担，一天给我挑水三十担早晚你要打扫我的玉花廊各个花池里把水浇上，各个花儿上把粪壅上。",
+      "sentence": "一丈青要求李三娘打扫玉花廊",
+      "behavior_type": 10
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "三个棱的扁担你肩头担，一天给我挑水三十担早晚你要打扫我的玉花廊各个花池里把水浇上，各个花儿上把粪壅上。",
+      "sentence": "一丈青指派李三娘浇花施肥",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "担一次水走着五里远，两个脚疼着走不成，皮鞋壳篓里成了个血淋淋。",
+      "sentence": "李三娘担水行走五里远",
+      "behavior_type": 4
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "担一次水走着五里远，两个脚疼着走不成，皮鞋壳篓里成了个血淋淋。",
+      "sentence": "李三娘双脚疼痛难行走",
+      "behavior_type": 1
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "担一次水走着五里远，两个脚疼着走不成，皮鞋壳篓里成了个血淋淋。",
+      "sentence": "李三娘皮鞋内血迹斑斑",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "走一步来血一点，鞋壳篓里的血水扑哧扑哧往外淌。",
+      "sentence": "李三娘行走时脚部流血不止",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "挑着水呀哭伤心，哭了声我的死去了的老双亲。",
+      "sentence": "李三娘挑水时因思念父母而哭泣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "你们去了阴曹怎知道女儿到了难中了。",
+      "sentence": "李三娘感叹父母不知其苦难",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "为娘的赘赘累累把我枉怀了血水淋淋把我枉养了。",
+      "sentence": "李三娘感叹母亲养育之恩",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "挪干就湿你们把我抓成了一个人梳头裹脚，双亲啊，你们就枉操了心。",
+      "sentence": "李三娘感叹双亲枉费心血",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你看头上的青丝叫傢剪着没一根秃里葫芦不像一个好女人。",
+      "sentence": "她的头发被剪得一根不剩",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "女不像个女来男不像个男寻上一个破帕帕子戴上来遮挡。",
+      "sentence": "李三娘戴破帕遮挡头部",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "一天叫我担水三十担晚上还叫我打扫傢的玉花廊。",
+      "sentence": "李三娘每日需担水三十担",
+      "behavior_type": 10
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "一天叫我担水三十担晚上还叫我打扫傢的玉花廊。",
+      "sentence": "李三娘晚上还需打扫玉花廊",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "叫我三春咋的办?李三春破帕帕儿来顶上，双眼落泪忙把那活生干。",
+      "sentence": "李三娘双眼落泪继续干活",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "丈夫出门不舒心，爹妈不在多难辛!无急无奈无法办日落西山天快暗忙了忙了谁忙了忙了山神土主了忙了水鬼夜叉了。",
+      "sentence": "李三娘因丈夫出门感到不舒心",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "丈夫出门不舒心，爹妈不在多难辛!无急无奈无法办日落西山天快暗忙了忙了谁忙了忙了山神土主了忙了水鬼夜叉了。",
+      "sentence": "日落西山天色逐渐变暗",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "山神土主着了忙，把瞌睡娘娘遣下凡，落在了三娘的眼睛上，三娘呼呼囔囔把觉眠。",
+      "sentence": "李三娘因疲惫而进入睡眠状态",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "土地公公",
+      "original_sentence": "土地公公着了忙给她三娘把粪壅上。",
+      "sentence": "土地公公急忙为李三娘施肥",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "水鬼夜叉着了忙给她三娘把水浇上。",
+      "sentence": "水鬼夜叉急忙为三娘浇水",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一夜五更休成眠到了第二天的清早上，一丈青嫂子送早饭。",
+      "sentence": "一丈青清晨送来早饭",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "谷拉来汤端了两黑碗，谷糠悖悖拿了整一双，把早饭送到后花园。",
+      "sentence": "一丈青将早饭送到后花园",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "狗贱人，给你，这是你一天的饭。",
+      "sentence": "一丈青将一天的饭递给对方",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "悖悖给你整一双，米汤给你两大碗，你就这么价给我把活生干。",
+      "sentence": "一丈青给李三娘送早饭",
+      "behavior_type": 7
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "悖悖给你整一双，米汤给你两大碗，你就这么价给我把活生干。",
+      "sentence": "一丈青将食物递给李三娘",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "天天你给我干营生，差下一样你可命难存。",
+      "sentence": "一丈青命令李三娘完成所有工作",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一丈青抬头观分明，好端端刚过一夜整，花园里的花儿开了一片红狗贱人，狗杂种，看起来你是个命大的人，再给你这个贱人加苦情。",
+      "sentence": "一丈青抬头看见花园里花开",
+      "behavior_type": 6
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一丈青抬头观分明，好端端刚过一夜整，花园里的花儿开了一片红狗贱人，狗杂种，看起来你是个命大的人，再给你这个贱人加苦情。",
+      "sentence": "一丈青认为对方命大加苦情",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "白日担水三十担黑了碾磨到三更天。",
+      "sentence": "一丈青白日担水三十担",
+      "behavior_type": 10
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "白日担水三十担黑了碾磨到三更天。",
+      "sentence": "一丈青夜晚碾磨到三更",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "三斗麦子拿的凉水拌打进了磨房叫她把磨碾。",
+      "sentence": "一丈青用凉水拌麦子让她碾磨",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一丈青，心肠狠，来到了家里做故精(鬼点子),害的是小姑子李三春，狗贱人，狗杂种。",
+      "sentence": "一丈青在家中设计陷害李三春",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "给你，这是三斗粮食你给我推成面，推上三斗籽儿面，三斗大麸面，三斗二捞面，三斗粮食要你的九斗面。",
+      "sentence": "一丈青命令李三娘推磨三斗面",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "麸子黑面全不算，完了你给我办齐全，差下一样你就难上难。",
+      "sentence": "一丈青要求对方完成所有任务",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "李三春猛听吓掉魂，直股儿的眼泪刷啦啦淌。",
+      "sentence": "李三春听闻后感到极度恐惧",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "开言不把别的尊忙把老天爷叫几声。",
+      "sentence": "某人急忙呼唤老天爷",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "我的苍天啊!天下的人人都是爹娘生谁像我苦命的李三春?天下的人人都是父母养，谁像我苦命的李三娘?一天给着谷拉米汤两黑碗白日担水整一天，晚上碾磨到三更天腿子里困，脑子里楞眼睛里发的黑眼风开言不把别的尊哭了声我出门的夫郎君，走的远了你回来吧走的近了你也回来吧。",
+      "sentence": "李三娘感叹自己命运多舛",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "我的苍天啊!天下的人人都是爹娘生谁像我苦命的李三春?天下的人人都是父母养，谁像我苦命的李三娘?一天给着谷拉米汤两黑碗白日担水整一天，晚上碾磨到三更天腿子里困，脑子里楞眼睛里发的黑眼风开言不把别的尊哭了声我出门的夫郎君，走的远了你回来吧走的近了你也回来吧。",
+      "sentence": "李三娘每日辛苦劳作不停",
+      "behavior_type": 12
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "我的苍天啊!天下的人人都是爹娘生谁像我苦命的李三春?天下的人人都是父母养，谁像我苦命的李三娘?一天给着谷拉米汤两黑碗白日担水整一天，晚上碾磨到三更天腿子里困，脑子里楞眼睛里发的黑眼风开言不把别的尊哭了声我出门的夫郎君，走的远了你回来吧走的近了你也回来吧。",
+      "sentence": "李三娘思念远行的丈夫",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "爹爹妈妈早早归了阴多会子你回到家廊中。",
+      "sentence": "父母早已去世多时",
+      "behavior_type": 3
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "爹爹妈妈早早归了阴多会子你回到家廊中。",
+      "sentence": "李三娘期盼丈夫早日归来",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "我们夫妻双双得相逢，讨嘴叫街我也甘心。",
+      "sentence": "李三娘与丈夫相逢后甘心乞讨",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "提起嫂子真可恨三斗粮食要磨九斗面九斗面如何能磨上，麸子黑面还全不算。",
+      "sentence": "李三娘对嫂子感到极度愤恨",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "提起嫂子真可恨三斗粮食要磨九斗面九斗面如何能磨上，麸子黑面还全不算。",
+      "sentence": "三斗粮食需磨成九斗面粉",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "磨面箩细原掺上三斗粮食如何能磨九斗面?凤团星，遭了难，山神土地又着了忙。",
+      "sentence": "李三娘被迫磨面掺假",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "磨面箩细原掺上三斗粮食如何能磨九斗面?凤团星，遭了难，山神土地又着了忙。",
+      "sentence": "凤团星遭遇重大灾难",
+      "behavior_type": 3
+    },
+    {
+      "role": "土地公公",
+      "original_sentence": "磨面箩细原掺上三斗粮食如何能磨九斗面?凤团星，遭了难，山神土地又着了忙。",
+      "sentence": "土地公公急忙处理事务",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "一满(全都)来到磨房里帮助遭难的李三娘。",
+      "sentence": "众人来到磨房帮助李三娘",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "瞌睡娘娘下了凡落在李三娘的眼睛上。",
+      "sentence": "瞌睡娘娘降临在李三娘眼中",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "李三娘，丢磨杆，倒在床上呼呼喷模把觉眠。",
+      "sentence": "李三娘放下磨杆躺在床上睡觉",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "土地公公",
+      "original_sentence": "土地公公白胡爷爷着了忙，给她三娘把磨碾。",
+      "sentence": "土地公公帮助李三娘推磨",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "一夜五更休成眠，到了第二天的清早上。",
+      "sentence": "李三娘整夜未能入睡",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一丈青嫂子来盘面，大叫狗奴才，开门来，开开门了盘面来!一丈青嫂子来盘面，盘了三斗籽儿面三斗大麸面，还有三斗二捞面。",
+      "sentence": "一丈青大声命令狗奴才开门",
+      "behavior_type": 7
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一丈青嫂子来盘面，大叫狗奴才，开门来，开开门了盘面来!一丈青嫂子来盘面，盘了三斗籽儿面三斗大麸面，还有三斗二捞面。",
+      "sentence": "一丈青取走了三斗籽儿面",
+      "behavior_type": 11
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一丈青嫂子来盘面，大叫狗奴才，开门来，开开门了盘面来!一丈青嫂子来盘面，盘了三斗籽儿面三斗大麸面，还有三斗二捞面。",
+      "sentence": "一丈青取走了三斗大麸面",
+      "behavior_type": 11
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一丈青嫂子来盘面，大叫狗奴才，开门来，开开门了盘面来!一丈青嫂子来盘面，盘了三斗籽儿面三斗大麸面，还有三斗二捞面。",
+      "sentence": "一丈青取走了三斗二捞面",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "麸子黑面全不算，高高儿盘着九斗面。",
+      "sentence": "一丈青盘了九斗面",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "倒着家什里一点点，自己倒把自己骗，还是原先的三斗面。",
+      "sentence": "家什里倒着一点点三斗面",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "哟，这个狗贱人命还大得很，白天担水三十担，黑了碾磨到三更天。",
+      "sentence": "李三娘白天担水三十担",
+      "behavior_type": 10
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "哟，这个狗贱人命还大得很，白天担水三十担，黑了碾磨到三更天。",
+      "sentence": "李三娘夜晚碾磨到三更",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "杆子扛到胸膛上，两个手儿没事干。",
+      "sentence": "杆子扛在胸膛上双手无事可做",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "再买上三斤麻秆儿，叫她带推磨着把麻剥上。",
+      "sentence": "一丈青命令她推磨剥麻",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一丈青，心肠狠，三斤麻秆子拿到磨房中。",
+      "sentence": "一丈青将三斤麻秆拿到磨房",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "大叫我把你个狗贱人，这三斤麻秆子，你给我把麻来剥上。",
+      "sentence": "一丈青命令狗贱人剥麻秆子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "白：挑麻三斤，一捞麻三斤，二捞麻三斤，乱麻麻秆子余在外。",
+      "sentence": "一丈青强迫李三娘剥麻秆",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "唱：高高剥上麻九斤甘愿你给我办齐整。",
+      "sentence": "一丈青命令剥九斤麻",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "差下一样你的命难存!李三娘一听吓掉魂，忙把嫂嫂叫几声。",
+      "sentence": "李三娘听闻后感到极度恐惧",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "差下一样你的命难存!李三娘一听吓掉魂，忙把嫂嫂叫几声。",
+      "sentence": "李三娘急忙呼唤她的嫂嫂",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "叫声嫂子听我言三十担水我能担上，三斤麻秆儿九斤麻皮儿我可剥不上。",
+      "sentence": "李三娘向嫂子表明自己能担水",
+      "behavior_type": 7
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "叫声嫂子听我言三十担水我能担上，三斤麻秆儿九斤麻皮儿我可剥不上。",
+      "sentence": "李三娘表示无法剥麻皮",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "三斤麻秆儿濛湿沾露连叶带花也都称不上九斤重九斤麻皮儿何处给你生?磨秆子扛到了胸膛上手里把麻秆儿来拿上。",
+      "sentence": "李三娘质疑麻秆重量不足",
+      "behavior_type": 7
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "三斤麻秆儿濛湿沾露连叶带花也都称不上九斤重九斤麻皮儿何处给你生?磨秆子扛到了胸膛上手里把麻秆儿来拿上。",
+      "sentence": "李三娘将麻秆扛在胸前",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "走一步来哭一声恨了声狠心肠的嫂子一丈青。",
+      "sentence": "李三娘边走边哭怨恨嫂子",
+      "behavior_type": 2
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "走一步来哭一声恨了声狠心肠的嫂子一丈青。",
+      "sentence": "李三娘怨恨一丈青狠心肠",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "谁人都是为娘的生，你怎么做事就心太狠?李三娘哭累堆(瘫倒)倒在了磨房中，爬到罗墙上呼呼囔囔睡得稳。",
+      "sentence": "李三娘因悲伤过度瘫倒在磨房",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "谁人都是为娘的生，你怎么做事就心太狠?李三娘哭累堆(瘫倒)倒在了磨房中，爬到罗墙上呼呼囔囔睡得稳。",
+      "sentence": "李三娘在罗墙上安稳地睡着",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "土地奶奶着了忙给她三娘把麻剥上。",
+      "sentence": "土地奶奶为李三娘剥麻",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一夜五更休成眠到了第二天的清早上，一丈青嫂子来盘面。",
+      "sentence": "一丈青清晨前来盘问情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "大叫狗奴才，开门来开开门了盘面来I一丈青嫂子盘罢面拿上戥子把麻来称。",
+      "sentence": "一丈青大声命令奴才开门",
+      "behavior_type": 7
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "大叫狗奴才，开门来开开门了盘面来I一丈青嫂子盘罢面拿上戥子把麻来称。",
+      "sentence": "一丈青用戥子称量麻秆",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "土地公公",
+      "original_sentence": "土地公公着了忙赶紧蹲到秤钩上。",
+      "sentence": "土地公公迅速蹲到秤钩上",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "白：挑麻三斤，一捞麻三斤，二捞麻三斤，乱麻麻秆子余在外。",
+      "sentence": "一丈青嫂子称量麻秆三斤重",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "白：挑麻三斤，一捞麻三斤，二捞麻三斤，乱麻麻秆子余在外。",
+      "sentence": "乱麻麻秆子被留在外面",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "唱：高高地称了麻九斤拿着手里一丁丁。",
+      "sentence": "一丈青称了九斤麻拿在手里",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "自己倒把自己哄原来是她的麻半斤。",
+      "sentence": "自己哄骗自己原来是半斤麻",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "哟，这个狗贱人命大得很白天担水三十担，黑了研磨到三更天带推磨着把麻剥上还有两更天无事干叫她再做上鞋三双给上她扣线三根半把满帮子的花儿都扎上角角拉拉还要绣个花兜兜一丈青、恶狠痕三寸鞋面拿进门狗杂种、狗贱人给你呀、这就是三寸鞋面你给我做上鞋三双这就是三根半扣线把满帮子的花儿都扎上。",
+      "sentence": "一丈青命令李三娘完成繁重任务",
+      "behavior_type": 10
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "哟，这个狗贱人命大得很白天担水三十担，黑了研磨到三更天带推磨着把麻剥上还有两更天无事干叫她再做上鞋三双给上她扣线三根半把满帮子的花儿都扎上角角拉拉还要绣个花兜兜一丈青、恶狠痕三寸鞋面拿进门狗杂种、狗贱人给你呀、这就是三寸鞋面你给我做上鞋三双这就是三根半扣线把满帮子的花儿都扎上。",
+      "sentence": "一丈青要求李三娘制作三双鞋",
+      "behavior_type": 10
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "哟，这个狗贱人命大得很白天担水三十担，黑了研磨到三更天带推磨着把麻剥上还有两更天无事干叫她再做上鞋三双给上她扣线三根半把满帮子的花儿都扎上角角拉拉还要绣个花兜兜一丈青、恶狠痕三寸鞋面拿进门狗杂种、狗贱人给你呀、这就是三寸鞋面你给我做上鞋三双这就是三根半扣线把满帮子的花儿都扎上。",
+      "sentence": "一丈青给予李三娘三根半扣线",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "拐拐拉拉还要绣个花兜兜赶亮你给我办齐整。",
+      "sentence": "绣花兜兜需在天亮前完成",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "差下一样你命难存，抽筋剥皮我要你的命。",
+      "sentence": "一丈青威胁要取人性命",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "想着活起你万不能!李三春闻听吓掉魂，越思越想越伤心。",
+      "sentence": "李三娘听闻后感到极度恐惧",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "想着活起你万不能!李三春闻听吓掉魂，越思越想越伤心。",
+      "sentence": "李三娘越想越觉得伤心",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "不好了，不妙了，我已经跌到是非坑里了。",
+      "sentence": "李三娘感到自己陷入是非困境",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "娘家的门是个是非坑，进来容易出去凶。",
+      "sentence": "娘家的门是个是非之地",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "三寸鞋面子怎么能做鞋三双?这么三根半扣线，怎么把满帮子的花儿来绣上?这嫂子本是个狐狸精，一定叫我李三春反穿罗裙重嫁人，李三娘哭坏到了磨房中。",
+      "sentence": "李三娘因被迫改嫁而伤心哭泣",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "三寸鞋面子怎么能做鞋三双?这么三根半扣线，怎么把满帮子的花儿来绣上?这嫂子本是个狐狸精，一定叫我李三春反穿罗裙重嫁人，李三娘哭坏到了磨房中。",
+      "sentence": "三寸鞋面无法制作三双鞋子",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "三寸鞋面子怎么能做鞋三双?这么三根半扣线，怎么把满帮子的花儿来绣上?这嫂子本是个狐狸精，一定叫我李三春反穿罗裙重嫁人，李三娘哭坏到了磨房中。",
+      "sentence": "三根半扣线难以绣满帮子花",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "瞌睡娘娘下了凡，落在了三娘的眼睛上。",
+      "sentence": "瞌睡娘娘降临在李三娘眼前",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "李三娘，靠罗墙呼呼囔囔把觉眠。",
+      "sentence": "李三娘靠在罗墙边睡觉",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "小鞋娘娘着了忙替她三娘把鞋做上。",
+      "sentence": "小鞋娘娘为李三娘制作鞋子",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "兜兜娘娘着了忙替她三娘把兜兜编一夜五更休成眠到了第二天的清早上。",
+      "sentence": "兜兜娘娘连夜编织兜兜未眠",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一丈青嫂子来盘面一时来到磨房前哒，小奴才，开门来开开门了盘面来!盘罢面，称罢麻一丈青嫂子抬头一观看，高高做下者鞋三双。",
+      "sentence": "一丈青来到磨房前叫门",
+      "behavior_type": 7
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一丈青嫂子来盘面一时来到磨房前哒，小奴才，开门来开开门了盘面来!盘罢面，称罢麻一丈青嫂子抬头一观看，高高做下者鞋三双。",
+      "sentence": "一丈青抬头看见三双鞋",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "哟哟哟，这个狗贱人狗杂种!不好了，不妙了，磨道里有了苟且之事了。",
+      "sentence": "一丈青愤怒指责磨道苟且之事",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "苟且之事胡维(乱交往)人，冲坏我的磨房可瞬得很。",
+      "sentence": "一丈青指责他人行为不端",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "谁能够三寸鞋面做上鞋三双?一定是外人给来添上。",
+      "sentence": "有人用三寸鞋面做了三双鞋",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "谁能够三寸鞋面做上鞋三双?一定是外人给来添上。",
+      "sentence": "外人可能添加了这些物品",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "赶着走来赶着行，刺玫花条子拿几捆。",
+      "sentence": "赶着行走并携带刺玫花条",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "牛鞭捋了十多根，盐沫子挖了多半升。",
+      "sentence": "牛鞭被捋了十多根",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "牛鞭捋了十多根，盐沫子挖了多半升。",
+      "sentence": "盐沫子被挖了多半升",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "黑醋舀了多半盆，赶着来到磨房中。",
+      "sentence": "某人带着黑醋来到磨房中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把李三春的身袂(衣服)脱了个尽四马攒蹄绑了个硬。",
+      "sentence": "将李三春的衣服脱掉并捆绑",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "野狐子抽筋吊到半虚空。",
+      "sentence": "野狐子被抽筋吊到半空中",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三根牛鞭前胸里打四根刺条后背里楞(抽)。",
+      "sentence": "用牛鞭和刺条抽打前胸后背",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "鞭子一打唰唰唰条子一楞哧哩哩哩拉血花。",
+      "sentence": "李三娘被鞭子抽打流血",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "鞭条本来没有一斤重打到身上好像有千斤。",
+      "sentence": "鞭条虽轻打在身上却重千斤",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "打到前心后心疼打到左边右边疼。",
+      "sentence": "李三娘被打得前心后心疼",
+      "behavior_type": 1
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "打到前心后心疼打到左边右边疼。",
+      "sentence": "李三娘被打得左边右边疼",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "打到前胸好像掏掉了心，打到后边好像打断了筋。",
+      "sentence": "前胸被打感到极度疼痛",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "打到前胸好像掏掉了心，打到后边好像打断了筋。",
+      "sentence": "后背被打感到极度疼痛",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "浑身上下打成一个血淋淋，盐沫子洒上又拿黑醋喷。",
+      "sentence": "身体被打得遍体鳞伤鲜血淋漓",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "疼得三春直了声忙把我的嫂子叫几声。",
+      "sentence": "三春因疼痛而大声呼叫嫂子",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的嫂嫂啊，饶命饶命你就多饶命，留情留情你就多留情。",
+      "sentence": "请求嫂嫂饶命留情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "高抬贵手你饶下我的命，这辈子我忘不掉你嫂嫂的好恩情。",
+      "sentence": "李三娘恳求嫂嫂饶命并感恩",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你不看僧面看佛面，不看前面看后面。",
+      "sentence": "请求对方考虑多方面因素",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不看左面看右面，不念鱼情了你把水情念。",
+      "sentence": "请求对方考虑多方面因素",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "你再不了念及再的了，我的嫂嫂啊，我的爹爹妈妈生下两苗根，我和你的丈夫是同胞姊妹情。",
+      "sentence": "李三娘向嫂嫂表明同胞姊妹情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "我的丈夫上了滨州城，书无书的信无信，你要叫我反穿罗裙重嫁人。",
+      "sentence": "李三娘被迫要求改嫁他人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "我若反穿罗裙重嫁人，我的丈夫回来叫傢一场空。",
+      "sentence": "李三娘若改嫁丈夫将无家可归",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "好马不备双鞍鞯，好女不嫁二夫男。",
+      "sentence": "李三娘坚持不嫁二夫男",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "一天三十担水我能担上，三寸鞋面我也做了鞋三双。",
+      "sentence": "李三娘每日担水三十担",
+      "behavior_type": 10
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "一天三十担水我能担上，三寸鞋面我也做了鞋三双。",
+      "sentence": "李三娘制作了三双鞋子",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "你说我勾结维旁人我连你的活生都干不尽，哪里来的心情维旁人?我的嫂嫂啊你就饶了我的活性命，打里打外操上些心我当是磨房里进了人，你抽筋剥皮要我的命，就是死了我也甘心。",
+      "sentence": "李三娘因被诬陷而感到极度委屈",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "你说我勾结维旁人我连你的活生都干不尽，哪里来的心情维旁人?我的嫂嫂啊你就饶了我的活性命，打里打外操上些心我当是磨房里进了人，你抽筋剥皮要我的命，就是死了我也甘心。",
+      "sentence": "李三娘向嫂嫂求饶并表达忠心",
+      "behavior_type": 7
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "你说我勾结维旁人我连你的活生都干不尽，哪里来的心情维旁人?我的嫂嫂啊你就饶了我的活性命，打里打外操上些心我当是磨房里进了人，你抽筋剥皮要我的命，就是死了我也甘心。",
+      "sentence": "李三娘表示即使死亡也心甘情愿",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "归根我没有勾结维过人天知地知人也知我给你嫂嫂说仔细。",
+      "sentence": "李三娘向嫂嫂解释未勾结他人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "哎，狗贱人，狗杂种，今天饶了你的活性命。",
+      "sentence": "一丈青愤怒地饶恕了对方性命",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "你就这么价给我天天干营生，差下一样你命难存!李三春白天担水三十担夜晚碾磨到三更天。",
+      "sentence": "李三娘白天担水夜晚碾磨",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "你就这么价给我天天干营生，差下一样你命难存!李三春白天担水三十担夜晚碾磨到三更天。",
+      "sentence": "差下一样将导致命难存",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "三斗麦子碾着九斗面还要把麻给傢来剥上。",
+      "sentence": "李三娘碾麦剥麻完成多项劳作",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "三斤麻杆子剥着九斤麻。",
+      "sentence": "李三娘剥了三斤麻杆子",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "三寸鞋面子做着花鞋整三双。",
+      "sentence": "李三娘用三寸鞋面做了三双花鞋",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一丈青李宏信两口子，天天扒在磨房门上听，听一下有没有喧谎儿的人。",
+      "sentence": "一丈青在磨房门上仔细倾听",
+      "behavior_type": 6
+    },
+    {
+      "role": "李宏信",
+      "original_sentence": "一丈青李宏信两口子，天天扒在磨房门上听，听一下有没有喧谎儿的人。",
+      "sentence": "李宏信在磨房门上仔细倾听",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "忙了忙了谁忙了，忙了玉皇大帝了。",
+      "sentence": "玉皇大帝忙碌地处理事务",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "玉皇大帝掐指算一算，才知道东斗星上了滨州城，滨州城做官不舒心。",
+      "sentence": "玉皇大帝掐指算出东斗星上滨州城",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "玉皇大帝掐指算一算，才知道东斗星上了滨州城，滨州城做官不舒心。",
+      "sentence": "滨州城做官感到不舒心",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "李三春、凤团星身子空着要叫刘家断苗根。",
+      "sentence": "李三春凤团星欲使刘家断苗根",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "哎，不能叫刘家断苗根，黑虎星宿下凡来入进了刘家的磨房门，要叫她李三娘身怀孕、要给刘家留个戴孝根，过后再给李三娘报仇恨。",
+      "sentence": "黑虎星宿下凡使李三娘怀孕",
+      "behavior_type": 3
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "哎，不能叫刘家断苗根，黑虎星宿下凡来入进了刘家的磨房门，要叫她李三娘身怀孕、要给刘家留个戴孝根，过后再给李三娘报仇恨。",
+      "sentence": "李三娘为刘家留下戴孝根",
+      "behavior_type": 3
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "哎，不能叫刘家断苗根，黑虎星宿下凡来入进了刘家的磨房门，要叫她李三娘身怀孕、要给刘家留个戴孝根，过后再给李三娘报仇恨。",
+      "sentence": "李三娘将获得报仇的机会",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "李三春正在磨房昏沉沉，忽然间做了一个梦。",
+      "sentence": "李三春在磨房做了一个梦",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "梦着了一个黑人黑马黑将军，猛猛进了磨房门。",
+      "sentence": "李三娘梦见黑人黑马黑将军",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "梦着了一个黑人黑马黑将军，猛猛进了磨房门。",
+      "sentence": "黑将军猛然进入磨房门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "说是要跟她来成亲。",
+      "sentence": "黑人黑马黑将军说要与她成亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "一时间心里隔应隔应两三阵等着醒来一场空，才是做了个空睡梦。",
+      "sentence": "李三娘心中感到一阵阵不适",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "一时间心里隔应隔应两三阵等着醒来一场空，才是做了个空睡梦。",
+      "sentence": "李三娘醒来发现是场空梦",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "从此后李三春身怀有了孕，黑虎星怀到了腹内中。",
+      "sentence": "李三娘身怀有孕腹中有子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "李三春身怀有了孕，还在磨房里干的旧营生。",
+      "sentence": "李三春怀孕后仍在磨房工作",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "腿子里困，脑子里愣，浑身儿乏困着攒不上劲，磨杆子扛上再给傢干营生。",
+      "sentence": "李三娘感到浑身乏力无法使劲",
+      "behavior_type": 1
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "腿子里困，脑子里愣，浑身儿乏困着攒不上劲，磨杆子扛上再给傢干营生。",
+      "sentence": "李三娘扛起磨杆继续干活",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "三月怀胎九月临，九月怀胎十月生。",
+      "sentence": "李三娘怀孕后历经十月分娩",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "该的日子她不生，八月十五的子时生。",
+      "sentence": "李三娘于八月十五子时生产",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "半夜里要生个小孩童，怀抱磨杆子干营生。",
+      "sentence": "李三娘半夜怀抱磨杆继续干活",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "一阵子腹内疼着了不成，李三春直接就像要了命。",
+      "sentence": "李三娘因腹内剧痛而痛苦不堪",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "梆当跌倒地埃尘，昏昏沉沉神不清一时三刻才转醒娃娃吱哇吱哇动哭声忙了忙了实忙了忙了三娘泪淘淘。",
+      "sentence": "李三娘因疼痛而昏倒在地",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "梆当跌倒地埃尘，昏昏沉沉神不清一时三刻才转醒娃娃吱哇吱哇动哭声忙了忙了实忙了忙了三娘泪淘淘。",
+      "sentence": "李三娘苏醒后听到婴儿哭声",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "梆当跌倒地埃尘，昏昏沉沉神不清一时三刻才转醒娃娃吱哇吱哇动哭声忙了忙了实忙了忙了三娘泪淘淘。",
+      "sentence": "李三娘因忙碌而泪流满面",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "把娃娃揽到怀当中怀抱着娃娃哭伤心。",
+      "sentence": "李三娘怀抱婴儿伤心哭泣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "开言不把别的叫把我的小冤家叫几声。",
+      "sentence": "李三娘呼唤她的孩子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "我的小冤家呀你怎么转世投胎哩不往富贵人家转偏偏怎么转给我们苦命的人?我连我浑身儿的疼痛都受不尽有啥本领把你抓成人?哥哥嫂子说我胡维了个人丈夫出门都十六个月满怎么价我生下了你孩童?倘若是哥嫂们来谈论千说万说说不清。",
+      "sentence": "李三娘对孩子的命运感到悲伤",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "我的小冤家呀你怎么转世投胎哩不往富贵人家转偏偏怎么转给我们苦命的人?我连我浑身儿的疼痛都受不尽有啥本领把你抓成人?哥哥嫂子说我胡维了个人丈夫出门都十六个月满怎么价我生下了你孩童?倘若是哥嫂们来谈论千说万说说不清。",
+      "sentence": "李三娘因疼痛无法照顾孩子",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "我的小冤家呀你怎么转世投胎哩不往富贵人家转偏偏怎么转给我们苦命的人?我连我浑身儿的疼痛都受不尽有啥本领把你抓成人?哥哥嫂子说我胡维了个人丈夫出门都十六个月满怎么价我生下了你孩童?倘若是哥嫂们来谈论千说万说说不清。",
+      "sentence": "李三娘担心哥嫂的议论",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "丈夫在着人人都说十月怀胎生孩童，我自从丈夫走掉没有维旁人，十六个月生下了这么个害人精!把这个害人精生到了李家庄，你就是苦害我李三春!太白金星着了忙，月亮爷给三娘把亮照上，照应着李三春生孩郎。",
+      "sentence": "李三娘因丈夫离家而独自生育",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "丈夫在着人人都说十月怀胎生孩童，我自从丈夫走掉没有维旁人，十六个月生下了这么个害人精!把这个害人精生到了李家庄，你就是苦害我李三春!太白金星着了忙，月亮爷给三娘把亮照上，照应着李三春生孩郎。",
+      "sentence": "李三娘对生育感到痛苦和无奈",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "丈夫在着人人都说十月怀胎生孩童，我自从丈夫走掉没有维旁人，十六个月生下了这么个害人精!把这个害人精生到了李家庄，你就是苦害我李三春!太白金星着了忙，月亮爷给三娘把亮照上，照应着李三春生孩郎。",
+      "sentence": "李三娘向孩子倾诉自己的苦衷",
+      "behavior_type": 7
+    },
+    {
+      "role": "月娘娘",
+      "original_sentence": "丈夫在着人人都说十月怀胎生孩童，我自从丈夫走掉没有维旁人，十六个月生下了这么个害人精!把这个害人精生到了李家庄，你就是苦害我李三春!太白金星着了忙，月亮爷给三娘把亮照上，照应着李三春生孩郎。",
+      "sentence": "月娘娘为李三娘提供光亮照应",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "这才生下的男孩郎。",
+      "sentence": "李三娘刚刚生下了一个男孩",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "却无个剪剪把脐带子剪，也无个烫烫把脐带子烫。",
+      "sentence": "李三娘无法剪断和烫脐带",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "自家的娃娃不嫌脏，就把脐带儿挂到银牙上。",
+      "sentence": "李三娘用牙齿咬断脐带",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "牙子一咬脐带儿断，就把这个娃娃奶名儿叫了个咬脐郎。",
+      "sentence": "李三娘用牙咬断脐带",
+      "behavior_type": 13
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "牙子一咬脐带儿断，就把这个娃娃奶名儿叫了个咬脐郎。",
+      "sentence": "李三娘为孩子取名咬脐郎",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "磨房里黑着看不见，生了个男娃女娃我也说不上。",
+      "sentence": "李三娘在磨房看不清孩子性别",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "娃娃的下身里摸一把，球球卵卵一唰拉，必定是个男娃娃。",
+      "sentence": "李三娘触摸婴儿下身确认性别",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "没些东西把娃娃来包裹，衣襟扯下半片子整，就把娃娃包裹定。",
+      "sentence": "李三娘用衣襟包裹娃娃",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "没处放，没处搁，麦仓子底下有个小洞洞。",
+      "sentence": "李三娘将娃娃放入麦仓小洞",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "把娃娃塞到洞洞里，两块拓土块来垒住。",
+      "sentence": "李三娘将娃娃放入洞中并封住",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "小奴才呀，明早上你的舅舅舅母来盘面，你悄悄儿嘴闭上把觉眠万可不了动哭声。",
+      "sentence": "叮嘱孩子明早不要出声",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "你当是大叫出哭声，母子们活起是万不能!哎，刚才说的是李三娘，说罢了二段说三段。",
+      "sentence": "李三娘因孩子哭泣感到绝望",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "你当是大叫出哭声，母子们活起是万不能!哎，刚才说的是李三娘，说罢了二段说三段。",
+      "sentence": "刚才讲述的是关于李三娘",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "娃娃放在麦仓子底下安了身，三春还在磨房里干营生。",
+      "sentence": "李三娘将娃娃放在麦仓底下",
+      "behavior_type": 13
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "娃娃放在麦仓子底下安了身，三春还在磨房里干营生。",
+      "sentence": "李三娘在磨房里继续干活",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "一夜五更休成眠，说到了第二天的清早上。",
+      "sentence": "李三娘整夜未能入睡",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一丈青嫂子来盘面，盘罢面，麻来称，兜兜小鞋拿手中，赶着要出磨房门。",
+      "sentence": "一丈青盘面后称麻拿鞋",
+      "behavior_type": 7
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一丈青嫂子来盘面，盘罢面，麻来称，兜兜小鞋拿手中，赶着要出磨房门。",
+      "sentence": "一丈青准备离开磨房门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不争气的那个奴疙瘩，嘎啦嘎啦嚎给了两三声。",
+      "sentence": "奴疙瘩嘎啦嘎啦嚎叫了两三声",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一丈青，听得清，赶着来到家廊中哟，说是我的龟塌头你把你的妹子看得真切得很说是没有勾结维旁人怎么把私疙瘩掏到了磨房中?龟塌头，你看走!看一看到底有没有。",
+      "sentence": "一丈青质问龟塌头是否看清妹子",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "一丈青，听得清，赶着来到家廊中哟，说是我的龟塌头你把你的妹子看得真切得很说是没有勾结维旁人怎么把私疙瘩掏到了磨房中?龟塌头，你看走!看一看到底有没有。",
+      "sentence": "龟塌头被要求查看是否有异常",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一丈青，往前行两个人来到了磨房中，磨仓子底下提出了小孩童。",
+      "sentence": "一丈青与另一人进入磨房",
+      "behavior_type": 4
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一丈青，往前行两个人来到了磨房中，磨仓子底下提出了小孩童。",
+      "sentence": "一丈青从磨仓下提出孩童",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "哥哥骂声狗贱人你说没有维旁人怎么把私疙瘩掏到磨房中。",
+      "sentence": "一丈青质问对方为何私藏孩童",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "你快把谁家的私疙瘩往谁家送我们李家的磨房里可放不成。",
+      "sentence": "一丈青要求将私生子送走",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一丈青，现了身骂了声龟头精，愣头精这个私疙瘩送不成。",
+      "sentence": "一丈青现身并责骂龟头精",
+      "behavior_type": 7
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一丈青，现了身骂了声龟头精，愣头精这个私疙瘩送不成。",
+      "sentence": "一丈青表示私疙瘩送不成",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "送出去等到长成人外甥子的手底下你受罪行。",
+      "sentence": "一丈青警告对方将受惩罚",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "叫丈夫，你快去放着剁肉墩，把这个私疙瘩来剁碎，叫猪狼狗灶当食水!李宏信，一把斧头拿手中，把娃娃放在了剁肉墩。",
+      "sentence": "一丈青命令丈夫去剁碎私疙瘩",
+      "behavior_type": 7
+    },
+    {
+      "role": "李宏信",
+      "original_sentence": "叫丈夫，你快去放着剁肉墩，把这个私疙瘩来剁碎，叫猪狼狗灶当食水!李宏信，一把斧头拿手中，把娃娃放在了剁肉墩。",
+      "sentence": "李宏信将娃娃放在剁肉墩上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "李宏信",
+      "original_sentence": "一刀下去照了准，娃娃身上没有剁上一丁丁，剁到了李宏信的脚面筋。",
+      "sentence": "李宏信挥刀砍向娃娃但未命中",
+      "behavior_type": 13
+    },
+    {
+      "role": "李宏信",
+      "original_sentence": "一刀下去照了准，娃娃身上没有剁上一丁丁，剁到了李宏信的脚面筋。",
+      "sentence": "李宏信的脚面筋被刀砍伤",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "哎，这个私疙瘩瞬得很，快把私疙瘩往前送，我们李家里搁不成。",
+      "sentence": "一丈青要求将私疙瘩送走",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "哎，这个私疙瘩瞬得很，快把私疙瘩往前送，我们李家里搁不成。",
+      "sentence": "私疙瘩在李家里无法存放",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "李宏信",
+      "original_sentence": "三道草腰子(草绳)忙铺定，把娃娃捆住送到了沤麻坑。",
+      "sentence": "李宏信用草绳将娃娃捆住",
+      "behavior_type": 13
+    },
+    {
+      "role": "李宏信",
+      "original_sentence": "三道草腰子(草绳)忙铺定，把娃娃捆住送到了沤麻坑。",
+      "sentence": "李宏信将娃娃送到沤麻坑",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那个娃娃就可怜得很娃娃送到了沤麻坑，东海龙君显了圣。",
+      "sentence": "娃娃被送到沤麻坑显得很可怜",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "那个娃娃就可怜得很娃娃送到了沤麻坑，东海龙君显了圣。",
+      "sentence": "东海龙君突然显现出神圣形象",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "黑虎星宿人了水了，不能叫他伤了身子害了命。",
+      "sentence": "黑虎星宿人入水后不能伤身害命",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把娃娃捧到了干岸上，不能叫娃娃受了伤。",
+      "sentence": "将娃娃捧到了干岸上",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "把娃娃捧到了干岸上，不能叫娃娃受了伤。",
+      "sentence": "确保娃娃不会受伤",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "狼虫虎豹围下了一大阵，乌鸦堆堆给搭凉棚。",
+      "sentence": "狼虫虎豹围成一大阵",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "狼虫虎豹围下了一大阵，乌鸦堆堆给搭凉棚。",
+      "sentence": "乌鸦群集搭起凉棚",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这就是贵人还有贵人保，贵人不保不得了。",
+      "sentence": "贵人保护至关重要",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "李三春的难处谁知道?南门外有个郭石匠，在李家门上锻过磨，知道李三娘受磨脱。",
+      "sentence": "李三娘遭受磨难无人知晓",
+      "behavior_type": 2
+    },
+    {
+      "role": "郭石匠",
+      "original_sentence": "李三春的难处谁知道?南门外有个郭石匠，在李家门上锻过磨，知道李三娘受磨脱。",
+      "sentence": "郭石匠知晓李三娘受磨难",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "知道她的丈夫叫个刘知远，就在滨州做高官。",
+      "sentence": "刘知远在滨州担任高官",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "太白金星着了忙，娃娃的脊背里把字写上。",
+      "sentence": "太白金星在娃娃脊背写字",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "写的什么字?父亲名叫刘知远，他在滨州做高官。",
+      "sentence": "刘知远在滨州担任高官",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "母亲名叫李三春，排房叫个李三娘。",
+      "sentence": "李三娘被称为李三春",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "哥哥嫂子的手底下受磨难，磨房里生下了个娃娃叫个咬脐郎。",
+      "sentence": "李三娘在磨房生下咬脐郎",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "哥嫂逼着无法行，娃娃送到沤麻坑。",
+      "sentence": "李三娘被迫将娃娃送到沤麻坑",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "谁人如果救了这个娃娃的命，过后能坐养老宫。",
+      "sentence": "救娃娃性命者日后可享富贵",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "娃娃送到沤麻坑，水面上蹲着嘎哇嘎哇动哭声。",
+      "sentence": "咬脐郎被送到沤麻坑中",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "娃娃送到沤麻坑，水面上蹲着嘎哇嘎哇动哭声。",
+      "sentence": "水面上传来婴儿的哭声",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "郭石匠",
+      "original_sentence": "娃娃哭得太灵清太白金星把娃娃的声音统在袖桶中灌在了郭石匠的耳朵中郭石匠老两口儿无儿女老两口干着个锻磨小生意。",
+      "sentence": "郭石匠听见了娃娃的哭声",
+      "behavior_type": 6
+    },
+    {
+      "role": "郭石匠",
+      "original_sentence": "娃娃哭得太灵清太白金星把娃娃的声音统在袖桶中灌在了郭石匠的耳朵中郭石匠老两口儿无儿女老两口干着个锻磨小生意。",
+      "sentence": "郭石匠夫妇没有子女",
+      "behavior_type": 12
+    },
+    {
+      "role": "郭石匠",
+      "original_sentence": "娃娃哭得太灵清太白金星把娃娃的声音统在袖桶中灌在了郭石匠的耳朵中郭石匠老两口儿无儿女老两口干着个锻磨小生意。",
+      "sentence": "郭石匠从事锻磨生意",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "郭石匠",
+      "original_sentence": "千着收拾上几个粮食几吊钱度的日子了的生郭石匠正在自家屋里来安身耳听着一个娃娃吱哇吱哇哭得紧。",
+      "sentence": "郭石匠听见娃娃在哭泣",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "郭石匠",
+      "original_sentence": "跟着声音就把娃娃寻跟着来到南城根抬起头来观着看。",
+      "sentence": "郭石匠循声寻找娃娃至南城根",
+      "behavior_type": 4
+    },
+    {
+      "role": "郭石匠",
+      "original_sentence": "跟着声音就把娃娃寻跟着来到南城根抬起头来观着看。",
+      "sentence": "郭石匠抬头观察周围情况",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "乌鸦堆得喳喳叫狼虫虎豹多着不得了。",
+      "sentence": "乌鸦和狼虫虎豹发出嘈杂叫声",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我瞭一下那个地方到底是个什么事?越走越远，狼虫虎豹一个一个看不见乌鸦堆堆在空中旋。",
+      "sentence": "越走越远看不见狼虫虎豹",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "我瞭一下那个地方到底是个什么事?越走越远，狼虫虎豹一个一个看不见乌鸦堆堆在空中旋。",
+      "sentence": "乌鸦在空中盘旋",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "郭石匠",
+      "original_sentence": "郭石匠来到了坑沿上一个柴把儿在水面上漂。",
+      "sentence": "郭石匠走到坑沿看见柴把漂浮",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭石匠",
+      "original_sentence": "够着够着捞出来解开包包细观看包包里卷着个男孩郎男娃娃好比一条子金，为啥把金子要送出门，金条子送到了沤麻坑?解开了包裹细观看，衣胞子掉到了水里边，脊背里就把字写上。",
+      "sentence": "郭石匠捞起包裹并解开查看",
+      "behavior_type": 13
+    },
+    {
+      "role": "郭石匠",
+      "original_sentence": "够着够着捞出来解开包包细观看包包里卷着个男孩郎男娃娃好比一条子金，为啥把金子要送出门，金条子送到了沤麻坑?解开了包裹细观看，衣胞子掉到了水里边，脊背里就把字写上。",
+      "sentence": "郭石匠疑惑为何丢弃金条",
+      "behavior_type": 5
+    },
+    {
+      "role": "郭石匠",
+      "original_sentence": "够着够着捞出来解开包包细观看包包里卷着个男孩郎男娃娃好比一条子金，为啥把金子要送出门，金条子送到了沤麻坑?解开了包裹细观看，衣胞子掉到了水里边，脊背里就把字写上。",
+      "sentence": "郭石匠发现男婴背部有字",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "父亲名叫刘知远，他在滨州做高官。",
+      "sentence": "刘知远在滨州担任高官",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "母亲名叫李三春，排行叫个李三娘，哥哥嫂子的手底下受磨难。",
+      "sentence": "李三娘在哥嫂手下遭受磨难",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "磨房里生下了个娃娃叫个咬脐郎。",
+      "sentence": "李三娘在磨房生下咬脐郎",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哥嫂逼着无法行，娃娃送到沤麻坑。",
+      "sentence": "哥嫂逼迫无法行动",
+      "behavior_type": 4
+    },
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "哥嫂逼着无法行，娃娃送到沤麻坑。",
+      "sentence": "娃娃被送到沤麻坑",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "谁人如果救了这个娃娃的命，过后能坐养老宫。",
+      "sentence": "救娃娃的人将获得养老宫",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "郭石匠",
+      "original_sentence": "哟，罢了罢了，实罢了，我郭石匠绝后无子了。",
+      "sentence": "郭石匠感叹自己绝后无子",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郭石匠",
+      "original_sentence": "今个得了一个子，真是老天爷赐给我的福。",
+      "sentence": "郭石匠获得了一个孩子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "郭石匠",
+      "original_sentence": "郭石匠，太高兴，娃娃抱上往家行。",
+      "sentence": "郭石匠非常高兴地抱着娃娃回家",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郭石匠",
+      "original_sentence": "把娃娃抱到了家廊中，没有奶水子救不下命。",
+      "sentence": "郭石匠将娃娃抱回家中",
+      "behavior_type": 13
+    },
+    {
+      "role": "郭石匠",
+      "original_sentence": "把娃娃抱到了家廊中，没有奶水子救不下命。",
+      "sentence": "郭石匠没有奶水救娃娃",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "偏偏那天晚上碰得巧，王大嫂生下了个男孩郎，就在王大嫂的面里求了个情。",
+      "sentence": "王大嫂当晚生下一个男孩",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "偏偏那天晚上碰得巧，王大嫂生下了个男孩郎，就在王大嫂的面里求了个情。",
+      "sentence": "有人向王大嫂求情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭石匠",
+      "original_sentence": "那王大嫂也是个贤德人，答应了郭石匠的这事情。",
+      "sentence": "郭石匠请求王大嫂帮忙",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "那王大嫂也是个贤德人，答应了郭石匠的这事情。",
+      "sentence": "王大嫂答应了郭石匠的请求",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的奶水多得很，两个娃娃还吃不清。",
+      "sentence": "奶水充足可喂养两个娃娃",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "郭石匠",
+      "original_sentence": "奶了一月又一月，整整奶了一岁整。",
+      "sentence": "郭石匠喂养婴儿长达一整年",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "郭石匠",
+      "original_sentence": "娃娃过岁就能吃饭，郭石匠把娃娃来抓养。",
+      "sentence": "郭石匠将娃娃抓养起来",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "郭石匠",
+      "original_sentence": "娃娃抓了三岁整，背上娃娃带锻磨着上一回滨州城，送给他的父亲刘知远叫他抓成人。",
+      "sentence": "郭石匠带娃娃前往滨州城",
+      "behavior_type": 4
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "娃娃抓了三岁整，背上娃娃带锻磨着上一回滨州城，送给他的父亲刘知远叫他抓成人。",
+      "sentence": "刘知远负责抚养娃娃成人",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，偏偏心中想到此事情，端端的就碰了个救急的人。",
+      "sentence": "心中想到此事碰见救急人",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "李太师",
+      "original_sentence": "马鞍县有个李太师他在滨州连刘知远一块儿做官哩。",
+      "sentence": "李太师与刘知远同在滨州为官",
+      "behavior_type": 10
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "马鞍县有个李太师他在滨州连刘知远一块儿做官哩。",
+      "sentence": "刘知远与李太师同在滨州为官",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "郭石匠",
+      "original_sentence": "他是乡里乡亲呀，偏偏他的父母去世，回到了家里爹妈殡到祖坟，过了百日他要原上滨州做他的官去赶忙去找他求了个情，李太师是个贤德人赶着走，赶着行赶着来到李家门一进门见到李太师双膝跪倒地埃尘李太师，德望重一把搀住了郭石匠。",
+      "sentence": "郭石匠向李太师求情",
+      "behavior_type": 7
+    },
+    {
+      "role": "李太师",
+      "original_sentence": "他是乡里乡亲呀，偏偏他的父母去世，回到了家里爹妈殡到祖坟，过了百日他要原上滨州做他的官去赶忙去找他求了个情，李太师是个贤德人赶着走，赶着行赶着来到李家门一进门见到李太师双膝跪倒地埃尘李太师，德望重一把搀住了郭石匠。",
+      "sentence": "李太师搀扶起郭石匠",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "郭石匠",
+      "original_sentence": "说是郭老人呀郭老人我知道你名叫个郭文生呀。",
+      "sentence": "郭老人知道你的名字是郭文生",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李太师",
+      "original_sentence": "你今天来到我家中我担不了你的这一跪心中有多大的仇么多大的冤你给我细细往明里讲。",
+      "sentence": "李太师询问跪地者有何冤仇",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭石匠",
+      "original_sentence": "郭石匠，忙说道我不是冤来也不是仇我今个心中发忧愁。",
+      "sentence": "郭石匠表示自己并非有冤仇",
+      "behavior_type": 7
+    },
+    {
+      "role": "郭石匠",
+      "original_sentence": "郭石匠，忙说道我不是冤来也不是仇我今个心中发忧愁。",
+      "sentence": "郭石匠心中充满忧愁",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李太师",
+      "original_sentence": "有什么忧愁你给我说来我给你解天大的事情我给你来担待。",
+      "sentence": "李太师询问郭石匠的忧愁",
+      "behavior_type": 7
+    },
+    {
+      "role": "李太师",
+      "original_sentence": "有什么忧愁你给我说来我给你解天大的事情我给你来担待。",
+      "sentence": "李太师表示愿意帮助郭石匠",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "前三年，我在沤麻坑中捞下了一个男孩郎，父亲名叫刘知远他在滨州做高官。",
+      "sentence": "刘知远在滨州担任高官",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "母亲名叫李三春排行叫个李三娘，哥哥嫂子的手底下受磨难。",
+      "sentence": "李三娘在兄嫂手下遭受磨难",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "磨房里生下了个娃娃叫个咬脐郎，哥嫂逼着无法行，娃娃送到沤麻坑。",
+      "sentence": "李三娘在磨房生下咬脐郎",
+      "behavior_type": 3
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "磨房里生下了个娃娃叫个咬脐郎，哥嫂逼着无法行，娃娃送到沤麻坑。",
+      "sentence": "哥嫂逼迫李三娘抛弃婴儿",
+      "behavior_type": 10
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "磨房里生下了个娃娃叫个咬脐郎，哥嫂逼着无法行，娃娃送到沤麻坑。",
+      "sentence": "李三娘将婴儿放入沤麻坑",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "郭石匠",
+      "original_sentence": "我救了这娃娃的小性命，一抓抓养到三岁整。",
+      "sentence": "郭石匠将娃娃抚养至三岁整",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我有心背上上一回滨州城，我年高寿大老了的人。",
+      "sentence": "有心前往滨州城但年事已高",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "李太师",
+      "original_sentence": "死掉我老汉不要紧，摔掉傢的孩儿叫谁担承?千思万想难得很，耳听着你太师要上滨州城，你行上个恻隐心。",
+      "sentence": "李太师担忧孩子的安危",
+      "behavior_type": 2
+    },
+    {
+      "role": "李太师",
+      "original_sentence": "死掉我老汉不要紧，摔掉傢的孩儿叫谁担承?千思万想难得很，耳听着你太师要上滨州城，你行上个恻隐心。",
+      "sentence": "李太师思考如何解决问题",
+      "behavior_type": 5
+    },
+    {
+      "role": "李太师",
+      "original_sentence": "死掉我老汉不要紧，摔掉傢的孩儿叫谁担承?千思万想难得很，耳听着你太师要上滨州城，你行上个恻隐心。",
+      "sentence": "李太师请求他人行恻隐心",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "救上这孩儿的一难辛，就是帮了我老汉的一大忙。",
+      "sentence": "李三娘救了孩儿帮了老汉",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "李太师",
+      "original_sentence": "你把这个孩儿带到滨州城，送给他的父亲刘知远，不知你太师愿不愿?快去快去，你把孩儿抱着来，我赶快就要起身哩。",
+      "sentence": "李太师询问是否愿意带孩儿去滨州城",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "你把这个孩儿带到滨州城，送给他的父亲刘知远，不知你太师愿不愿?快去快去，你把孩儿抱着来，我赶快就要起身哩。",
+      "sentence": "请求将孩儿带给他的父亲刘知远",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "你把这个孩儿带到滨州城，送给他的父亲刘知远，不知你太师愿不愿?快去快去，你把孩儿抱着来，我赶快就要起身哩。",
+      "sentence": "催促立即抱着孩儿准备出发",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭石匠",
+      "original_sentence": "郭石匠瞠唑瞠来到了家廊中，忙把孩儿抱上行。",
+      "sentence": "郭石匠匆忙回到家中抱起孩儿",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭石匠",
+      "original_sentence": "还攒下着五十两零碎银，也摸揣上来到了太师的门。",
+      "sentence": "郭石匠携带银两来到太师门前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "李太师",
+      "original_sentence": "李太师一看这个孩儿，天庭饱满地阁方圆，两耳坠腮真是好看。",
+      "sentence": "李太师观察孩儿的面相特征",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "长大了不是举人就是状元，大富大贵有坐真龙天子的福相。",
+      "sentence": "刘化王长大后将成为富贵之人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李太师",
+      "original_sentence": "好好好，妙妙妙，你这个事儿我应承了。",
+      "sentence": "李太师应承了这件事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭石匠",
+      "original_sentence": "郭石匠慢慢又掏出来了一包银，这是娃娃一路上的盘缠钱，你么带上，带上去了路上用，要紧把这个孩儿交给刘知远。",
+      "sentence": "郭石匠掏出一包银子作为盘缠",
+      "behavior_type": 13
+    },
+    {
+      "role": "郭石匠",
+      "original_sentence": "郭石匠慢慢又掏出来了一包银，这是娃娃一路上的盘缠钱，你么带上，带上去了路上用，要紧把这个孩儿交给刘知远。",
+      "sentence": "郭石匠嘱咐将孩儿交给刘知远",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李太师",
+      "original_sentence": "李太师听罢开了言，郭老人啊，我不能带你的银子不能带你的钱。",
+      "sentence": "李太师拒绝接受郭石匠的银钱",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李太师",
+      "original_sentence": "我要替这个娃娃的父亲刘知远，谢你这个救命的恩人。",
+      "sentence": "李太师感谢郭石匠救命之恩",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李太师",
+      "original_sentence": "我给你三十两金子三百两银我今个谢过你郭老人我去把孩子交给他刘知远他给我本本利利都还上。",
+      "sentence": "李太师感谢郭石匠并承诺归还钱财",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李太师",
+      "original_sentence": "李太师捎上了孩儿起了身扬鞭打马往前行书上唱去快得很路上走开得半月整。",
+      "sentence": "李太师带着孩子骑马前行",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "李太师",
+      "original_sentence": "行呀行，半月整不觉意来到了滨州城。",
+      "sentence": "李太师半月后抵达滨州城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "李太师",
+      "original_sentence": "文武大臣乱咚咚把太师爷接到午朝门。",
+      "sentence": "文武大臣将李太师迎至午朝门",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李太师",
+      "original_sentence": "李太师，走上前怀抱的三岁小儿郎。",
+      "sentence": "李太师走上前怀抱三岁小儿郎",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "李太师",
+      "original_sentence": "太师爷来到驸马面前怀里放下来小儿郎。",
+      "sentence": "李太师将小儿郎放在驸马面前",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "李太师",
+      "original_sentence": "叫声驸马千岁听我言你怎么坏的大天良?娘家里你遗下李三娘你怎么一去不回还?你的岳父岳母早就归了阴。",
+      "sentence": "李太师质问驸马为何不回还",
+      "behavior_type": 7
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "叫声驸马千岁听我言你怎么坏的大天良?娘家里你遗下李三娘你怎么一去不回还?你的岳父岳母早就归了阴。",
+      "sentence": "李三娘被遗弃在娘家里",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "叫声驸马千岁听我言你怎么坏的大天良?娘家里你遗下李三娘你怎么一去不回还?你的岳父岳母早就归了阴。",
+      "sentence": "岳父岳母已经去世多年",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "妻子在娘家受难辛，哥哥嫂子的手底下难活人。",
+      "sentence": "李三娘在娘家遭受苦难",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "妻子在娘家受难辛，哥哥嫂子的手底下难活人。",
+      "sentence": "哥哥嫂嫂使她难以生存",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "磨房里生下的男孩童，哥哥嫂子逼着无法行。",
+      "sentence": "李三娘在磨房生下男孩童",
+      "behavior_type": 4
+    },
+    {
+      "role": "李宏信",
+      "original_sentence": "磨房里生下的男孩童，哥哥嫂子逼着无法行。",
+      "sentence": "李宏信逼迫李三娘无法行动",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把娃娃丢到南城湾里的沤麻坑，郭文生老人救下他的命。",
+      "sentence": "将娃娃丢弃在南城湾的沤麻坑",
+      "behavior_type": 13
+    },
+    {
+      "role": "郭石匠",
+      "original_sentence": "把娃娃丢到南城湾里的沤麻坑，郭文生老人救下他的命。",
+      "sentence": "郭石匠救下了娃娃的性命",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "李太师",
+      "original_sentence": "给你把娃娃抓养到三岁整，我今个给你捎到了滨州城，看你接应不接应。",
+      "sentence": "李太师将娃娃带到滨州城",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "你若是不认你的男孩郎，公主面前我告一状。",
+      "sentence": "李三娘威胁要告状",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "若是不把你的前妻认，脑袋给你挂到午朝门。",
+      "sentence": "刘知远拒绝承认他的前妻",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "若是不把你的前妻认，脑袋给你挂到午朝门。",
+      "sentence": "他的脑袋被挂在午朝门",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘知远闻听泪纷纷，把娃娃抱到了怀当中。",
+      "sentence": "刘知远听闻后流下了眼泪",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘知远闻听泪纷纷，把娃娃抱到了怀当中。",
+      "sentence": "刘知远将娃娃抱入怀中",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "开言不把别的叫，叫了声、我的苦命的妻儿李三春。",
+      "sentence": "刘知远呼唤苦命的妻子李三春",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你们妇女家怀里揣的百家姓，丈夫出门无音信，你应该反穿罗裙嫁旁人。",
+      "sentence": "妇女应当改嫁他人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "谁叫你在娘家里受罪行?早知道你妻子把我等，我把贼子平太平，赶着回到家廊中，连我的妻子得相逢。",
+      "sentence": "刘知远后悔让妻子受苦",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "谁叫你在娘家里受罪行?早知道你妻子把我等，我把贼子平太平，赶着回到家廊中，连我的妻子得相逢。",
+      "sentence": "刘知远想回家与妻子团聚",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "谁叫你在娘家里受罪行?早知道你妻子把我等，我把贼子平太平，赶着回到家廊中，连我的妻子得相逢。",
+      "sentence": "妻子在娘家遭受苦难",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "悔不该在滨州来招亲!我一步走错百步也还不上呀，该叫我今个怎么办?我有心不把娃娃收，后果不好我路难走。",
+      "sentence": "刘知远后悔在滨州招亲",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "悔不该在滨州来招亲!我一步走错百步也还不上呀，该叫我今个怎么办?我有心不把娃娃收，后果不好我路难走。",
+      "sentence": "刘知远不知该如何处理",
+      "behavior_type": 5
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "悔不该在滨州来招亲!我一步走错百步也还不上呀，该叫我今个怎么办?我有心不把娃娃收，后果不好我路难走。",
+      "sentence": "刘知远考虑是否收留娃娃",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "李太师",
+      "original_sentence": "太师爷知道我的底儿清，告上一状我活不成，娃娃的性命也保不定。",
+      "sentence": "李太师知晓我的底细",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "太师爷知道我的底儿清，告上一状我活不成，娃娃的性命也保不定。",
+      "sentence": "告状会导致严重后果",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘知远一声一声来啼哭，惊动了公主月娘娘。",
+      "sentence": "刘知远因悲伤而不断哭泣",
+      "behavior_type": 2
+    },
+    {
+      "role": "月娘娘",
+      "original_sentence": "刘知远一声一声来啼哭，惊动了公主月娘娘。",
+      "sentence": "月娘娘被刘知远的哭声惊动",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "悄悄来到他身后站，刘知远，没提防，脖子上挨了一巴掌。",
+      "sentence": "刘知远未察觉身后有人靠近",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "悄悄来到他身后站，刘知远，没提防，脖子上挨了一巴掌。",
+      "sentence": "有人悄悄来到刘知远身后",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "悄悄来到他身后站，刘知远，没提防，脖子上挨了一巴掌。",
+      "sentence": "刘知远脖子上挨了一巴掌",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "啊哟一声吓得慌，梆当跌倒在地上。",
+      "sentence": "刘知远被吓得跌倒在地上",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "月娘娘",
+      "original_sentence": "白：月娘娘扶起刘知远，说是错了错了，我来没有给你吭气，吓坏了我的丈夫。",
+      "sentence": "月娘娘向刘知远道歉并解释",
+      "behavior_type": 7
+    },
+    {
+      "role": "月娘娘",
+      "original_sentence": "白：月娘娘扶起刘知远，说是错了错了，我来没有给你吭气，吓坏了我的丈夫。",
+      "sentence": "月娘娘将刘知远扶起安慰",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "月娘娘",
+      "original_sentence": "丈夫呀，你也说是你家里再无人，怎么太师爷给你把娃娃带到了滨州城?刘知远这会子就无话可说了。",
+      "sentence": "月娘娘质问刘知远为何隐瞒家人",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "丈夫呀，你也说是你家里再无人，怎么太师爷给你把娃娃带到了滨州城?刘知远这会子就无话可说了。",
+      "sentence": "刘知远面对质问无言以对",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "急中生智，由嘴胡说吧。",
+      "sentence": "刘知远急中生智随口胡说",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "月娘娘",
+      "original_sentence": "唱：你这个妻子呀，你皇上的女儿人聪明，说出个话来你气死人。",
+      "sentence": "月娘娘说话气人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李太师",
+      "original_sentence": "我傍个里的侄男遭了难太师爷给我来带上我叔老子不救等何人?好好好，姐姐生下的也倒罢侄男个女也倒罢这个娃娃了我来抓赶紧把娃娃来抱上来就上到了高楼上娃娃的浑身上下洗了个净。",
+      "sentence": "李太师将娃娃带到了滨州城",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "我傍个里的侄男遭了难太师爷给我来带上我叔老子不救等何人?好好好，姐姐生下的也倒罢侄男个女也倒罢这个娃娃了我来抓赶紧把娃娃来抱上来就上到了高楼上娃娃的浑身上下洗了个净。",
+      "sentence": "娃娃的浑身上下被洗干净",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "月娘娘",
+      "original_sentence": "红袍袍绿褂褂忙穿上娃娃抱上怪稀罕好了好了实好了妙了妙了实妙了我肚子不疼就把太子抱上了。",
+      "sentence": "月娘娘给娃娃穿上红袍绿褂",
+      "behavior_type": 13
+    },
+    {
+      "role": "月娘娘",
+      "original_sentence": "红袍袍绿褂褂忙穿上娃娃抱上怪稀罕好了好了实好了妙了妙了实妙了我肚子不疼就把太子抱上了。",
+      "sentence": "月娘娘将娃娃抱上了高楼",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "孩子抓了七岁整早早送在了，南学中叫他在南学念五经。",
+      "sentence": "刘化王七岁时被送往南学念五经",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "早上送到南学里，晚来的师父把学名儿起。",
+      "sentence": "刘化王被送到南学里学习",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "早上送到南学里，晚来的师父把学名儿起。",
+      "sentence": "师父为刘化王起了学名",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "学名不把别的安，学名起了个刘化王。",
+      "sentence": "学名被起为刘化王",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "三日念会三字经，四日念会百家姓。",
+      "sentence": "刘化王三日学会三字经",
+      "behavior_type": 5
+    },
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "三日念会三字经，四日念会百家姓。",
+      "sentence": "刘化王四日学会百家姓",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "白日在学里把五经念。",
+      "sentence": "刘化王白天在学堂里学习五经",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "晚来在老子的手底下把武练。",
+      "sentence": "刘化王在父亲指导下练习武术",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "读过一月又一月，练过一年又一年。",
+      "sentence": "刘化王持续读书练武多年",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "书上唱去是一时儿整，做事去可得十六年整。",
+      "sentence": "刘化王做事需要十六年时间",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "忙了忙了谁忙了，忙了太白金星了。",
+      "sentence": "太白金星忙碌不停",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "要叫黑虎垦花园里认母亲给他的母亲报仇恨刘化王在学送里正读书太白金星往学堂里吹了一口气。",
+      "sentence": "刘化王在学堂里认真读书",
+      "behavior_type": 5
+    },
+    {
+      "role": "太白金星",
+      "original_sentence": "要叫黑虎垦花园里认母亲给他的母亲报仇恨刘化王在学送里正读书太白金星往学堂里吹了一口气。",
+      "sentence": "太白金星向学堂吹了一口气",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘化王",
+      "original_sentence": "刘化王心又慌眼又跳，左脸不烧右脸烧。",
+      "sentence": "刘化王感到心慌意乱",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "刘化王来到金殿中，双膝跪倒地埃尘。",
+      "sentence": "刘化王来到金殿中双膝跪倒",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "叫了声，老父亲，我怎么心又慌眼又跳，左脸不烧右脸烧?我读书年多了日久了，武艺也练得成功了。",
+      "sentence": "刘化王感到心慌意乱情绪波动",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "叫了声，老父亲，我怎么心又慌眼又跳，左脸不烧右脸烧?我读书年多了日久了，武艺也练得成功了。",
+      "sentence": "刘化王认为自己已学有所成",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "我箭能射天上的单飞雁，弹能打海里的深水鱼。",
+      "sentence": "刘化王擅长射箭和打弹",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "请你赐给我宝雕弓雕翎箭，我到深山里散散心。",
+      "sentence": "刘化王请求赐予宝雕弓和雕翎箭",
+      "behavior_type": 10
+    },
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "请你赐给我宝雕弓雕翎箭，我到深山里散散心。",
+      "sentence": "刘化王计划前往深山散心",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "刘化王骑了烈马背了弓，领了猎狗架了鹰。",
+      "sentence": "刘化王骑马背弓领狗架鹰",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "带了三十个护卫兵，赶着出了那滨州城。",
+      "sentence": "刘化王带领护卫兵离开滨州城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "土地公公",
+      "original_sentence": "尖儿(刚刚)出了滨州城，土地公公怒气生。",
+      "sentence": "土地公公感到非常愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "你要琉璃井上认母亲，带上兵将何处用。",
+      "sentence": "刘化王询问带兵将有何用途",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "你要琉璃井上认母亲，带上兵将何处用。",
+      "sentence": "土地公公对此感到非常愤怒",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "照住风神吹了一口气，来了风神婆子三个人。",
+      "sentence": "风神婆子三人被召唤而来",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "老毛黄风刮了一大阵，刮散了亲兵三十人，把刘化王卷到了马鞍城。",
+      "sentence": "刘化王被风卷至马鞍城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "一时三刻天晴了，风住了，把刘化王刮到一座山里了。",
+      "sentence": "刘化王被风刮到一座山里",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这座山叫个棋盘山离那李家花园还有五里远。",
+      "sentence": "棋盘山距离李家花园五里远",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "刘化王来到棋盘山什么东西也看不见。",
+      "sentence": "刘化王在棋盘山无法看见任何东西",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "土地公公",
+      "original_sentence": "土地爷变化真多端变了个白毛玉兔在路旁。",
+      "sentence": "土地公公变化多端变成白兔",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "刘化王拾头看一看这个白毛玉免太好看我若是抓住拿到金殿上，也能让我的老父图个稀罕。",
+      "sentence": "刘化王想抓住白兔献给父亲",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "刘化王拉开宝雕弓一箭射在了白毛玉兔的脊背中。",
+      "sentence": "刘化王用宝雕弓射中白毛玉兔",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "土地公公",
+      "original_sentence": "白毛玉兔是土地老公公把箭杆子箭头子带上一溜风刘化王追着兔子往前行一鼓劲来到李家花园的北墙根。",
+      "sentence": "土地公公带着箭杆箭头快速移动",
+      "behavior_type": 4
+    },
+    {
+      "role": "刘化王",
+      "original_sentence": "白毛玉兔是土地老公公把箭杆子箭头子带上一溜风刘化王追着兔子往前行一鼓劲来到李家花园的北墙根。",
+      "sentence": "刘化王追赶兔子来到李家花园",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "白毛兔子把雕翎箭带上进了水洞，他的母亲正在把水担，把雕翎箭插在后面的桶梁上。",
+      "sentence": "白毛兔子带着箭进入水洞",
+      "behavior_type": 4
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "白毛兔子把雕翎箭带上进了水洞，他的母亲正在把水担，把雕翎箭插在后面的桶梁上。",
+      "sentence": "李三娘正在担水时插上箭",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "刘化王正在花园外，哒，你这个白毛兔为啥给我把雕翎箭带上进了水洞了。",
+      "sentence": "刘化王质问白毛兔为何带走箭",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "就把马打给了几鞭子，那马儿喷地一声就跳进了后花庭。",
+      "sentence": "刘化王骑马跃入后花园中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "看到一个贫婆子把水担，雕翎箭就在桶梁上。",
+      "sentence": "刘化王看见贫婆子担水",
+      "behavior_type": 6
+    },
+    {
+      "role": "",
+      "original_sentence": "看到一个贫婆子把水担，雕翎箭就在桶梁上。",
+      "sentence": "雕翎箭插在桶梁上",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "刘化王大叫：贫婆子，快站住!李三娘慢慢搁下了扁担桶，抬起头来一观看，见一个少年将军在马上。",
+      "sentence": "刘化王命令贫婆子立即停下",
+      "behavior_type": 7
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "刘化王大叫：贫婆子，快站住!李三娘慢慢搁下了扁担桶，抬起头来一观看，见一个少年将军在马上。",
+      "sentence": "李三娘放下扁担抬头观看",
+      "behavior_type": 13
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "刘化王大叫：贫婆子，快站住!李三娘慢慢搁下了扁担桶，抬起头来一观看，见一个少年将军在马上。",
+      "sentence": "李三娘看见一位少年将军",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "味，贫婆子，那个白毛玉兔走了哪里了?李三娘，走上前，双膝跪到地埃尘叫了声马上的少将军。",
+      "sentence": "李三娘跪地向少将军询问白毛兔去向",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "我低住头儿把活干不知道你的白毛兔儿走哪方。",
+      "sentence": "李三娘低头干活不知白兔去向",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "太，我把你个贫婆子我的雕翎箭在你的桶梁上你还白尿淌舌不承当!今个我当是找到白毛玉兔还罢了，找不到我的白毛玉兔，我砸折你的骨拐要掉你的命!李三娘猛听吓掉魂，叫声我的少将军你就仔细听。",
+      "sentence": "刘化王愤怒指责贫婆子不承认",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "太，我把你个贫婆子我的雕翎箭在你的桶梁上你还白尿淌舌不承当!今个我当是找到白毛玉兔还罢了，找不到我的白毛玉兔，我砸折你的骨拐要掉你的命!李三娘猛听吓掉魂，叫声我的少将军你就仔细听。",
+      "sentence": "刘化王威胁要伤害贫婆子性命",
+      "behavior_type": 9
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "太，我把你个贫婆子我的雕翎箭在你的桶梁上你还白尿淌舌不承当!今个我当是找到白毛玉兔还罢了，找不到我的白毛玉兔，我砸折你的骨拐要掉你的命!李三娘猛听吓掉魂，叫声我的少将军你就仔细听。",
+      "sentence": "李三娘听闻威胁后感到恐惧",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "太，我把你个贫婆子我的雕翎箭在你的桶梁上你还白尿淌舌不承当!今个我当是找到白毛玉兔还罢了，找不到我的白毛玉兔，我砸折你的骨拐要掉你的命!李三娘猛听吓掉魂，叫声我的少将军你就仔细听。",
+      "sentence": "李三娘请求少将军仔细倾听",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "低住头儿我把水来担根本就没有见过你的白毛兔子在哪方。",
+      "sentence": "李三娘表示未见过白毛兔子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "我的将军呀，我的少将军我给你跪到地埃尘。",
+      "sentence": "李三娘向少将军下跪求情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "磕上三个头。",
+      "sentence": "李三娘跪地磕了三个头",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "做上九个揖你今个饶了我的命。",
+      "sentence": "李三娘连续磕头作揖求饶命",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "太，贫婆子，你望住太阳拜，你不要给我拜刘化王坐在马上不安稳，叫李三娘一拜哩跌倒地埃尘。",
+      "sentence": "刘化王命令李三娘跪拜太阳",
+      "behavior_type": 7
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "太，贫婆子，你望住太阳拜，你不要给我拜刘化王坐在马上不安稳，叫李三娘一拜哩跌倒地埃尘。",
+      "sentence": "李三娘跪拜时跌倒在地",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "桶梁上取下雕翎箭，一看哩箭秆子上怎么把字写上。",
+      "sentence": "箭秆子上写有文字",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "面前是你的母亲。",
+      "sentence": "刘化王意识到面前是其母亲",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "名字叫个李三娘，你是她亲生儿子刘化王。",
+      "sentence": "李三娘是刘化王的亲生母亲",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "名字叫个李三娘，你是她亲生儿子刘化王。",
+      "sentence": "刘化王是李三娘的亲生儿子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "土地公公",
+      "original_sentence": "土地公公带令箭，叫你琉璃井上认亲娘。",
+      "sentence": "土地公公命令刘化王认亲娘",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘化王",
+      "original_sentence": "刘化王看罢不要紧。",
+      "sentence": "刘化王看完后并不在意",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "叫天呼地我的老天爷老天爷我今天有心把母亲认，耳听着舅舅舅母厉害得很，我假装给他个认不清。",
+      "sentence": "刘化王有心认母却畏惧舅父母",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "叫天呼地我的老天爷老天爷我今天有心把母亲认，耳听着舅舅舅母厉害得很，我假装给他个认不清。",
+      "sentence": "耳闻舅舅舅母十分厉害",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "叫天呼地我的老天爷老天爷我今天有心把母亲认，耳听着舅舅舅母厉害得很，我假装给他个认不清。",
+      "sentence": "刘化王假装不认识母亲",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "哎，贫妇人，起来起来，你不要跪了你先坐有话你给我慢慢说你年纪已经这么大为什么还要担水来浇花?你的男人走了哪里了?我的少将军啊我的男人名叫小刘高。",
+      "sentence": "刘化王让贫妇人坐下慢慢说",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "哎，贫妇人，起来起来，你不要跪了你先坐有话你给我慢慢说你年纪已经这么大为什么还要担水来浇花?你的男人走了哪里了?我的少将军啊我的男人名叫小刘高。",
+      "sentence": "贫妇人年纪大仍担水浇花",
+      "behavior_type": 12
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "哎，贫妇人，起来起来，你不要跪了你先坐有话你给我慢慢说你年纪已经这么大为什么还要担水来浇花?你的男人走了哪里了?我的少将军啊我的男人名叫小刘高。",
+      "sentence": "李三娘回答少将军的问题",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "上了滨州把贼平十六年天气无书信。",
+      "sentence": "刘高前往滨州平定贼寇",
+      "behavior_type": 4
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "上了滨州把贼平十六年天气无书信。",
+      "sentence": "刘高十六年未曾寄书信",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "十六年天气无书信你应该反穿罗裙嫁旁人谁叫你花园里担水干营生?少将军，仔细听刘高把我遗到娘家门。",
+      "sentence": "李三娘十六年未收到书信",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "十六年天气无书信你应该反穿罗裙嫁旁人谁叫你花园里担水干营生?少将军，仔细听刘高把我遗到娘家门。",
+      "sentence": "李三娘在花园里担水浇花",
+      "behavior_type": 10
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "十六年天气无书信你应该反穿罗裙嫁旁人谁叫你花园里担水干营生?少将军，仔细听刘高把我遗到娘家门。",
+      "sentence": "刘高将李三娘遗弃在娘家",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的爹爹妈妈归了阴跌到哥哥嫂子的手当中。",
+      "sentence": "父母去世后由兄嫂照顾",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "十六年天气丈夫不回家一磨一折叫我受溜辛。",
+      "sentence": "李三娘十六年未收到丈夫书信",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "你难道连一男半女也没生下?少将军，你细听不提一男半女还罢了，提起一男半女我就心酸了。",
+      "sentence": "李三娘提起子女感到心酸",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "我的丈夫出门十六年我的爹爹妈妈一命亡。",
+      "sentence": "李三娘丈夫离家十六年未归",
+      "behavior_type": 3
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "我的丈夫出门十六年我的爹爹妈妈一命亡。",
+      "sentence": "李三娘父母双双离世",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "跌到哥哥嫂子的手当中，一磨一折叫我受溜辛，磨房里生下一个男孩童小名儿起下了个咬脐郎。",
+      "sentence": "李三娘在磨房生下咬脐郎",
+      "behavior_type": 3
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "跌到哥哥嫂子的手当中，一磨一折叫我受溜辛，磨房里生下一个男孩童小名儿起下了个咬脐郎。",
+      "sentence": "李三娘遭受哥哥嫂子折磨",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "你的孩儿呢?我的孩儿，哥嫂逼着无法行留不住他的小性命立逼着给我丢到南城湾的沤麻坑。",
+      "sentence": "李三娘被迫丢弃亲生孩儿",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "男孩儿丢到沤麻坑下落如何了?南城湾的沤麻坑里水又深撂下他我就转回程.到防房里给家干营生。",
+      "sentence": "李三娘将男孩丢入沤麻坑",
+      "behavior_type": 3
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "男孩儿丢到沤麻坑下落如何了?南城湾的沤麻坑里水又深撂下他我就转回程.到防房里给家干营生。",
+      "sentence": "李三娘离开沤麻坑返回家",
+      "behavior_type": 4
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "男孩儿丢到沤麻坑下落如何了?南城湾的沤麻坑里水又深撂下他我就转回程.到防房里给家干营生。",
+      "sentence": "李三娘在磨房继续干家务",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "一天给着我谷拉米汤两黑碗白日里叫我担水三十担到晚来叫我碾磨到三更天。",
+      "sentence": "李三娘每日被迫完成繁重劳动",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "这就是我妇人的直实惰再没有虚言我就来告明。",
+      "sentence": "李三娘陈述自己的真实经历",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "刘化王听罢言贫妇人，贫妇人，我是滨州城上的少将军。",
+      "sentence": "刘化王听完贫妇人的话后表明身份",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "我连你的丈夫刘知远，在一个营里住一个营里站，一个锅里来吃饭。",
+      "sentence": "刘知远与我在同一军营生活",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "你先写上一封书信吧，我给你带到滨州城捎给你的丈夫刘知远叫他赶快回来看望你夫人李三娘。",
+      "sentence": "刘化王让李三娘写信给刘知远",
+      "behavior_type": 7
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "你先写上一封书信吧，我给你带到滨州城捎给你的丈夫刘知远叫他赶快回来看望你夫人李三娘。",
+      "sentence": "李三娘写信给丈夫刘知远",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "你先写上一封书信吧，我给你带到滨州城捎给你的丈夫刘知远叫他赶快回来看望你夫人李三娘。",
+      "sentence": "刘知远将回来看望李三娘",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "李三娘没有纸一张，手下也没有笔一管。",
+      "sentence": "李三娘没有纸和笔",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "把衣襟扯下半页整，牙子一咬中指烂。",
+      "sentence": "李三娘扯下衣襟咬破中指",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "血书我再淋着写一番把遭下的难辛都写上。",
+      "sentence": "李三娘用血书写下所有苦难经历",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "叫丈夫，听我言早来三步重相见，迟来三步不得见。",
+      "sentence": "李三娘告诉丈夫要尽快回来",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "一封血书写现成双手递给了少将军。",
+      "sentence": "李三娘将血书递给少将军",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "哎，李三娘把血书给了刘化王刘化王心中难离老母亲。",
+      "sentence": "李三娘将血书交给刘化王",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘化王",
+      "original_sentence": "哎，李三娘把血书给了刘化王刘化王心中难离老母亲。",
+      "sentence": "刘化王心中难离老母亲",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "无计无奈裕子里掏出了三两金子十两银双手递给了老母亲少将军，少将军不能不能实不能你给我捎书整一封我应该给你三两金子十两银走着路上当盘用。",
+      "sentence": "刘化王将金银交给老母亲",
+      "behavior_type": 8
+    },
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "无计无奈裕子里掏出了三两金子十两银双手递给了老母亲少将军，少将军不能不能实不能你给我捎书整一封我应该给你三两金子十两银走着路上当盘用。",
+      "sentence": "刘化王请求母亲捎带书信",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "你给上我三两金子十两银不知道这又是啥事情?贫妇人，贫妇人三两金子十两银我给你搁到花园中天爷晴了你自己担天爷阴了雇上个旁人担几担。",
+      "sentence": "刘化王将金银交给贫妇人",
+      "behavior_type": 8
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "你给上我三两金子十两银不知道这又是啥事情?贫妇人，贫妇人三两金子十两银我给你搁到花园中天爷晴了你自己担天爷阴了雇上个旁人担几担。",
+      "sentence": "李三娘将金银放在花园中",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "李三春，说分明不能不能实不能我不能接你少将军的金和银我的哥嫂说我磨房里维旁人我雇上旁人还怪得很。",
+      "sentence": "李三娘拒绝接受少将军的金银",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "刘化王闻听吱一声三两金，十两银我给你搁到北花厅。",
+      "sentence": "刘化王将金银放置在北花厅",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "我走着中途大路上遇上你的咬脐郎儿子刘化王他就还掉我的十两银。",
+      "sentence": "刘化王在路上归还了十两银",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "我去到了午朝门遇上你的丈夫刘知远他再还掉我的三两金本本利利给我还一个清。",
+      "sentence": "刘知远在午朝门归还了三两金",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "刘化王这才离别老母亲鞭子打马回了滨洲城。",
+      "sentence": "刘化王告别母亲骑马返回滨洲城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "刘化王，上了马，鞭子在就手中拿出花园要起身赶着就上滨州城走过一山又一山走过一岭又一岭赶着走来赶着行要见他的老父亲上到山上往下瞭狼虫虎豹多得不得了一路儿走来一路儿行赶着来到午朝门来时就到金銮殿，老父亲跟前见一面。",
+      "sentence": "刘化王骑马离开花园前往滨州城",
+      "behavior_type": 4
+    },
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "刘化王，上了马，鞭子在就手中拿出花园要起身赶着就上滨州城走过一山又一山走过一岭又一岭赶着走来赶着行要见他的老父亲上到山上往下瞭狼虫虎豹多得不得了一路儿走来一路儿行赶着来到午朝门来时就到金銮殿，老父亲跟前见一面。",
+      "sentence": "刘化王翻山越岭赶路去见父亲",
+      "behavior_type": 4
+    },
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "刘化王，上了马，鞭子在就手中拿出花园要起身赶着就上滨州城走过一山又一山走过一岭又一岭赶着走来赶着行要见他的老父亲上到山上往下瞭狼虫虎豹多得不得了一路儿走来一路儿行赶着来到午朝门来时就到金銮殿，老父亲跟前见一面。",
+      "sentence": "刘化王在山上瞭望发现野兽",
+      "behavior_type": 1
+    },
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "刘化王，上了马，鞭子在就手中拿出花园要起身赶着就上滨州城走过一山又一山走过一岭又一岭赶着走来赶着行要见他的老父亲上到山上往下瞭狼虫虎豹多得不得了一路儿走来一路儿行赶着来到午朝门来时就到金銮殿，老父亲跟前见一面。",
+      "sentence": "刘化王抵达午朝门见到父亲",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "行罢礼了没话讲，书信就赶紧掏怀边。",
+      "sentence": "刘化王行礼后立即取出书信",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "一封血书拿出来，双手递到父亲的面双膝儿跪倒把书信拿交给他的老父亲看书信交在老父的手磕头谢过父亲的恩。",
+      "sentence": "刘化王将血书递给父亲",
+      "behavior_type": 13
+    },
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "一封血书拿出来，双手递到父亲的面双膝儿跪倒把书信拿交给他的老父亲看书信交在老父的手磕头谢过父亲的恩。",
+      "sentence": "刘化王跪地呈上书信",
+      "behavior_type": 13
+    },
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "一封血书拿出来，双手递到父亲的面双膝儿跪倒把书信拿交给他的老父亲看书信交在老父的手磕头谢过父亲的恩。",
+      "sentence": "刘化王磕头感谢父亲",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "刘化王出来了就在屏风背后蹲。",
+      "sentence": "刘化王从屏风背后走出来",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "蹲在背后瞅着看看他父亲怎么办。",
+      "sentence": "刘化王暗中观察父亲的反应",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "他若是不认我的老母亲皇爷的面前我告一状。",
+      "sentence": "刘化王威胁要向皇爷告状",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "刘化王，悄悄蹲刘知远，看书信。",
+      "sentence": "刘化王悄悄蹲在屏风背后",
+      "behavior_type": 12
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘化王，悄悄蹲刘知远，看书信。",
+      "sentence": "刘知远仔细阅读那封书信",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "一看见这封书信哩，苦了妻子李三春。",
+      "sentence": "李三娘看见书信感到悲伤",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "早知道夫人把我等惨不该来招亲我的妻子唤一步走错我百步也赶不上呀，自己把自己拿的嘴巴扇谁一个像我这坏了心肠的刘知远?我有心回家把我的妻子看公主知道难上难我的人头就挂在了午门上千难万难左难右难难住了谁?难住了我驸马刘知远一句话，不要紧刘化王慢慢来见老父亲。",
+      "sentence": "刘知远后悔自己来招亲",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "早知道夫人把我等惨不该来招亲我的妻子唤一步走错我百步也赶不上呀，自己把自己拿的嘴巴扇谁一个像我这坏了心肠的刘知远?我有心回家把我的妻子看公主知道难上难我的人头就挂在了午门上千难万难左难右难难住了谁?难住了我驸马刘知远一句话，不要紧刘化王慢慢来见老父亲。",
+      "sentence": "刘知远扇自己耳光",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "早知道夫人把我等惨不该来招亲我的妻子唤一步走错我百步也赶不上呀，自己把自己拿的嘴巴扇谁一个像我这坏了心肠的刘知远?我有心回家把我的妻子看公主知道难上难我的人头就挂在了午门上千难万难左难右难难住了谁?难住了我驸马刘知远一句话，不要紧刘化王慢慢来见老父亲。",
+      "sentence": "刘知远感到回家看妻子难",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "早知道夫人把我等惨不该来招亲我的妻子唤一步走错我百步也赶不上呀，自己把自己拿的嘴巴扇谁一个像我这坏了心肠的刘知远?我有心回家把我的妻子看公主知道难上难我的人头就挂在了午门上千难万难左难右难难住了谁?难住了我驸马刘知远一句话，不要紧刘化王慢慢来见老父亲。",
+      "sentence": "刘知远被难住",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "早知道夫人把我等惨不该来招亲我的妻子唤一步走错我百步也赶不上呀，自己把自己拿的嘴巴扇谁一个像我这坏了心肠的刘知远?我有心回家把我的妻子看公主知道难上难我的人头就挂在了午门上千难万难左难右难难住了谁?难住了我驸马刘知远一句话，不要紧刘化王慢慢来见老父亲。",
+      "sentence": "刘化王慢慢去见父亲",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "叫父亲。",
+      "sentence": "刘化王轻声呼唤他的父亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "你当听把那么个花园里的贫婆子你有什么亲哩有什么故?哒，我把你个胆大的小畜生你当那个贫婆子是何人?她就是你的母亲李三春。",
+      "sentence": "刘化王询问贫婆子有何亲故",
+      "behavior_type": 7
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "你当听把那么个花园里的贫婆子你有什么亲哩有什么故?哒，我把你个胆大的小畜生你当那个贫婆子是何人?她就是你的母亲李三春。",
+      "sentence": "李三娘告知贫婆子是母亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "嗨，老父亲我只有一个母亲，哪里来的两母亲?娃娃，这是你的养母亲，那是你的生母亲。",
+      "sentence": "刘化王询问父亲关于母亲的事情",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "嗨，老父亲我只有一个母亲，哪里来的两母亲?娃娃，这是你的养母亲，那是你的生母亲。",
+      "sentence": "父亲解释生母和养母的区别",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李太师",
+      "original_sentence": "我在这里招了亲，那李太师把你从马鞍县捎到滨州城，你的养母把你抓成人。",
+      "sentence": "李太师将你从马鞍县带到滨州城",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "我在这里招了亲，那李太师把你从马鞍县捎到滨州城，你的养母把你抓成人。",
+      "sentence": "养母将你抓成人",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "我说老父亲，既然有我的生母李三春你怎么背祖忘恩昧良心，把妈妈丢在了花园中。",
+      "sentence": "刘化王质问父亲为何背弃生母",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "我说老父亲，既然有我的生母李三春你怎么背祖忘恩昧良心，把妈妈丢在了花园中。",
+      "sentence": "李三春被遗弃在花园之中",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "月娘娘",
+      "original_sentence": "娘家门上受溜辛?他们正吵哩正嚷哩，就叫月娘娘公主听到了耳朵里，俏俏地下了绣楼出了门只见刘知远手拿血书泪纷纷正在连儿子闹争论。",
+      "sentence": "月娘娘听到争吵后悄悄下楼",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "娘家门上受溜辛?他们正吵哩正嚷哩，就叫月娘娘公主听到了耳朵里，俏俏地下了绣楼出了门只见刘知远手拿血书泪纷纷正在连儿子闹争论。",
+      "sentence": "刘知远手拿血书泪流满面",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "月娘娘",
+      "original_sentence": "月娘娘来到刘知远身后头，猛地把血书抓到手。",
+      "sentence": "月娘娘迅速夺走刘知远的血书",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "月娘娘",
+      "original_sentence": "一看血书不要紧一切的事儿写得明。",
+      "sentence": "月娘娘看完血书明白了一切",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "月娘娘",
+      "original_sentence": "月娘娘怒气生手指丈夫恨几声那时候我看你左眼青来右眼红，肯定家里还有人。",
+      "sentence": "月娘娘对丈夫感到愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "月娘娘",
+      "original_sentence": "月娘娘怒气生手指丈夫恨几声那时候我看你左眼青来右眼红，肯定家里还有人。",
+      "sentence": "月娘娘指责丈夫另有他人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "左肩高来右肩低，定在家里撇贤妻。",
+      "sentence": "刘知远左肩高右肩低",
+      "behavior_type": 1
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "左肩高来右肩低，定在家里撇贤妻。",
+      "sentence": "刘知远在家抛弃贤妻",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "这死那活不承认你才把李三春遗到娘家了哥嫂的手底下受溜辛!宁受婆家的一斗气，不受娘家的一口气。",
+      "sentence": "李三娘在娘家遭受哥嫂虐待",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "这死那活不承认你才把李三春遗到娘家了哥嫂的手底下受溜辛!宁受婆家的一斗气，不受娘家的一口气。",
+      "sentence": "宁愿忍受婆家的气也不受娘家的气",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "月娘娘",
+      "original_sentence": "你这个忘恩负义的黑头虫!叫一声左右的人赶紧去给我的父王禀叫他点上兵丁来午门!说时迟，那时紧，一阵子父王来到金殿中。",
+      "sentence": "月娘娘命令左右向父王禀报",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "你这个忘恩负义的黑头虫!叫一声左右的人赶紧去给我的父王禀叫他点上兵丁来午门!说时迟，那时紧，一阵子父王来到金殿中。",
+      "sentence": "父王迅速赶到金殿之中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "月娘娘",
+      "original_sentence": "叫声女儿你当听你催着叫我来到金殿上，到底为的是啥事情?月娘娘双膝跪到地埃尘，把刘知远做下的无义之事一折一折说分明。",
+      "sentence": "月娘娘询问女儿为何叫她来金殿",
+      "behavior_type": 7
+    },
+    {
+      "role": "月娘娘",
+      "original_sentence": "叫声女儿你当听你催着叫我来到金殿上，到底为的是啥事情?月娘娘双膝跪到地埃尘，把刘知远做下的无义之事一折一折说分明。",
+      "sentence": "月娘娘跪地向父王诉说刘知远",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "月娘娘",
+      "original_sentence": "赶紧你给我点起兵救我的姐姐李三春。",
+      "sentence": "月娘娘命令点兵救李三春",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "月娘娘",
+      "original_sentence": "点起兵丁起了身路上行了数日整来到沙驼国的马鞍县离着李家的花园不远处有个棋盘山，棋盘山上扎下了营。",
+      "sentence": "月娘娘率兵行至沙驼国马鞍县",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "点起兵丁起了身路上行了数日整来到沙驼国的马鞍县离着李家的花园不远处有个棋盘山，棋盘山上扎下了营。",
+      "sentence": "军队在棋盘山上扎营驻扎",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "小刘高把王衣王帽都脱尽，装上个讨饭的看咔夫人。",
+      "sentence": "刘高脱下王衣王帽伪装成乞丐",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "头上戴了个老皮帽身上披了个老皮袄。",
+      "sentence": "刘高戴老皮帽披老皮袄",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "怀里揣了个破瓦盆.假装上个讨饭的探夫人。",
+      "sentence": "刘高假装乞丐探查夫人情况",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "一步一步往前行来到了李家的花园门来到门上悄悄蹲再说那个李三春磨道里推磨受溜辛比着磨盘正把那哥哥嫂子恨。",
+      "sentence": "刘高一步一步前行至李家花园",
+      "behavior_type": 4
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "一步一步往前行来到了李家的花园门来到门上悄悄蹲再说那个李三春磨道里推磨受溜辛比着磨盘正把那哥哥嫂子恨。",
+      "sentence": "李三春推磨时心中怨恨哥嫂",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李宏信",
+      "original_sentence": "上扇子是哥哥李宏信下扇子是嫂嫂一丈青。",
+      "sentence": "李宏信是上扇子的哥哥",
+      "behavior_type": 12
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "上扇子是哥哥李宏信下扇子是嫂嫂一丈青。",
+      "sentence": "一丈青是下扇子的嫂嫂",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "粮食好比是我李三娘你看把我给的多孽障。",
+      "sentence": "李三娘感到自己受到孽待",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "抽子好比嫂子一丈青磨口好比哥哥李宏信。",
+      "sentence": "李三娘将嫂子比作一丈青",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "抽子好比嫂子一丈青磨口好比哥哥李宏信。",
+      "sentence": "李三娘将哥哥比作李宏信",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "抽子攮着磨口撥得硬苦害的是我李三春你们夫妻两个心太狠把我李三娘给的多难辛。",
+      "sentence": "李三娘控诉哥嫂虐待自己",
+      "behavior_type": 2
+    },
+    {
+      "role": "李宏信",
+      "original_sentence": "抽子攮着磨口撥得硬苦害的是我李三春你们夫妻两个心太狠把我李三娘给的多难辛。",
+      "sentence": "李宏信与妻子虐待李三娘",
+      "behavior_type": 10
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "抽子攮着磨口撥得硬苦害的是我李三春你们夫妻两个心太狠把我李三娘给的多难辛。",
+      "sentence": "一丈青与丈夫虐待李三娘",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "碾上一场又一场你看把我李三娘给的难不难。",
+      "sentence": "李三娘感到生活非常艰难",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "磨口绳好比是一丈青磨杆子好比是李宏信。",
+      "sentence": "一丈青被比作磨口绳",
+      "behavior_type": 10
+    },
+    {
+      "role": "李宏信",
+      "original_sentence": "磨口绳好比是一丈青磨杆子好比是李宏信。",
+      "sentence": "李宏信被比作磨杆子",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "麸子好比是丈夫刘知远。",
+      "sentence": "麸子被比作丈夫刘知远",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "面粉好比是我夫人李三娘。",
+      "sentence": "面粉象征着夫人李三娘",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "李宏信",
+      "original_sentence": "李宏信一丈青一条心把白面麸子硬往开里分。",
+      "sentence": "李宏信与一丈青合力分离面粉",
+      "behavior_type": 10
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "李宏信一丈青一条心把白面麸子硬往开里分。",
+      "sentence": "一丈青与李宏信共同分开面粉",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "麸子连白面不相逢数子不见面能行隔几春面离了麸子难得很。",
+      "sentence": "李三娘与刘知远难以相见",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "麸子连白面不相逢数子不见面能行隔几春面离了麸子难得很。",
+      "sentence": "李三娘感到分离十分痛苦",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "两把手揉了擀杖子擀切刀子把我剁成碎点点。",
+      "sentence": "李三娘用擀杖和切刀剁碎面团",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "钢刀好像嫂子一丈青把我李三春剁成碎纷纷。",
+      "sentence": "一丈青用钢刀将李三娘剁碎",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "下到滚水里头闹嚷嚷，难了我苦命的李三娘。",
+      "sentence": "李三娘在滚水中感到痛苦",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "叫声我的麸子啊你快回来，来和我面粉相逢来。",
+      "sentence": "李三娘呼唤麸子回来与面粉相逢",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘知远听着怪，假装他的哥哥喊门来。",
+      "sentence": "刘知远听到后假装哥哥喊门",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "咕、嚎啥者哩!开门来。",
+      "sentence": "刘知远在门外大声喊叫开门",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "盘面来!李三娘一听吓掉魂爬到磨扇上哭伤心。",
+      "sentence": "李三娘听闻后感到极度恐惧",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "盘面来!李三娘一听吓掉魂爬到磨扇上哭伤心。",
+      "sentence": "李三娘趴在磨扇上痛哭",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "早知道哥哥在门外听，悔不该骂傢哥嫂们。",
+      "sentence": "李三娘后悔辱骂哥嫂的行为",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "这会子若果开开门想着叫我活去是万不能。",
+      "sentence": "李三娘认为开门也无法活下去",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "叫哥哥，你听言，是啥还没有办周全。",
+      "sentence": "李三娘向哥哥诉说事情未办妥",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "到了明个天明亮，开开门了你盘面差下一样子你给我把罪行降。",
+      "sentence": "李三娘要求明天开门盘面",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "这会子面没有推成功，鞋没有做现成，麻没有来剥上，叫我给你开门我是难上难。",
+      "sentence": "李三娘未能完成多项家务任务",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘知远，听此言耐住性子开了言。",
+      "sentence": "刘知远听完后开口说话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "白，贫妇人，开门来。",
+      "sentence": "刘知远要求贫妇人开门",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "你是何人?叫我开门?我是带了书信的那个少将军。",
+      "sentence": "刘知远询问对方身份并要求开门",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "你是何人?叫我开门?我是带了书信的那个少将军。",
+      "sentence": "刘知远自称是带书信的少将军",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "小将军?少将军你要做啥事情?我给你带书信来了。",
+      "sentence": "刘知远询问少将军要做何事",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "小将军?少将军你要做啥事情?我给你带书信来了。",
+      "sentence": "少将军表示带来了书信",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "唱：你的男人叫我捎信来开开门快取你的书信来。",
+      "sentence": "刘知远告知李三娘有书信送达",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "我听着你说话音不同你不是那个少将军。",
+      "sentence": "李三娘听出对方声音有异",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我真是那个少将军。",
+      "sentence": "他声称自己是那个少将军",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "少将军说话声音嫩生生你说话像个老汉声我不能给你来开门。",
+      "sentence": "少将军声音嫩生老汉声不开门",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "你的男人刘知远他在滨州做了官李三娘闻听这一声带推磨着泪纷纷我把我的营生干想着给你开门难上难。",
+      "sentence": "李三娘听闻刘知远做官后流泪",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "你的男人刘知远他在滨州做了官李三娘闻听这一声带推磨着泪纷纷我把我的营生干想着给你开门难上难。",
+      "sentence": "李三娘推磨时想着开门困难",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "盼着我的丈夫回家转看望你的妻子李三娘你上了滨州十六年磨房里十六年受罪的是我李三娘。",
+      "sentence": "李三娘盼望丈夫回家看望她",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "盼着我的丈夫回家转看望你的妻子李三娘你上了滨州十六年磨房里十六年受罪的是我李三娘。",
+      "sentence": "李三娘在磨房受苦十六年",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "早来三步重相见迟来三步不得见。",
+      "sentence": "李三娘表达相见之难的情感",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "叫声丈夫你是个堂堂男子汉你回来吧回来吧回来了我们夫妻再相逢迟了把我作孽(折磨)死到娘家门。",
+      "sentence": "李三娘呼唤丈夫回家团聚",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "哎，开门来，开门来开开门了就相逢。",
+      "sentence": "李三娘请求开门以便相逢",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "你是谁?我是你的丈夫刘知远。",
+      "sentence": "刘知远表明自己是你的丈夫",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "你若是我的丈夫刘知远你给我根根底底说一遍。",
+      "sentence": "刘知远详细讲述事情经过",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "哪天哪日娶我来你什么时节出门来你给我说下的什么话说象了我认你是我的男子汉，说不像了你给我快滚蛋。",
+      "sentence": "李三娘要求刘知远详细说明情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "啊呀，夫人，八月十三送过婚，九月初三娶过门。",
+      "sentence": "刘知远告知夫人婚娶日期",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "夫妻自从过了门，天遭年荒真苦情。",
+      "sentence": "李三娘婚后生活困苦艰难",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "饿死了爹妈两个人，我扫柴卖草过兆征梦不及皇王家揽黄榜揽了黄榜投了营投军吃粮当了兵。",
+      "sentence": "刘知远父母去世后投军当兵",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "你瞭我来到营门中哭哭溜溜一个人我就二斗麦子十两银，把你遗到了娘家门。",
+      "sentence": "李三娘在营门中独自哭泣",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "你瞭我来到营门中哭哭溜溜一个人我就二斗麦子十两银，把你遗到了娘家门。",
+      "sentence": "刘知远用银两将你遗弃",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "交给你的一对老双亲我上了滨州把贼平。",
+      "sentence": "刘高前往滨州平定贼寇",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "是不是，你当听，根根底底你认不认。",
+      "sentence": "询问对方是否承认事实",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "说的透彻也说得像怎么看着你不像我的男子汉?我怎么不像你的男子汉?开开门了你看一看李三娘门缝子打开了一点点，一把把他推了个坐股蹲跨嚓一声又把门门子又顶了个硬。",
+      "sentence": "李三娘将门缝打开推倒对方",
+      "behavior_type": 13
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "说的透彻也说得像怎么看着你不像我的男子汉?我怎么不像你的男子汉?开开门了你看一看李三娘门缝子打开了一点点，一把把他推了个坐股蹲跨嚓一声又把门门子又顶了个硬。",
+      "sentence": "李三娘迅速将门重新顶住",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "哎，夫人，怎么了?你看你把我搡的房害了我的丈夫面清俊你三绺胡须如葱根哪一点像我的好男人?我的夫人啊你拿上镜儿把面相照难道我老哩你不老?磨房里没个镜儿把面相照李三娘舀了凉水整一碗对着碗上照面相老了老了实老了十六年老了我李三娘。",
+      "sentence": "李三娘对着凉水照见自己衰老",
+      "behavior_type": 2
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "哎，夫人，怎么了?你看你把我搡的房害了我的丈夫面清俊你三绺胡须如葱根哪一点像我的好男人?我的夫人啊你拿上镜儿把面相照难道我老哩你不老?磨房里没个镜儿把面相照李三娘舀了凉水整一碗对着碗上照面相老了老了实老了十六年老了我李三娘。",
+      "sentence": "李三娘质问丈夫为何不像从前",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "哎，夫人，怎么了?你看你把我搡的房害了我的丈夫面清俊你三绺胡须如葱根哪一点像我的好男人?我的夫人啊你拿上镜儿把面相照难道我老哩你不老?磨房里没个镜儿把面相照李三娘舀了凉水整一碗对着碗上照面相老了老了实老了十六年老了我李三娘。",
+      "sentence": "磨房中没有镜子可以照面容",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "马有毛片人有形傢还连我的丈夫像得很。",
+      "sentence": "李三娘认为丈夫外貌相似",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "磨杆子撂下就开门，刘知远一脚踏进磨房门。",
+      "sentence": "刘知远迈步进入磨房门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "白：走上前来，双手拉着妻子，妻子呀妻子，为夫的给你慢慢讲来。",
+      "sentence": "刘知远拉着妻子讲述事情经过",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "你在一旁坐安定，我给你把话说分明。",
+      "sentence": "刘知远让李三娘坐下听他说明",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "贼强盗，你十六年当兵，你就没有立下什么功劳，就这么个讨吃样子回来了?唱：叫妻子，你问我功劳也有功我去把滨州的贼子来平尽主子封给我功劳重。",
+      "sentence": "李三娘质问丈夫为何无功而返",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "贼强盗，你十六年当兵，你就没有立下什么功劳，就这么个讨吃样子回来了?唱：叫妻子，你问我功劳也有功我去把滨州的贼子来平尽主子封给我功劳重。",
+      "sentence": "刘知远向妻子讲述自己的功劳",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大庄子挣下着十三个小庄子一概数不过。",
+      "sentence": "大庄子拥有十三个小庄子",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "就看我挣下的功劳重我这才回家探夫人。",
+      "sentence": "刘知远向夫人展示自己的功劳",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "你不了管他的磨房了你去到家里歇一阵我去到棋盘山上搬兵丁再来搭救你出火坑。",
+      "sentence": "刘高告诉妻子去家里休息",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "你不了管他的磨房了你去到家里歇一阵我去到棋盘山上搬兵丁再来搭救你出火坑。",
+      "sentence": "刘高前往棋盘山上搬兵",
+      "behavior_type": 4
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "你不了管他的磨房了你去到家里歇一阵我去到棋盘山上搬兵丁再来搭救你出火坑。",
+      "sentence": "刘高计划救妻子出火坑",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "刘知远，起了身，甩开腿子一溜风。",
+      "sentence": "刘知远起身后迅速离开",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "棋盘山上要搬他的兵丁们。",
+      "sentence": "刘知远前往棋盘山搬兵丁",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "跑了五里远来到棋盘山。",
+      "sentence": "刘知远跑了五里远来到棋盘山",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "旗子一绕兵马壮浩浩荡荡往前赶。",
+      "sentence": "刘知远率领兵马浩浩荡荡前进",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "兵马走开一股风来到李家的磨房中前层后层包围了个硬请出了李三娘就把身袂(衣服)换。",
+      "sentence": "兵马包围磨房请出李三娘",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "纱罗绸缎穿身上，珠冠霞帔戴头上。",
+      "sentence": "李三娘身着纱罗绸缎头戴珠冠霞帔",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "凤凰罗衣披身上，花花的罗裙盖住了脚面。",
+      "sentence": "李三娘披上凤凰罗衣盖住脚面",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "抬了一顶朱红轿，叫那李三娘来坐了，出磨房走到大街上。",
+      "sentence": "李三娘乘坐朱红轿离开磨房",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "四街八巷来游闯，惊动了四街里的女和男。",
+      "sentence": "四街八巷的人们被惊动了",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "搬住门框子往外望看见了轿子里的刘娘娘。",
+      "sentence": "李三娘望见轿子里的刘娘娘",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "只说是李三娘活不出个人，这如今穿上了阔身袂。",
+      "sentence": "李三娘穿上了华丽的衣裳",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "只说是李三娘活不出个人谁知道坐轿到了大街中。",
+      "sentence": "李三娘乘坐轿子来到大街上",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "李宏信",
+      "original_sentence": "也不说李三春坐轿到了大街中，再说那李宏信、一丈青耳听着叽叽吵吵有了人。",
+      "sentence": "李宏信听到嘈杂的人声",
+      "behavior_type": 6
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "也不说李三春坐轿到了大街中，再说那李宏信、一丈青耳听着叽叽吵吵有了人。",
+      "sentence": "一丈青听到嘈杂的人声",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "叫丈夫，你听磨房里有声音必定是那狗贱人勾结人。",
+      "sentence": "一丈青怀疑磨房内有勾结行为",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "你去把那鞭子刺条拿几根打着打着把她问。",
+      "sentence": "一丈青命令丈夫拿鞭子打人",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "尖儿开了二街门啊哟，人喊马叫了不成叫丈夫，你把那鞭子刺条快撂掉刘姑爷做上个官来了赶着来到磨房中光是刘高一个人兵马四下里围得硬一丈青是个狐狸精忙把刘姑爷叫几声叫一声刘姑爷你是听自从你去了滨州城父母双亲归了阴你的妻子李三春变了心，反穿罗裙嫁旁人。",
+      "sentence": "一丈青呼喊刘姑爷并告知消息",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "尖儿开了二街门啊哟，人喊马叫了不成叫丈夫，你把那鞭子刺条快撂掉刘姑爷做上个官来了赶着来到磨房中光是刘高一个人兵马四下里围得硬一丈青是个狐狸精忙把刘姑爷叫几声叫一声刘姑爷你是听自从你去了滨州城父母双亲归了阴你的妻子李三春变了心，反穿罗裙嫁旁人。",
+      "sentence": "刘高独自来到磨房之中",
+      "behavior_type": 4
+    },
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "尖儿开了二街门啊哟，人喊马叫了不成叫丈夫，你把那鞭子刺条快撂掉刘姑爷做上个官来了赶着来到磨房中光是刘高一个人兵马四下里围得硬一丈青是个狐狸精忙把刘姑爷叫几声叫一声刘姑爷你是听自从你去了滨州城父母双亲归了阴你的妻子李三春变了心，反穿罗裙嫁旁人。",
+      "sentence": "一丈青指责李三娘变心",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "害着我哥哥嫂嫂无法行我把傢的头发剪掉脚敞掉我把傢的面色改变掉。",
+      "sentence": "一丈青剪掉头发改变面色",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "一天把傢来看硬等着你刘姑爷转回程来了叫你夫妻双双得相逢。",
+      "sentence": "一丈青等待刘姑爷归来",
+      "behavior_type": 12
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "一天把傢来看硬等着你刘姑爷转回程来了叫你夫妻双双得相逢。",
+      "sentence": "刘姑爷返回与妻子相逢",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "不是我们夫妻拦挡得硬你的那个妻子李三春早就反穿罗裙重嫁了人你刘姑爷回来一场空。",
+      "sentence": "刘高发现妻子已改嫁他人",
+      "behavior_type": 3
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "不是我们夫妻拦挡得硬你的那个妻子李三春早就反穿罗裙重嫁了人你刘姑爷回来一场空。",
+      "sentence": "李三娘已改嫁他人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "我的刘姑爷呀!刘高一听怒气生一封血书撂给李宏信，受了的罪行字字句句写得清。",
+      "sentence": "刘高听闻后感到非常愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "我的刘姑爷呀!刘高一听怒气生一封血书撂给李宏信，受了的罪行字字句句写得清。",
+      "sentence": "刘高将血书交给李宏信",
+      "behavior_type": 7
+    },
+    {
+      "role": "李宏信",
+      "original_sentence": "我的刘姑爷呀!刘高一听怒气生一封血书撂给李宏信，受了的罪行字字句句写得清。",
+      "sentence": "李宏信收到血书并阅读",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "去去去，兵丁们到大街上找些好木匠，好好把哥哥嫂子来谢成。",
+      "sentence": "兵丁们寻找木匠以答谢哥嫂",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "东街里找，西街里转，请来了许多好木匠。",
+      "sentence": "刘高派人寻找木匠",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把木匠请到磨房中，斧头凿子丁当响推刨子过去溜溜光，铆套铆的窍套窍鹰雀老鹅的鞍敲上。",
+      "sentence": "木匠在磨房中制作木制品",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "鞍心里钉了个七寸长的枣木桩把一丈青抓着安顿上。",
+      "sentence": "一丈青被抓住并安置在鞍上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "走一步、一哐瞠走给两步两哐瞠。",
+      "sentence": "走一步发出哐瞠声响",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "安着两个转轱辘是三个栏碰着疯狗割半斤碰着猫儿带四两，鹰雀老给割二两。",
+      "sentence": "安着两个转轱辘是三个栏",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "东一片子西一片，南一片子北一片，身上的肉给她刮了个光。",
+      "sentence": "一丈青将身上的肉刮了个光",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "剩下了三根梁胛骨，棉花卷上白布缠清油缸里醮三醮，土窝窝里掺三掺。",
+      "sentence": "一丈青被安顿在鞍上",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "剩下了三根梁胛骨，棉花卷上白布缠清油缸里醮三醮，土窝窝里掺三掺。",
+      "sentence": "剩余骨头被处理并包裹",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "一丈青（张秀英）",
+      "original_sentence": "头朝下，脚朝上百尺高杆点天灯倒点天灯归了阴。",
+      "sentence": "一丈青被倒吊高杆点天灯致死",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "李宏信",
+      "original_sentence": "李宏信大刀砍到什字中一把火烧掉了李家门。",
+      "sentence": "李宏信用大刀砍向什字中",
+      "behavior_type": 9
+    },
+    {
+      "role": "李宏信",
+      "original_sentence": "李宏信大刀砍到什字中一把火烧掉了李家门。",
+      "sentence": "李宏信一把火烧掉李家门",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "兵马来到刘高祖坟中，祭了祖要回滨州城。",
+      "sentence": "刘高祖兵马前往祖坟祭祖",
+      "behavior_type": 4
+    },
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "兵马来到刘高祖坟中，祭了祖要回滨州城。",
+      "sentence": "祭祖后兵马返回滨州城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "临走哩带上了李三娘。",
+      "sentence": "刘知远临走时带上了李三娘",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "还有那南门外的郭老人还有奶了孩儿的王大娘，一满请到了轿子中来坐上赶上要走滨州城。",
+      "sentence": "南门外郭老人被请上轿子",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "还有那南门外的郭老人还有奶了孩儿的王大娘，一满请到了轿子中来坐上赶上要走滨州城。",
+      "sentence": "奶孩儿的王大娘也上了轿",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "路上走了华月整，兵鸟乘到了滨州城把贵人接到了九龙廷，把李三娘请到了金殿中月娘娘请着叫季三娘坐正堂李三娘说，月娘娘啊月娘娘，我们是庶民老百姓你是皇上的姑娘人聪明我做偏房你做正月娘娘说道论起家法来你为大论起国法来我为大。",
+      "sentence": "路上走了整整一个月",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "路上走了华月整，兵鸟乘到了滨州城把贵人接到了九龙廷，把李三娘请到了金殿中月娘娘请着叫季三娘坐正堂李三娘说，月娘娘啊月娘娘，我们是庶民老百姓你是皇上的姑娘人聪明我做偏房你做正月娘娘说道论起家法来你为大论起国法来我为大。",
+      "sentence": "兵马抵达滨州城迎接贵人",
+      "behavior_type": 4
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "路上走了华月整，兵鸟乘到了滨州城把贵人接到了九龙廷，把李三娘请到了金殿中月娘娘请着叫季三娘坐正堂李三娘说，月娘娘啊月娘娘，我们是庶民老百姓你是皇上的姑娘人聪明我做偏房你做正月娘娘说道论起家法来你为大论起国法来我为大。",
+      "sentence": "李三娘被请到金殿中",
+      "behavior_type": 4
+    },
+    {
+      "role": "月娘娘",
+      "original_sentence": "路上走了华月整，兵鸟乘到了滨州城把贵人接到了九龙廷，把李三娘请到了金殿中月娘娘请着叫季三娘坐正堂李三娘说，月娘娘啊月娘娘，我们是庶民老百姓你是皇上的姑娘人聪明我做偏房你做正月娘娘说道论起家法来你为大论起国法来我为大。",
+      "sentence": "月娘娘请李三娘坐正堂",
+      "behavior_type": 7
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "路上走了华月整，兵鸟乘到了滨州城把贵人接到了九龙廷，把李三娘请到了金殿中月娘娘请着叫季三娘坐正堂李三娘说，月娘娘啊月娘娘，我们是庶民老百姓你是皇上的姑娘人聪明我做偏房你做正月娘娘说道论起家法来你为大论起国法来我为大。",
+      "sentence": "李三娘对月娘娘表明身份",
+      "behavior_type": 7
+    },
+    {
+      "role": "月娘娘",
+      "original_sentence": "路上走了华月整，兵鸟乘到了滨州城把贵人接到了九龙廷，把李三娘请到了金殿中月娘娘请着叫季三娘坐正堂李三娘说，月娘娘啊月娘娘，我们是庶民老百姓你是皇上的姑娘人聪明我做偏房你做正月娘娘说道论起家法来你为大论起国法来我为大。",
+      "sentence": "月娘娘阐述家法国法关系",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "月娘娘",
+      "original_sentence": "这如今家事按着家法论不能按着国法行你是先娶的我是后娶的我做偏房你做正。",
+      "sentence": "月娘娘主张按家法处理家事",
+      "behavior_type": 7
+    },
+    {
+      "role": "李三娘",
+      "original_sentence": "这如今家事按着家法论不能按着国法行你是先娶的我是后娶的我做偏房你做正。",
+      "sentence": "李三娘表示应按家法行事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "你也让，我也让让着没人坐正堂没奈没法抓抓单谁抓上谁就坐正堂。",
+      "sentence": "李三娘与月娘娘互相谦让",
+      "behavior_type": 7
+    },
+    {
+      "role": "月娘娘",
+      "original_sentence": "你也让，我也让让着没人坐正堂没奈没法抓抓单谁抓上谁就坐正堂。",
+      "sentence": "月娘娘与李三娘互相谦让",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "你也让，我也让让着没人坐正堂没奈没法抓抓单谁抓上谁就坐正堂。",
+      "sentence": "她们决定通过抓阄决定座位",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "写了两个纸单单叠了两个四方方。",
+      "sentence": "制作了两个纸单并叠成四方形状",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "抓了起来细查看，李三娘抓了个正宫单月娘娘做了东宫单。",
+      "sentence": "李三娘抓到了正宫的单子",
+      "behavior_type": 3
+    },
+    {
+      "role": "月娘娘",
+      "original_sentence": "抓了起来细查看，李三娘抓了个正宫单月娘娘做了东宫单。",
+      "sentence": "月娘娘拿到了东宫的单子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "郭石匠",
+      "original_sentence": "把抓了娃娃的郭石匠，奶了娃娃的王大娘一概封进养老宫养老宫里受皇恩。",
+      "sentence": "郭石匠和王大娘被封进养老宫",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "刘高/刘知远",
+      "original_sentence": "再给刘知远来封官，封了个有职没有权。",
+      "sentence": "刘知远被封为有职无权之官",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘化王（咬脐郎）",
+      "original_sentence": "权力交给了儿子刘化王刘化王把权力来掌上。",
+      "sentence": "刘化王掌握了所有权力",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不得相逢唱相逢不得团圆念团圆。",
+      "sentence": "无法相逢却渴望团圆",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人若害人人不吭，到晚了害人天不容，害来害去害本身。",
+      "sentence": "害人者最终会害到自己",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "李三娘",
+      "original_sentence": "要问此曲亘古传，曲儿便叫个《白兔记》,《李三娘碾磨》的书一桩，一节一节交待完。",
+      "sentence": "李三娘完成了《白兔记》的创作",
+      "behavior_type": 14
+    }
+  ]
+]

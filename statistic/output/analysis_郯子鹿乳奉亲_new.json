@@ -1,0 +1,45 @@
+[
+  {
+    "roleName": "郯子",
+    "roleType": "孝子典范",
+    "behaviorCounts": {
+      "2": 4,
+      "7": 4,
+      "10": 4,
+      "3": 2,
+      "12": 2,
+      "4": 3,
+      "5": 1,
+      "13": 2,
+      "11": 1,
+      "8": 1,
+      "1": 1
+    },
+    "total_sentences": 25,
+    "entropy": 3.2536606896881852
+  },
+  {
+    "roleName": "郯子父母",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "3": 3,
+      "1": 1
+    },
+    "total_sentences": 4,
+    "entropy": 0.8112781244591328
+  },
+  {
+    "roleName": "猎人",
+    "roleType": "市井百姓",
+    "behaviorCounts": {
+      "13": 1,
+      "7": 4,
+      "5": 1,
+      "4": 1,
+      "9": 1,
+      "2": 1
+    },
+    "total_sentences": 9,
+    "entropy": 2.2810361125534233
+  }
+]

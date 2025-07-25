@@ -1,0 +1,5336 @@
+[
+  [
+    {
+      "role": "",
+      "original_sentence": "第三节凉州贤孝《郭巨埋儿》唱词哎，曲儿好唱口难开，仙桃好吃树难栽。",
+      "sentence": "曲儿容易唱但开口却困难",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "第三节凉州贤孝《郭巨埋儿》唱词哎，曲儿好唱口难开，仙桃好吃树难栽。",
+      "sentence": "仙桃美味但树却难以栽种",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要吃一个好仙桃得拿钱买，要唱一个好曲儿得破下脸来。",
+      "sentence": "购买仙桃需要花费金钱",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "要吃一个好仙桃得拿钱买，要唱一个好曲儿得破下脸来。",
+      "sentence": "演唱好曲需要放下脸面",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我把这些诗条对句么丢口后，打开了正传说古人。",
+      "sentence": "我丢弃诗条对句后开始讲述古人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "书里头择出本古人传，还得打开国家的书箱门。",
+      "sentence": "从书中选取古人传记",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "书里头择出本古人传，还得打开国家的书箱门。",
+      "sentence": "打开国家的书箱门",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，三教的真理传天下呀，这是把二十四孝说贤人啊。",
+      "sentence": "三教真理传遍天下二十四孝",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个朝里说贤书，哪一个孝里论古人？",
+      "sentence": "询问哪个朝代讲述贤书",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "哪个朝里说贤书，哪一个孝里论古人？",
+      "sentence": "探讨哪位孝子论述古人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，列国手里就说贤书，第三孝里又论古人。",
+      "sentence": "列国手中讲述贤书内容",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "哎，列国手里就说贤书，第三孝里又论古人。",
+      "sentence": "第三孝里讨论古人故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我问了贤人家何地，高名上姓在哪里？",
+      "sentence": "询问贤人的籍贯和姓名",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "家住在四川成都府，郭家庄上有家门。",
+      "sentence": "家住在四川成都府郭家庄",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "郭顺万",
+      "original_sentence": "那庄倒坐个郭员外，郭员外叫个郭顺万。",
+      "sentence": "郭顺万是郭家庄的员外",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夫妻过门半辈整，家中所生者一苗根。",
+      "sentence": "夫妻结婚多年生育一子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "郭顺万",
+      "original_sentence": "供养孩儿七岁整，早早送在南学中，送在了南学念五经。",
+      "sentence": "郭顺万将孩子送往南学读书",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "早间送在了南学里，晚来师父把学名起。",
+      "sentence": "师父在晚间为学生起了学名",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "郭顺万",
+      "original_sentence": "老子名叫个郭顺万，儿子的尊讳拣着按。",
+      "sentence": "郭顺万给儿子起名字",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "学名儿不把别的起，学生哎起名便叫个小郭巨。",
+      "sentence": "老师为学生起名为小郭巨",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "起罢了名讳念五经，夫子爷的面里下苦心。",
+      "sentence": "郭巨在夫子面前刻苦学习五经",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "三日傢读的是千字文，四日傢读会百家姓。",
+      "sentence": "郭巨三日学会千字文四日百家姓",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "中庸大学莫可算，上下孟子齐对上。",
+      "sentence": "郭巨努力学习中庸大学和孟子",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "小着读书他不用心，不知道书中有黄金。",
+      "sentence": "郭巨读书时不够专心致志",
+      "behavior_type": 5
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "小着读书他不用心，不知道书中有黄金。",
+      "sentence": "郭巨未能领悟书中价值",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "读书读着成了人，才知道书中有黄金。",
+      "sentence": "郭巨读书后明白书中价值",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "早知道书中黄金贵，高照明灯我下苦心。",
+      "sentence": "早知道书中黄金贵高照明灯下苦心",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "尽头用开就迟慢了，后悔也跟不上急场了。",
+      "sentence": "尽头用开就迟慢了",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "尽头用开就迟慢了，后悔也跟不上急场了。",
+      "sentence": "后悔也跟不上急场了",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "小郭巨读书成了人，劳动冰公一双人。",
+      "sentence": "郭巨通过读书成为有用之人",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "小郭巨读书成了人，劳动冰公一双人。",
+      "sentence": "劳动冰公一双人",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "再给学生把婚来订，订亲没有往旁处订，订亲订到白家的门，定下的贤良小姐名叫个白秀英。",
+      "sentence": "白秀英被选定为订婚对象",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "一十六岁送过婚，十七上娶到了郭家的门。",
+      "sentence": "白秀英十七岁时嫁入郭家",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "高堂设席香案桌，宝斗设着个满堂红。",
+      "sentence": "高堂设席香案桌宝斗满堂红",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "拜罢天，拜罢地，拜罢了上房的长辈的。",
+      "sentence": "郭巨拜天地和长辈",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "钩婚帐，进新房，剪子两把交杯盏。",
+      "sentence": "郭巨与白秀英进入新房举行婚礼",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "红头绳，扽床沿，驴鞍子备在门槛上。",
+      "sentence": "红头绳被扽在床沿上",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "红头绳，扽床沿，驴鞍子备在门槛上。",
+      "sentence": "驴鞍子被放置在门槛上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "鸳鸯枕头高垫上，红绫被儿就铺一床。",
+      "sentence": "鸳鸯枕头被高高垫起",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "鸳鸯枕头高垫上，红绫被儿就铺一床。",
+      "sentence": "红绫被儿铺在床上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "华华丽丽上了床，核桃枣儿嚓啷啷响，夫妻两个配姻缘。",
+      "sentence": "夫妻二人举行婚礼仪式",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "妆新妆给了三天整，待客待给了三天整。",
+      "sentence": "妆新妆和待客持续了三天整",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "亲戚们回上了亲戚的门，邻舍们回上了各庄村，各人各干各营生。",
+      "sentence": "亲戚们各自返回自己的家门",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "亲戚们回上了亲戚的门，邻舍们回上了各庄村，各人各干各营生。",
+      "sentence": "邻居们回到各自的村庄中",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "亲戚们回上了亲戚的门，邻舍们回上了各庄村，各人各干各营生。",
+      "sentence": "人们各自从事自己的工作",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "再说贤德的小姐白秀英，公婆的面前多孝顺。",
+      "sentence": "白秀英在公婆面前表现孝顺",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "早问勤，晚问安，公婆的面前问三遍。",
+      "sentence": "白秀英早晚向公婆请安问候",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "早晨问双亲们吃什么饭，晚上问双亲们喝什么汤。",
+      "sentence": "白秀英询问双亲饮食需求",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "孝心存了半年整，求下来上方的魁罡星。",
+      "sentence": "孝心存续了整整半年时间",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "孝心存了半年整，求下来上方的魁罡星。",
+      "sentence": "成功求得上方魁罡星降临",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "魁罡星宿落凡阴，白秀英身怀有了孕。",
+      "sentence": "白秀英身怀有孕状态改变",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "吐天哇地害了个脑袋愣，十月怀胎一节一节表分明。",
+      "sentence": "白秀英十月怀胎过程艰辛",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "娘怀胎一个月才成露水，娘怀胎两个月露水儿作干。",
+      "sentence": "白秀英怀胎一个月形成露水",
+      "behavior_type": 3
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "娘怀胎一个月才成露水，娘怀胎两个月露水儿作干。",
+      "sentence": "白秀英怀胎两个月露水干涸",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "娘怀胎三个月露水成了霜，娘怀胎四个月才成个血片。",
+      "sentence": "白秀英怀孕三个月胎儿成形",
+      "behavior_type": 3
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "娘怀胎三个月露水成了霜，娘怀胎四个月才成个血片。",
+      "sentence": "白秀英怀孕四个月胎儿发育",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "娘怀胎五个月五指儿周全，娘怀胎六个月六宝攒身。",
+      "sentence": "白秀英怀胎五个月胎儿成形",
+      "behavior_type": 3
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "娘怀胎五个月五指儿周全，娘怀胎六个月六宝攒身。",
+      "sentence": "白秀英怀胎六个月胎儿发育",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "娘怀胎七个月才分开七窍，娘怀胎八个月把发长全。",
+      "sentence": "白秀英怀胎七个月分开七窍",
+      "behavior_type": 3
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "娘怀胎七个月才分开七窍，娘怀胎八个月把发长全。",
+      "sentence": "白秀英怀胎八个月长全头发",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "娘怀儿九个月三回九转，娘怀儿十个月月份才满，哎哟，月份才满。",
+      "sentence": "母亲怀孕九个月经历三回九转",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "娘怀儿九个月三回九转，娘怀儿十个月月份才满，哎哟，月份才满。",
+      "sentence": "母亲怀孕十个月才满月份",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三月怀胎九月临，九月怀胎十月生。",
+      "sentence": "三月怀胎九月临十月生",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十月怀胎该降生，该的日子他不生，许的日子他不生，贵人等着个贵年辰，贵人等的贵月贵日贵时辰，那是三月十五的午时生。",
+      "sentence": "十月怀胎后仍未按时降生",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "十月怀胎该降生，该的日子他不生，许的日子他不生，贵人等着个贵年辰，贵人等的贵月贵日贵时辰，那是三月十五的午时生。",
+      "sentence": "贵人等待特定的年月时辰",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "十月怀胎该降生，该的日子他不生，许的日子他不生，贵人等着个贵年辰，贵人等的贵月贵日贵时辰，那是三月十五的午时生。",
+      "sentence": "三月十五午时贵人降生",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "正当午时生孩童，早晨猛然肚里疼。",
+      "sentence": "孩童在午时出生",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "正当午时生孩童，早晨猛然肚里疼。",
+      "sentence": "早晨突然感到肚子疼",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "疼也疼得很，疼得很，疼着满炕滚。",
+      "sentence": "疼痛难忍在炕上翻滚",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "疼也疼不过，疼着满炕磨。",
+      "sentence": "疼痛难忍在炕上翻滚",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "早晨生娃娃生到晌午整，炕面子偎了个老窟窿。",
+      "sentence": "早晨生产持续到中午时分",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "早晨生娃娃生到晌午整，炕面子偎了个老窟窿。",
+      "sentence": "炕面被磨出了一个大洞",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "脖子梗，眼睛瞪，腰子一趔攒了点劲，扑腾地生下了个小孩童。",
+      "sentence": "她用力挣扎后生下了孩子",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "自从孩儿跌落地，喳啦喳啦叫三声，爷爷在外头听得真，哟哟哟，儿妻生下小孙孙！",
+      "sentence": "爷爷在外头听到孙儿啼哭声",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "赶紧跑到窗子根，收生奶奶仔细听，儿妻生下的龙么凤？",
+      "sentence": "收生奶奶在窗子根仔细听",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "报给我爷爷得知闻。",
+      "sentence": "将消息告知给爷爷得知",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "收生奶奶开言道，又把爷爷叫一叫。",
+      "sentence": "收生奶奶向爷爷传达信息",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叫爷爷，听仔细，毬毬孙娃儿是你的。",
+      "sentence": "收生奶奶告知爷爷孙娃儿是他的",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "爷爷一听怪高兴，抓耳挠腮跳蹦蹦。",
+      "sentence": "爷爷听闻后感到非常高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "干望月房不能进，窗子上捣开了个老窟窿。",
+      "sentence": "有人在窗子上捣开了一个窟窿",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "收生奶奶仔细听，抱起孙孙我看见真！",
+      "sentence": "收生奶奶仔细查看孙孙情况",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "收生奶奶忙抱上，爷爷在窗缝里细细看。",
+      "sentence": "收生奶奶抱起孙孙让爷爷看",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "收生奶奶忙抱上，爷爷在窗缝里细细看。",
+      "sentence": "爷爷透过窗缝仔细观察孙孙",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "天庭饱满地阁方，两耳坠腮真好看。",
+      "sentence": "天庭饱满地阁方两耳坠腮",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "上身长，下身短，不是个举人就做官。",
+      "sentence": "上身较长下身较短",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "眉清目秀书生样，日后还有大功勋。",
+      "sentence": "眉清目秀的书生样貌",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "眉清目秀书生样，日后还有大功勋。",
+      "sentence": "日后将建立大功勋",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "西瓜圆圆头头儿，头发韭菜根根儿。",
+      "sentence": "西瓜圆圆头头儿头发韭菜根根儿",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "眼睛胡椒星星儿，嘴嘴汾酒盅盅儿。",
+      "sentence": "眼睛像胡椒星星般明亮",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "眼睛胡椒星星儿，嘴嘴汾酒盅盅儿。",
+      "sentence": "嘴巴如汾酒盅般小巧",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "鸡蛋大的个身身儿，麻杆胳膊纹纹儿。",
+      "sentence": "身材瘦小胳膊上有纹路",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "金钱大的个手手儿，指头好像个葱根儿。",
+      "sentence": "手如金钱大小指似葱根",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "肚母脐子坑坑儿，两个腿腿灯芯儿。",
+      "sentence": "肚脐呈现坑状双腿纤细如灯芯",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "重嘟嘟的个下巴儿，毬毬就像个纸烟把把儿。",
+      "sentence": "下巴厚重且形状似纸烟把",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二五八最怕的鬼来缠身，三六九就怕的脚轻脚重。",
+      "sentence": "二五八最怕鬼来缠身",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "二五八最怕的鬼来缠身，三六九就怕的脚轻脚重。",
+      "sentence": "三六九就怕脚轻脚重",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一四七就怕的百病扎根，又恐怕偷生奶奶送给旁人。",
+      "sentence": "一四七害怕疾病缠身",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "一四七就怕的百病扎根，又恐怕偷生奶奶送给旁人。",
+      "sentence": "担心偷生奶奶被送人",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "抓养了孩童一月整，爷爷抱到怀当中，爷爷奶奶给娃娃起奶名。",
+      "sentence": "爷爷将孩童抱在怀中",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "抓养了孩童一月整，爷爷抱到怀当中，爷爷奶奶给娃娃起奶名。",
+      "sentence": "爷爷奶奶为娃娃起奶名",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "长寿郎",
+      "original_sentence": "今年的爷爷七十三，孙娃儿起下了个长寿郎。",
+      "sentence": "爷爷为孙娃儿起名为长寿郎",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "长寿郎",
+      "original_sentence": "起罢了名讳抓孩童，魁罡星宿落到了四川省。",
+      "sentence": "长寿郎被赋予了一个吉祥的名字",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "起罢了名讳抓孩童，魁罡星宿落到了四川省。",
+      "sentence": "魁罡星宿降临到了四川省",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "四川成都府出贵人，就把四川成都府的地脉拔了个净，四川成都府哎怎么遭下的是大年成。",
+      "sentence": "四川成都府的地脉被拔除",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "四川成都府出贵人，就把四川成都府的地脉拔了个净，四川成都府哎怎么遭下的是大年成。",
+      "sentence": "四川成都府遭遇大年成",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "头一年的庄稼哎没收成，第二年的庄稼怎么晒了个净。",
+      "sentence": "头一年庄稼没有收成",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "头一年的庄稼哎没收成，第二年的庄稼怎么晒了个净。",
+      "sentence": "第二年庄稼晒了个净",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "第三年的庄稼哎蝗虫连掉嚓，第四年的庄稼怎么冷子往掉打。",
+      "sentence": "第三年庄稼遭受蝗虫灾害",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "第三年的庄稼哎蝗虫连掉嚓，第四年的庄稼怎么冷子往掉打。",
+      "sentence": "第四年庄稼遭遇冰雹打击",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "第五年的雨水广麦子长得也就凶，梦不起上了疸怎么傢又作糟了个尽。",
+      "sentence": "第五年雨水充足麦子生长旺盛",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "第五年的雨水广麦子长得也就凶，梦不起上了疸怎么傢又作糟了个尽。",
+      "sentence": "麦子遭受病害导致全部损失",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "指望着秋季里的庄稼要收成，谁知道八月初间又叫雪压尽，一斗地里收着一斗谷，一斗谷子碾着怎么就是十升糠。",
+      "sentence": "秋季庄稼被八月初雪压尽",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "指望着秋季里的庄稼要收成，谁知道八月初间又叫雪压尽，一斗地里收着一斗谷，一斗谷子碾着怎么就是十升糠。",
+      "sentence": "一斗地仅收一斗谷子",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "指望着秋季里的庄稼要收成，谁知道八月初间又叫雪压尽，一斗地里收着一斗谷，一斗谷子碾着怎么就是十升糠。",
+      "sentence": "一斗谷子碾出十升糠",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "观见南山光又光，一斗谷米十升糠。",
+      "sentence": "一斗谷米可碾十升糠",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "鞍子备到了个石头上，独木桥上飘寒霜。",
+      "sentence": "鞍子被放置在石头上",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "鞍子备到了个石头上，独木桥上飘寒霜。",
+      "sentence": "独木桥上覆盖着寒霜",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一斗黄米卖着十五两银，一斗小米卖着十四两银。",
+      "sentence": "一斗黄米售价为十五两银",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "一斗黄米卖着十五两银，一斗小米卖着十四两银。",
+      "sentence": "一斗小米售价为十四两银",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一斗麦麸子卖着六吊钱，一斗谷糠卖着吊八钱。",
+      "sentence": "一斗麦麸子售价为六吊钱",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "一斗麦麸子卖着六吊钱，一斗谷糠卖着吊八钱。",
+      "sentence": "一斗谷糠售价为一吊八钱",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "河里的老草根拿上戥子称，树上的榆树皮剥着怎么吃了个尽。",
+      "sentence": "老草根被称量后剥尽榆树皮",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "爷爷认不得亲孙孙，地埂子上翻着吃的那个干草根。",
+      "sentence": "爷爷无法辨认自己的亲孙子",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "爷爷认不得亲孙孙，地埂子上翻着吃的那个干草根。",
+      "sentence": "地埂上翻找可食用的干草根",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "街上纸薄的个烧饼卖着人的三个钱，街上的小豆儿毛线儿穿，一串串五个小豆儿就卖着十五个钱。",
+      "sentence": "街上烧饼三个钱小豆儿十五钱",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "五年的个庄稼没收成，地里的个寸草永不生。",
+      "sentence": "五年庄稼没有收成",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "五年的个庄稼没收成，地里的个寸草永不生。",
+      "sentence": "地里寸草不再生长",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人吃人街上的死人码的大塄塄，人见了人啊不敢问。",
+      "sentence": "街上死人堆积成塄无人敢问",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十七八的大姑娘白给人送，领到街上无人问，自说的送上个有钱的了逃活命。",
+      "sentence": "大姑娘自述为逃命送有钱人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人还说，五年的庄稼无收成，吃无吃，用无用，我连我的五神都保不定，哪里来的五谷保六神？",
+      "sentence": "五年庄稼无收成导致生活困难",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "人还说，五年的庄稼无收成，吃无吃，用无用，我连我的五神都保不定，哪里来的五谷保六神？",
+      "sentence": "无法保证五神和五谷的供应",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "天遭年祸五年整，一家人认不得一家人。",
+      "sentence": "天灾导致家庭关系疏远",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "弟兄们认不得个弟兄们，自己的老子也不顾自己的儿，爷爷也不顾孙娃子，瞅着哪个孙孙肥着哩，望着媳妇子出去去，赶紧丢着锅里就煮上了吃。",
+      "sentence": "弟兄们互相之间不再相认",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "弟兄们认不得个弟兄们，自己的老子也不顾自己的儿，爷爷也不顾孙娃子，瞅着哪个孙孙肥着哩，望着媳妇子出去去，赶紧丢着锅里就煮上了吃。",
+      "sentence": "父亲不再照顾自己的儿子",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "弟兄们认不得个弟兄们，自己的老子也不顾自己的儿，爷爷也不顾孙娃子，瞅着哪个孙孙肥着哩，望着媳妇子出去去，赶紧丢着锅里就煮上了吃。",
+      "sentence": "爷爷不再关心自己的孙子",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "弟兄们认不得个弟兄们，自己的老子也不顾自己的儿，爷爷也不顾孙娃子，瞅着哪个孙孙肥着哩，望着媳妇子出去去，赶紧丢着锅里就煮上了吃。",
+      "sentence": "人们看着肥胖的孙子",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "弟兄们认不得个弟兄们，自己的老子也不顾自己的儿，爷爷也不顾孙娃子，瞅着哪个孙孙肥着哩，望着媳妇子出去去，赶紧丢着锅里就煮上了吃。",
+      "sentence": "媳妇外出时被迅速抓住",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "弟兄们认不得个弟兄们，自己的老子也不顾自己的儿，爷爷也不顾孙娃子，瞅着哪个孙孙肥着哩，望着媳妇子出去去，赶紧丢着锅里就煮上了吃。",
+      "sentence": "人们将媳妇煮来食用",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "媳妇子她是一个年轻的，年成转变着好咔了，再叫她们重生去啊。",
+      "sentence": "媳妇子因年成好转得以重生",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人吃的人来狗吃狗，鹰雀老鸹磕石头。",
+      "sentence": "人类互相残杀动物啃食同类",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "东庄人不敢往西庄去，西庄人不敢往着东庄行。",
+      "sentence": "东西两庄居民互不往来",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "亲舅舅煮着吃过那个亲外甥啊。",
+      "sentence": "亲舅舅煮食了自己的亲外甥",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "天遭年荒真苦情，家里穷着无吃用，饿死了郭巨的老父亲。",
+      "sentence": "郭巨的老父亲因饥饿而死亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "没个钱儿买棺板，邻居们当家族户帮了个忙，卷了块席子埋老汉。",
+      "sentence": "郭巨因贫穷无法购买棺材安葬父亲",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "没个钱儿买棺板，邻居们当家族户帮了个忙，卷了块席子埋老汉。",
+      "sentence": "邻居们帮忙用席子埋葬了老汉",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "卷了个席笆把老汉埋，郭巨的父亲埋到祖坟茔。",
+      "sentence": "郭巨将父亲埋葬在祖坟中",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "还有个年高寿大的老母亲，郭巨再无个生活干，寻了根扁担买了根绳，担柴卖草过周正。",
+      "sentence": "郭巨寻扁担买绳担柴卖草",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "一担担柴卖了五百钱，大街市上量米面。",
+      "sentence": "郭巨在大街上用钱购买米面",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "东街里游着西街里浪，南街里游到北街上。",
+      "sentence": "有人在东街西街南街北街游荡",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "五百钱量了一碗米，一碗老米揣怀旁。",
+      "sentence": "郭巨用五百钱买了一碗米",
+      "behavior_type": 11
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "五百钱量了一碗米，一碗老米揣怀旁。",
+      "sentence": "郭巨将一碗老米揣在怀中",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "老米拿到家门中，白秀英媳妇儿接手旁，老米你说怎么办。",
+      "sentence": "白秀英接过老米放在一旁",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "老米拿到家门中，白秀英媳妇儿接手旁，老米你说怎么办。",
+      "sentence": "询问老米应当如何处理",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "一停子沙子二停子糠啊，把这个七停儿老米择周全。",
+      "sentence": "白秀英仔细挑选米中的杂物",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "老米择哈了多半碗，回来又到上房中，枕头上拉起来了老婆婆。",
+      "sentence": "白秀英从枕头上拉起了老婆婆",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "年高寿的老了的人，实在饿着起不动身啊。",
+      "sentence": "年高寿老人因饥饿无法起身",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "说妈妈，今个想吃些什么么想喝些啥，叫声妈妈你快说吧。",
+      "sentence": "白秀英询问母亲今日饮食需求",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "老婆婆一听媳妇问，由不得的热泪就洒湿了胸。",
+      "sentence": "白秀英询问婆婆时热泪盈眶",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "双手捉住了媳妇的手，说是我的媳妇娃娃白秀英，你问我吃些啥么想喝些啥，说下个话也不好讲，说出来叫你媳妇子做了难。",
+      "sentence": "白秀英询问婆婆想吃什么喝什么",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "双手捉住了媳妇的手，说是我的媳妇娃娃白秀英，你问我吃些啥么想喝些啥，说下个话也不好讲，说出来叫你媳妇子做了难。",
+      "sentence": "婆婆听后热泪洒湿了胸口",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "家里穷着没有一把米半把面，想吃的茶饭你也做不上。",
+      "sentence": "白秀英家中没有米面可食用",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "白秀英么说妈妈，快说吧，想吃些啥你快说吧，能做上的我尽量做上你母亲吃。",
+      "sentence": "白秀英询问母亲想吃什么",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "就是做不上我听给一遍也无法治，我给你妈妈说仔细。",
+      "sentence": "白秀英向母亲详细说明情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "老婆婆说道：媳妇娃娃白秀英，今个我年高寿大老了的人，不知道哪天可到见阎君。",
+      "sentence": "白秀英询问婆婆想吃些什么",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "老婆婆说道：媳妇娃娃白秀英，今个我年高寿大老了的人，不知道哪天可到见阎君。",
+      "sentence": "老婆婆担心自己时日无多",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "再的吃的想不上也想枉然，我就想吃点点穰米饭啊。",
+      "sentence": "白秀英想吃些穰米饭",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "能行做半碗，我来吃上些死掉了也心甘，你媳妇儿的孝心落到娘身上。",
+      "sentence": "白秀英愿意为母亲做半碗饭",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "能行做半碗，我来吃上些死掉了也心甘，你媳妇儿的孝心落到娘身上。",
+      "sentence": "吃上些死掉也心甘情愿",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "白秀英哧啦一笑叫妈妈，这是我们的家常饭。",
+      "sentence": "白秀英笑着对母亲说这是家常饭",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "这么些茶饭也不作难，趁有半碗米，我来慢慢做上你妈妈吃。",
+      "sentence": "白秀英为母亲准备半碗米饭",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "白秀英又把母亲放着歇到枕头上，急急忙忙下伙房。",
+      "sentence": "白秀英让母亲躺下休息",
+      "behavior_type": 13
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "白秀英又把母亲放着歇到枕头上，急急忙忙下伙房。",
+      "sentence": "白秀英急忙前往厨房",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "来到伙房中，灶火里把干柴湿柳忙擩上。",
+      "sentence": "白秀英在伙房中忙着生火做饭",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "锅里添了水四碗，把半碗子老米来下上，滚着熬着小米儿烂，将将做成碗半饭。",
+      "sentence": "白秀英将半碗米熬成小米饭",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "舀下了一碗叫婆婆用，锅上么刮了这么半碗儿，赶紧把长寿娃五岁的孩儿安顿到灶火前，着个半碗子么给给叫娃娃吃。",
+      "sentence": "白秀英将饭舀给婆婆食用",
+      "behavior_type": 13
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "舀下了一碗叫婆婆用，锅上么刮了这么半碗儿，赶紧把长寿娃五岁的孩儿安顿到灶火前，着个半碗子么给给叫娃娃吃。",
+      "sentence": "白秀英将半碗饭给长寿郎",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "害怕叫娃娃看着哩，就把一碗么盖到褛(lao)襟下，赶紧子端上去孝妈妈。",
+      "sentence": "白秀英将饭藏在衣襟下端给母亲",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "白氏就到书房中，把米饭给给叫婆婆用。",
+      "sentence": "白秀英将米饭端给婆婆食用",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "嘴里没有一颗牙，紧拨拉慢拨拉，烫着拨拉不下去。",
+      "sentence": "嘴里无牙难以下咽食物",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "长寿郎",
+      "original_sentence": "娃娃呢把半碗子饭呼噜嘛啪来吃上，甩开腿子一趟趟，赶着来到上房中。",
+      "sentence": "长寿郎快速吃下半碗米饭",
+      "behavior_type": 11
+    },
+    {
+      "role": "长寿郎",
+      "original_sentence": "娃娃呢把半碗子饭呼噜嘛啪来吃上，甩开腿子一趟趟，赶着来到上房中。",
+      "sentence": "长寿郎快步走向上房",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "奶奶一见小孙孙，疼烂了肝花裂烂了心。",
+      "sentence": "奶奶见到孙儿感到非常心疼",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "唉，我呢已经是死的个人，我的孙娃儿才活人！",
+      "sentence": "此人已死而其孙尚存",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "孙娃儿抱到怀当中，把米饭给给叫孙孙用。",
+      "sentence": "孙娃儿被抱在怀中喂米饭",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "转时儿进来了白秀英，手指着娃娃骂得凶。",
+      "sentence": "白秀英指着娃娃大声责骂",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "我把你个碎孽障，我把你个小畜牲，这个不懂人样的狗杂种！",
+      "sentence": "白秀英愤怒地责骂不懂事的孩子",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把你恭敬十分饱，把我的妈妈给挨下了！",
+      "sentence": "恭敬十分饱后把妈妈挨下了",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "从娃娃的手里把米饭夺过去，搁着桌子上。",
+      "sentence": "白秀英从娃娃手中夺走米饭",
+      "behavior_type": 13
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "从娃娃的手里把米饭夺过去，搁着桌子上。",
+      "sentence": "白秀英将米饭放在桌子上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "捞上娃娃下了炕，撕里捞里捞到小房门上，哗啦推开门，抵拎起来把娃娃扑腾地丢进门，打外拉着来把门扣硬。",
+      "sentence": "白秀英将娃娃拖拽到小房门",
+      "behavior_type": 13
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "捞上娃娃下了炕，撕里捞里捞到小房门上，哗啦推开门，抵拎起来把娃娃扑腾地丢进门，打外拉着来把门扣硬。",
+      "sentence": "白秀英用力推开小房门",
+      "behavior_type": 13
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "捞上娃娃下了炕，撕里捞里捞到小房门上，哗啦推开门，抵拎起来把娃娃扑腾地丢进门，打外拉着来把门扣硬。",
+      "sentence": "白秀英将娃娃丢进房门",
+      "behavior_type": 13
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "捞上娃娃下了炕，撕里捞里捞到小房门上，哗啦推开门，抵拎起来把娃娃扑腾地丢进门，打外拉着来把门扣硬。",
+      "sentence": "白秀英从外面扣紧门",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "娃娃在小房里喳啦喳啦动哭声，奶奶呢耳朵聋了听不真。",
+      "sentence": "娃娃在小房里发出哭声",
+      "behavior_type": 6
+    },
+    {
+      "role": "",
+      "original_sentence": "娃娃在小房里喳啦喳啦动哭声，奶奶呢耳朵聋了听不真。",
+      "sentence": "奶奶耳朵聋听不清楚",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "白秀英又来到书房中，双膝跪到地挨尘，一碗米饭端到手当中。",
+      "sentence": "白秀英跪地并将米饭端在手中",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "叫妈妈，你把这碗米饭来吃上还倒罢，你若把这碗米饭吃不尽，你的媳妇子么跪着可不起身！",
+      "sentence": "白秀英要求母亲吃完这碗米饭",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "抱着我的那个长寿娃，若果是我郭家的戴孝根，老天爷，多感应，这忽子你保我娃娃的命。",
+      "sentence": "郭巨祈求老天保佑长寿娃的性命",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "我有心不把饭吃尽，媳妇儿跪着不起身。",
+      "sentence": "白秀英因婆婆不吃饭而跪地不起",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "我无计无奈无法办，端起来米饭么就眼泪下饭来吃上。",
+      "sentence": "白秀英无奈地吃下米饭",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "白秀英才把碗盏撤到伙房中，赶紧来把娃娃哄。",
+      "sentence": "白秀英将碗盏撤到伙房中",
+      "behavior_type": 10
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "白秀英才把碗盏撤到伙房中，赶紧来把娃娃哄。",
+      "sentence": "白秀英赶紧哄娃娃",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "再不了叫奶奶寻孙孙，娃娃哭着不得成。",
+      "sentence": "娃娃哭着无法停止",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "来到了小房里，开开小房门，娃娃直声叫喊着了不成，饥荒年无法治，再没些吃头，哄不住这个勺娃娃呀。",
+      "sentence": "白秀英来到小房哄不住娃娃",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "气得那个白秀英战兢兢，把这个不懂人样的小畜生，几个巴掌下歹心，打着娃娃满地滚。",
+      "sentence": "白秀英愤怒地打了娃娃几巴掌",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "小郭巨在外头听得真，一趟子跑进小屋门。",
+      "sentence": "郭巨迅速跑进小屋门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "抢着来把长寿郎抱着怀当中，手指着白秀英恨几声，你这个妻子呀，你怎么真真做事心肠这么狠。",
+      "sentence": "郭巨迅速将长寿郎抱入怀中",
+      "behavior_type": 13
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "抢着来把长寿郎抱着怀当中，手指着白秀英恨几声，你这个妻子呀，你怎么真真做事心肠这么狠。",
+      "sentence": "郭巨指责白秀英心肠狠毒",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你看娃娃的沟子上，打下这么几把指头印啊！",
+      "sentence": "娃娃的臀部留下了几个指印",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "你看你这个妻子，真真你做事理不通。",
+      "sentence": "郭巨指责妻子做事理不通",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "天遭年荒真苦情，斗米大价了不成。",
+      "sentence": "天灾导致粮食价格飞涨",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "就这叫娃娃挨饿罢了么，你打着娃娃又是啥事情？",
+      "sentence": "郭巨质问白秀英为何打娃娃",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "白秀英闻听吱一声，成股子的热泪洒湿胸。",
+      "sentence": "白秀英听闻后热泪洒湿胸口",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "开言来不把别的尊，忙忙把丈夫啊我就叫几声。",
+      "sentence": "白秀英急忙呼唤她的丈夫",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "叫了声郎君你仔细听，听我给你丈夫就说原因。",
+      "sentence": "白秀英向丈夫解释事情原因",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "你量着来的老米，一停子沙子二停子糠，我把七停子老米摘周全。",
+      "sentence": "白秀英将七停子老米摘周全",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "母亲想吃点穰米饭，我老共做了这么碗半饭。",
+      "sentence": "母亲想吃点穰米饭",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "母亲想吃点穰米饭，我老共做了这么碗半饭。",
+      "sentence": "我老共做了半碗饭",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "郭秋万",
+      "original_sentence": "半碗子给给他这个畜生来吃尽，母亲的米饭他再用。",
+      "sentence": "郭秋万吃掉了半碗米饭",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "半碗子给给他这个畜生来吃尽，母亲的米饭他再用。",
+      "sentence": "母亲的米饭被再次使用",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "郭秋万",
+      "original_sentence": "把他恭敬十分饱，把我年大的母亲挨下了！",
+      "sentence": "郭秋万将母亲的米饭全部吃光",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "叫丈夫仔细听，家里穷着没有一把米半把面。",
+      "sentence": "白秀英告诉丈夫家里没有米面",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我看着这个男娃也难抓养，今个我生法这个小畜生。",
+      "sentence": "我设法养育这个孩子",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "想着叫母亲多余活两天，你把娃娃给我送外边。",
+      "sentence": "郭巨想让母亲多活几天",
+      "behavior_type": 5
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "想着叫母亲多余活两天，你把娃娃给我送外边。",
+      "sentence": "郭巨要求将孩子送走",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "把这个畜生你去背着街上卖掉他，多着少着卖上两个钱，卖着来给家里买米面，来了叫妈妈吃几天。",
+      "sentence": "白秀英让丈夫卖掉孩子换米面",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "叫丈夫啊，这个办法你想不想，这个事情你干不干？",
+      "sentence": "白秀英询问丈夫是否同意此办法",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "长寿郎",
+      "original_sentence": "你若舍不得你的长寿郎，你了就顾你的长寿郎，我了就顾我的老爹娘。",
+      "sentence": "长寿郎被选择放弃以照顾老人",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "你若舍不得你的长寿郎，你了就顾你的长寿郎，我了就顾我的老爹娘。",
+      "sentence": "选择照顾老人放弃长寿郎",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "小郭巨有心不把此事行，外来的媳妇子傢有孝心。",
+      "sentence": "郭巨内心不愿执行此事",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "小郭巨有心不把此事行，外来的媳妇子傢有孝心。",
+      "sentence": "外来媳妇表现出孝顺之心",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "无计无奈无法办，娃娃背到脊梁中，四川城上我就卖儿童。",
+      "sentence": "郭巨背着孩子前往四川城",
+      "behavior_type": 4
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "无计无奈无法办，娃娃背到脊梁中，四川城上我就卖儿童。",
+      "sentence": "郭巨决定卖掉自己的孩子",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一路走一路看，哎，路上跑的人啊不见面，死人摆的是大塄塄。",
+      "sentence": "路上行人稀少不见踪影",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "一路走一路看，哎，路上跑的人啊不见面，死人摆的是大塄塄。",
+      "sentence": "死人被摆放在大塄塄上",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "赶着进了四川城啊，十间门面九间关，粮食市上搁着一个空笸篮。",
+      "sentence": "四川城内十间门面九间关闭",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "赶着进了四川城啊，十间门面九间关，粮食市上搁着一个空笸篮。",
+      "sentence": "粮食市上放置着一个空笸篮",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "街上的驴马骨头人买尽，没人问着买儿童。",
+      "sentence": "街上的驴马骨头已被买尽",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "街上的驴马骨头人买尽，没人问着买儿童。",
+      "sentence": "无人问津购买儿童的事",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "害得郭巨无法办，赶紧就把卖的娃娃想来没有把草挂上，街上欻了把草苗给娃娃插着头上。",
+      "sentence": "郭巨被迫采取行动卖儿童",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "害得郭巨无法办，赶紧就把卖的娃娃想来没有把草挂上，街上欻了把草苗给娃娃插着头上。",
+      "sentence": "将草苗插在娃娃的头上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "就在街上大吆大喊，喊的是：卖儿郎——卖儿郎——十间门面九间关，四街八巷都游遍，孩儿卖不上半文钱。",
+      "sentence": "郭巨在街上大声叫卖儿童",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "走来走去走哪方，整整到日落西山天快晚，背上我的娃娃回家中！",
+      "sentence": "郭巨背着娃娃回到家中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "背上娃娃来到家园中，待进门迎着白秀英。",
+      "sentence": "郭巨背着娃娃回到家中",
+      "behavior_type": 4
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "背上娃娃来到家园中，待进门迎着白秀英。",
+      "sentence": "白秀英在门口等待郭巨",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "秀英一见怒气生，手指丈夫恨几声。",
+      "sentence": "白秀英见到丈夫后非常愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "你这个丈夫做事理不通！",
+      "sentence": "白秀英指责丈夫做事理不通",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "把这么个蛋大的小畜生，叫你背上去来卖掉，你还溜给了一天，这般时候怎么又背上回来了？",
+      "sentence": "白秀英对丈夫的行为感到愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "小郭巨说道：我的妻啊我的妻，你蹲到家里不出门，你又不知道外面的啥事情。",
+      "sentence": "郭巨向妻子解释外面的事情",
+      "behavior_type": 7
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "小郭巨说道：我的妻啊我的妻，你蹲到家里不出门，你又不知道外面的啥事情。",
+      "sentence": "白秀英在家中未出门",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "五年的庄稼没收成，路上的死人摆的大塄塄。",
+      "sentence": "庄稼连续五年没有收成",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "五年的庄稼没收成，路上的死人摆的大塄塄。",
+      "sentence": "路上有许多死人摆放",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "街上的死人摞的多，十间门面九间关，粮食市上搁着个空笸篮。",
+      "sentence": "街上的死人数量非常多",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "街上的死人摞的多，十间门面九间关，粮食市上搁着个空笸篮。",
+      "sentence": "十间门面中有九间关闭",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "街上的死人摞的多，十间门面九间关，粮食市上搁着个空笸篮。",
+      "sentence": "粮食市场上放置空笸篮",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "街上的驴马骨头人买尽，没人问着买儿童。",
+      "sentence": "街上的驴马骨头已被买尽",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你叫我撂到四川城吗？",
+      "sentence": "你让我把东西放在四川城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "所以我就背到了回家中。",
+      "sentence": "郭巨背着东西回到家中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "白秀英一听叫丈夫，卖不掉了也倒罢，我可今个就想办法。",
+      "sentence": "白秀英听闻丈夫的话后决定想办法",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "许出去的事情嫁出去的女，反正我的家里不留他。",
+      "sentence": "许出去的事情不再留在家中",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "我给你丈夫说实话，有孩儿就没母亲，有母亲就没孩儿。",
+      "sentence": "白秀英向丈夫陈述孩子与母亲的矛盾",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "叫丈夫，我给你么说个实在话，我么就年纪轻骨头嫩，娃娃没有了，年成好些了我们重再生，不能缺下老母亲。",
+      "sentence": "白秀英向丈夫表明自己年纪轻",
+      "behavior_type": 7
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "叫丈夫，我给你么说个实在话，我么就年纪轻骨头嫩，娃娃没有了，年成好些了我们重再生，不能缺下老母亲。",
+      "sentence": "白秀英告诉丈夫孩子可以再生",
+      "behavior_type": 7
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "叫丈夫，我给你么说个实在话，我么就年纪轻骨头嫩，娃娃没有了，年成好些了我们重再生，不能缺下老母亲。",
+      "sentence": "白秀英强调不能缺少老母亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "缺下母亲叫谁担承？",
+      "sentence": "白秀英担忧无人承担母亲责任",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "我的丈夫，我的丈夫，我说这样来。",
+      "sentence": "白秀英向丈夫陈述自己的想法",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "今个夜里三更整，拿上镢头铁锨一把整。",
+      "sentence": "郭巨准备在夜里使用镢头和铁锨",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "去到那个黄沙坡地下，埋掉他这个狗畜生，省下些米面就叫我的妈妈用。",
+      "sentence": "郭巨前往黄沙坡埋掉狗畜生",
+      "behavior_type": 4
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "去到那个黄沙坡地下，埋掉他这个狗畜生，省下些米面就叫我的妈妈用。",
+      "sentence": "郭巨省下米面供母亲使用",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "白秀英把娃娃抱到怀当中，脸挨脸儿么哭伤心。",
+      "sentence": "白秀英抱着娃娃伤心地哭泣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "我的小冤家啊，你醒来，你醒来，醒来了你睁开你的眼睛儿，望着你就咂上两口离娘的奶，今个晚上你就离娘亲。",
+      "sentence": "白秀英抱着孩子伤心哭泣",
+      "behavior_type": 2
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "我的小冤家啊，你醒来，你醒来，醒来了你睁开你的眼睛儿，望着你就咂上两口离娘的奶，今个晚上你就离娘亲。",
+      "sentence": "白秀英希望孩子醒来吃奶",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "长寿郎",
+      "original_sentence": "我的冤家啊，我的小冤家啊，长寿郎，长寿郎，那时候你转世投胎哩，你怎么瞭着不往富贵人家转，偏偏你转到我们身贫人的家啊。",
+      "sentence": "长寿郎转世投胎到贫困家庭",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "长寿郎",
+      "original_sentence": "自从把你生在了人世中，年年的庄稼没收成，地里的寸草永不生。",
+      "sentence": "长寿郎出生后庄稼连年欠收",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "自从把你生在了人世中，年年的庄稼没收成，地里的寸草永不生。",
+      "sentence": "地里的寸草始终未能生长",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "自如今把我逼到这个路步上，今个晚上你就离亲娘，为娘的把你赘赘的个累累，我就把你枉怀了。",
+      "sentence": "白秀英因离别而感到极度悲伤",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "血水的个淋淋啊，我就把你枉养了。",
+      "sentence": "白秀英枉养了孩子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "为娘的三月怀胎九月临呀，九月怀胎十月生，十月怀胎该降生，赘得叫为娘的各骨节儿疼得很。",
+      "sentence": "母亲怀孕期间身体疼痛",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "长寿郎",
+      "original_sentence": "十个月满了生孩郎，疼得叫为娘的真难肠。",
+      "sentence": "长寿郎出生时母亲感到疼痛难忍",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一个脚在阳间，一个脚在阴间，我若是一步来踏错，母子两个都不能活。",
+      "sentence": "一个脚在阳间一个脚在阴间",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "自从生在人世中，年年的庄稼没收成。",
+      "sentence": "庄稼年年都没有收成",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "家里吃无吃啊，用无用，抓养你五岁我就费了劲。",
+      "sentence": "家中缺乏食物和用品",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "家里吃无吃啊，用无用，抓养你五岁我就费了劲。",
+      "sentence": "抚养孩子耗费了精力",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "左边把我尿湿，我的娃娃，我把你换右边，右边把我尿湿把你驮胸前。",
+      "sentence": "母亲将孩子从左边换到右边",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "为娘的不把你胸前驮，糟蹋着为娘的睡不着啊。",
+      "sentence": "母亲无法入睡因为孩子不在胸前",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "冬九天尿湿了我娘，半个子身子就叫冰冻完。",
+      "sentence": "冬天尿湿导致半个身体被冰冻",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夏夜天尿湿我娘，叫我为娘的尿臊狗臭走不到人跟前。",
+      "sentence": "夏夜尿湿母亲导致身体不适",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "挪干就湿把你抓成了人，抓了五岁我最没有容易。",
+      "sentence": "挪干就湿将孩子抚养成人",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "今个你离过为娘的身，今回转世投胎带了瞭着往者富贵人家转。",
+      "sentence": "今次你离开为娘转世投胎",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "再不了转到我们身贫人的门。",
+      "sentence": "不再转世到贫穷人家",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "缺了孩子是泥里的葱，今年没有了明年生。",
+      "sentence": "孩子如泥中葱今年无明年生",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "饿坏母亲是佛前的灯啊，一口吹灭无踪影啊。",
+      "sentence": "母亲饿坏如同佛前灯灭",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的夫郎君啊，我的夫君郎！",
+      "sentence": "表达对夫郎君的深切思念",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叫丈夫，时节到，眼看三更以后了。",
+      "sentence": "时节已到三更以后",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "背上快起身，你去了把坑坑挖得深深的，走得了走得远远的。",
+      "sentence": "背上快起身去挖深深的坑",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "背上快起身，你去了把坑坑挖得深深的，走得了走得远远的。",
+      "sentence": "走得远远的离开这个地方",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "埋得浅了他翻出来，走得近了他就爬着来。",
+      "sentence": "埋得浅了会被翻出来",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "埋得浅了他翻出来，走得近了他就爬着来。",
+      "sentence": "走得近了会爬着来",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "小郭巨有心不把此事行，外来的媳妇子傢有孝心。",
+      "sentence": "郭巨犹豫是否执行此事",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "小郭巨有心不把此事行，外来的媳妇子傢有孝心。",
+      "sentence": "外来媳妇表现出孝顺之心",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "娃娃背到脊梁中，镢头铁锨拿的凶，磨磨的个滑滑哎就走出门。",
+      "sentence": "郭巨背着娃娃拿着工具出门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "走上的个一步哎哭一声，走上的个两步子哭两声。",
+      "sentence": "郭巨边走边哭情绪悲伤",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "整整的个走了五里远，黄沙坡不远到跟前。",
+      "sentence": "郭巨走了五里远到达黄沙坡",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "铁锨镢头撩在沙坡上，怀里抱上我的长寿郎。",
+      "sentence": "郭巨将铁锨镢头放在沙坡上",
+      "behavior_type": 13
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "铁锨镢头撩在沙坡上，怀里抱上我的长寿郎。",
+      "sentence": "郭巨怀里抱着长寿郎",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "忙忙把小孩揽怀旁，脸挨脸儿好心酸。",
+      "sentence": "郭巨将小孩揽入怀中感到心酸",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的小冤家啊，不怨的个地来我也不怨的个天，怨了你狠心肠的母亲啊，那个坏心肠的娘。",
+      "sentence": "不怨天地只怨狠心母亲",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "只说是人不死衣禄不断，天不没无禄之人。",
+      "sentence": "人不死则衣禄不断",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "只要生在人世上，老天爷就许给我们一碗饭，你怎么立逼着叫我活活儿往掉里埋儿郎。",
+      "sentence": "只要生在人世上就有饭吃",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "只要生在人世上，老天爷就许给我们一碗饭，你怎么立逼着叫我活活儿往掉里埋儿郎。",
+      "sentence": "为何逼我活埋亲生儿子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "今个有心不埋吧，我的那个妻子又惹不下。",
+      "sentence": "有心不埋却无法拒绝妻子",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "为了我年老的老妈妈，小郭巨把娃娃抱到怀。",
+      "sentence": "郭巨将孩子紧紧抱在怀中",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "扑腾地跪倒沙坡上，手扎(举)中指叫老天啊。",
+      "sentence": "郭巨跪倒在沙坡上举手向天",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "我的老天爷啊，你就保佑保佑多保佑，运鸿运鸿多运鸿。",
+      "sentence": "郭巨向老天爷祈求保佑和好运",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "又叫妈妈做了难，我的老天爷，我的老天爷，我有心又把饭吃上，挨下了孙孙长寿郎。",
+      "sentence": "白秀英感到为难并考虑吃饭",
+      "behavior_type": 2
+    },
+    {
+      "role": "长寿郎",
+      "original_sentence": "又叫妈妈做了难，我的老天爷，我的老天爷，我有心又把饭吃上，挨下了孙孙长寿郎。",
+      "sentence": "长寿郎被提及作为吃饭的考虑",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "我小郭巨真正没有孝娘的心，黄沙坡前做故经，五雷你殛掉我们父子两个人啊。",
+      "sentence": "郭巨认为自己没有孝顺母亲的心",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "我小郭巨真正没有孝娘的心，黄沙坡前做故经，五雷你殛掉我们父子两个人啊。",
+      "sentence": "黄沙坡前发生了一些事情",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "我小郭巨真正没有孝娘的心，黄沙坡前做故经，五雷你殛掉我们父子两个人啊。",
+      "sentence": "五雷殛掉了父子两个人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "郭巨祷告了半晌整，光见天爷黑沉沉。",
+      "sentence": "郭巨向天祷告了很长时间",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "郭巨祷告了半晌整，光见天爷黑沉沉。",
+      "sentence": "天空逐渐变得黑沉沉",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "看来老天爷没动静，看来这个神仙也没感应。",
+      "sentence": "郭巨认为神仙没有回应他",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "娃娃丢在沙坡上，手拿了铁锨就把沙坑里赶。",
+      "sentence": "郭巨将娃娃放置在沙坡上",
+      "behavior_type": 13
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "娃娃丢在沙坡上，手拿了铁锨就把沙坑里赶。",
+      "sentence": "郭巨手持铁锨挖掘沙坑",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "挖一锨，哭一声，挖上两锨哭两声。",
+      "sentence": "郭巨边挖沙边哭泣",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "肚中饥饿了不成，你看害的郭巨没法办。",
+      "sentence": "郭巨因饥饿感到十分困扰",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "挑着挖了傢给浑身出了汗，沙坑挖了个三尺深。",
+      "sentence": "郭巨挖沙坑时浑身出汗",
+      "behavior_type": 10
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "挑着挖了傢给浑身出了汗，沙坑挖了个三尺深。",
+      "sentence": "郭巨挖出了一个三尺深坑",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "看来这个老天爷没感应呀，看来是神仙也没动静。",
+      "sentence": "老天爷和神仙都没有任何感应",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "这乎子就留不住我的娃娃的命，抓起来娃娃往沙坑里送。",
+      "sentence": "郭巨将娃娃放入沙坑中",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "长寿郎",
+      "original_sentence": "长寿娃你去吧，你去吧，今个亲儿重寻个好妈妈。",
+      "sentence": "长寿郎被告知寻找新母亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "转世投胎你瞭着往富贵人家转，你再不了转到我们身贫人的门。",
+      "sentence": "郭巨劝孩子转世到富贵人家",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "长寿郎",
+      "original_sentence": "长寿娃开了言，叫爹爹，不了慌，你不了忙，慌忙了可赶不上好道场。",
+      "sentence": "长寿郎告诉父亲不要慌张",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那个坑坑子还嫌浅，你再往着深里深里赶。",
+      "sentence": "坑坑子深度不够需要继续加深",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "坑挖五尺能埋人，三尺深的坑坑儿埋不成。",
+      "sentence": "坑挖五尺足够埋人",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "坑挖五尺能埋人，三尺深的坑坑儿埋不成。",
+      "sentence": "三尺深的坑无法埋人",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三尺深的坑坑儿埋了人，盖土薄了子孙穷。",
+      "sentence": "三尺深的坑无法埋葬人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "阴宅九尺三，辈辈才做高官。",
+      "sentence": "阴宅九尺三可使后代做高官",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "长寿郎",
+      "original_sentence": "你把我放到沙坡上啊，你再把坑坑往深里赶呀。",
+      "sentence": "长寿郎要求将其放置于沙坡上",
+      "behavior_type": 13
+    },
+    {
+      "role": "长寿郎",
+      "original_sentence": "你把我放到沙坡上啊，你再把坑坑往深里赶呀。",
+      "sentence": "长寿郎指示继续深挖坑洞",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "小儿这里来说话，郭巨害的就没办法。",
+      "sentence": "郭巨面对困境感到无可奈何",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "把娃娃在沙坡上原放下，手拿铁锨又把沙坑挖呀。",
+      "sentence": "郭巨将娃娃放在沙坡上",
+      "behavior_type": 13
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "把娃娃在沙坡上原放下，手拿铁锨又把沙坑挖呀。",
+      "sentence": "郭巨手持铁锨挖掘沙坑",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "忙了忙了谁忙了，忙了日月游神监察神。",
+      "sentence": "日月游神监察神忙碌不停",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "孝心感动天喜神，魁罡星宿大遭难。",
+      "sentence": "郭巨的孝心感动了天喜神",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "孝心感动天喜神，魁罡星宿大遭难。",
+      "sentence": "魁罡星宿遭遇了重大灾难",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "五神不叫等何人，奏给玉皇爷着质问。",
+      "sentence": "五神向玉皇爷提出质问",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说是玉皇在上，小神参拜！",
+      "sentence": "玉皇在上小神参拜",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "监察神查到哪儿了？",
+      "sentence": "监察神正在执行巡查任务",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "查到了四川成都府，小郭巨孝廉星，媳妇子粉团星，孙孙魁罡星，母亲么长寿星，你看孝廉星为了孝顺母亲，粉团星为了孝顺婆婆，把那个魁罡星你看害的无难，背到街上卖了一天没有卖上半文铜，夜里三更沙坡上就要埋儿童，眼看那个沙坑就要挖到底了，坑挖五尺能埋人，就把那个魁罡星往者坑里送。",
+      "sentence": "郭巨为孝顺母亲卖掉孙儿",
+      "behavior_type": 3
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "查到了四川成都府，小郭巨孝廉星，媳妇子粉团星，孙孙魁罡星，母亲么长寿星，你看孝廉星为了孝顺母亲，粉团星为了孝顺婆婆，把那个魁罡星你看害的无难，背到街上卖了一天没有卖上半文铜，夜里三更沙坡上就要埋儿童，眼看那个沙坑就要挖到底了，坑挖五尺能埋人，就把那个魁罡星往者坑里送。",
+      "sentence": "白秀英为孝顺婆婆卖掉儿子",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "查到了四川成都府，小郭巨孝廉星，媳妇子粉团星，孙孙魁罡星，母亲么长寿星，你看孝廉星为了孝顺母亲，粉团星为了孝顺婆婆，把那个魁罡星你看害的无难，背到街上卖了一天没有卖上半文铜，夜里三更沙坡上就要埋儿童，眼看那个沙坑就要挖到底了，坑挖五尺能埋人，就把那个魁罡星往者坑里送。",
+      "sentence": "他们将魁罡星放入坑中",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "查到了四川成都府，小郭巨孝廉星，媳妇子粉团星，孙孙魁罡星，母亲么长寿星，你看孝廉星为了孝顺母亲，粉团星为了孝顺婆婆，把那个魁罡星你看害的无难，背到街上卖了一天没有卖上半文铜，夜里三更沙坡上就要埋儿童，眼看那个沙坑就要挖到底了，坑挖五尺能埋人，就把那个魁罡星往者坑里送。",
+      "sentence": "他们挖了一个五尺深的坑",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "玉皇大帝，你说怎么办怎么办？",
+      "sentence": "玉皇大帝询问处理方案",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，万可不了叫魁罡星归了天。",
+      "sentence": "魁罡星最终归天而去",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "玉皇爷闻听呵呵大笑，你看，孝心感动了天喜神，把孝神么急成这个样儿，不了慌，不了忙，慌忙人可干不下好道场。",
+      "sentence": "玉皇大帝听闻后感到非常高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "玉皇爷闻听呵呵大笑，你看，孝心感动了天喜神，把孝神么急成这个样儿，不了慌，不了忙，慌忙人可干不下好道场。",
+      "sentence": "郭巨的孝心感动了天上的神明",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "哎，你把那个三大财神，你快来随上孝神么下天宫去，去了到黄沙坡上，去了好好给小郭巨赐些金银，赐到沙坑里叫孝顺母亲去吧。",
+      "sentence": "孝神邀请财神下天宫赐金银",
+      "behavior_type": 7
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "哎，你把那个三大财神，你快来随上孝神么下天宫去，去了到黄沙坡上，去了好好给小郭巨赐些金银，赐到沙坑里叫孝顺母亲去吧。",
+      "sentence": "财神将金银赐予郭巨沙坑中",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "孝神带了三大财神，来到了黄沙坡前，照住坑里吹给了一口气，各地的黄土都变成了金银。",
+      "sentence": "孝神吹气使黄土变成金银",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "小郭巨挖沙坑挖了四尺半，底里是一块硬石板，铁锨要说撬不动，挖也挖不动，撬也撬不动，没个口口儿没个印，该叫我怎么行。",
+      "sentence": "郭巨挖沙坑遇到硬石板无法撬动",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "这乎儿还差下五寸哩，挖不到五尺还不得成。",
+      "sentence": "郭巨挖沙坑还差五寸未完成",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "眼看鸡儿叫了，时间么也到了，害的郭巨啊裤带绳往紧里据给了咔，牙子咬住拿了个镢头，腰子弓了个火镰，咔嚓咔嚓火星子乱溅，刨开了个大窟窿。",
+      "sentence": "郭巨紧握镢头用力刨开大窟窿",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "观看里头亮晶晶，挖出来了三缸金三缸银，三十六块子金火盆。",
+      "sentence": "郭巨挖出了三缸金和三缸银",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "金人金骆驼一灿明，两个银人傢把库门，碎小银钱还数不清。",
+      "sentence": "金人金骆驼和银人看守库门",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "四个元宝在碾子上，四个元宝上把字錾上。",
+      "sentence": "四个元宝被放置在碾子上",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "四个元宝在碾子上，四个元宝上把字錾上。",
+      "sentence": "四个元宝上刻有文字",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "錾的什么字？",
+      "sentence": "询问元宝上刻了什么字",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "孝心感动天喜神，小郭巨黄沙坡上埋儿童，这是第一个元宝。",
+      "sentence": "郭巨在黄沙坡上埋儿童",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "孝心感动天喜神，小郭巨黄沙坡上埋儿童，这是第一个元宝。",
+      "sentence": "孝心感动了天喜神",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "第二个元宝上是：三大财神赐金银，赐给叫郭巨孝母亲。",
+      "sentence": "财神赐予郭巨金银财宝",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "第三个元宝上是：官不能尅剥民不能欺。",
+      "sentence": "第三个元宝上写着官不欺民",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "第四个元宝上是：三大财神爷赐给的。",
+      "sentence": "三大财神赐予元宝",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "小郭巨一见四个元宝磕头三拜，拜过了四方拜了八方。",
+      "sentence": "郭巨见到元宝后立即跪拜四方",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老天爷睁开了眼睛，我的娃娃的性命保住了。",
+      "sentence": "老天爷睁眼保住了娃娃性命",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "元宝揣到怀当中，娃娃背上我回家中。",
+      "sentence": "郭巨将元宝放入怀中",
+      "behavior_type": 13
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "元宝揣到怀当中，娃娃背上我回家中。",
+      "sentence": "郭巨背着娃娃回家",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "哎，来时就到家廊中，待进门迎着了妻子白秀英。",
+      "sentence": "白秀英在门口迎接丈夫回家",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "白秀英一见怒气生，手指丈夫恨几声，你这个丈夫你真真做事你理不通，把这么个蛋大小畜生，叫你白天背到街上来卖掉，你游给一天背上回来了。",
+      "sentence": "白秀英对丈夫的行为感到愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "白秀英一见怒气生，手指丈夫恨几声，你这个丈夫你真真做事你理不通，把这么个蛋大小畜生，叫你白天背到街上来卖掉，你游给一天背上回来了。",
+      "sentence": "白秀英指责丈夫的行为不合理",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "晚上叫你背着去了来埋掉，你这般时候你怎么背上又来了啊？",
+      "sentence": "白秀英质问丈夫为何又背回孩子",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "哎，你这个丈夫，你是舍不得你的孩子，你是舍得母亲啊，这就对了对了。",
+      "sentence": "白秀英指责丈夫舍不得孩子",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "丈夫说，妻子啊妻子，你说的对着哩。",
+      "sentence": "丈夫对妻子表示赞同她的说法",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "母亲我也舍不得么，孩儿我也舍不得么。",
+      "sentence": "母亲和孩子都难以割舍",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "你说，这么机撵的娃娃，这么稀罕的孩儿，活活的往着沙坑里埋，你说谁舍得谁舍不得，我就舍不得，我就背上回来了么。",
+      "sentence": "白秀英表示舍不得埋掉孩子",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎呀，对了对了，丈夫，这就是你舍不得孩儿舍得母亲。",
+      "sentence": "丈夫舍不得孩子却舍得母亲",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "既然如此，你就顾你的孩儿，我了顾年大的母亲。",
+      "sentence": "郭巨选择照顾年幼的孩子",
+      "behavior_type": 10
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "既然如此，你就顾你的孩儿，我了顾年大的母亲。",
+      "sentence": "郭巨选择照顾年迈的母亲",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "今个把孩子背上滚！",
+      "sentence": "今日将孩子背在身上",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "出了我郭家的门。",
+      "sentence": "郭巨离开了郭家的家门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "你看几时我的母亲归了阴，你再背上娃娃了回家中。",
+      "sentence": "郭巨等待母亲去世后接回孩子",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "几时母亲不归阴，少着进我郭家的门啊。",
+      "sentence": "郭巨母亲去世后才能回家",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "麻利麻利背上往外滚往外滚。",
+      "sentence": "郭巨迅速背着孩子离开家门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "紧一把慢一把，搡着郭巨叫来出门。",
+      "sentence": "有人推搡着郭巨让他出门",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "小郭巨呵呵一笑，不了搡，不了搡，不了撵，不了撵，慢着，听我给你说。",
+      "sentence": "郭巨笑着表示拒绝并劝说对方",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不知道！",
+      "sentence": "不知道",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "哎，说明白讲清楚你就知道了。",
+      "sentence": "郭巨向对方详细解释情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不是我舍不得吗？",
+      "sentence": "不是我舍不得",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "我舍得，我挖挖挖，沙坑挖了三尺深，把娃娃捉起来往坑里送，你说娃娃说的是什么话？",
+      "sentence": "郭巨挖坑并将娃娃放入其中",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "我舍得，我挖挖挖，沙坑挖了三尺深，把娃娃捉起来往坑里送，你说娃娃说的是什么话？",
+      "sentence": "娃娃在坑中说了某些话语",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不知道！",
+      "sentence": "不知道具体的情况",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎！",
+      "sentence": "",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "讲明白你就知道了。",
+      "sentence": "讲明白后对方就会知道",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "娃娃傢说是，叫爹爹，不了慌，不了忙，慌忙人干不下好道场。",
+      "sentence": "娃娃告诉父亲不要慌张",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "坑坑嫌好浅，再往深里赶。",
+      "sentence": "继续将沙坑往深处挖掘",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "坑挖五尺能埋人，三尺深的坑坑埋不成。",
+      "sentence": "坑挖五尺深可以埋人",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "坑挖五尺能埋人，三尺深的坑坑埋不成。",
+      "sentence": "三尺深的坑无法埋人",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三尺深的坑坑埋了人，盖土薄了子孙穷。",
+      "sentence": "三尺深的坑埋了人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "阴宅九尺三，辈辈的子孙做高官。",
+      "sentence": "阴宅九尺三能使子孙做高官",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "我就挖，挖了这么四尺半，底里盖的硬石板，我咬住牙关，拿住镢头，把那个石板刨开了个老窟窿，观见里头亮晶晶，挖出来的宝物多得很。",
+      "sentence": "郭巨挖坑时发现大量宝物",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "若发你妻子你不信，给你，这不叫宝物你看分明。",
+      "sentence": "给你看这不叫宝物",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "白秀英接住了元宝，元宝上的大字念了一遍。",
+      "sentence": "白秀英接住元宝并念出大字",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "双膝跪到在地，两个手里籀了四个元宝：我的老天爷，我的老天爷，今个老天爷有了感应了，神仙老爷睁开眼睛了，救下了我一家的性命了。",
+      "sentence": "双膝跪地手捧元宝感谢老天爷",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "等到我的娃娃成了事，等到我白秀英小郭巨若果活出人，我请上些高僧高道，给神仙老爷念超经啊。",
+      "sentence": "白秀英计划请高僧高道念超经",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "把娃娃接住放到了家廊中，夫妻两个才转的金银。",
+      "sentence": "郭巨将娃娃接住放到了家廊中",
+      "behavior_type": 13
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "把娃娃接住放到了家廊中，夫妻两个才转的金银。",
+      "sentence": "郭巨夫妻两人转交金银",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夫妻两个跑得凶，五更天跑到天明亮，把金银才转到了他家乡。",
+      "sentence": "夫妻两人连夜赶路回到家乡",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，那个金银么取之不尽，用之不完，用去用不完，取去取不尽，三大财神赐给的宝物就多得很。",
+      "sentence": "金银取之不尽用之不竭",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他们转金银没安静，惊动了书房里的老母亲。",
+      "sentence": "他们匆忙转移金银惊动老母亲",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "扳住了牛肋巴窗窗大声喊：小郭巨，白秀英，我怎么听着你们不对劲，一晚夕你的脚音响，腾腾腾进来了，蹚蹚蹚出去了，你们做啥者唻？",
+      "sentence": "郭巨询问夫妻二人行为异常",
+      "behavior_type": 7
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "扳住了牛肋巴窗窗大声喊：小郭巨，白秀英，我怎么听着你们不对劲，一晚夕你的脚音响，腾腾腾进来了，蹚蹚蹚出去了，你们做啥者唻？",
+      "sentence": "白秀英被询问行为异常原因",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "扳住了牛肋巴窗窗大声喊：小郭巨，白秀英，我怎么听着你们不对劲，一晚夕你的脚音响，腾腾腾进来了，蹚蹚蹚出去了，你们做啥者唻？",
+      "sentence": "有人整晚频繁进出房间",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "娃娃们，穷了过个穷光阴，你们半夜晚夕不了去偷人。",
+      "sentence": "娃娃们过着贫穷的生活",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你说半夜晚夕你们偷了人，邻舍们知道了可不饶命。",
+      "sentence": "邻舍们知道后不会饶恕你们",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "又是割舌挖眼睛，告到官上受罪行。",
+      "sentence": "割舌挖眼睛将受到官府的惩罚",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "白秀英生来是个孝心种，婆婆的面前说实话，万可不能把婆婆哄，哄了婆婆有罪行。",
+      "sentence": "白秀英向婆婆坦白实情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "叫妈妈，悄悄坐，我们没有偷人去。",
+      "sentence": "白秀英向母亲解释没有偷人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们刚就黄沙坡上埋你的小孙孙，三大财神爷赐给的金银多得很，我们来了去了敢就转金银。",
+      "sentence": "他们前往黄沙坡埋藏孙孙",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "我们刚就黄沙坡上埋你的小孙孙，三大财神爷赐给的金银多得很，我们来了去了敢就转金银。",
+      "sentence": "三大财神赐予大量金银",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "我们刚就黄沙坡上埋你的小孙孙，三大财神爷赐给的金银多得很，我们来了去了敢就转金银。",
+      "sentence": "他们来回搬运那些金银",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "长寿郎",
+      "original_sentence": "吓得那个老婆婆扑腾跌倒地埃尘，我把你今个贼像话，我把你几个狗杂种，把你几个狗贱人，活像话，你看这些伙狗杂种，今个有我的小孙孙，我在家里活几天，今个没我的孙孙长寿郎，我碰死着墙上我难活人。",
+      "sentence": "长寿郎的消失让婆婆悲痛欲绝",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "吓得那个老婆婆扑腾跌倒地埃尘，我把你今个贼像话，我把你几个狗杂种，把你几个狗贱人，活像话，你看这些伙狗杂种，今个有我的小孙孙，我在家里活几天，今个没我的孙孙长寿郎，我碰死着墙上我难活人。",
+      "sentence": "婆婆因失去孙儿而极度悲伤",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老婆婆抱头墙上碰，郭巨吓得直了声，一抱子抱住了老母亲。",
+      "sentence": "老婆婆用头撞击墙壁",
+      "behavior_type": 1
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "老婆婆抱头墙上碰，郭巨吓得直了声，一抱子抱住了老母亲。",
+      "sentence": "郭巨因惊吓而失声",
+      "behavior_type": 2
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "老婆婆抱头墙上碰，郭巨吓得直了声，一抱子抱住了老母亲。",
+      "sentence": "郭巨紧紧抱住母亲",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "妈妈，你不了碰，不了碰。",
+      "sentence": "郭巨劝阻母亲不要碰墙",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "怀里抱的老母亲，恨着骂的是白秀英，你这个女人家，你头发长见识短，长的鸡儿嗉子猫儿眼，吃不多的跑不远，看事不往着远里看，你单单看到脚面上。",
+      "sentence": "白秀英被恨着骂头发长见识短",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，你聪明了二十几，糊涂了一时儿。",
+      "sentence": "聪明二十几年糊涂一时",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "这个话又说不成，谁叫你说给老母亲。",
+      "sentence": "郭巨责备白秀英告诉老母亲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "吓坏母亲了不成，孝心在何处存？",
+      "sentence": "郭巨因惊吓母亲而感到愧疚",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "吓坏母亲了不成，孝心在何处存？",
+      "sentence": "孝心无处安放令人感到困惑",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，叫母亲，你坐稳，妈妈，不了碰，我给你抱你的小孙孙。",
+      "sentence": "母亲坐稳后抱起小孙孙",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "小郭巨跑到小房中，把长寿郎抱到了书房中。",
+      "sentence": "郭巨迅速跑进小房间",
+      "behavior_type": 4
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "小郭巨跑到小房中，把长寿郎抱到了书房中。",
+      "sentence": "郭巨将长寿郎抱到书房",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "叫妈妈，胆放大，心放宽，给你，这不叫你的孙孙长寿郎。",
+      "sentence": "郭巨安慰母亲不要担心孙儿",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "奶奶一见小孙孙，双手揽到怀当中。",
+      "sentence": "奶奶将小孙孙抱入怀中",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "嘴啧牙啃多心疼。",
+      "sentence": "嘴啧牙啃表现出心疼之情",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，我的孙孙长寿娃，你看今个就悬了个咋呀。",
+      "sentence": "长寿娃今日表现有些异常",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "白秀英又来就说：老妈妈，虽然怀里抱上你的小孙孙，这是神仙爷感应着抱上了你的小孙孙。",
+      "sentence": "白秀英告诉老妈妈神仙感应",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "再几发媳妇子说话你得听，再以后我做给你些好的了你就吃，我端给你些好的了你就用，你就再不了腾省着喂你的小孙孙。",
+      "sentence": "媳妇子说话你应该听从",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "再几发媳妇子说话你得听，再以后我做给你些好的了你就吃，我端给你些好的了你就用，你就再不了腾省着喂你的小孙孙。",
+      "sentence": "以后我给你好的你就吃",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "再几发媳妇子说话你得听，再以后我做给你些好的了你就吃，我端给你些好的了你就用，你就再不了腾省着喂你的小孙孙。",
+      "sentence": "我给你好的你就使用",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "再几发媳妇子说话你得听，再以后我做给你些好的了你就吃，我端给你些好的了你就用，你就再不了腾省着喂你的小孙孙。",
+      "sentence": "你不要省着喂小孙孙",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "你但再若果是腾省着喂你的小孙孙，我黄沙坡底下埋掉他的个身。",
+      "sentence": "白秀英威胁要埋掉小孙孙",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "小郭巨，心喜欢，有了银子有了钱，有钱的买卖就好干。",
+      "sentence": "郭巨因获得银钱而感到欣喜",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "量麦子，推白面，取绫罗，缝衣裳，叫土工，买木石，盖新的房。",
+      "sentence": "量麦子推白面取绫罗缝衣裳",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "量麦子，推白面，取绫罗，缝衣裳，叫土工，买木石，盖新的房。",
+      "sentence": "叫土工买木石盖新的房屋",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "四合头院子八廊房，麻眼格儿的粉皮墙。",
+      "sentence": "四合头院子有八廊房",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "四合头院子八廊房，麻眼格儿的粉皮墙。",
+      "sentence": "麻眼格儿的墙是粉皮墙",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "红松的柱子白松的梁，鱼儿骨头儿轧的月床。",
+      "sentence": "红松白松构成房屋的梁柱",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "打庄子，盖房子，当年就成了个有钱的。",
+      "sentence": "郭巨建造房屋并迅速致富",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "哎，白秀英媳妇多孝顺，就把傢的老婆婆呀，冷了抲到热炕上，热了就抲到凉床上。",
+      "sentence": "白秀英孝顺地照顾婆婆起居",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "冷了给穿上火绫裆，热了就换的是绛绸衫。",
+      "sentence": "白秀英为婆婆更换适季衣物",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "再热了，白秀英媳妇儿陪着就给把扇子扇。",
+      "sentence": "白秀英为婆婆扇扇子",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "早晨的米汤泡的是蒸卷，给我的老婆婆再打上两个鸡蛋，后晌的揪疙瘩赛过捋面。",
+      "sentence": "白秀英为婆婆准备丰盛餐食",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "郭巨哎当年成了个总财东，左邻右舍气不愤。",
+      "sentence": "郭巨当年成为有钱的财东",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "郭巨哎当年成了个总财东，左邻右舍气不愤。",
+      "sentence": "左邻右舍对此感到气愤",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "邻居们气不愤还倒罢，就是个背地里谤论咔。",
+      "sentence": "邻居们在背地里议论纷纷",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "天遭年荒五年整，我们都家里没吃用，你看那个郭巨家，当年成了个总财东。",
+      "sentence": "郭巨在灾年成为总财东",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "天遭年荒五年整，我们都家里没吃用，你看那个郭巨家，当年成了个总财东。",
+      "sentence": "灾年期间家中缺乏食物",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "打庄盖房，你看多富分啊！",
+      "sentence": "郭巨拥有大量财富和房产",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "知道这个银钱打哪里生，当家子气不愤才了不成。",
+      "sentence": "当家子因银钱来源感到愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "亲亲儿的亲房，都见不得侄儿子稠些端碗米汤，瞭着郭巨稠些端了碗米汤，他就心里怪不舒坦。",
+      "sentence": "亲房见不得侄儿端米汤",
+      "behavior_type": 2
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "亲亲儿的亲房，都见不得侄儿子稠些端碗米汤，瞭着郭巨稠些端了碗米汤，他就心里怪不舒坦。",
+      "sentence": "郭巨端米汤让人不舒坦",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郭秋万",
+      "original_sentence": "郭巨的那个亲亲的叔老子，名字叫个郭秋万啊，那是村子上的一个老坏蛋。",
+      "sentence": "郭秋万是村子上的老坏蛋",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "郭秋万",
+      "original_sentence": "吹胀捏塌，说好变瞎，倒是弄非，就是那个郭秋万。",
+      "sentence": "郭秋万经常搬弄是非颠倒黑白",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭秋万",
+      "original_sentence": "郭秋万，老坏种，赶紧倒弄大事情。",
+      "sentence": "郭秋万正在策划重大事件",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "东家里出来西家里去，进了人家再不说。",
+      "sentence": "东家出来西家进去不说话",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "再不提再的事，就说的是侄儿子小郭巨。",
+      "sentence": "郭巨被提及作为侄儿子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "也不说天，也不说地，也不说庄稼怎么种，也不说国家的大事情。",
+      "sentence": "话题不涉及天地庄稼国家大事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "就开口就说：哎，邻舍们，不好了，不妙了，我们郭家出了坏事了！",
+      "sentence": "邻舍们得知郭家出了坏事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "我的侄儿子小郭巨，侄儿媳妇子白秀英，夫妻两个不安静，你看当年他怎么成了个总财东。",
+      "sentence": "郭巨与白秀英夫妻关系不和睦",
+      "behavior_type": 12
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "我的侄儿子小郭巨，侄儿媳妇子白秀英，夫妻两个不安静，你看当年他怎么成了个总财东。",
+      "sentence": "白秀英与郭巨夫妻关系不和睦",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "我的侄儿子小郭巨，侄儿媳妇子白秀英，夫妻两个不安静，你看当年他怎么成了个总财东。",
+      "sentence": "郭巨曾经成为总财东",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "我思想他们夫妻两个就不安静，偷牛盗马过周正。",
+      "sentence": "郭巨夫妻二人行为不端",
+      "behavior_type": 10
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "我思想他们夫妻两个就不安静，偷牛盗马过周正。",
+      "sentence": "白秀英夫妻二人行为不端",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们今个若果是不告他，他三偷四偷来偷犯，再不了把你们邻舍们盘连上，与我们当叔老子的也不利干。",
+      "sentence": "若不告发将连累邻舍与叔父",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "告状吧，告状吧，老年人听着了来采纳，不说话，成年人听着了来采纳。",
+      "sentence": "老年人采纳告状建议",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "告状吧，告状吧，老年人听着了来采纳，不说话，成年人听着了来采纳。",
+      "sentence": "成年人采纳告状建议",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不好就是那么个人嘛，不是那么个人。",
+      "sentence": "此人并非如表面那般",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "想到此时，你把你的说，我把我的做。",
+      "sentence": "各自表达自己的想法和行动",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "世界上也有这个好事的人，人上一千，无所不断，人上五十个，杂疙瘩有几个。",
+      "sentence": "世界上存在各种不同的人",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "郭秋万",
+      "original_sentence": "郭秋万串连来去串连了十天有余，串连了好事的十个冒泡。",
+      "sentence": "郭秋万连续十天串连了十个好事者",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭秋万",
+      "original_sentence": "郭秋万上堂来告状，十个冒泡就把干证当。",
+      "sentence": "郭秋万上堂进行告状",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "郭秋万上堂来告状，十个冒泡就把干证当。",
+      "sentence": "十个冒泡充当干证",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭秋万",
+      "original_sentence": "赶着走来赶着行，赶着来到了大衙门。",
+      "sentence": "郭秋万匆忙赶路来到大衙门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "胡林",
+      "original_sentence": "四川成都府坐着个胡知县，知县的名字叫胡林，断着个官司就清得很。",
+      "sentence": "胡林在成都府担任知县",
+      "behavior_type": 7
+    },
+    {
+      "role": "胡林",
+      "original_sentence": "四川成都府坐着个胡知县，知县的名字叫胡林，断着个官司就清得很。",
+      "sentence": "胡林审理案件非常公正",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要说不冤枉一个好的人，不能放松一个大坏怂。",
+      "sentence": "不能冤枉好人也不能放过坏人",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郭秋万",
+      "original_sentence": "郭秋万走上前，来时就到了公堂上。",
+      "sentence": "郭秋万走到公堂上",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭秋万",
+      "original_sentence": "青天大老爷你听言，我的名字么叫个郭秋万。",
+      "sentence": "郭秋万向青天大老爷自报姓名",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭秋万",
+      "original_sentence": "我在大人的堂上来喊冤，我今个写不来个状不识字，写不来个状子，我口诉哩。",
+      "sentence": "郭秋万在公堂上口头申诉冤情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "我不告天不告地，告的我的侄儿娃娃小郭巨。",
+      "sentence": "郭秋万状告其侄儿郭巨",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你看天遭年荒真苦情，家里我们都穷着无度用。",
+      "sentence": "天灾导致家庭贫困无法度日",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "郭巨他当年成了个总财东，侄儿媳妇子白秀英，聪明伶俐的狗杂种。",
+      "sentence": "郭巨最终成为总财东",
+      "behavior_type": 3
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "郭巨他当年成了个总财东，侄儿媳妇子白秀英，聪明伶俐的狗杂种。",
+      "sentence": "白秀英聪明伶俐",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "郭巨他当年成了个总财东，侄儿媳妇子白秀英，聪明伶俐的狗杂种。",
+      "sentence": "狗杂种聪明伶俐",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "他们夫妻两个不安静，偷牛盗马过周正。",
+      "sentence": "郭巨夫妻二人行为不端",
+      "behavior_type": 10
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "他们夫妻两个不安静，偷牛盗马过周正。",
+      "sentence": "白秀英夫妻二人行为不端",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我今个有心不告他，再不了三偷四偷来偷犯。",
+      "sentence": "有心不再告发他的偷盗行为",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "再不了把我们左邻右舍都盘连上，与我们当叔老子的也不利干。",
+      "sentence": "左邻右舍被盘连上不利干",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "若发你老爷你不信，你问这十个邻舍们。",
+      "sentence": "若不信可询问这十个邻居",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "十个冒泡慢慢走上前来，青天大老爷，真真儿的真的啊！",
+      "sentence": "十个人慢慢走上前来",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "好，我就要的真的，可不能成了假的，我的那个刑法可不吃素的，话么给你说清楚，没怨不告，没冤不喊，没有大怨不上堂，上了堂来他郭巨就把法来犯。",
+      "sentence": "郭巨在公堂上触犯了法律",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两旁差人，你把这个十个邻居，告状的原告老人，你给我请到后院里，去摆上一桌子好吃好喝，美酒摆上，叫他们大吃二喝，不要叫他们走掉唵。",
+      "sentence": "差人请邻居到后院享用美食",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "去，提被告，抓这个小郭巨，上堂喽！",
+      "sentence": "差人奉命前去抓捕郭巨",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两个差人就没怠慢，甩开我的腿子就往前行。",
+      "sentence": "两个差人迅速向前行进",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "怀里踹了一根绳，急忙来到郭家的门。",
+      "sentence": "有人急忙来到郭家的门前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "郭巨正在门上站，抬头一观看，头上一点红，来了衙门里的人。",
+      "sentence": "郭巨站在门口看见衙门来人",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "腿子直直的，好像两个狗腿子。",
+      "sentence": "腿子直直地站立着",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "一见将爷到门上，叫将爷，一不该粮，二不欠草，来着将爷么怎么了？",
+      "sentence": "郭巨询问将爷前来所为何事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "两个差人怒气生，手指着郭巨恨几声。",
+      "sentence": "差人对郭巨感到愤怒并指责",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "我把你个郭巨狗杂种，你自己做事不小心，你做故营生好问人！",
+      "sentence": "郭巨做事不小心连累他人",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "今个把你说知道，你的叔老子，那个当家族户把你就告下了，谁叫你做贼挖窟窿，谁叫你家里不安静，今个我要你上衙门。",
+      "sentence": "差人指责郭巨做贼挖窟窿",
+      "behavior_type": 7
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "今个把你说知道，你的叔老子，那个当家族户把你就告下了，谁叫你做贼挖窟窿，谁叫你家里不安静，今个我要你上衙门。",
+      "sentence": "差人要求郭巨前往衙门",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "此话说的不要紧，就把那个郭巨提了个醒。",
+      "sentence": "郭巨被提醒后有所警觉",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "守爷们，守爷们，不要紧，不要紧，小的没错，叔老子不告我小的，邻舍们不告我小的，一定告下了，我小的就有罪。",
+      "sentence": "郭巨辩解自己并未犯错",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "你们先等一等，我还有八十多的老母亲，还有五岁的小儿童，还有我的妻子白秀英，我去把给我的家里的事情去安顿，我就随上你们上衙门。",
+      "sentence": "郭巨请求差人等待他安顿家人",
+      "behavior_type": 12
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "你们先等一等，我还有八十多的老母亲，还有五岁的小儿童，还有我的妻子白秀英，我去把给我的家里的事情去安顿，我就随上你们上衙门。",
+      "sentence": "白秀英是郭巨需要安顿的家人",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "小郭巨忙忙来到了家廊中，打开了皮箱整一顶，就把财神爷赐给的四个元宝，揣到了怀当中。",
+      "sentence": "郭巨匆忙回到家中打开皮箱",
+      "behavior_type": 4
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "小郭巨忙忙来到了家廊中，打开了皮箱整一顶，就把财神爷赐给的四个元宝，揣到了怀当中。",
+      "sentence": "郭巨将四个元宝揣入怀中",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "哎，说是将爷们，可不叫你捆，不叫你绑，我汉子做事汉子当，我随着你们上公堂。",
+      "sentence": "郭巨表示愿意随众人前往公堂",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "我看我犯了什么法，我去到堂上了我才瞭一下。",
+      "sentence": "郭巨思考自己是否违法",
+      "behavior_type": 5
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "我看我犯了什么法，我去到堂上了我才瞭一下。",
+      "sentence": "郭巨决定到堂上观察情况",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两个差人一个头里走，一个么拿的棒子在随后跟。",
+      "sentence": "两名差役前后行走",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "提的棒子太带凶，他当郭巨胡跑胡溜，腿往折里括，就拿的这个棒子括。",
+      "sentence": "郭巨被差人用棒子追赶",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不好了，不妙了，又惊动了当家族户了，还有左邻右舍哩。",
+      "sentence": "惊动了当家族户和左邻右舍",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "不好了，不妙了，我们的郭巨娃娃犯了啥法了，怎么叫郭秋万那个老贼么告下了，两个差人么提来了，你看已经提上走掉了。",
+      "sentence": "郭巨被郭秋万告发犯法",
+      "behavior_type": 3
+    },
+    {
+      "role": "郭秋万",
+      "original_sentence": "不好了，不妙了，我们的郭巨娃娃犯了啥法了，怎么叫郭秋万那个老贼么告下了，两个差人么提来了，你看已经提上走掉了。",
+      "sentence": "郭秋万告发郭巨犯法",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "不好了，不妙了，我们的郭巨娃娃犯了啥法了，怎么叫郭秋万那个老贼么告下了，两个差人么提来了，你看已经提上走掉了。",
+      "sentence": "差人将郭巨带走",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "走走走，我们跟上走，我们跟上听探走。",
+      "sentence": "他们跟随前行并探听消息",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "倘若这个知县官做官不清正，他若给郭巨娃娃降罪行，我们邻舍们上堂就围衙门。",
+      "sentence": "知县官若不清正将降罪行",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "倘若这个知县官做官不清正，他若给郭巨娃娃降罪行，我们邻舍们上堂就围衙门。",
+      "sentence": "邻舍们将上堂围住衙门",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说走就走，男男女女大大小小老老少少，哗啦啦后头跟了一大阵，共有那么二百多个人啊，跟上来就把衙门围了个硬。",
+      "sentence": "众人跟随前往衙门围堵",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "手下人役禀告：报道老大人，小郭巨带到！",
+      "sentence": "手下人役向老大人报告郭巨带到",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "带上堂来。",
+      "sentence": "郭巨被差人带上公堂",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "报到老大人，这就是郭巨。",
+      "sentence": "手下人役向老大人报告郭巨已到",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "大人问道：你小郭巨吗？",
+      "sentence": "大人询问郭巨是否在场",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "大人在上，就是小郭巨。",
+      "sentence": "郭巨向大人表明自己的身份",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "米饭给给就叫孙孙用啊，我的大老爷，惹下了妻子白秀英，叫我背上四川城上卖儿童。",
+      "sentence": "白秀英因惹怒丈夫被责备",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "米饭给给就叫孙孙用啊，我的大老爷，惹下了妻子白秀英，叫我背上四川城上卖儿童。",
+      "sentence": "被迫前往四川贩卖儿童",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "谁叫你夫妻两个不安静，偷牛盗马你过周正。",
+      "sentence": "夫妻两人因偷盗行为被指责",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "你就哪里偷来，偷了谁家，逮了谁家，你赶快在老大人的堂上你说起实话。",
+      "sentence": "郭巨被要求如实供述偷盗行为",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "讲了实话还倒罢了，不讲实话，砸折孤拐，要要你的腿子要死人啊。",
+      "sentence": "不讲实话将受到严厉惩罚",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "小郭巨跪到那个大堂中，忙忙我的青天大人我就叫几声。",
+      "sentence": "郭巨跪在大堂中央呼唤大人",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "我的青天，我的老大人呀，哎哟。",
+      "sentence": "郭巨向老大人发出恳求",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "青天大人你仔细听，听我郭巨给你说实情。",
+      "sentence": "郭巨向青天大人陈述实情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "我的一对老双亲，床前就生了我一苗根。",
+      "sentence": "郭巨是父母唯一的儿子",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "上无哥哥下无兄，再没有个姐儿姊妹们我。",
+      "sentence": "郭巨没有兄弟姐妹",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "娶了一个贤德妻儿叫白秀英啊，自从把呢个秀英娶进我郭家的门，我的妈妈的身上就要紧得很。",
+      "sentence": "郭巨娶了贤德妻子白秀英",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "娶了一个贤德妻儿叫白秀英啊，自从把呢个秀英娶进我郭家的门，我的妈妈的身上就要紧得很。",
+      "sentence": "母亲的身体状况变得要紧",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "夫妻过门一年整啊，又给我给生下了个男孩童。",
+      "sentence": "郭巨与白秀英生育了一个男孩",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "长寿郎",
+      "original_sentence": "自从我的长寿郎生在人世上，谁知道老天爷遭年荒。",
+      "sentence": "长寿郎出生后遭遇了年荒",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "五年的庄稼没收成，地里的寸草永不生，家里么饿死我的老父亲，却无个钱儿买棺板。",
+      "sentence": "五年庄稼无收成导致寸草不生",
+      "behavior_type": 3
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "五年的庄稼没收成，地里的寸草永不生，家里么饿死我的老父亲，却无个钱儿买棺板。",
+      "sentence": "郭巨家中饿死了他的老父亲",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "邻居们帮了忙，拿了捆子树条把席子卷啊，把我的老爹爹埋到坟茔滩。",
+      "sentence": "邻居帮忙用树条卷席埋尸",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "埋掉了老父亲葬了坟，丢下的年大的老母亲。",
+      "sentence": "郭巨埋葬了年迈的父亲",
+      "behavior_type": 3
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "埋掉了老父亲葬了坟，丢下的年大的老母亲。",
+      "sentence": "郭巨留下年迈的母亲",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "长寿郎",
+      "original_sentence": "母亲想吃点点瓤米饭，老共造了碗半饭，半碗儿喂给长寿郎，一碗端上孝顺娘。",
+      "sentence": "长寿郎被喂了半碗米饭",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "母亲想吃点点瓤米饭，老共造了碗半饭，半碗儿喂给长寿郎，一碗端上孝顺娘。",
+      "sentence": "一碗米饭被端给母亲",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "为娘的一见小孙孙，痛烂肝花裂烂心。",
+      "sentence": "为娘见到孙孙感到痛心",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "家寒贫穷无度用，为什么当年你成了个总财东？",
+      "sentence": "郭巨因家贫而无法维持生计",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "家寒贫穷无度用，为什么当年你成了个总财东？",
+      "sentence": "询问为何当年成为总财东",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要要背上进了城，十间门面九间关，粮食市上扣者个空笸篮。",
+      "sentence": "进入城市后发现商铺大多关闭",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "要要背上进了城，十间门面九间关，粮食市上扣者个空笸篮。",
+      "sentence": "粮食市场上仅剩空笸篮",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "街上的驴马骨头人买尽，没人问着买儿童。",
+      "sentence": "街上的驴马骨头人买尽",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "街上的驴马骨头人买尽，没人问着买儿童。",
+      "sentence": "没人问着买儿童",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "日落西山夜黄昏啊，背上我的娃娃回家中。",
+      "sentence": "日落西山时背着娃娃回家",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "背上娃娃来到了那个家廊中，惹下了我的妻子白秀英。",
+      "sentence": "白秀英因某事被惹怒",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "背上娃娃来到了那个家廊中，惹下了我的妻子白秀英。",
+      "sentence": "某人背着娃娃回到家",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "我们孝顺我的老母亲，母亲呢腾省孙孙着了不成。",
+      "sentence": "郭巨孝顺他的老母亲",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "我们孝顺我的老母亲，母亲呢腾省孙孙着了不成。",
+      "sentence": "母亲腾省孙孙不成",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "给上妈妈些饭，妈妈不吃喂孙孙。",
+      "sentence": "白秀英给母亲喂饭母亲不吃",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "惹下了我的妻子太可憎，傢叫我黄沙坡底下就埋儿童啊。",
+      "sentence": "白秀英对丈夫的行为感到愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "惹下了我的妻子太可憎，傢叫我黄沙坡底下就埋儿童啊。",
+      "sentence": "郭巨决定将儿童埋于黄沙坡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "背上我的娃娃去到黄沙坡，我沙坑挖了五尺深。",
+      "sentence": "郭巨背着娃娃前往黄沙坡",
+      "behavior_type": 4
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "背上我的娃娃去到黄沙坡，我沙坑挖了五尺深。",
+      "sentence": "郭巨挖掘五尺深的沙坑",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "底里挖开了个老窟窿，我得上的金子得上的银啊，我小郭巨哪里我又偷过一个人啊。",
+      "sentence": "郭巨挖出了金子和银子",
+      "behavior_type": 8
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "底里挖开了个老窟窿，我得上的金子得上的银啊，我小郭巨哪里我又偷过一个人啊。",
+      "sentence": "郭巨声称自己从未偷过人",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "若发的个老爷你不信，这不叫元宝你看见真。",
+      "sentence": "老爷若不信请看这元宝",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "元宝不是我造来，字也不是我錾来，是那三大财神给我赐着来。",
+      "sentence": "郭巨声称元宝并非自己所造",
+      "behavior_type": 14
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "元宝不是我造来，字也不是我錾来，是那三大财神给我赐着来。",
+      "sentence": "郭巨表示字也非自己所錾",
+      "behavior_type": 14
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "元宝不是我造来，字也不是我錾来，是那三大财神给我赐着来。",
+      "sentence": "郭巨称财神赐予他元宝",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "小郭巨怀里掏出四个元宝，摆在了公案桌上。",
+      "sentence": "郭巨将四个元宝放在公案桌上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哗啦啦进来了二百多个人啊，男男女女老老少少大大小小，就把公案上就围了个严。",
+      "sentence": "二百多人围住了公案桌",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "爷这里来审堂，念四个元宝上的字：小郭巨孝廉心，黄沙坡山埋儿童。",
+      "sentence": "郭巨展示元宝上的字给老爷看",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "三大财神赐金银，赐给叫郭巨孝母亲。",
+      "sentence": "三大财神赐予郭巨金银",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "官不能尅剥民不能欺，这个是三大财神赐给的。",
+      "sentence": "三大财神赐予金银元宝",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "众位百姓吓得啪啦啦啦跪倒的跪倒了，跌倒的跌倒了。",
+      "sentence": "百姓们因恐惧而纷纷跪倒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "世上真有此事吗？",
+      "sentence": "世上是否真有此事",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "郭秋万",
+      "original_sentence": "哎，郭秋万这个老坏蛋告了枉状，这就犯了他的国法了。",
+      "sentence": "郭秋万诬告他人触犯国法",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭秋万",
+      "original_sentence": "吩咐手下人役们，你把那个郭秋万，十个邻居，你都给我带到我的公堂上。",
+      "sentence": "郭秋万被命令带上公堂",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭秋万",
+      "original_sentence": "郭秋万，十个邻居，你们说的真真儿的真的，你说的郭巨偷牛盗马不安分，怎么成了假的了？",
+      "sentence": "郭秋万声称郭巨偷牛盗马不安分",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "郭秋万，十个邻居，你们说的真真儿的真的，你说的郭巨偷牛盗马不安分，怎么成了假的了？",
+      "sentence": "十个邻居证实郭巨偷牛盗马",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "逼的叫为了孝顺老母亲，黄沙坡上埋儿童。",
+      "sentence": "郭巨为孝顺母亲埋儿于黄沙坡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "沙坑挖了五尺深，底里挖出来的金和银。",
+      "sentence": "沙坑中挖出金银",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "三大财神赐给叫郭巨孝母亲，谁叫你说郭巨偷了人？",
+      "sentence": "三大财神赐予郭巨金银财宝",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "三大财神赐给叫郭巨孝母亲，谁叫你说郭巨偷了人？",
+      "sentence": "有人指责郭巨偷盗他人财物",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你给我八十个楞棍砸呀。",
+      "sentence": "命令手下用八十个楞棍砸",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "郭秋万",
+      "original_sentence": "哗啦啦把十个邻居、郭秋万，按到公堂上，砸了几十个柳棍啊。",
+      "sentence": "郭秋万被按在公堂上遭受棍打",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "郭秋万",
+      "original_sentence": "挨了楞棍还不算，把焊匠请到公堂上，他告了枉状的事情不饶让，脖子了给他每人的脖项里，焊着套给四十斤重的生铁枷曲连，叫他一辈子来戴上，就叫他喊着告枉状。",
+      "sentence": "郭秋万被焊上四十斤重的生铁枷",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "挨了楞棍还不算，把焊匠请到公堂上，他告了枉状的事情不饶让，脖子了给他每人的脖项里，焊着套给四十斤重的生铁枷曲连，叫他一辈子来戴上，就叫他喊着告枉状。",
+      "sentence": "生铁枷需佩戴一辈子不得取下",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "郭秋万",
+      "original_sentence": "郭秋万还来罚你，你枉告了小郭巨。",
+      "sentence": "郭秋万指责郭巨枉告他人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭秋万",
+      "original_sentence": "你这个告了枉状的叔老子，罚给你三百担老米三万两金，给给叫郭巨孝母亲。",
+      "sentence": "郭秋万被罚三百担米三万两金",
+      "behavior_type": 3
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "你这个告了枉状的叔老子，罚给你三百担老米三万两金，给给叫郭巨孝母亲。",
+      "sentence": "郭巨获得米金以孝养母亲",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "郭秋万",
+      "original_sentence": "郭秋万着了忙，双膝跪到公堂上，我的老爷啊，我都穷着吃了早上没后晌，家里都穷着没有一把米来半把面，哪里的老米三百担。",
+      "sentence": "郭秋万因贫困向老爷求情",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郭秋万",
+      "original_sentence": "我都穷着没个抽烟钱，弹着抽个烟杆杆，哪里的黄金三万两？",
+      "sentence": "郭秋万声称自己没有黄金三万两",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "没有活该！",
+      "sentence": "没有活该",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "郭秋万",
+      "original_sentence": "谁叫你告枉状，把你的庄房田地罚掉。",
+      "sentence": "郭秋万罚没庄房田地",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "哎，罚了金子三万两，罚了老米三百担，给给叫郭巨孝母亲。",
+      "sentence": "郭巨被罚黄金三万两",
+      "behavior_type": 3
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "哎，罚了金子三万两，罚了老米三百担，给给叫郭巨孝母亲。",
+      "sentence": "郭巨被罚老米三百担",
+      "behavior_type": 3
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "哎，罚了金子三万两，罚了老米三百担，给给叫郭巨孝母亲。",
+      "sentence": "郭巨孝顺他的母亲",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "你这个无意告状，把孝子告到我的公堂中。",
+      "sentence": "郭巨被无意告状告到公堂中",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叫主人知道还得给我降罪行，捉人容易放人难。",
+      "sentence": "主人知道后会加重我的罪行",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "叫主人知道还得给我降罪行，捉人容易放人难。",
+      "sentence": "捉人容易但放人却非常困难",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "今个把郭巨无缘无故捉到公堂上，你看，亏了没有上刑罚没有招。",
+      "sentence": "郭巨被无缘无故捉到公堂上",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "倘若是先上了刑罚招了供，闯下了这场子大祸星。",
+      "sentence": "倘若上了刑罚会招供",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "主人知道了，我的脑袋长不成啊。",
+      "sentence": "主人知道后我的脑袋将不保",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "知县官打开了库房整一顶，雪花白银国宝银子，给了郭巨八百两整，好好拿上去了孝顺你的老母亲啊。",
+      "sentence": "知县给予郭巨八百两白银",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "小郭巨双膝跪倒在地，磕头谢过青天大老爷。",
+      "sentence": "郭巨跪地向县官磕头道谢",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "回家中，临走哩请上的这个，二百多个听了官司的当家族户左邻右舍们，娃娃大小都请到了他家乡。",
+      "sentence": "郭巨邀请乡亲们前往他的家乡",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "又宰猪来又杀羊，把席桌来摆上。",
+      "sentence": "郭巨宰猪杀羊摆上席桌",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "划哩乐哩吃哩喝哩唱哩跳哩，要要在家里闹腾了整一天。",
+      "sentence": "人们在家中吃喝玩乐闹腾一天",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吃饱喝好了，你们回家乡。",
+      "sentence": "吃饱喝足后众人返回家乡",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "来，不管娃娃大人，也不能偏待，不管是女的男的，或是老的少的，每人给你们十两银。",
+      "sentence": "郭巨给每人分发十两银子",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你们拿上去了当个小盘用。",
+      "sentence": "你们可以拿这些钱当小盘缠",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "记下，没有证据不了来告状，你看我的那个叔老子告了状，挨了顿棒子还不算，脖项里套给了那么子重的个铁曲连，那个么不知道磨到哪一年。",
+      "sentence": "没有证据不能随意告状",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "记下，没有证据不了来告状，你看我的那个叔老子告了状，挨了顿棒子还不算，脖项里套给了那么子重的个铁曲连，那个么不知道磨到哪一年。",
+      "sentence": "脖项里套着沉重的铁曲连",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "哎，左邻右舍，那再听我小郭巨给你们说分明，旁个里的这个邻居的这个媳妇儿啊来提醒，谁也把公婆来孝顺，不能得罪年老人。",
+      "sentence": "郭巨向邻居讲述孝顺公婆的道理",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "得罪了年老人，犯下国法也了不成。",
+      "sentence": "郭巨认为得罪老人违反国法",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "你看那个白秀英孝顺了婆婆，财神爷把瑰宝来赐上，一家人就成了有钱富汉。",
+      "sentence": "白秀英孝顺婆婆获得财富",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "你看那个白秀英孝顺了婆婆，财神爷把瑰宝来赐上，一家人就成了有钱富汉。",
+      "sentence": "财神爷赐予瑰宝给一家人",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "忙了忙了谁忙了？",
+      "sentence": "忙碌的人们各自忙于事务",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "忙了地方上的乡员甲役禀农官。",
+      "sentence": "乡员甲役向农官禀报情况",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "乡里的文书府里升，府里的文书道里升，道里的文书往上升，折子行到了午朝门。",
+      "sentence": "文书从乡里逐级上报至午朝门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "列国天子登宝殿，打开折子观着看。",
+      "sentence": "天子打开折子仔细观看",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们在朝里坐江山，朝外出来了大贤良！",
+      "sentence": "我们在朝里坐江山",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "我们在朝里坐江山，朝外出来了大贤良！",
+      "sentence": "朝外出来了大贤良",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "金牌宣，银牌调，贤人么宣到了金殿上。",
+      "sentence": "金牌银牌宣调贤人至金殿",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "小郭巨宣进殿，八十老娘宣进殿，六岁的孩儿宣进殿，白秀英也宣到金殿上。",
+      "sentence": "郭巨被宣召进入金殿",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "小郭巨宣进殿，八十老娘宣进殿，六岁的孩儿宣进殿，白秀英也宣到金殿上。",
+      "sentence": "八十岁的老娘被宣召进入金殿",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "小郭巨宣进殿，八十老娘宣进殿，六岁的孩儿宣进殿，白秀英也宣到金殿上。",
+      "sentence": "六岁的孩儿被宣召进入金殿",
+      "behavior_type": 4
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "小郭巨宣进殿，八十老娘宣进殿，六岁的孩儿宣进殿，白秀英也宣到金殿上。",
+      "sentence": "白秀英被宣召进入金殿",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "小郭巨听我封，把你就封到四川城。",
+      "sentence": "郭巨被封到四川城",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "四川城上把官做，四川城做了个什么官？",
+      "sentence": "郭巨在四川城担任官职",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "四川城上总兵上任，本府叫道台那差事。",
+      "sentence": "四川城上总兵上任处理道台差事",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "四川城教育人，谁也跟上郭巨白秀英行。",
+      "sentence": "郭巨在四川城教育人们",
+      "behavior_type": 10
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "四川城教育人，谁也跟上郭巨白秀英行。",
+      "sentence": "白秀英在四川城教育人们",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "白秀英封一封，总兵太太原亦封到本府四川成都府，做了总兵太太呀。",
+      "sentence": "白秀英被封为四川总兵太太",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "小郭巨五色纱帽头上戴，大红蟒袍披身上，螺丝转的靴子忙蹬上。",
+      "sentence": "郭巨穿戴整齐准备上任",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "白秀英珠冠霞帔头上戴，龙凤的遮袄披身前，做了总兵女娘娘。",
+      "sentence": "白秀英穿戴珠冠霞帔和龙凤遮袄",
+      "behavior_type": 1
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "白秀英珠冠霞帔头上戴，龙凤的遮袄披身前，做了总兵女娘娘。",
+      "sentence": "白秀英成为总兵女娘娘",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把八十的老人封一封，老人封进养老宫，养老宫里就受皇恩。",
+      "sentence": "八十岁老人被封入养老宫",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "日供米来月供面，每年的仓麦子十八石。",
+      "sentence": "每日提供米面每年仓麦十八石",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "每月的茶钱银子六两三，衣裳烂了朝里换。",
+      "sentence": "每月提供六两三钱茶银",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "再把白秀英夫人来封定，就把娘家门府也封一封，妈妈家养下贤良好姑娘，一块金匾挂到娘家门。",
+      "sentence": "白秀英被封为夫人并赐金匾",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "再把白秀英夫人来封定，就把娘家门府也封一封，妈妈家养下贤良好姑娘，一块金匾挂到娘家门。",
+      "sentence": "娘家被封并获赐一块金匾",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "白家府养马不当差，种地不上粮，挑河垒坝永不管，自种自吃乐安然。",
+      "sentence": "白秀英府上享有免除赋税特权",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "六岁孩儿听我封，留在了皇学里读五经。",
+      "sentence": "六岁孩儿留在皇学读五经",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "长寿郎",
+      "original_sentence": "等到五经读上十二岁整，长寿郎做了本府四川城，九门提督的大将军啊。",
+      "sentence": "长寿郎成为四川城九门提督大将军",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "赐给了两顶朱红轿，大街忙忙往前送。",
+      "sentence": "两顶朱红轿被送往大街",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "长寿郎",
+      "original_sentence": "把贵人么送到本府四川城，四川成都府里做官行。",
+      "sentence": "长寿郎前往四川成都府任职",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "州官送的州官送，县官送的县官送。",
+      "sentence": "州官和县官分别进行赠送",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "州官送着八十里，县官送着个一百二。",
+      "sentence": "州官送行八十里县官送行一百二",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "清水洒街黄土垫，黄土垫着二寸半。",
+      "sentence": "清水洒街黄土垫着二寸半",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "红绿彩纸挂得凶，蓝布围子围得硬。",
+      "sentence": "红绿彩纸被挂起蓝布围子围住",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "咚咚鼓，啪啪锣，半截子喇叭嘴里挈，喧天鼓乐回家中。",
+      "sentence": "鼓乐喧天中队伍返回家中",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，赶着来到四川城，四街八巷夸官行。",
+      "sentence": "赶着来到四川城夸官行",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "买卖门上摆贺酒，财东门上把席设下。",
+      "sentence": "买卖门上摆放了贺酒",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "买卖门上摆贺酒，财东门上把席设下。",
+      "sentence": "财东门上设下了宴席",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "观街观街铺红砖，夸官夸了个三天整，锣鸣鼓响的好威风。",
+      "sentence": "观街铺红砖持续三天整",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "观街观街铺红砖，夸官夸了个三天整，锣鸣鼓响的好威风。",
+      "sentence": "夸官锣鼓响威风凛凛",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吹鼓手的喇叭啊一声响，惊动了四街里的女娇郎。",
+      "sentence": "喇叭声惊动了街上的女子",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "也有些老老少少的，也有些男男女女的。",
+      "sentence": "街上人群中有老有少有男有女",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "也有些十七八岁的大姑娘，也有些二十几的女青年。",
+      "sentence": "街上有许多年轻女性",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "也有些孤寡无儿的，还有些怀身大肚的。",
+      "sentence": "有些人是孤寡无儿的",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "也有些孤寡无儿的，还有些怀身大肚的。",
+      "sentence": "还有些人是怀身大肚的",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "手扳住门框儿往外看，两眼瞅定就把白秀英望。",
+      "sentence": "白秀英手扶门框向外张望",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "上清了粮草啊不怕官，孝顺了父母不怕天。",
+      "sentence": "郭巨缴纳粮草后不再畏惧官府",
+      "behavior_type": 3
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "上清了粮草啊不怕官，孝顺了父母不怕天。",
+      "sentence": "郭巨孝顺父母因此不惧怕天",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "一个说白秀英孝顺了婆婆孝顺好，傢怎么坐到了轿子里了。",
+      "sentence": "白秀英孝顺婆婆受到称赞",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "一个说白秀英孝顺了婆婆孝顺好，傢怎么坐到了轿子里了。",
+      "sentence": "有人坐到了轿子里面",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "一个说四季衣裳穿上了，一个又说的白娘娘傢当上了。",
+      "sentence": "白秀英穿上了四季衣裳",
+      "behavior_type": 8
+    },
+    {
+      "role": "白秀英",
+      "original_sentence": "一个说四季衣裳穿上了，一个又说的白娘娘傢当上了。",
+      "sentence": "白秀英当上了白娘娘",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "白秀英",
+      "original_sentence": "我们也学他一个学白秀英呀，公婆的面上尽孝心。",
+      "sentence": "白秀英对公婆尽孝心",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "若果是老天爷有感应啊，我们也穿一身好身袂，也坐到轿子里来游行。",
+      "sentence": "老天爷若有感应则赐予好衣裳",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夸官夸了个三天整，待客待给了三天整呀。",
+      "sentence": "连续三天进行夸官和待客活动",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "亲戚们回上了亲戚的门，邻舍回上了各庄村，个人各干各营生。",
+      "sentence": "亲戚们各自返回自己的家门",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "亲戚们回上了亲戚的门，邻舍回上了各庄村，个人各干各营生。",
+      "sentence": "邻居们各自回到自己的村庄",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "亲戚们回上了亲戚的门，邻舍回上了各庄村，个人各干各营生。",
+      "sentence": "每个人都忙于自己的事务",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，一官一职封罢了，双双贤传念完了。",
+      "sentence": "官员封官完毕并宣读贤传",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "要问词曲的亘古传，这个是《郭巨埋儿》的书一断。",
+      "sentence": "郭巨埋儿的故事被传颂千古",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这个的外号叫个《女中孝》啊，你们大家听知道。",
+      "sentence": "这个外号被称为女中孝",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎，贤人听啊愚人听，贤人愚人要大家听。",
+      "sentence": "贤人和愚人都要听",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "贤人听着此事情啊，这个是世上的真事情。",
+      "sentence": "贤人听闻此事确为真实",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "心里照着两盏灯，越听越明越亮晶，家里的老人好侍奉。",
+      "sentence": "心里照着两盏灯越听越明",
+      "behavior_type": 2
+    },
+    {
+      "role": "郭巨",
+      "original_sentence": "心里照着两盏灯，越听越明越亮晶，家里的老人好侍奉。",
+      "sentence": "郭巨侍奉家中的老人",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "过了那个忤逆种愚人的耳边风，还说我们唱曲儿的还胡编腾。",
+      "sentence": "愚人认为唱曲者在胡编乱造",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "编腾也倒罢，不编腾也倒罢，你们在老人的身上不孝顺啊，你们老了怎样行。",
+      "sentence": "你们不孝顺老人将来会后悔",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "问是二十四孝的哪一孝？",
+      "sentence": "询问二十四孝中的具体孝行",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "二十四孝的第三孝。",
+      "sentence": "二十四孝中的第三孝是郭巨埋儿",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "郭巨",
+      "original_sentence": "《郭巨埋儿》一节一节已唱完，就给大家么把心散。",
+      "sentence": "郭巨唱完埋儿的故事给大家听",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "《郭巨埋儿》一节一节已唱完，就给大家么把心散。",
+      "sentence": "故事结束让大家心情放松",
+      "behavior_type": 12
+    }
+  ]
+]

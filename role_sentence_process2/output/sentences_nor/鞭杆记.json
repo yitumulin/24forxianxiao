@@ -1,0 +1,7314 @@
+[
+  [
+    {
+      "role": "宣统爷",
+      "original_sentence": "鞭杆记_齐飞卿与陆富基的故事拿起了那个三弦儿定好了音，宣统爷的手里说些事情。",
+      "sentence": "宣统爷手持三弦讲述事情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "宣统爷",
+      "original_sentence": "宣统爷登了殿两年半，才把那凉州的百姓们害了一个酸。",
+      "sentence": "宣统爷登基后祸害凉州百姓",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "凉州府坐的是什么人?黄道台、龙府台、秦协台，上头来。",
+      "sentence": "凉州府坐着黄道台等人",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "凉州还有一员官，县衙门里坐的是梅县长。",
+      "sentence": "梅县长在县衙门里坐着",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "梅县长，梅浆子，他在县里坐的是县知事。",
+      "sentence": "梅县长在县里担任县知事",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "李特生",
+      "original_sentence": "还有两个大坏松，一个叫个李特生，一个叫个王之清，他们连梅县长是一把把子人。",
+      "sentence": "李特生与梅县长是同伙",
+      "behavior_type": 10
+    },
+    {
+      "role": "王之清",
+      "original_sentence": "还有两个大坏松，一个叫个李特生，一个叫个王之清，他们连梅县长是一把把子人。",
+      "sentence": "王之清与梅县长是同伙",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "齐飞卿的文墨高得很，杨四爷说的话他就揣了一个清。",
+      "sentence": "齐飞卿理解了杨四爷说的话",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "骑的白马遛趟子。",
+      "sentence": "有人骑着白马在遛趟子",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "四乡六区里收款子。",
+      "sentence": "梅县长在四乡六区收取款项",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吃的是鸡儿油饼子，还有场面拉条子。",
+      "sentence": "他们食用鸡油饼和拉条子",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "李特生",
+      "original_sentence": "铺的花褥子摞白毡，半夜里还要问你借要娘、这三个老驴一糟径洽州的百学就给遭了典人家们咕咕哪脚弄上一阵子百姓们苛指杂税可就多得了不得红月指、白月捐这些个捐税要掏钱，掏的可就是冤枉钱死灾丧葬要的是白月捐，娶儿嫁女要的是红月捐。",
+      "sentence": "李特生向百姓征收苛捐杂税",
+      "behavior_type": 10
+    },
+    {
+      "role": "王之清",
+      "original_sentence": "铺的花褥子摞白毡，半夜里还要问你借要娘、这三个老驴一糟径洽州的百学就给遭了典人家们咕咕哪脚弄上一阵子百姓们苛指杂税可就多得了不得红月指、白月捐这些个捐税要掏钱，掏的可就是冤枉钱死灾丧葬要的是白月捐，娶儿嫁女要的是红月捐。",
+      "sentence": "王之清向百姓征收苛捐杂税",
+      "behavior_type": 10
+    },
+    {
+      "role": "梅县长",
+      "original_sentence": "铺的花褥子摞白毡，半夜里还要问你借要娘、这三个老驴一糟径洽州的百学就给遭了典人家们咕咕哪脚弄上一阵子百姓们苛指杂税可就多得了不得红月指、白月捐这些个捐税要掏钱，掏的可就是冤枉钱死灾丧葬要的是白月捐，娶儿嫁女要的是红月捐。",
+      "sentence": "梅县长向百姓征收苛捐杂税",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "佃田卖地也要捐，置田置地也要捐。",
+      "sentence": "佃田卖地置田置地均需缴纳捐税",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "经营牲口也要捐，生儿育女也要捐。",
+      "sentence": "经营牲口需要缴纳额外捐税",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "经营牲口也要捐，生儿育女也要捐。",
+      "sentence": "生儿育女需要缴纳额外捐税",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "娃儿们捐的是爬爬钱，老汉们捐的是拐棍钱。",
+      "sentence": "娃儿们需要缴纳爬爬钱",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "娃儿们捐的是爬爬钱，老汉们捐的是拐棍钱。",
+      "sentence": "老汉们需要缴纳拐棍钱",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "妇女们捐的是胭粉钱，光棍汉捐的是嫖风钱，寡妇子捐的是裤裆钱。",
+      "sentence": "妇女们被迫缴纳胭粉钱",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "妇女们捐的是胭粉钱，光棍汉捐的是嫖风钱，寡妇子捐的是裤裆钱。",
+      "sentence": "光棍汉被迫缴纳嫖风钱",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "妇女们捐的是胭粉钱，光棍汉捐的是嫖风钱，寡妇子捐的是裤裆钱。",
+      "sentence": "寡妇被迫缴纳裤裆钱",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "苛捐杂税就是这么子多，凉州的百姓实在无法活。",
+      "sentence": "苛捐杂税导致百姓无法生存",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "无法活，还得活，凉州的好汉子也可还有几个齐飞卿、陆富基，能说会道的杨成绪这几个汉子是厉害的。",
+      "sentence": "齐飞卿能说会道且非常厉害",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "无法活，还得活，凉州的好汉子也可还有几个齐飞卿、陆富基，能说会道的杨成绪这几个汉子是厉害的。",
+      "sentence": "陆富基能说会道且非常厉害",
+      "behavior_type": 7
+    },
+    {
+      "role": "杨成绪",
+      "original_sentence": "无法活，还得活，凉州的好汉子也可还有几个齐飞卿、陆富基，能说会道的杨成绪这几个汉子是厉害的。",
+      "sentence": "杨成绪能说会道且非常厉害",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "无法活，还得活，凉州的好汉子也可还有几个齐飞卿、陆富基，能说会道的杨成绪这几个汉子是厉害的。",
+      "sentence": "凉州百姓生活艰难却仍需坚持",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "杨成绪就是杨四爷，他是凉州的一俊杰。",
+      "sentence": "杨成绪是凉州的一位俊杰",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "关爷庙出的是陆富基，生死不怕的歪(厉害)汉子。",
+      "sentence": "陆富基从关爷庙中走出",
+      "behavior_type": 4
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "关爷庙出的是陆富基，生死不怕的歪(厉害)汉子。",
+      "sentence": "陆富基是个不怕死的汉子",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "齐家荡湖出了个齐飞卿能文能武一英雄。",
+      "sentence": "齐飞卿是能文能武的英雄",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三条汉子一条心，体个首天三个黑油儿的水烟瓶好排场。",
+      "sentence": "三条汉子共同使用水烟瓶",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三炮台的碗子泡香片长杆儿的烟瓶手里揣，吱喽吱喽他们就吃开了烟。",
+      "sentence": "他们开始享用烟具中的烟草",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吃的是黄烟连黑烟，赶后子又抽的是鸦片烟。",
+      "sentence": "他们先后抽了黄烟和鸦片烟",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "乌龙丝的盘子紫铜的灯玉石杆子玛瑙嘴。",
+      "sentence": "盘子灯杆子嘴由乌龙丝紫铜玉石玛瑙制成",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "泡儿打着个娃娃球吱喽吱喽抽几口。",
+      "sentence": "泡儿抽了几口烟",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你一口，我一口烟杆儿递给四爷抽。",
+      "sentence": "他们将烟杆递给四爷抽",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "杨成绪听黑宅了个大指头哈哈哈哈笑出声陆兄弟这句话说得好，果然给说到我的心上了。",
+      "sentence": "杨成绪听到后开心地笑出声",
+      "behavior_type": 2
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "杨成绪听黑宅了个大指头哈哈哈哈笑出声陆兄弟这句话说得好，果然给说到我的心上了。",
+      "sentence": "陆富基说的话深得杨成绪心",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "自打来了梅县长我们的皇粮怎么上不完。",
+      "sentence": "梅县长到来后皇粮缴纳不断",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "王之清",
+      "original_sentence": "王之清、李特生这也是两个大坏松，他们虽然是凉州人可不给凉州人干一点好事情。",
+      "sentence": "王之清和李特生是凉州的大坏人",
+      "behavior_type": 2
+    },
+    {
+      "role": "李特生",
+      "original_sentence": "王之清、李特生这也是两个大坏松，他们虽然是凉州人可不给凉州人干一点好事情。",
+      "sentence": "李特生和王之清不做好事情",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "他们勾结的梅县长，苛榨得百姓活不成。",
+      "sentence": "梅县长与李特生等人勾结",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "他们勾结的梅县长，苛榨得百姓活不成。",
+      "sentence": "苛捐杂税使百姓生活艰难",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这几年的皇粮一年还比一年重，税银子也还多得很。",
+      "sentence": "皇粮逐年加重税银增多",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "文里面到底有个啥咕噔(原因)?四爷你给我说分明。",
+      "sentence": "陆富基询问文中的具体原因",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李特生",
+      "original_sentence": "(一)李特生、梅浆子，胀烂棺材的王胖子。",
+      "sentence": "李特生与梅县长同流合污",
+      "behavior_type": 10
+    },
+    {
+      "role": "梅县长",
+      "original_sentence": "(一)李特生、梅浆子，胀烂棺材的王胖子。",
+      "sentence": "梅县长与李特生同流合污",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "(一)李特生、梅浆子，胀烂棺材的王胖子。",
+      "sentence": "王胖子行为恶劣令人不齿",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我有几句话要对你们表，这几年的事惰可就真个不对了。",
+      "sentence": "我有几句话要对你们表达",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "既然你们今天也来参念(念叨)这些事，先听我为兄的问一声。",
+      "sentence": "杨成绪向众人提出一个问题",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "问你们分量重不重.问你们骨头硬不硬?齐飞卿忙把四哥叫叫四哥，你照直说。",
+      "sentence": "齐飞卿急忙呼唤四哥",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "骨头硬了怎么说分量重了怎么办?叫兄弟。",
+      "sentence": "骨头硬了分量重了怎么办",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "仔细听你们的骨头当是硬你们的分量当是重我就有一条妙计要给你们定。",
+      "sentence": "杨成绪告知众人有一条妙计",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "男娃娃说话可要中话哩，万不能半路里变卦哩。",
+      "sentence": "男娃娃说话要算数不能变卦",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "我的这个妙计说出口，也有好，也有瞎，好了青史留名万人夸，瞎了可就得把命搭。",
+      "sentence": "齐飞卿提出妙计可能带来两种结果",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "杨成绪抽了一口烟陆富基抽烟中间拉闲淡：叫四爷，你当听这几年的事情不得成。",
+      "sentence": "杨成绪抽了一口烟",
+      "behavior_type": 11
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "杨成绪抽了一口烟陆富基抽烟中间拉闲淡：叫四爷，你当听这几年的事情不得成。",
+      "sentence": "陆富基与杨成绪闲聊",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "杨成绪抽了一口烟陆富基抽烟中间拉闲淡：叫四爷，你当听这几年的事情不得成。",
+      "sentence": "四爷听闻后认为事情不成",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叫四哥，你快说吧，要干我们就不害怕。",
+      "sentence": "他们表示要干就不害怕",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "好了也不盼万人夸，瞎了就叫他掰肋巴。",
+      "sentence": "成功不图万人夸赞失败则需付出代价",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "杨成绪，哈哈笑：你把我心里想的给谋着了，百姓们的事情就得百姓们干,百些鸡毛传单了赶紧把百姓们传。",
+      "sentence": "杨成绪表示百姓事应由百姓做",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "乡六区的百姓都要传齐全，传齐了众百姓就好干。",
+      "sentence": "乡六区百姓需将信息传遍",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李特生",
+      "original_sentence": "捉住了李特生挑懒筋，捉住了王之清挖眼睛，捉住了梅县长嘴巴打着问。",
+      "sentence": "李特生被捉住挑断了懒筋",
+      "behavior_type": 13
+    },
+    {
+      "role": "王之清",
+      "original_sentence": "捉住了李特生挑懒筋，捉住了王之清挖眼睛，捉住了梅县长嘴巴打着问。",
+      "sentence": "王之清被捉住挖掉了眼睛",
+      "behavior_type": 13
+    },
+    {
+      "role": "梅县长",
+      "original_sentence": "捉住了李特生挑懒筋，捉住了王之清挖眼睛，捉住了梅县长嘴巴打着问。",
+      "sentence": "梅县长被捉住嘴巴被打问",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "红月捐收上走了哪里了?白月捐收上走了哪里了?你们的门楼子怎么修了那么高?你们的庄子怎么打了那么好?非叫他说上个马什八(原由),非叫他给我们交待下虽说是百姓们的事情百姓们干，也还得你们把路领上。",
+      "sentence": "红月捐收上走了哪里了",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "红月捐收上走了哪里了?白月捐收上走了哪里了?你们的门楼子怎么修了那么高?你们的庄子怎么打了那么好?非叫他说上个马什八(原由),非叫他给我们交待下虽说是百姓们的事情百姓们干，也还得你们把路领上。",
+      "sentence": "白月捐收上走了哪里了",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "红月捐收上走了哪里了?白月捐收上走了哪里了?你们的门楼子怎么修了那么高?你们的庄子怎么打了那么好?非叫他说上个马什八(原由),非叫他给我们交待下虽说是百姓们的事情百姓们干，也还得你们把路领上。",
+      "sentence": "你们的门楼子修得那么高",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "红月捐收上走了哪里了?白月捐收上走了哪里了?你们的门楼子怎么修了那么高?你们的庄子怎么打了那么好?非叫他说上个马什八(原由),非叫他给我们交待下虽说是百姓们的事情百姓们干，也还得你们把路领上。",
+      "sentence": "你们的庄子建得那么好",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "红月捐收上走了哪里了?白月捐收上走了哪里了?你们的门楼子怎么修了那么高?你们的庄子怎么打了那么好?非叫他说上个马什八(原由),非叫他给我们交待下虽说是百姓们的事情百姓们干，也还得你们把路领上。",
+      "sentence": "非叫他说上个马什八",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "红月捐收上走了哪里了?白月捐收上走了哪里了?你们的门楼子怎么修了那么高?你们的庄子怎么打了那么好?非叫他说上个马什八(原由),非叫他给我们交待下虽说是百姓们的事情百姓们干，也还得你们把路领上。",
+      "sentence": "非叫他给我们交待下",
+      "behavior_type": 7
+    },
+    {
+      "role": "杨成绪",
+      "original_sentence": "红月捐收上走了哪里了?白月捐收上走了哪里了?你们的门楼子怎么修了那么高?你们的庄子怎么打了那么好?非叫他说上个马什八(原由),非叫他给我们交待下虽说是百姓们的事情百姓们干，也还得你们把路领上。",
+      "sentence": "杨成绪认为百姓需领导",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "你们若果是敢领路，我就给你们把计出。",
+      "sentence": "杨成绪表示愿意为百姓出谋划策",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你们若不领这号子路，卖麻的了就窝球住，卖布的了就叠球住就算我们唠了个闲淡算完事。",
+      "sentence": "若不领路则停止行动",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我问你们的分量重就是这么个重。",
+      "sentence": "询问你们的分量有多重",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我说男娃娃的骨头硬就是这么个硬。",
+      "sentence": "男娃娃的骨头非常坚硬",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "杨成绪说罢了这几句话齐飞卿又把陆富基拉。",
+      "sentence": "杨成绪说完话后齐飞卿拉陆富基",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "叫了声陆家哥哥我们放心干豁出来叫他把肋巴掰。",
+      "sentence": "齐飞卿鼓励陆富基勇敢行动",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "捉住了梅县长嘴巴打着问，要百百姓们八哪凉鸡发金大他给我们交待清。",
+      "sentence": "梅县长被捉住后接受百姓审问",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "宁叫万古来传名不叫狗官欺百姓。",
+      "sentence": "宁传万古名不欺百姓",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "一胸踢死婉平具事情越大越好于杨成绪定了这么一个计谋下的事情可就好得酷(很)。",
+      "sentence": "杨成绪定下了一个计谋",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "齐飞卿、陆高基凉州的两个好汉子傢们(他们)的骨头就硬得很家们的分量就重得很。",
+      "sentence": "齐飞卿与陆富基是凉州好汉",
+      "behavior_type": 2
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "齐飞卿、陆高基凉州的两个好汉子傢们(他们)的骨头就硬得很家们的分量就重得很。",
+      "sentence": "陆富基与齐飞卿是凉州好汉",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "齐飞卿、陆高基凉州的两个好汉子傢们(他们)的骨头就硬得很家们的分量就重得很。",
+      "sentence": "他们的骨头硬分量重",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "齐兄弟你说放心就放心，四爷的话儿说了个准。",
+      "sentence": "齐飞卿表示可以放心行动",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "齐兄弟你说放心就放心，四爷的话儿说了个准。",
+      "sentence": "四爷的话确实非常准确",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "鸡毛传单快写下凉州的百姓来传下杨成绪的文才就是个高左手提笔把传单抄百姓们，接传单，你们的苦处你们还看不见一打凉州坐了梅县长凉州的事情就不一样。",
+      "sentence": "杨成绪写下传单展现文才",
+      "behavior_type": 14
+    },
+    {
+      "role": "百姓",
+      "original_sentence": "鸡毛传单快写下凉州的百姓来传下杨成绪的文才就是个高左手提笔把传单抄百姓们，接传单，你们的苦处你们还看不见一打凉州坐了梅县长凉州的事情就不一样。",
+      "sentence": "百姓们传递杨成绪的传单",
+      "behavior_type": 7
+    },
+    {
+      "role": "梅县长",
+      "original_sentence": "鸡毛传单快写下凉州的百姓来传下杨成绪的文才就是个高左手提笔把传单抄百姓们，接传单，你们的苦处你们还看不见一打凉州坐了梅县长凉州的事情就不一样。",
+      "sentence": "梅县长改变了凉州的事情",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "麸斗草料加了个重，红、白月捐逼得紧，凉州的百姓难得很。",
+      "sentence": "凉州百姓生活十分艰难",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "只要百姓们能齐心，我们的事情就能成。",
+      "sentence": "百姓齐心则事情能成",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "领路的不是别的人，关爷庙上的陆富基，齐家荡湖的齐飞卿。",
+      "sentence": "陆富基是关爷庙上的领路人",
+      "behavior_type": 12
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "领路的不是别的人，关爷庙上的陆富基，齐家荡湖的齐飞卿。",
+      "sentence": "齐飞卿是齐家荡湖的领路人",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "陆富基、齐飞卿，领路的就是这两个人。",
+      "sentence": "陆富基与齐飞卿是领路人",
+      "behavior_type": 7
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "陆富基、齐飞卿，领路的就是这两个人。",
+      "sentence": "齐飞卿与陆富基是领路人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "到那天百姓们到齐整，豁出来干一场大事情。",
+      "sentence": "百姓们到齐整准备干大事情",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "李特生",
+      "original_sentence": "捉住了李特生挑懒筋，捉住了王之清挖眼睛。",
+      "sentence": "李特生被捉住后挑断了懒筋",
+      "behavior_type": 13
+    },
+    {
+      "role": "王之清",
+      "original_sentence": "捉住了李特生挑懒筋，捉住了王之清挖眼睛。",
+      "sentence": "王之清被捉住后挖掉了眼睛",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "杨成绪的计策就高得很傢们的主意就好得很。",
+      "sentence": "杨成绪的计策非常高明",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "杨成绪的计策就高得很傢们的主意就好得很。",
+      "sentence": "他们的主意非常出色",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要们你们若是不齐心，百子也是苦命的人。",
+      "sentence": "百姓们若不齐心将受苦",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "百姓们若是齐了心八月中秋我们就要起事情。",
+      "sentence": "百姓们计划在中秋节发动起义",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哪个当是耽搁一晚夕(夜晚),凉州的百姓可不饶你。",
+      "sentence": "凉州百姓不会轻易放过你",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "(二)鸡毛传单忙写上发起了鸡毛传单四乡六区里传。",
+      "sentence": "鸡毛传单被迅速分发到四乡六区",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "金区里送到大区里大区里送到杂区里杂区里送到黄区里黄区里送到槐区里槐区里送到永区里。",
+      "sentence": "传单在各区之间传递",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "传来传去挨着儿传传到了青嘴喇嘛湾传到了远处的张义堡山。",
+      "sentence": "传单被传递到青嘴喇嘛湾和张义堡山",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "四乡六区的百姓们挨家挨户地传了个全。",
+      "sentence": "百姓们将传单传递至各处",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "百姓们到了多少先不算光头目人就有七千八百九十三。",
+      "sentence": "百姓们统计光头目人数量",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这些人传到了关爷庙关爷庙里登名造册就商量了个好。",
+      "sentence": "众人在关爷庙商议达成共识",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "陆富基、齐飞卿杨成绪他们就是领头的人。",
+      "sentence": "陆富基齐飞卿杨成绪是领头人",
+      "behavior_type": 10
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "陆富基、齐飞卿杨成绪他们就是领头的人。",
+      "sentence": "陆富基齐飞卿杨成绪是领头人",
+      "behavior_type": 10
+    },
+    {
+      "role": "杨成绪",
+      "original_sentence": "陆富基、齐飞卿杨成绪他们就是领头的人。",
+      "sentence": "陆富基齐飞卿杨成绪是领头人",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "叫了声众百姓要听清，今年个我们可要围衙门。",
+      "sentence": "陆富基号召百姓们围堵衙门",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "还要抓那个王之清、李特生，两个狗日的大坏松。",
+      "sentence": "百姓们计划抓捕王之清和李特生",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "今天来的都是头目人，你们的户丸你们千万要记清，到时候娃娃老汉好好叫他们家里蹲。",
+      "sentence": "头目人需牢记各自户丸",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "今天来的都是头目人，你们的户丸你们千万要记清，到时候娃娃老汉好好叫他们家里蹲。",
+      "sentence": "让娃娃老汉留在家中",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把那个有些血气的、有些力气的，二十几岁的盲料(冒失)小伙子传上行。",
+      "sentence": "传召有血气的年轻小伙子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李特生",
+      "original_sentence": "传起来先围李特生后抓王之清再打巡警楼子围衙门。",
+      "sentence": "李特生被众人围住",
+      "behavior_type": 9
+    },
+    {
+      "role": "王之清",
+      "original_sentence": "传起来先围李特生后抓王之清再打巡警楼子围衙门。",
+      "sentence": "王之清随后被抓捕",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "传起来先围李特生后抓王之清再打巡警楼子围衙门。",
+      "sentence": "巡警楼子遭到攻击",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "传起来先围李特生后抓王之清再打巡警楼子围衙门。",
+      "sentence": "衙门被众人包围",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这一回我们要豁上命来于干得好了是大家的好于得瞎了我一人担头目人听罢了这些话抬起头来睁眼巴(看):黑胡子，胖胖子，长的是魁伟汉汉子。",
+      "sentence": "头目人听完后抬头睁眼看",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "果然就是陆富基，一句话说得人心里热腾腾儿的。",
+      "sentence": "陆富基的话语令人感到温暖",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "再一瞭这一个齐飞卿，长着个赤红模样子，汉子高大人英勇，顶天立地了不成。",
+      "sentence": "齐飞卿长着赤红面容高大英勇",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "这些个百姓一声喊：齐大哥、陆大哥，只要你们干，我们就跟上转。",
+      "sentence": "齐飞卿和陆富基号召百姓跟随行动",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "这些个百姓一声喊：齐大哥、陆大哥，只要你们干，我们就跟上转。",
+      "sentence": "陆富基和齐飞卿号召百姓跟随行动",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你们不怕死，我们就豁上命来干。",
+      "sentence": "百姓们表示愿意豁出性命跟随",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "众百姓，你们听你们现在快回村快去准备起事情。",
+      "sentence": "百姓们被要求回村准备行动",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "明个后晌你们要起身，八月十三日围住李特生捉拿王之清，十四日要围凉州城。",
+      "sentence": "明日午后众人将出发行动",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "明个后晌你们要起身，八月十三日围住李特生捉拿王之清，十四日要围凉州城。",
+      "sentence": "八月十三日他们将围捕李特生",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "明个后晌你们要起身，八月十三日围住李特生捉拿王之清，十四日要围凉州城。",
+      "sentence": "八月十四日他们将围攻凉州城",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "版上钉钉干脆得很,钢些头目人下了个令。",
+      "sentence": "头目人下令行动干脆利落",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "再说这头目人回了村，姚们多了傢就真能行。",
+      "sentence": "头目人返回村庄后信心大增",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "起事的命令传得紧，挨家挨户傢就传了个通。",
+      "sentence": "起事命令迅速传遍各家各户",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "百姓们那时节实在也活不成，单等着提上脑袋大闹凉州城。",
+      "sentence": "百姓们生活艰难等待起义",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "(三)弹起了三弦儿调好了音这一回不说别的事情。",
+      "sentence": "弹奏三弦并调整音调",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "李特生",
+      "original_sentence": "单说这一个李特生，坏松的亲戚傢就多得很。",
+      "sentence": "李特生拥有众多坏亲戚",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "起事的密令虽然传得快人家的亲戚给傢通了信。",
+      "sentence": "起事密令迅速传递至相关人士",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李特生",
+      "original_sentence": "李特生得信怒气生骂一声陆富基、齐飞卿靠一些穷百姓你能做个啥事情?李老爷生来啥事都不怕。",
+      "sentence": "李特生得知消息后非常愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "李特生",
+      "original_sentence": "李特生得信怒气生骂一声陆富基、齐飞卿靠一些穷百姓你能做个啥事情?李老爷生来啥事都不怕。",
+      "sentence": "李特生辱骂陆富基和齐飞卿",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "李特生得信怒气生骂一声陆富基、齐飞卿靠一些穷百姓你能做个啥事情?李老爷生来啥事都不怕。",
+      "sentence": "李老爷向来无所畏惧",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "李特生",
+      "original_sentence": "又一想觉着事情真不妙带上了婆姨娃娃赶紧往外跑。",
+      "sentence": "李特生带着家人匆忙逃离",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "李特生",
+      "original_sentence": "这一来就跑脱了李托生，李贼的家里就腾了个空。",
+      "sentence": "李特生成功逃离家中",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "这一来就跑脱了李托生，李贼的家里就腾了个空。",
+      "sentence": "李特生家中空无一人",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "王之清",
+      "original_sentence": "再说那个王贼王之清伊家(人家)的亲戚也给报了信，谁知这王贼傢还硬得很。",
+      "sentence": "王之清得知消息后非常愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "王之清",
+      "original_sentence": "再说那个王贼王之清伊家(人家)的亲戚也给报了信，谁知这王贼傢还硬得很。",
+      "sentence": "王之清态度强硬不肯屈服",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "伊家的庄墙实凶险，墙外的深沟里藏机关。",
+      "sentence": "庄墙外深沟中设有机关",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "狗腿子身背快枪墙头上站，驴卵子大的石头垒了个满当当。",
+      "sentence": "狗腿子站在墙头上背快枪",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "狗腿子身背快枪墙头上站，驴卵子大的石头垒了个满当当。",
+      "sentence": "石头垒满了墙外的深沟里",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "王之清",
+      "original_sentence": "再把那庄门来泥住，伊家就想者还稿人(拿人)喱!我不说李特生跑得急也不说王之清把庄门来泥住，话说那八月十三清早间百姓们咕咚咕咚走得忙远处的、近处的呼啦一声聚了个齐。",
+      "sentence": "王之清将庄门用泥封住",
+      "behavior_type": 13
+    },
+    {
+      "role": "王之清",
+      "original_sentence": "再把那庄门来泥住，伊家就想者还稿人(拿人)喱!我不说李特生跑得急也不说王之清把庄门来泥住，话说那八月十三清早间百姓们咕咚咕咚走得忙远处的、近处的呼啦一声聚了个齐。",
+      "sentence": "王之清计划抓捕百姓",
+      "behavior_type": 5
+    },
+    {
+      "role": "李特生",
+      "original_sentence": "再把那庄门来泥住，伊家就想者还稿人(拿人)喱!我不说李特生跑得急也不说王之清把庄门来泥住，话说那八月十三清早间百姓们咕咚咕咚走得忙远处的、近处的呼啦一声聚了个齐。",
+      "sentence": "李特生匆忙逃离现场",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "再把那庄门来泥住，伊家就想者还稿人(拿人)喱!我不说李特生跑得急也不说王之清把庄门来泥住，话说那八月十三清早间百姓们咕咚咕咚走得忙远处的、近处的呼啦一声聚了个齐。",
+      "sentence": "百姓们迅速聚集起来",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "李特生",
+      "original_sentence": "日影子一冒来到李特生的庄子上李特生的家里空空荡荡啥没连天。",
+      "sentence": "李特生的家中空无一物",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "百姓们、怪着气呼喊一声涌进去绿竹仪门靶字墙虎张口的窗子真好看。",
+      "sentence": "百姓们愤怒地涌进绿竹仪门",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "窟喊窟咚砸了个烂屋里的各样家什都给他砸成了碎点点找着了他的粮房子窟喊窟杵就给他装可(满)房子的粮食装了个光。",
+      "sentence": "百姓们将屋内的物品全部砸毁",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "窟喊窟咚砸了个烂屋里的各样家什都给他砸成了碎点点找着了他的粮房子窟喊窟杵就给他装可(满)房子的粮食装了个光。",
+      "sentence": "百姓们将粮食全部装走",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "缰绳拴到柱子上一院子的房子抖擞完。",
+      "sentence": "缰绳被拴在柱子上",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "缰绳拴到柱子上一院子的房子抖擞完。",
+      "sentence": "一院子的房子被抖擞完",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "齐飞卿，怒气生，带上百姓往外行。",
+      "sentence": "齐飞卿因愤怒带领百姓离开",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一时间来到王之清的门。",
+      "sentence": "众人来到王之清的住所",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "王之清",
+      "original_sentence": "王之清的庄门傢可就泥了个紧狗腿子在墙头上还守了个硬。",
+      "sentence": "王之清的庄门被泥封得很紧",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "王之清的庄门傢可就泥了个紧狗腿子在墙头上还守了个硬。",
+      "sentence": "狗腿子在墙头上坚守岗位",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "驴卵子大的石头咕咚咚咚往下扔，土枪土炮劈哩啪啦打得紧。",
+      "sentence": "石头和土枪土炮被猛烈投掷",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "百姓们就叫伊家挡了阵，一时间攻不进王之清的门。",
+      "sentence": "百姓们被阻挡无法攻入门内",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "凉州人自古胆子大，开口离不了日妈妈。",
+      "sentence": "凉州人说话时常带粗口",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "王之清",
+      "original_sentence": "王之清，龟疙瘩，我日死你的贼妈妈，我操死你的贼先人。",
+      "sentence": "王之清被百姓愤怒咒骂",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "今个攻不进你的门老子就实实不为人。",
+      "sentence": "今日无法攻入敌方大门",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "有些个小伙子计谋巧，了一付大车车排垫得高。",
+      "sentence": "小伙子们将大车车排垫高",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "车排上堆的是麦草松木椽子绑了个牢。",
+      "sentence": "车排上堆满了麦草和松木椽子",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "小伙子们呕的一声往上举，就把他们的头遮住。",
+      "sentence": "小伙子们将车排举高遮住头部",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "还有的把胡麻芗子来抱上，大呼小叫往前撞。",
+      "sentence": "有人抱着胡麻芗子向前冲",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "石头打到车排上碰上麦草软囊囊一阵子扑到庄门前。",
+      "sentence": "石头碰到车排后被麦草缓冲",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "陆富基，大喊一声用火攻百姓们，胡麻芗子摞成大垛烧庄门。",
+      "sentence": "陆富基大喊一声下令用火攻",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "陆富基，大喊一声用火攻百姓们，胡麻芗子摞成大垛烧庄门。",
+      "sentence": "百姓将胡麻芗子摞成大垛",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哧的一声火着了，呼地又来了一股子风。",
+      "sentence": "火势迅速蔓延并伴随强风",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "胡麻芗子呼呼呼呼着得凶庄门楼子噼里啪啦入云中。",
+      "sentence": "胡麻芗子燃烧猛烈庄门楼子倒塌",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "火一起，众人们喝了个杀声往里攻。",
+      "sentence": "众人随着火势向前进攻",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "王之清",
+      "original_sentence": "王之清在里边慌了神这些个百姓还箍不成。",
+      "sentence": "王之清因百姓围攻而惊慌失措",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "赶紧把婆姨娃娃吊出去快快各走各的路。",
+      "sentence": "人们迅速撤离危险区域",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "王之清",
+      "original_sentence": "拴了条绳子吊下来，姑娘、媳妇、姨太太。",
+      "sentence": "王之清用绳子将家人吊下",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那时节的小伙子们胆子也大，见了她们也要故意骚情一下。",
+      "sentence": "小伙子们故意骚扰她们",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "摸手的，提脚的，抓住辫子晃荡的。",
+      "sentence": "有人摸手有人提脚还有人抓辫子",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "她们吓得一声也不敢言传喀，出一声就叫她试一下。",
+      "sentence": "她们因恐惧而不敢发出声音",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "陆离基一看生了气.年轻人直不是好东西我们今天莱是为的啥谁叫你们欺负傢的女娃娃。",
+      "sentence": "陆富基对年轻人的行为感到愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "陆离基一看生了气.年轻人直不是好东西我们今天莱是为的啥谁叫你们欺负傢的女娃娃。",
+      "sentence": "年轻人欺负女娃娃的行为不当",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "厚脸无耻你们像个啥快些放开叫傢走路吧。",
+      "sentence": "陆富基斥责年轻人无耻行为",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "厚脸无耻你们像个啥快些放开叫傢走路吧。",
+      "sentence": "要求放开让女娃娃离开",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "喊了一声我们也快回吧回去了大家准备下准备好今夜里围城吧众百姓哗啦一声回家去回到家里去准备烙锅盔、办口粮明天的晌午(午饭)得拿上。",
+      "sentence": "众人迅速回家准备围城事宜",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "喊了一声我们也快回吧回去了大家准备下准备好今夜里围城吧众百姓哗啦一声回家去回到家里去准备烙锅盔、办口粮明天的晌午(午饭)得拿上。",
+      "sentence": "百姓回家准备烙锅盔和口粮",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "有的把烧山药来烧上这一些口粮都办上吃罢了黑饭就起身遮天隐日的百姓们哇啦啦蹦着蹿着来围城。",
+      "sentence": "百姓们准备口粮后开始行动",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "有的把烧山药来烧上这一些口粮都办上吃罢了黑饭就起身遮天隐日的百姓们哇啦啦蹦着蹿着来围城。",
+      "sentence": "百姓们纷纷前来围城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "(四)黑夜晚人马来到城门根，城墙的一转儿围了个定。",
+      "sentence": "夜晚人马来到城门根",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "(四)黑夜晚人马来到城门根，城墙的一转儿围了个定。",
+      "sentence": "城墙周围被团团围住",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "静悄悄儿的乱葬岗里藏了身，单等天明就进城。",
+      "sentence": "乱葬岗里藏身等待天明进城",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "遥直儿等到寅时了，赶到日出卯时了。",
+      "sentence": "人们一直等到寅时日出卯时",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "远处的，近处的，远远近近的都来了。",
+      "sentence": "远近的人们都聚集而来",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "四乡的，六区的，四乡六区的都到了。",
+      "sentence": "四乡六区的百姓都到达了",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这一个时间就到了，城门咕咚的就开了。",
+      "sentence": "城门在此时突然打开",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "喊了个杀声遮天隐日的百姓们呼隆隆隆地进了城。",
+      "sentence": "百姓们大声喊杀并涌入城中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "百姓们，进了城，四街里的松木杆子捞了一个净。",
+      "sentence": "百姓们将松木杆子全部拿走",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "百姓们，凶得很腰里勒的是老草绳。",
+      "sentence": "百姓们腰间系着老草绳",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "怀里的石头满当当钩镰枷棒样样全。",
+      "sentence": "怀中装有各种石头和工具",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "打打打，战战战乒儿乓儿一阵子响。",
+      "sentence": "双方激烈交战发出阵阵声响",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "四大街，八大巷.巡警楼子砸了个烂。",
+      "sentence": "巡警楼子被砸了个稀巴烂",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "砸烂了巡警楼子算完账回过头又来到衙门前。",
+      "sentence": "百姓们砸烂巡警楼子后离开",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "砸烂了巡警楼子算完账回过头又来到衙门前。",
+      "sentence": "百姓们又来到衙门前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "县衙门，早关上，衙役兵丁墙头上站。",
+      "sentence": "县衙门已经关闭衙役站在墙头",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "凉州人，胆子大，开口离不了日妈妈。",
+      "sentence": "凉州人说话时常带粗口",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "梅县长，龟娃子，我日你的贼妈妈，我操你的贼先人今天你给我们滚出来。",
+      "sentence": "梅县长被愤怒的民众要求现身",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "把那个麸斗草料、红白月捐一桩一桩给我们交待清。",
+      "sentence": "梅县长需将草料月捐交待清楚",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "百姓们眼看就要进了衙门了，狗腿子吓得没有主意了。",
+      "sentence": "百姓们即将进入县衙大门",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "百姓们眼看就要进了衙门了，狗腿子吓得没有主意了。",
+      "sentence": "狗腿子因恐惧而手足无措",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "赶紧跑到后堂里，颤儿抖擞地去报告：大老爷，不好了，凉州的百姓造反了，今个就进了衙门了。",
+      "sentence": "某人迅速跑向后堂报告情况",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "赶紧跑到后堂里，颤儿抖擞地去报告：大老爷，不好了，凉州的百姓造反了，今个就进了衙门了。",
+      "sentence": "某人因恐惧而颤抖着报告",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "赶紧跑到后堂里，颤儿抖擞地去报告：大老爷，不好了，凉州的百姓造反了，今个就进了衙门了。",
+      "sentence": "某人向大老爷报告百姓造反",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "’稀县长一听吓坏了三魂七魄给吓掉了、早知道掠州的触皮几硬梅不该到凉州来上任到如今叫天天不应，呼地地不灵。",
+      "sentence": "梅县长听闻后感到极度恐惧",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "王之清",
+      "original_sentence": "根了声瞎狗王之清，骂了声狗日的李特生。",
+      "sentence": "王之清被骂作瞎狗",
+      "behavior_type": 7
+    },
+    {
+      "role": "李特生",
+      "original_sentence": "根了声瞎狗王之清，骂了声狗日的李特生。",
+      "sentence": "李特生被骂作狗日的",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "李特生",
+      "original_sentence": "你们两个早知情、为何就不给我通个信?昨日个半夜里报了个信说的是百姓们要闹事情。",
+      "sentence": "李特生质问两人为何不提前告知",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "你们两个早知情、为何就不给我通个信?昨日个半夜里报了个信说的是百姓们要闹事情。",
+      "sentence": "昨日半夜有人报告百姓要闹事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "没说是要闹的啥事情没说闹事在啥时辰。",
+      "sentence": "未提及具体闹事时间和详情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "今个早上的清早晨百姓们就围了具衙门事到如今就不成了唉!叫师爷过来喀你去给百姓们答复喀，说和喀我了就给他避掉吧梅浆子，滑溜精，脱身之计交待清。",
+      "sentence": "梅县长命令师爷答复百姓",
+      "behavior_type": 7
+    },
+    {
+      "role": "梅县长",
+      "original_sentence": "今个早上的清早晨百姓们就围了具衙门事到如今就不成了唉!叫师爷过来喀你去给百姓们答复喀，说和喀我了就给他避掉吧梅浆子，滑溜精，脱身之计交待清。",
+      "sentence": "梅县长要求百姓给予答复",
+      "behavior_type": 7
+    },
+    {
+      "role": "梅县长",
+      "original_sentence": "今个早上的清早晨百姓们就围了具衙门事到如今就不成了唉!叫师爷过来喀你去给百姓们答复喀，说和喀我了就给他避掉吧梅浆子，滑溜精，脱身之计交待清。",
+      "sentence": "梅县长试图寻找脱身之计",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "打发了个师爷不相干的人，来到门前哄百姓。",
+      "sentence": "梅县长派师爷前去安抚百姓",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "梅县长溜溜地上到房顶上，隔墙溜到茅屎坑。",
+      "sentence": "梅县长悄悄爬上房顶翻墙离开",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "茅屎坑里蹲着一条大黄狗，这一条恶狗厉害得很。",
+      "sentence": "茅坑里蹲着一条大黄狗",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "茅屎坑里蹲着一条大黄狗，这一条恶狗厉害得很。",
+      "sentence": "这条恶狗非常厉害",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "呕的一声往上窜，把梅县长给了个冷不防，懒巴筋一口叫狗扯烂，黑血糊糊实可怜。",
+      "sentence": "梅县长被狗咬伤腿部流血",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "我不说黄狗扯下了梅县长，说那师爷来到衙门前。",
+      "sentence": "梅县长未提及黄狗扯下之事",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "我不说黄狗扯下了梅县长，说那师爷来到衙门前。",
+      "sentence": "师爷来到衙门前进行答复",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "颜儿抖擞的难言传脸皮儿比表纸还要黄。",
+      "sentence": "脸色苍白如纸般难看",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "爷爷们，爸爸们你们不了嚷，不了争大天白日价日头红围着衙门你们为何情?谁是你们的头目人快些出来说分明。",
+      "sentence": "众人为何在衙门前喧哗",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "齐飞卿，胆子大，陆富基，天不怕胸坎子一拍叭叭叭。",
+      "sentence": "齐飞卿表现出极大的勇气",
+      "behavior_type": 2
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "齐飞卿，胆子大，陆富基，天不怕胸坎子一拍叭叭叭。",
+      "sentence": "陆富基毫不畏惧任何事物",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "我敢日你们的贼妈妈你问者头目人能干啥?我们两个就是头目人你说我们围着衙门为何情?红月捐，白月捐，一年四季的苛捐杂税拿不完。",
+      "sentence": "齐飞卿表明他们是头目人",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "我敢日你们的贼妈妈你问者头目人能干啥?我们两个就是头目人你说我们围着衙门为何情?红月捐，白月捐，一年四季的苛捐杂税拿不完。",
+      "sentence": "陆富基说明他们为何围衙门",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "我敢日你们的贼妈妈你问者头目人能干啥?我们两个就是头目人你说我们围着衙门为何情?红月捐，白月捐，一年四季的苛捐杂税拿不完。",
+      "sentence": "苛捐杂税一年四季收不完",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "麸斗草料年年涨，不信了我们比着看。",
+      "sentence": "麸斗草料价格逐年上涨",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "想当年上者多少粮?这时节上者多少粮?你们还有个分寸没分寸?你们还有个奎程没奎程(章程)?你说我们围者衙门为何情就为的这些个松事情。",
+      "sentence": "齐飞卿质问官府税收政策变化",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "想当年上者多少粮?这时节上者多少粮?你们还有个分寸没分寸?你们还有个奎程没奎程(章程)?你说我们围者衙门为何情就为的这些个松事情。",
+      "sentence": "陆富基质问官府税收政策变化",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "想当年上者多少粮?这时节上者多少粮?你们还有个分寸没分寸?你们还有个奎程没奎程(章程)?你说我们围者衙门为何情就为的这些个松事情。",
+      "sentence": "质问官府税收政策变化",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "今日个我们砸了巡警围衙门。",
+      "sentence": "今日他们砸巡警并围衙门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "要叫那梅贼出来给我们交待清。",
+      "sentence": "梅县长需向民众交代清楚",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "’师爷一听奸计生：叫一声众百姓你们听，梅县长今日不在衙门中，请诸位息怒转回程。",
+      "sentence": "师爷告知百姓梅县长不在衙门",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "师爷",
+      "original_sentence": "有啥子由我来担承，不过三天给你们个好回信。",
+      "sentence": "师爷承诺三天内给予答复",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "凉州的百姓胆子大。",
+      "sentence": "凉州百姓具有较大胆量",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "更有些暂袍小伙子啥事都不怕。",
+      "sentence": "小伙子们无所畏惧",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叫老碱、算了吧、我敢日称的贼妈妈站者同屎你是腰不痛的话你们一年四季里吃的啥、住的啥，穿的啥、戴的啥?阴凉房儿你们住着哩.嘴里的油糊糊子淌着哩。",
+      "sentence": "百姓质问梅贼生活状况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "缕罗绸缎你们穿着哩.毡条被窝你们盖着哩。",
+      "sentence": "百姓穿着缕罗绸缎盖着毡条被窝",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "可怜了我们受苦的人吃着些山药米拌汤住的是土坯破草房。",
+      "sentence": "受苦的人吃着山药米拌汤",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "可怜了我们受苦的人吃着些山药米拌汤住的是土坯破草房。",
+      "sentence": "受苦的人住着土坯破草房",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "铺的地，盖的天一辈子冤冤又枉枉。",
+      "sentence": "一辈子冤冤又枉枉",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说什么叫我们等三天今日里想错一时儿难上难。",
+      "sentence": "他们要求我们等待三天",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "师爷听罢心发慌，又害怕小伙子们的嘴巴掮.赶紧把口劲儿丢了个软：爷爷们、爸爸们，我也是一个跑腿的人。",
+      "sentence": "师爷听完后感到非常害怕",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "师爷听罢心发慌，又害怕小伙子们的嘴巴掮.赶紧把口劲儿丢了个软：爷爷们、爸爸们，我也是一个跑腿的人。",
+      "sentence": "师爷向众人解释自己身份",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "请你们不要着气等一等，这会子我就去要回信。",
+      "sentence": "请你们稍等片刻不要生气",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "请你们不要着气等一等，这会子我就去要回信。",
+      "sentence": "我现在就去要回信",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说着说着跑了个快，师爷老贼他日了个怪。",
+      "sentence": "师爷迅速跑离现场",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "说着说着跑了个快，师爷老贼他日了个怪。",
+      "sentence": "师爷感到非常奇怪",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "找到了梅贼他们又捂耳朵，定了个毒计要把凉州人害。",
+      "sentence": "梅县长定下毒计欲害凉州人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "(五)定了个毒计往前排报给了府台和道台传到了协台的这个搭。",
+      "sentence": "梅县长将毒计上报给府台和道台",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "协台听罢说了话：既然是凉州人的胆子这么大.我们就把他镇压喀。",
+      "sentence": "协台听完后表示要镇压凉州人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他们的眼里没国法我要看一下他们的胆子有多大。",
+      "sentence": "他们无视国法且胆大妄为",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "派出了二十个队伍真个凶，喊了个杀声往前行。",
+      "sentence": "派出二十个队伍向前行进",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "指挥的官长发了话把这些凉州鬼们快往死里打。",
+      "sentence": "官长下令将凉州人处死",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一阵子排枪放了个凶，街上的尘灰咕咚咚咚往上涌。",
+      "sentence": "排枪射击后街上尘土飞扬",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "打死的躺到街上血淋淋，打伤的喊爹哭娘放悲声，才给把百姓们的魂吓尽。",
+      "sentence": "死者躺在街上血流不止",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "打死的躺到街上血淋淋，打伤的喊爹哭娘放悲声，才给把百姓们的魂吓尽。",
+      "sentence": "伤者痛苦地呼喊父母",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "打死的躺到街上血淋淋，打伤的喊爹哭娘放悲声，才给把百姓们的魂吓尽。",
+      "sentence": "百姓们被吓得魂飞魄散",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "百姓们哗啦啦啦跑开了齐飞卿、陆富基喊哩叫哩也就顾不住了。",
+      "sentence": "齐飞卿和陆富基呼喊却无人理会",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "百姓们哗啦啦啦跑开了齐飞卿、陆富基喊哩叫哩也就顾不住了。",
+      "sentence": "陆富基和齐飞卿呼喊却无人理会",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "俗话说兵败如山倒，百姓们一跑哩就给跑松了。",
+      "sentence": "百姓们因恐惧而四散奔逃",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "有的把胳膊踏折了有的把脑袋给踏烂了。",
+      "sentence": "有人胳膊折断有人脑袋破损",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "有的叫众人给踏死了有的就跑着回去了。",
+      "sentence": "部分人被众人踩踏致死",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "有的叫众人给踏死了有的就跑着回去了。",
+      "sentence": "部分人成功逃离现场",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "还有一些子百姓们，就叫伊家给圈住了。",
+      "sentence": "一些百姓被他们围困住了",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这些个兵丁人势重，带兵的是满城里的一都统。",
+      "sentence": "兵丁们带着重兵进入城中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "骑的马，背的枪，轮的大刀往前赶圈住的这些百姓们，一里《全部)都是些年轻人。",
+      "sentence": "骑马持枪赶向被圈住的百姓",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "骑的马，背的枪，轮的大刀往前赶圈住的这些百姓们，一里《全部)都是些年轻人。",
+      "sentence": "被圈住的百姓都是年轻人",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "枪声一响就酸了心，他们就后悔者说不成。",
+      "sentence": "枪声响起后他们感到后悔",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "早知道造反要打死人，不如我在家里蹲。",
+      "sentence": "早知道造反会死人不如在家",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "今天叫傢抓住我们实实冤枉得很。",
+      "sentence": "百姓们被抓住感到非常冤枉",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这时节，只听得都统喊一声：进满城，进满城.你们快给我进满城!呼啦啦叫伊家圈到了满城里四城门关了个不通风。",
+      "sentence": "都统命令士兵进入满城",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "这时节，只听得都统喊一声：进满城，进满城.你们快给我进满城!呼啦啦叫伊家圈到了满城里四城门关了个不通风。",
+      "sentence": "士兵将百姓围困在满城",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "再说这些个百姓们，又是渴，又是饿，又是害怕要招祸。",
+      "sentence": "百姓们感到又渴又饿又害怕",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一个个正把泪来掉，都统大人的计谋傢还就是高。",
+      "sentence": "百姓们因害怕而纷纷落泪",
+      "behavior_type": 2
+    },
+    {
+      "role": "都统",
+      "original_sentence": "一个个正把泪来掉，都统大人的计谋傢还就是高。",
+      "sentence": "都统的计谋确实非常高明",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "熬了些糊糊子甜米汤，叫这些百姓们快去喝上点点。",
+      "sentence": "熬了甜米汤让百姓们喝",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "百姓们这时候一想哩，抓着来我们说做啥哩，人家还给些吃喝哩。",
+      "sentence": "百姓们思考被抓原因",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "给给了我们就吃上些吧，做啥了就叫他做上个啥。",
+      "sentence": "百姓们接受了给予的食物",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你舀上些喝，我舀上些喝，这里的众人们正吃着哩都统大人出来训开了话你们这些个百姓们，我看你们都才是二十几的个人今日里请你们到满城，我有几句话哩要对你们明。",
+      "sentence": "众人正在喝甜米汤",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "你舀上些喝，我舀上些喝，这里的众人们正吃着哩都统大人出来训开了话你们这些个百姓们，我看你们都才是二十几的个人今日里请你们到满城，我有几句话哩要对你们明。",
+      "sentence": "都统大人出来训话",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "你舀上些喝，我舀上些喝，这里的众人们正吃着哩都统大人出来训开了话你们这些个百姓们，我看你们都才是二十几的个人今日里请你们到满城，我有几句话哩要对你们明。",
+      "sentence": "都统大人有话要说",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "当百姓你们不把百姓好好当，a上人造的是什么反?距着巡警楼子干什么?用着县衙门为哪桩?你们的那两个头目人就是那陆富基和齐飞卿。",
+      "sentence": "陆富基和齐飞卿是百姓头目",
+      "behavior_type": 7
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "当百姓你们不把百姓好好当，a上人造的是什么反?距着巡警楼子干什么?用着县衙门为哪桩?你们的那两个头目人就是那陆富基和齐飞卿。",
+      "sentence": "齐飞卿和陆富基是百姓头目",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那是武威的两个大坏松他们的妖言你们万万不可听。",
+      "sentence": "他们警告百姓不要听信谣言",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "谁叫你们跟上他们打巡警?谁叫你们跟上他们围衙门?捐税银子本是皇家定，麸斗草料也可不能少一斤。",
+      "sentence": "质问百姓为何跟随他们行动",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "谁叫你们跟上他们打巡警?谁叫你们跟上他们围衙门?捐税银子本是皇家定，麸斗草料也可不能少一斤。",
+      "sentence": "质问百姓为何围攻县衙门",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "谁叫你们跟上他们打巡警?谁叫你们跟上他们围衙门?捐税银子本是皇家定，麸斗草料也可不能少一斤。",
+      "sentence": "捐税银子由皇家所定",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "谁叫你们跟上他们打巡警?谁叫你们跟上他们围衙门?捐税银子本是皇家定，麸斗草料也可不能少一斤。",
+      "sentence": "麸斗草料不能缺少一斤",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老百姓就要安分守己当顺民谁叫你们听信妖言反朝廷。",
+      "sentence": "老百姓应当安分守己不反朝廷",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要不是今天我把你们圈进满城说公平，这时节早叫伊家把你们一个一个送了命。",
+      "sentence": "都统大人训斥百姓不要造反",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "丢下你们的婆姨、娃娃、娘老子，孤儿、寡妇、老父老母谁心疼?都统老贼奸得很，软一下，硬一下也不知说了多少话。",
+      "sentence": "都统老贼奸诈多变言语反复",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说得那年轻人的眼泪唰啦啦，唰啦啦就往胸膛上挂。",
+      "sentence": "年轻人因言语而流下眼泪",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "老贼一看哩心喜欢说话的口风儿又转三转.依我的心里给你们喧你们赶紧安安生生回家转。",
+      "sentence": "贺藩台见状心中暗自欢喜",
+      "behavior_type": 2
+    },
+    {
+      "role": "贺藩台",
+      "original_sentence": "老贼一看哩心喜欢说话的口风儿又转三转.依我的心里给你们喧你们赶紧安安生生回家转。",
+      "sentence": "贺藩台劝说众人回家安生",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你们务农的就务农去，耕种的就耕种去，老老实实做个庄稼汉。",
+      "sentence": "务农者应专心从事耕种工作",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你们再当是不安闲，老爷的枪子儿也可不长眼。",
+      "sentence": "老爷警告枪子儿不长眼",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把你们个草肚子老百姓，能干个什么大事情!说话间打开了四城门哎!众百姓、快逃命、快逃命快些子递命回家中一个还比一个宿得快一转眼逃了个无踪影哎!这就是那些个做官的人撬板子撬得好诡计又是个高、老百姓都叫他哄信了。",
+      "sentence": "官员欺骗百姓使其迅速逃离",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "把你们个草肚子老百姓，能干个什么大事情!说话间打开了四城门哎!众百姓、快逃命、快逃命快些子递命回家中一个还比一个宿得快一转眼逃了个无踪影哎!这就是那些个做官的人撬板子撬得好诡计又是个高、老百姓都叫他哄信了。",
+      "sentence": "百姓们迅速逃离城门区域",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "把你们个草肚子老百姓，能干个什么大事情!说话间打开了四城门哎!众百姓、快逃命、快逃命快些子递命回家中一个还比一个宿得快一转眼逃了个无踪影哎!这就是那些个做官的人撬板子撬得好诡计又是个高、老百姓都叫他哄信了。",
+      "sentence": "官员用诡计哄骗了老百姓",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎!也就是这些个凉州人，胆子大了大得很胆子小了又小得很.尻松滴溜的把魂吓净。",
+      "sentence": "凉州人胆子时大时小",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "齐飞卿、陆富基这时节生了一肚子的气。",
+      "sentence": "齐飞卿和陆富基感到非常愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "齐飞卿、陆富基这时节生了一肚子的气。",
+      "sentence": "陆富基和齐飞卿感到非常愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "原想我们的凉州人骨头硬，分量重，今天看来是闲事情。",
+      "sentence": "凉州人骨头硬分量重",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "枪炮一响哩魂吓净，一里叫人家吓得溜了个净。",
+      "sentence": "枪炮声使人们感到极度恐惧",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他们一看事情不好了，撒脚儿赶紧往城外头跑。",
+      "sentence": "他们迅速向城外逃跑",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "一溜烟跑到了自己的家门中，在家里又把今天的事情来议论：今天的事情闹得好，巡警楼子给他砸成了猪食槽。",
+      "sentence": "齐飞卿迅速跑回自己家中",
+      "behavior_type": 4
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "一溜烟跑到了自己的家门中，在家里又把今天的事情来议论：今天的事情闹得好，巡警楼子给他砸成了猪食槽。",
+      "sentence": "齐飞卿与同伴讨论今日之事",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "一溜烟跑到了自己的家门中，在家里又把今天的事情来议论：今天的事情闹得好，巡警楼子给他砸成了猪食槽。",
+      "sentence": "巡警楼子被砸成猪食槽",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "今天的事情好是好，我看是枉费了心机了。",
+      "sentence": "齐飞卿认为此事徒劳无功",
+      "behavior_type": 5
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "今天的事情好是好，我看是枉费了心机了。",
+      "sentence": "陆富基觉得此事白费心机",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "李特生",
+      "original_sentence": "第一是李特生没有抓挖到，第二是王之清也给逃掉了。",
+      "sentence": "李特生没有被抓捕到",
+      "behavior_type": 3
+    },
+    {
+      "role": "王之清",
+      "original_sentence": "第一是李特生没有抓挖到，第二是王之清也给逃掉了。",
+      "sentence": "王之清也成功逃脱了",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "第三是梅县长没伤一根毛，我们是打虎不成反叫虎来咬。",
+      "sentence": "梅县长未受到任何伤害",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "第三是梅县长没伤一根毛，我们是打虎不成反叫虎来咬。",
+      "sentence": "打虎不成反被虎咬",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "今后的日子还长着哩，我们也还要防着哩!你这个陆家哥哥说的啥?我们要干就不害怕。",
+      "sentence": "陆富基表示我们要干就不害怕",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "世事反复多变化利利害害要倒茬。",
+      "sentence": "世事反复变化利害关系颠倒",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "干者好了好处由大家千出害神了我们就担承下。",
+      "sentence": "干者承担了所有的责任",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不管他们怎么议论说些啥这一个头绪我们先就放下吧。",
+      "sentence": "他们议论的内容暂且搁置",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "王之清",
+      "original_sentence": "(六)王之清、李特生，这两个坏松太侥幸。",
+      "sentence": "王之清和李特生非常侥幸",
+      "behavior_type": 2
+    },
+    {
+      "role": "李特生",
+      "original_sentence": "(六)王之清、李特生，这两个坏松太侥幸。",
+      "sentence": "李特生和王之清非常侥幸",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那一天逃脱出了门，来到了梅县长的县衙门。",
+      "sentence": "逃脱后前往梅县长的县衙门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "王之清",
+      "original_sentence": "进了衙门放哭声：梅大老爷你请听，你看这回的事情凶不凶。",
+      "sentence": "王之清进入衙门后开始哭泣",
+      "behavior_type": 7
+    },
+    {
+      "role": "李特生",
+      "original_sentence": "进了衙门放哭声：梅大老爷你请听，你看这回的事情凶不凶。",
+      "sentence": "李特生向梅县长诉说事情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "造反的百姓狠不狠，我们的门楼子烧了个光，我们的家财抢了个净。",
+      "sentence": "造反百姓烧毁门楼抢光家财",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "王之清",
+      "original_sentence": "要是叫傢抓住我们的人，这一条老命就活不成。",
+      "sentence": "王之清担心被抓后性命不保",
+      "behavior_type": 3
+    },
+    {
+      "role": "李特生",
+      "original_sentence": "要是叫傢抓住我们的人，这一条老命就活不成。",
+      "sentence": "李特生害怕被捕后无法生存",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "梅县长一听气哼哼叫一声两位你们听：你们早知道这事情，为何不给我早通信?等到临头了才言传把我也给了个冷不防。",
+      "sentence": "梅县长听闻后感到非常愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "梅县长",
+      "original_sentence": "梅县长一听气哼哼叫一声两位你们听：你们早知道这事情，为何不给我早通信?等到临头了才言传把我也给了个冷不防。",
+      "sentence": "梅县长质问两人为何不早通知",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "把我逼到了臭茅房叫黄狗把懒筋扯了个烂。",
+      "sentence": "黄狗将懒筋扯烂",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "李特生",
+      "original_sentence": "李特生，又开言：梅县长，听我言。",
+      "sentence": "李特生对梅县长进行陈述",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "凉州有两个大环松第一个就是陆高基第二个就是齐飞卿。",
+      "sentence": "陆富基是凉州大环松之一",
+      "behavior_type": 12
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "凉州有两个大环松第一个就是陆高基第二个就是齐飞卿。",
+      "sentence": "齐飞卿是凉州大环松之一",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "这两个坏松坏得很，这事情就是傢们捣腾。",
+      "sentence": "陆富基和齐飞卿捣腾了这事情",
+      "behavior_type": 7
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "这两个坏松坏得很，这事情就是傢们捣腾。",
+      "sentence": "齐飞卿和陆富基捣腾了这事情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "梅县长一听怒气生，请来了道台、府台连协台，三台会衙来议论。",
+      "sentence": "梅县长听后感到非常愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "梅县长",
+      "original_sentence": "梅县长一听怒气生，请来了道台、府台连协台，三台会衙来议论。",
+      "sentence": "梅县长召集官员商议事情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "府道三县把告罪公文来造上，公文上造的不是别的人，就是那陆富基和齐飞卿。",
+      "sentence": "陆富基和齐飞卿被写入告罪公文",
+      "behavior_type": 14
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "府道三县把告罪公文来造上，公文上造的不是别的人，就是那陆富基和齐飞卿。",
+      "sentence": "齐飞卿和陆富基被写入告罪公文",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "又封了银子两千两.带公文递到了兰州省上。",
+      "sentence": "又封了银子两千两",
+      "behavior_type": 8
+    },
+    {
+      "role": "",
+      "original_sentence": "又封了银子两千两.带公文递到了兰州省上。",
+      "sentence": "带公文递到了兰州省上",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "公文状子来到兰州省，一看这状子就凶得很。",
+      "sentence": "公文状子被递送至兰州省",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "公文状子来到兰州省，一看这状子就凶得很。",
+      "sentence": "状子内容显得十分凶恶",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "下了个公文到武威县，要抓那齐飞卿、陆富基把兰州上。",
+      "sentence": "齐飞卿被公文要求前往兰州",
+      "behavior_type": 4
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "下了个公文到武威县，要抓那齐飞卿、陆富基把兰州上。",
+      "sentence": "陆富基被公文要求前往兰州",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "下了个公文到武威县，要抓那齐飞卿、陆富基把兰州上。",
+      "sentence": "公文被下达至武威县要求抓捕",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "公文交给了马大人，马大人的队伍要捉陆富基和齐飞卿。",
+      "sentence": "公文被交给马大人",
+      "behavior_type": ""
+    },
+    {
+      "role": "",
+      "original_sentence": "公文交给了马大人，马大人的队伍要捉陆富基和齐飞卿。",
+      "sentence": "队伍奉命捉拿陆富基",
+      "behavior_type": ""
+    },
+    {
+      "role": "",
+      "original_sentence": "公文交给了马大人，马大人的队伍要捉陆富基和齐飞卿。",
+      "sentence": "队伍奉命捉拿齐飞卿",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "差事又交给了刘胡子和戴连子。",
+      "sentence": "差事被交给刘胡子和戴连子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "刘胡子也是武威的人，他们早就听说了，陆富基、齐飞卿的武艺高，人少了还怕的捉不到。",
+      "sentence": "刘胡子听闻陆富基武艺高强",
+      "behavior_type": 5
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "刘胡子也是武威的人，他们早就听说了，陆富基、齐飞卿的武艺高，人少了还怕的捉不到。",
+      "sentence": "刘胡子听闻齐飞卿武艺高强",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那一天傢们就准备齐，三十个马队凶乎乎的。",
+      "sentence": "三十个马队凶猛地准备出发",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "临去哩定好了一条计先要去捉拿齐飞卿哩。",
+      "sentence": "他们计划前去捉拿齐飞卿",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "带上了人马浩浩荡荡走得急，庄庄子里的百姓吓得尻松滴溜的。",
+      "sentence": "队伍带着人马迅速前进",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "带上了人马浩浩荡荡走得急，庄庄子里的百姓吓得尻松滴溜的。",
+      "sentence": "村庄百姓感到极度恐惧",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那时节的百姓们胆胆儿小，见上个队伍就害怕得不得了，活说这马队来到哪里了，就来到齐飞卿的门上了造浩荡荡围了个硬，门上的狗儿汪汪汪汪咬得实在凶。",
+      "sentence": "百姓们见到队伍感到非常害怕",
+      "behavior_type": 2
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "那时节的百姓们胆胆儿小，见上个队伍就害怕得不得了，活说这马队来到哪里了，就来到齐飞卿的门上了造浩荡荡围了个硬，门上的狗儿汪汪汪汪咬得实在凶。",
+      "sentence": "马队将齐飞卿的家团团围住",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "齐飞卿家里的人着了忙他的儿娃子上前开了言叫爹爹，不好了，不妙了今个的队伍就给上门了我叫你没事了就在家里蹲谁叫你要抗捐抗税的传百姓。",
+      "sentence": "齐飞卿的儿子告诉他队伍上门了",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这回的百姓传得好今个的大祸可就到来了。",
+      "sentence": "百姓传言今日大祸即将来临",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "齐飞卿一听生了一肚子气我怎么生下了这么个囊包子呸的啐了一团子骂了一声囊包子|你就不是我的骨头子。",
+      "sentence": "齐飞卿听闻后感到非常愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "今天我就不害怕马队多他能把我做个啥?说着傢上炕睡了觉门上的狗儿汪汪汪汪直着声地咬。",
+      "sentence": "今天我不害怕马队能把我怎样",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "今天我就不害怕马队多他能把我做个啥?说着傢上炕睡了觉门上的狗儿汪汪汪汪直着声地咬。",
+      "sentence": "他上炕睡觉狗在门外叫",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "三十个马队呼隆隆隆扑进去扑到了齐飞卿的书房里。",
+      "sentence": "马队冲进了齐飞卿的书房",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "齐老爷，你当听，刘胡子见了齐飞卿尊敬得很。",
+      "sentence": "刘胡子对齐飞卿表现出尊敬",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "齐飞卿，窍法大使一计把刘胡子迷哄下。",
+      "sentence": "齐飞卿用计策迷惑了刘胡子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老爷们，坐下吧，办的啥事我们慢慢商量吧!那时节的人爱吃些说叫坐下就坐下。",
+      "sentence": "老爷们坐下商量事情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "想着还叫杀猪哩，宰羊哩，打酒炒菜招待哩!刘胡子心里美滋滋儿的。",
+      "sentence": "刘胡子心中感到非常高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人叫我挤到屋里了、看你还住哪里跑?吃好喝好了再捉人、还不是一个好事情。",
+      "sentence": "人们被挤进屋里无处可逃",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "人叫我挤到屋里了、看你还住哪里跑?吃好喝好了再捉人、还不是一个好事情。",
+      "sentence": "吃饱喝足后再抓人是好事",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "谁知道齐飞卿的本事傢高得很墙上的字画悄悄儿揭了一道缝，嘴里的咒语咕哪咕嘟念了三遍整，中指头在墙上划了一个门.驹溜一声就跑掉了齐飞卿。",
+      "sentence": "齐飞卿施展法术划门逃脱",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "屋里不见个人影影被儿还是个空筒筒。",
+      "sentence": "屋内空无一人且被褥空空",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "揣了些银子当盘缠悄悄儿来到拴马的圈一丈高的白马备齐整，翻到马上一趟子，轰隆隆如一阵旋风离家门从今后三年不见他的人影影。",
+      "sentence": "齐飞卿骑马如旋风般离开家门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "(七)叫诸位，你当听，我不说齐飞卿跳上白马离家门，再说那捉拿齐飞卿的三十个人。",
+      "sentence": "齐飞卿跳上白马离开了家门",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "(七)叫诸位，你当听，我不说齐飞卿跳上白马离家门，再说那捉拿齐飞卿的三十个人。",
+      "sentence": "三十个人负责捉拿齐飞卿",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "刘胡子，戴连子，吃饱喝足了要捉人哩。",
+      "sentence": "刘胡子吃饱喝足后准备捉人",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "进到里屋观着看，被窝是个筒筒子，筒筒子是个空空的。",
+      "sentence": "被窝里空无一人",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "齐飞卿什么时节跑掉的，我们还在鼓里给蒙者哩。",
+      "sentence": "齐飞卿已经悄然离开",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "齐飞卿什么时节跑掉的，我们还在鼓里给蒙者哩。",
+      "sentence": "我们尚未察觉此事",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "这些个马队大牙张嘴作了难抓住了齐飞卿的娃子问端详：贼贼娃子，贼娃子，你你的老贼爹爹呐?不知道，不知道叫叫你们挤到屋里了。",
+      "sentence": "马队质问齐飞卿之子其父去向",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "这些个马队大牙张嘴作了难抓住了齐飞卿的娃子问端详：贼贼娃子，贼娃子，你你的老贼爹爹呐?不知道，不知道叫叫你们挤到屋里了。",
+      "sentence": "齐飞卿之子表示不知父亲去向",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "问问你去，不知道，问问他去，不知道。",
+      "sentence": "他们询问去向但未获答案",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "马马队们害怕没治了圪圪崂墙岔也搜遍了。",
+      "sentence": "马队四处搜寻未果",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "想想抓的齐飞卿就给没有了这这些个贼们就后悔了。",
+      "sentence": "齐飞卿逃脱后贼人们感到后悔",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "后后悔也是个闲的了。",
+      "sentence": "后悔已经没有任何意义",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "走走走走，罢罢罢回过头再把那个陆富基抓。",
+      "sentence": "马队决定回头抓捕陆富基",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人马来到了陆家庄陆家庄。",
+      "sentence": "人马抵达陆家庄进行搜查",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "有名望人马围定团团转陆富基的老婆儿心中酸：你这个老汉不安分有吃有喝你家里蹲谁叫你惹祸招灾传百姓。",
+      "sentence": "陆富基的老婆心中感到酸楚",
+      "behavior_type": 2
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "有名望人马围定团团转陆富基的老婆儿心中酸：你这个老汉不安分有吃有喝你家里蹲谁叫你惹祸招灾传百姓。",
+      "sentence": "陆富基的老婆责备他不安分",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "这会子大祸头上临你叫我们怎么行?陆富基，生了气.臭脚子婆姨你做啥哩!马队来了你就叫他来。",
+      "sentence": "陆富基对妻子感到愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "这会子大祸头上临你叫我们怎么行?陆富基，生了气.臭脚子婆姨你做啥哩!马队来了你就叫他来。",
+      "sentence": "陆富基让妻子叫马队来",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "来了我给他使一计我要到外面去避一避。",
+      "sentence": "陆富基决定外出躲避马队",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "陆富基前脚还没迈出门他的那老妈妈又酸了心：叫娃娃，快给我说你要到哪里去避祸?叫妈妈，你请听，我要到西坝家的垴上行。",
+      "sentence": "陆富基对老妈妈的行为感到生气",
+      "behavior_type": 2
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "陆富基前脚还没迈出门他的那老妈妈又酸了心：叫娃娃，快给我说你要到哪里去避祸?叫妈妈，你请听，我要到西坝家的垴上行。",
+      "sentence": "陆富基告诉老妈妈要去西坝家",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "我要到西番子的羊图上去，那些个地方宽敞得很，我去了说着避难行。",
+      "sentence": "陆富基计划前往西番羊图避难",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "山里洼里他们就摸不着门。",
+      "sentence": "他们在山里洼里找不到门",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "西坝的垴上我最熟悉牛图上、羊圈上我就蹲着去哩。",
+      "sentence": "陆富基熟悉西坝垴上地形",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "渴了喝些糊奶茶.饿了吃的是‘楚里玛’。",
+      "sentence": "渴了喝些糊奶茶饿了吃楚里玛",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "话没有说罢就打扮，陆富基他打扮了个老西番。",
+      "sentence": "陆富基将自己打扮成老西番模样",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "头上戴了一顶白毡帽，身上穿了一件老皮袄。",
+      "sentence": "陆富基头戴白毡帽身穿老皮袄",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "腰节骨里勒了一条毛系腰。",
+      "sentence": "陆富基腰间系了一条毛腰带",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "傢就给他的三多四、的三多四,哇哩哇啦，哇哩哇啦番话说上出来了。",
+      "sentence": "陆富基用番话说出他的想法",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "刘胡子的马队两眼望哪里来的个老西番?还有个伙计问得巧.哎老阿爷老阿爷今年你代了我们的牛代了我们的马，给我们把工钱算一下。",
+      "sentence": "刘胡子的马队寻找老西番",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "刘胡子的马队两眼望哪里来的个老西番?还有个伙计问得巧.哎老阿爷老阿爷今年你代了我们的牛代了我们的马，给我们把工钱算一下。",
+      "sentence": "伙计询问老阿爷结算工钱",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "傢两个哇哩哇啦说番话，刘胡子的马队两眼大瞪干望喀。",
+      "sentence": "两人用番语进行对话交流",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "傢两个哇哩哇啦说番话，刘胡子的马队两眼大瞪干望喀。",
+      "sentence": "刘胡子的马队瞪大眼睛看",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他们急着往里进，呼啦啦拥进了三十个人。",
+      "sentence": "他们匆忙进入并涌入三十人",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "陆富基转出大门一溜风，一溜风跑到了西坝顶。",
+      "sentence": "陆富基迅速跑到了西坝顶",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "再说那个十个马队进了陆家庄，噼里啪啦就打了个鸡飞狗跳墙。",
+      "sentence": "十个马队进入陆家庄后制造混乱",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "把婆姨娃娃吓得尿流屁又淌，圪崂墙岔都找遍了，要捉的那个陆富基给不见了，大些的人都给跑掉了。",
+      "sentence": "陆富基迅速逃离了现场",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "把婆姨娃娃吓得尿流屁又淌，圪崂墙岔都找遍了，要捉的那个陆富基给不见了，大些的人都给跑掉了。",
+      "sentence": "婆姨娃娃被吓得惊慌失措",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "把婆姨娃娃吓得尿流屁又淌，圪崂墙岔都找遍了，要捉的那个陆富基给不见了，大些的人都给跑掉了。",
+      "sentence": "大些的人全都跑掉了",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "五六岁的个娃娃就给叫像捉住了乒里乓里打着吓着把娃娃问：叫小贼，你听好你的那老贼爹爹走了哪里了?妈的尻，妈的尿今天就要捉陆富基。",
+      "sentence": "五六岁娃娃被捉住殴打审问",
+      "behavior_type": 3
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "五六岁的个娃娃就给叫像捉住了乒里乓里打着吓着把娃娃问：叫小贼，你听好你的那老贼爹爹走了哪里了?妈的尻，妈的尿今天就要捉陆富基。",
+      "sentence": "陆富基被追问去向",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "娃娃家，小着哩一见了队伍就害怕哩。",
+      "sentence": "娃娃见到队伍感到害怕",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叫马队这么一打唑娃娃就说出了实话哩。",
+      "sentence": "马队逼迫娃娃说出实话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老爷们，不了打，不了打。",
+      "sentence": "有人请求老爷们停止殴打",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "我快给你们说实话我的爹爹傢跑掉了跑了那西坝家的垴上了。",
+      "sentence": "陆富基逃往西坝家的垴上",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "尖儿(刚才)出去的那个老西番就是我的爹爹装。",
+      "sentence": "刚才出去的那个人是我的父亲",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "马队们一个个偷着笑，这一手我们可就用对了。",
+      "sentence": "马队成员们暗自感到得意",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "小贼的嘴里把实话掏，陆富基老贼你往哪里跑。",
+      "sentence": "陆富基被质问后试图逃跑",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "马队呼啦啦上了马，一路儿追着把陆富基抓。",
+      "sentence": "马队骑马追赶并抓捕陆富基",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "过了沙滩往前行要问前头是啥地名。",
+      "sentence": "过了沙滩继续向前行进",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "前头就是那西营儿城，陆富基在西营儿歇过身。",
+      "sentence": "陆富基曾在西营城停留",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吃饱喝足又动身跟尻子的马队就追了个紧。",
+      "sentence": "马队紧随其后追赶目标",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "陆富基走得快来走得神，马队们紧赶慢赶不见个影。",
+      "sentence": "陆富基行走速度极快",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "陆富基走得快来走得神，马队们紧赶慢赶不见个影。",
+      "sentence": "马队追赶却未能追上",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一路上就问那走路的人现问现追来到山沟前，迎面子莱了个赶牛的汉。",
+      "sentence": "马队询问路人并追赶至山沟前",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "一路上就问那走路的人现问现追来到山沟前，迎面子莱了个赶牛的汉。",
+      "sentence": "赶牛人迎面遇到了马队成员",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "驮、赶牛的、慢着走，你们打哪里赶上的牛?哎!叫老爷、听分明、西坝家垴上赶牛行。",
+      "sentence": "赶牛人回答牛来自西坝家垴",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "你们打西坝家垴上行，可见过陆富基这么个人?叫老爷，你们听，我们起得旱得很。",
+      "sentence": "路人询问是否见过陆富基",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "你们打西坝家垴上行，可见过陆富基这么个人?叫老爷，你们听，我们起得旱得很。",
+      "sentence": "赶牛人告知他们起得很早",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "鸡儿一叫起得身，没有见过这么个人。",
+      "sentence": "鸡鸣时分起身未见此人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "让过了这一个赶牛的迎面又来了个驮油的。",
+      "sentence": "赶牛的人缓慢地向前行走",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "驮油的，你快说，油是打哪塑驮上的?驮油的是个十五六岁的小娃娃，见了队伍还怪害怕。",
+      "sentence": "驮油的小孩回答油来源问题",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "驮油的，你快说，油是打哪塑驮上的?驮油的是个十五六岁的小娃娃，见了队伍还怪害怕。",
+      "sentence": "驮油的小孩感到非常害怕",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叫老爷，你们听，石龙家的油坊里驮油行。",
+      "sentence": "油坊里驮油行",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "石龙家的油坊在哪里?见过个陆富基来没有的?石龙家的油坊在垴上，我们正然把油舀上。",
+      "sentence": "询问是否有人见过陆富基",
+      "behavior_type": 6
+    },
+    {
+      "role": "",
+      "original_sentence": "石龙家的油坊在哪里?见过个陆富基来没有的?石龙家的油坊在垴上，我们正然把油舀上。",
+      "sentence": "石龙家的油坊位于垴上",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "石龙家的油坊在哪里?见过个陆富基来没有的?石龙家的油坊在垴上，我们正然把油舀上。",
+      "sentence": "他们正在油坊里舀油",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "远远儿地就看见，说是永区的老爷到来了长着个黑胡子，胖胖子，是一个魁伟汉汉子掌柜的叫的是陆富基傢们拉哩捞哩进了门说在油坊里的炕上躺了个稳。",
+      "sentence": "陆富基被掌柜叫进油坊里",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "远远儿地就看见，说是永区的老爷到来了长着个黑胡子，胖胖子，是一个魁伟汉汉子掌柜的叫的是陆富基傢们拉哩捞哩进了门说在油坊里的炕上躺了个稳。",
+      "sentence": "油坊里的炕上躺着一个人",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "马队们一听哈哈笑，这一回才叫我们给问着了。",
+      "sentence": "马队听闻后感到非常高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叫娃娃，快些走，天给我们带路走。",
+      "sentence": "娃娃被要求快速带路前行",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "爷们要捉陆富基你娃娃要给我们带一趟路。",
+      "sentence": "陆富基被要求带路前往油坊",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叫老爷，饶了吧!我们屋里的事情大。",
+      "sentence": "请求老爷饶恕我们屋里的事情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哥哥娶个媳妇子立等着就要用油哩!马队这里生了气娶媳妇子是个狗屁事。",
+      "sentence": "马队因娶媳妇之事感到愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "给了个七锤十三点踢停乓镗把娃娃打了个白肚子躺。",
+      "sentence": "马队将娃娃打倒在地",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "驴日的。",
+      "sentence": "马队对娃娃进行了辱骂",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "妈的质你今个当是不带路，老子们就要剥你的皮。",
+      "sentence": "他们威胁要剥掉对方的皮",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "毛驴子拴到柳墩上油驮子撩到地埂上娃娃的脖子里把绳拴上拴到马后就把路程赶。",
+      "sentence": "毛驴被拴在柳墩上油驮被放地埂",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "毛驴子拴到柳墩上油驮子撩到地埂上娃娃的脖子里把绳拴上拴到马后就把路程赶。",
+      "sentence": "娃娃被拴绳后拴在马后赶路",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "娃娃这时节吓掉了魂思想起来实在后悔得很。",
+      "sentence": "娃娃感到非常后悔",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "早知道他们是这么坏，我就不给他说实情。",
+      "sentence": "他后悔向他们透露实情",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这就是老人们说下的话谁的个嘴闲了就惹是非谁的个腿闲了就沾露水。",
+      "sentence": "老人告诫人们言行需谨慎",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "娃娃的心里发愁肠一路儿把眼泪缸缸来吊上。",
+      "sentence": "娃娃感到非常忧愁并流下眼泪",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "心里头愁的是毛驴子，挂念的又是那油驮子。",
+      "sentence": "心中忧愁毛驴子和油驮子",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哭哩喊哩地往前赶来到了石龙家的油坊跟前。",
+      "sentence": "哭喊着赶路来到石龙油坊前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "娃娃抹眼吊泪地开了言：叫老爷，听端详，石龙家的油坊就在这里面。",
+      "sentence": "娃娃告诉老爷油坊的位置",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "丢开了娃娃进油坊，来了个先生开了言：老爷们，里面请，里面进，有啥贵干哩说分明。",
+      "sentence": "娃娃被丢开后进入油坊",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "丢开了娃娃进油坊，来了个先生开了言：老爷们，里面请，里面进，有啥贵干哩说分明。",
+      "sentence": "先生邀请老爷们进入油坊",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "我们奉的是马大人的命，来捉拿陆富基这一个人。",
+      "sentence": "奉命前来捉拿陆富基",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说的是有人看着了，在你们油坊里藏了身。",
+      "sentence": "有人看见他在油坊里藏身",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叫老爷，你们听，我们就没见过这么个人。",
+      "sentence": "他们表示从未见过这个人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "陆富基他是个啥样的人，油坊里根生(根本)就没来过人。",
+      "sentence": "陆富基从未出现在油坊中",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "刘胡子一听生了气。",
+      "sentence": "刘胡子听闻后感到非常生气",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "妈的个尻，妈的个民，你这个松也不是好东西。",
+      "sentence": "刘胡子愤怒地辱骂对方",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "驮油的娃娃看见在油坊炕上坐着哩你怎么还要哄人哩!先生这里又开言：叫声老爷你听我言，我给你说的是实情。",
+      "sentence": "驮油娃娃看见油坊炕上有人",
+      "behavior_type": ""
+    },
+    {
+      "role": "",
+      "original_sentence": "驮油的娃娃看见在油坊炕上坐着哩你怎么还要哄人哩!先生这里又开言：叫声老爷你听我言，我给你说的是实情。",
+      "sentence": "先生向老爷说明实情",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "就是吃上个豹子胆，也不敢把你们老爷哄。",
+      "sentence": "他们不敢欺骗老爷",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "今个要是有这个人，我们就给你送一个人。",
+      "sentence": "今日若有此人便送人",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "。",
+      "sentence": "",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "先生的心里想着哩，陆富基是一个好汉子。",
+      "sentence": "先生认为陆富基是个好汉子",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要是叫他们捉着去，对不住我们的掌柜的。",
+      "sentence": "被捉住后无法向掌柜交代",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "先生这里把主意想，望着一个猫儿刺的大垛挤了个眼。",
+      "sentence": "先生思考后决定采取行动",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "有一个学生娃儿太机撵(机灵),偷偷儿跑到了垛跟前。",
+      "sentence": "学生娃儿偷偷跑到垛跟前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "悄悄儿就把火放上一阵儿黄风还来了个玄，呼噜噜的大火透城亮。",
+      "sentence": "有人悄悄放火引发大火",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "啊呀呀!不好了，不妙了我们的油坊火着了。",
+      "sentence": "油坊突然发生火灾",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "快救火，快救火，伙计们快些来救火!十几个伙计动了手，提桶子，端盆子舀上清水救火去。",
+      "sentence": "伙计们迅速采取行动救火",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "先生一看心里喜撒脚儿跑到里边去。",
+      "sentence": "先生看到后感到非常高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "先生一看心里喜撒脚儿跑到里边去。",
+      "sentence": "先生迅速跑到了里面去",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "给小机撵学生定了个计快去给陆老爷通信息。",
+      "sentence": "学生给陆富基传递了重要信息",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "就说那马队来到了油坊里抓的就是他陆富基。",
+      "sentence": "马队来到油坊抓捕陆富基",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "快些叫陆老爷逃命去叫这些松抓住可麻达哩。",
+      "sentence": "陆富基需要立即逃离现场",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "学生娃听了这几句话一趟子跑到了掌柜的家。",
+      "sentence": "学生娃听闻后迅速跑向掌柜家",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "掌柜的，不好了天包大祸到来了。",
+      "sentence": "天包大祸突然降临",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "来的些马队太凶动快些叫陆老爷逃性命。",
+      "sentence": "陆富基需尽快逃离马队追捕",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "掌柜的，着了急跌脚捶胸团团转。",
+      "sentence": "掌柜的因着急而手足无措",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "这会子的马队围了个严，陆老爷怎么能逃了难。",
+      "sentence": "陆富基被马队围困难以逃脱",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "叫一声掌柜的你不要急，我自有法子逃命去。",
+      "sentence": "陆富基告诉掌柜自有逃命方法",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "陆富基鞋也顾不得穿嗖嗖嗖上到了后墩上。",
+      "sentence": "陆富基急忙赤脚爬上后墩",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "胳肢窝里挟了一盘皮大绳，哧灌瘤潜到了后端根。",
+      "sentence": "陆富基腋下夹着绳子潜到后端",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "精脚大板的一趟子。",
+      "sentence": "陆富基光着脚快速奔跑",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "后缩上逃走了陆富基。",
+      "sentence": "陆富基从后墩上逃走",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "(八）我不说后垴里跑脱了陆富基再说这油坊里逼住要人的刘胡子。",
+      "sentence": "陆富基从后垴里成功逃脱",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "(八）我不说后垴里跑脱了陆富基再说这油坊里逼住要人的刘胡子。",
+      "sentence": "刘胡子在油坊里逼要人",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一阵子大火敷了个急这会儿火已经救下去。",
+      "sentence": "大火迅速被扑灭",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "抓住了先生逼住问：妈的兵，快些儿给我们陆富基。",
+      "sentence": "他们逼问先生要陆富基",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老爷们，不知道，不知道，不信了你们就挨着找。",
+      "sentence": "老爷们表示不知道也不相信",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一个油坊找遍了，油井子也鼓捣了。",
+      "sentence": "油坊和油井被彻底搜寻",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "圪崂墙岔翻遍了，茅屎坑里也看了，就是没有个陆富基。",
+      "sentence": "陆富基在圪崂墙岔翻遍未找到",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "圪崂墙岔翻遍了，茅屎坑里也看了，就是没有个陆富基。",
+      "sentence": "茅屎坑里也没有发现任何踪迹",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "害得先生没办法，又是给傢宰猪哩，杀羊哩，炒菜哩，做饭哩，说了多少的好话哩这些个马队才起了身。",
+      "sentence": "先生被迫招待马队并劝说他们离开",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "马队来到了三沟口三沟口上可得问着走。",
+      "sentence": "马队抵达三沟口并询问路线",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一个老汉一个娃，两个翻粪在那搭。",
+      "sentence": "老汉和娃在翻粪堆",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "叫娃娃，快快听，见没有见过一个人?这个人就是陆富基，他可是一个大犯人。",
+      "sentence": "询问是否见过犯人陆富基",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这一个娃娃他可奸(聪明)得很，老爷，不知道，不知道，见过你说的这么个人。",
+      "sentence": "娃娃表示没见过陆富基这个人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说这一个老汉他可坏得很，他连那掌柜的不对劲这会子一看队伍凶得很赶紧把实话往出明，叫老爷，你请听，我们掌柜是常三爷。",
+      "sentence": "老汉向队伍透露了掌柜的身份",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "陆富基是他的亲家兄头里他正然请到屋里喧谎儿。",
+      "sentence": "陆富基被亲家请到屋里交谈",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "黑胡子，胖胖子长得个魁伟汉汉子，正是那永区里的陆富基。",
+      "sentence": "陆富基是一个魁伟的汉子",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "刘胡子一听生了气夸着说老汉顶老实，又骂着娃娃不是好东西。",
+      "sentence": "刘胡子听闻后感到非常生气",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "刘胡子一听生了气夸着说老汉顶老实，又骂着娃娃不是好东西。",
+      "sentence": "刘胡子称赞老汉非常老实",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "刘胡子一听生了气夸着说老汉顶老实，又骂着娃娃不是好东西。",
+      "sentence": "刘胡子骂娃娃不是好东西",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "给了个七锤十三点把娃娃打得眼泪缸缸儿来吊上。",
+      "sentence": "某人将娃娃打得泪流满面",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "打娃娃，夸老汉，三十个马队来到常三的庄子前。",
+      "sentence": "三十个马队来到常三庄子前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "狗儿汪汪汪汪咬得紧女人的魂儿酥溜溜溜早吓尽一阵风跑到上房中.叫丈夫，不好了，不妙了，队伍给进了庄门了。",
+      "sentence": "女人被吓得魂飞魄散",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "狗儿汪汪汪汪咬得紧女人的魂儿酥溜溜溜早吓尽一阵风跑到上房中.叫丈夫，不好了，不妙了，队伍给进了庄门了。",
+      "sentence": "女人迅速跑进上房中",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "狗儿汪汪汪汪咬得紧女人的魂儿酥溜溜溜早吓尽一阵风跑到上房中.叫丈夫，不好了，不妙了，队伍给进了庄门了。",
+      "sentence": "女人告诉丈夫队伍进庄",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "常三一听两眼瞪，队伍来为的是啥事情?陆富基忙说亲家你不要怕，这就是撵着抓我的人。",
+      "sentence": "常三听闻后瞪大眼睛询问原因",
+      "behavior_type": ""
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "常三一听两眼瞪，队伍来为的是啥事情?陆富基忙说亲家你不要怕，这就是撵着抓我的人。",
+      "sentence": "陆富基安慰亲家不要害怕",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "常三一听两眼瞪，队伍来为的是啥事情?陆富基忙说亲家你不要怕，这就是撵着抓我的人。",
+      "sentence": "陆富基说明对方是来抓他",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "叫亲家，怎么办?事到如今怎么办?你可得快快拿主张!叫亲家，不要怕，这么个事情不算个!能跑了我就给他跑脱吧挤住了就叫他们抓。",
+      "sentence": "陆富基劝亲家不要害怕",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "叫亲家，怎么办?事到如今怎么办?你可得快快拿主张!叫亲家，不要怕，这么个事情不算个!能跑了我就给他跑脱吧挤住了就叫他们抓。",
+      "sentence": "陆富基建议亲家想办法",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "叫亲家，怎么办?事到如今怎么办?你可得快快拿主张!叫亲家，不要怕，这么个事情不算个!能跑了我就给他跑脱吧挤住了就叫他们抓。",
+      "sentence": "陆富基表示能跑就跑",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "说不罢队伍进了门.唠地取了条绳子把陆富基捆，五花大绑捆了个硬陆富基一看喱怪生气，今个综还要差辱我哩。",
+      "sentence": "队伍用绳子将陆富基捆绑",
+      "behavior_type": 13
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "说不罢队伍进了门.唠地取了条绳子把陆富基捆，五花大绑捆了个硬陆富基一看喱怪生气，今个综还要差辱我哩。",
+      "sentence": "陆富基对此感到非常愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "说起来陆富基的骨头可真是个硬，五花大绑他腰不弯鼻子里没有哼一声。",
+      "sentence": "陆富基被绑时依然挺直腰板",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "这会子心里暗暗想，给他个厉害叫狗松们尝。",
+      "sentence": "陆富基心中暗自思量对策",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "说着话浑身一抖劲一拧，身上的绳子酥溜溜溜给他脱了一个净。",
+      "sentence": "陆富基用力挣脱了身上的绳子",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三十个马队吓得舌头伸了一尺长刘胡子、戴连子两眼大瞪定定望。",
+      "sentence": "三十个马队被吓得目瞪口呆",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "三十个马队吓得舌头伸了一尺长刘胡子、戴连子两眼大瞪定定望。",
+      "sentence": "刘胡子和戴连子瞪大眼睛",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "咳!我们捉了一辈子人，从没有经过这个事情。",
+      "sentence": "他们表示从未经历过此事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "刘胡子赶紧走上前，松话连片给陆二佬讲：陆老爷，陆老爷，你是一条硬汉子。",
+      "sentence": "刘胡子向陆富基称赞其硬汉品质",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "刘胡子",
+      "original_sentence": "要跑你就跑得远远的不了叫我们看见你。",
+      "sentence": "刘胡子劝告陆富基跑得远远的",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "今天把你捉住了你又把法绳脱开了这一个差事我们交不掉。",
+      "sentence": "差事无法完成因法绳被脱开",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "陆老爷，陆老爷，你走吧，你走吧，好好儿跟上我们就走吧。",
+      "sentence": "刘胡子劝说陆富基赶紧离开",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "可怜可怜我们这些办公的人我们也是上有老的下有小，婆姨娃娃一大阵。",
+      "sentence": "办公人员请求他人怜悯其家庭困境",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不了差事我们也活不了命，请你老高抬贵手领个情。",
+      "sentence": "差事无法完成将危及性命",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "不了差事我们也活不了命，请你老高抬贵手领个情。",
+      "sentence": "请求对方给予理解与帮助",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "陆富基听罢了这几句话心里的怒气也就消了十有八。",
+      "sentence": "陆富基听完后怒气消了大半",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "他是个金刚面目豆腐心，三句好话经不住听。",
+      "sentence": "陆富基听完后怒气消了大半",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "他是个金刚面目豆腐心，三句好话经不住听。",
+      "sentence": "他外表强硬但内心柔软",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "罢了罢了也罢了你们也是些可怜人。",
+      "sentence": "陆富基听完后怒气消了大半",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "罢了罢了也罢了你们也是些可怜人。",
+      "sentence": "他们也是些可怜的人",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "快拿绳子来把我捆我跟上你们县里行。",
+      "sentence": "陆富基让人拿绳子捆住自己",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "三十个马队一听哩由不得挖了个大拇指哎!陆富基真算个大英雄硬铮铮的汉子惹人敬。",
+      "sentence": "陆富基被众人称赞为大英雄",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你扶哩，我抬哩扶抬到马上起了身。",
+      "sentence": "他们一起将人扶抬到马上",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "一匹走马驮好汉咯当咯当往前转来到了小沙河沿子上。",
+      "sentence": "陆富基骑马来到小沙河沿",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "陆富基，在前行蹦地跳到了地埃尘。",
+      "sentence": "陆富基从马上跳到了地面上",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "马队吓得舌头伸刘胡子的心里吓得格登登。",
+      "sentence": "马队成员感到极度恐惧",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "快操心，快操心傢怎么跳到了地埃尘。",
+      "sentence": "陆富基突然从马上跳了下来",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "眼看就到了城里了再不了叫傢跑掉了。",
+      "sentence": "眼看就要到达城里了",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "陆富基，开了言：叫声众位不了慌，快拿绳子来把我绑。",
+      "sentence": "陆富基叫众人不要慌张",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "陆富基，开了言：叫声众位不了慌，快拿绳子来把我绑。",
+      "sentence": "陆富基要求众人用绳子绑他",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "犯了法的人绳子你不捆交不了差你不要说我不领情!陆老爷、就走吧、你这样的英雄我们还搦个啥?只要你骑着马上走、天大的人情就给我们领了个够。",
+      "sentence": "陆富基要求众人用绳子捆绑他",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "犯了法的人绳子你不捆交不了差你不要说我不领情!陆老爷、就走吧、你这样的英雄我们还搦个啥?只要你骑着马上走、天大的人情就给我们领了个够。",
+      "sentence": "犯法之人必须被捆绑以交差",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "犯了法的人绳子你不捆交不了差你不要说我不领情!陆老爷、就走吧、你这样的英雄我们还搦个啥?只要你骑着马上走、天大的人情就给我们领了个够。",
+      "sentence": "众人称赞陆富基是英雄人物",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "要捆你们就捆上吧、再不了拿五作六说这些面子话。",
+      "sentence": "陆富基表示要捆就捆别说面子话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "说话我有说话的地方哩讲理我有讲理的地方哩连你们这些东西我没说的话。",
+      "sentence": "陆富基表示自己有说话的地方",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "说话我有说话的地方哩讲理我有讲理的地方哩连你们这些东西我没说的话。",
+      "sentence": "讲理有讲理的地方",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "马队们一听笑吟吟，伊家(人家)的这个胆子还正得很。",
+      "sentence": "马队们听后感到非常高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "松松儿的绳子捆了一捆扶到马上来到了县衙门(九)陆富基骑马来到凉州城，送到了凉州的县衙门。",
+      "sentence": "陆富基被捆后骑马来到县衙门",
+      "behavior_type": 4
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "松松儿的绳子捆了一捆扶到马上来到了县衙门(九)陆富基骑马来到凉州城，送到了凉州的县衙门。",
+      "sentence": "陆富基骑马抵达凉州城衙门",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "县衙门里不敢审，请来了龙府台、王道台，还有那个黄镇台。",
+      "sentence": "县衙门请来多位官员协助审理",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "三台一县来商量，陆富基的案子要严办。",
+      "sentence": "三台一县商议严办陆富基案",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "兰州的省上要着哩，就把他押到兰州去做了一个木笼囚车怪结实陆富基就叫伊家打到了囚车里。",
+      "sentence": "陆富基被关入木笼囚车中",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "几十个马队忙押上，木笼囚车咯吱咯吱往前转。",
+      "sentence": "陆富基被押送至兰州囚车中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "那一天队伍浩浩荡荡起了身押上那陆富基出了凉州城东门杨成绪，泪眼望，当初造反是我定的计他俩当了个领头的。",
+      "sentence": "陆富基被押出凉州城东门",
+      "behavior_type": 4
+    },
+    {
+      "role": "杨成绪",
+      "original_sentence": "那一天队伍浩浩荡荡起了身押上那陆富基出了凉州城东门杨成绪，泪眼望，当初造反是我定的计他俩当了个领头的。",
+      "sentence": "杨成绪流泪望着陆富基",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一心一意地为百姓可惜是大事没有成。",
+      "sentence": "一心为百姓可惜未成功",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "齐兄弟远走高飞杳无音讯好得很，可怜了陆兄弟刚强的人。",
+      "sentence": "齐飞卿远走高飞杳无音讯",
+      "behavior_type": 4
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "齐兄弟远走高飞杳无音讯好得很，可怜了陆兄弟刚强的人。",
+      "sentence": "陆富基遭遇不幸令人同情",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "可恨了这些众百姓。",
+      "sentence": "众百姓令人感到可恨",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "事成了大家都把好处得事败了没有一个敢来救这个人。",
+      "sentence": "事成众人得利事败无人救援",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "杨成绪连走带骂气不平骂的是凉州人都是些龟子松。",
+      "sentence": "杨成绪边走边骂心中愤懑",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "说话间来到囚车前，扶住囚车把陆兄弟唤。",
+      "sentence": "某人扶住囚车呼唤陆富基",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "哎!陆兄弟，你去吧，我有个主意哩要给你拿。",
+      "sentence": "陆富基被告知有一个主意",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "这一张状子你揣上省上去了再打官司再伸冤。",
+      "sentence": "杨成绪告诉陆富基带上状子去伸冤",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "依我看这一回上省有些意外的事到时候了你要见机再行事。",
+      "sentence": "杨成绪认为此行可能有意外情况",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "凉州的案子不在凉州断，押上你可要把兰州上。",
+      "sentence": "杨成绪告诉陆富基要上兰州",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这里头凶多吉少你多留神我这里总要设法给你把冤伸。",
+      "sentence": "这里头凶多吉少你要多留神",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "这里头凶多吉少你多留神我这里总要设法给你把冤伸。",
+      "sentence": "我总会设法为你伸冤",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "说不罢木笼囚车往前行杨成绪弹了两把眼泪转回程。",
+      "sentence": "杨成绪弹泪转身离开木笼囚车",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "大河驿，黄羊镇过了古浪峡，又到安远镇。",
+      "sentence": "经过大河驿黄羊镇古浪峡安远镇",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "数日天来到兰州城。",
+      "sentence": "数日后他们抵达了兰州城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "省里衙门交了差断官司的就是一个贺大人。",
+      "sentence": "贺藩台在省里衙门审理官司",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "贺大人，贺藩台，当初是做下武官的人娜一天贺藩台升了堂夹帽板子当堂里放。",
+      "sentence": "贺藩台升堂后放置夹帽板子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "孙铁匠",
+      "original_sentence": "孙铁匠哭眼吊泪走出牢监回了家，防老爷溜溜辛辛南监牢里受背掺。",
+      "sentence": "孙铁匠哭泣着离开牢房回家",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "孙铁匠哭眼吊泪走出牢监回了家，防老爷溜溜辛辛南监牢里受背掺。",
+      "sentence": "防老爷在牢里受苦",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "你不给百姓把事办，猫嚎鬼叫的你为哪桩?汉子做事汉子当今个我就一里(全部)给你承担上。",
+      "sentence": "陆富基指责贺藩台不为百姓办事",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "你不给百姓把事办，猫嚎鬼叫的你为哪桩?汉子做事汉子当今个我就一里(全部)给你承担上。",
+      "sentence": "陆富基表示愿意承担全部责任",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "百姓就是我传来，衙门就是我围来，巡警楼子就是我砸来王之清的门楼子就是我烧来今个我给你说明白。",
+      "sentence": "陆富基承认自己传百姓围衙门",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "百姓就是我传来，衙门就是我围来，巡警楼子就是我砸来王之清的门楼子就是我烧来今个我给你说明白。",
+      "sentence": "陆富基承认自己砸巡警楼子",
+      "behavior_type": 9
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "百姓就是我传来，衙门就是我围来，巡警楼子就是我砸来王之清的门楼子就是我烧来今个我给你说明白。",
+      "sentence": "陆富基承认自己烧王之清门楼",
+      "behavior_type": 9
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "百姓就是我传来，衙门就是我围来，巡警楼子就是我砸来王之清的门楼子就是我烧来今个我给你说明白。",
+      "sentence": "陆富基向贺藩台说明白",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "河滩里无风不起浪，云疙瘩不散月不亮。",
+      "sentence": "河滩里无风不起浪云不散月不亮",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "凉州的赃官梅县长把我们老百姓给害了个酸。",
+      "sentence": "梅县长严重伤害了凉州百姓",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "红月捐，白月捐这些个捐税没名堂。",
+      "sentence": "这些捐税没有合理的名目",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老汉捐的是拐棍钱娃娃们捐的是爬爬钱妇女们捐的是胭粉钱光棍汉捐的是嫖风钱。",
+      "sentence": "各类人群被迫缴纳不同名目的费用",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这些个捐税还不算年年的皇粮往上涨。",
+      "sentence": "捐税逐年不断增加",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "王之清",
+      "original_sentence": "王之清、李特生，梅县长勾结的三个人。",
+      "sentence": "王之清与李特生梅县长勾结",
+      "behavior_type": 7
+    },
+    {
+      "role": "李特生",
+      "original_sentence": "王之清、李特生，梅县长勾结的三个人。",
+      "sentence": "李特生与王之清梅县长勾结",
+      "behavior_type": 7
+    },
+    {
+      "role": "梅县长",
+      "original_sentence": "王之清、李特生，梅县长勾结的三个人。",
+      "sentence": "梅县长与王之清李特生勾结",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "欺负得凉州人活不成就是个鸡娃儿也要蹦三蹦。",
+      "sentence": "梅县长欺压凉州百姓至无法生存",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "欺负得凉州人活不成就是个鸡娃儿也要蹦三蹦。",
+      "sentence": "鸡娃儿被逼得只能蹦跳反抗",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "欺负得我们做了鬼，他们做官靠的是谁?陆富基直着脖子连他讲理性又把那告县长的状子递到了大堂中。",
+      "sentence": "陆富基直着脖子讲理并递状子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "贺藩台，老昏虫看罢了状子怒气生。",
+      "sentence": "贺藩台看完状子后非常愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "咳!凉州的龟娃子胆子大。",
+      "sentence": "凉州人胆子大",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "公堂上你还争嚷啥!红月捐，白月捐这是傢凉州定下的捐。",
+      "sentence": "贺藩台宣称凉州定下红白月捐",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "捐税银子带皇粮自古而然不可短。",
+      "sentence": "捐税银子带皇粮自古不可短少",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "该交多少你把多少得交上，谁叫你聚众闹事抗粮捐。",
+      "sentence": "贺藩台命令民众缴纳粮捐",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "巡警楼子是皇爷定的老典章，它是地方的执法官。",
+      "sentence": "巡警楼子是皇爷制定的典章",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "打掉了巡警楼子你把国法犯，你还咋咋呼呼地为哪桩?不打巡警楼子还罢了，打丁巡警楼子就要罪加三等重重办!陆富基听罢气炸了胆驾一声贺藩台老昏官，那么个毯干(玩意)修到大街上，挡挡挂挂不方便。",
+      "sentence": "陆富基听完后感到极度愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "贺藩台",
+      "original_sentence": "打掉了巡警楼子你把国法犯，你还咋咋呼呼地为哪桩?不打巡警楼子还罢了，打丁巡警楼子就要罪加三等重重办!陆富基听罢气炸了胆驾一声贺藩台老昏官，那么个毯干(玩意)修到大街上，挡挡挂挂不方便。",
+      "sentence": "贺藩台指责陆富基违反国法",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我们乡里人进了城，驴驮子，牛车子动不动成天半日价挡。",
+      "sentence": "乡里人进城时常被驴牛车阻挡",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "又是查来又是盘.黑狗警察还要拿上大榛子棒打得乡里人满街里钻不砸它还把它留下看稀罕?审到这个些，贺藩台哑了口。",
+      "sentence": "贺藩台审讯后无言以对",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "恼羞成了怒，喝一声收了堂。",
+      "sentence": "贺藩台因愤怒而宣布退堂",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "陆富基丢到南牢监，候日子再把这官司断。",
+      "sentence": "陆富基被关押在南牢监中",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "陆富基丢到南牢监，候日子再把这官司断。",
+      "sentence": "等待日后重新审理此案",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "(十)不说那陆富基押在南牢监，挨饿受冻打哩骂哩实难缠。",
+      "sentence": "陆富基在牢中遭受虐待",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "孙铁匠",
+      "original_sentence": "再说这兰州城里有个孙铁匠，他也原是我们凉州的汉。",
+      "sentence": "孙铁匠原本是凉州的汉族人",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "孙铁匠",
+      "original_sentence": "他的祖籍是关爷庙，他连那陆富基是乡党。",
+      "sentence": "孙铁匠的祖籍位于关爷庙",
+      "behavior_type": 8
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "他的祖籍是关爷庙，他连那陆富基是乡党。",
+      "sentence": "陆富基与孙铁匠是同乡",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "孙铁匠",
+      "original_sentence": "当初他的光景不好过婆姨娃娃饿得不得活一天半夜去到关爷庙关爷的手里偷大刀偷来大刀捻铁钉，捻成了铁钉度光阴。",
+      "sentence": "孙铁匠因家境贫困偷取大刀",
+      "behavior_type": 11
+    },
+    {
+      "role": "孙铁匠",
+      "original_sentence": "当初他的光景不好过婆姨娃娃饿得不得活一天半夜去到关爷庙关爷的手里偷大刀偷来大刀捻铁钉，捻成了铁钉度光阴。",
+      "sentence": "孙铁匠将大刀捻成铁钉谋生",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "孙铁匠",
+      "original_sentence": "朱要那能说瞅临热朱会长捉住了孙铁匠要把他活埋不饶让那时节陆富基是个有名望的人，能说会道是个能行人。",
+      "sentence": "朱会长捉住孙铁匠要活埋他",
+      "behavior_type": 9
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "朱要那能说瞅临热朱会长捉住了孙铁匠要把他活埋不饶让那时节陆富基是个有名望的人，能说会道是个能行人。",
+      "sentence": "陆富基是个有名望的能行人",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "说来说去免祸夫(祸殃),瞅空子把孙铁匠放了出去。",
+      "sentence": "陆富基设法将孙铁匠释放",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "临走哩给了他十两银，热肝热肠细叮咛.孙兄弟，你年纪儿轻，骨头儿嫩这一个地方你再不能蹲。",
+      "sentence": "陆富基临走时给了孙铁匠十两银",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "临走哩给了他十两银，热肝热肠细叮咛.孙兄弟，你年纪儿轻，骨头儿嫩这一个地方你再不能蹲。",
+      "sentence": "陆富基叮嘱孙铁匠离开此地",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "哪里的五谷不养人哪里的黄土不埋人?领上你的婆姨娃娃快逃命挪上个地方了再活人。",
+      "sentence": "陆富基劝孙铁匠带家人逃离",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "孙铁匠",
+      "original_sentence": "孙铁匠磕了个响头谢了恩挑着那铁匠担担儿起了身。",
+      "sentence": "孙铁匠磕头感谢后起身离开",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "孙铁匠",
+      "original_sentence": "一路上眼泪缸缸舀不尽一路上婆娘娃娃受溜辛(辛苦)。",
+      "sentence": "孙铁匠一路流泪不止",
+      "behavior_type": 2
+    },
+    {
+      "role": "孙铁匠",
+      "original_sentence": "一路上眼泪缸缸舀不尽一路上婆娘娃娃受溜辛(辛苦)。",
+      "sentence": "孙铁匠与家人遭受辛苦",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "孙铁匠",
+      "original_sentence": "一路上饥哩饱哩讨哩要哩总算逃到了兰州城。",
+      "sentence": "孙铁匠一路艰辛最终抵达兰州城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "孙铁匠",
+      "original_sentence": "孙铁匠来到兰州城兰州城里活转人。",
+      "sentence": "孙铁匠抵达兰州城后重新生活",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "孙铁匠",
+      "original_sentence": "孙铁匠的手艺实在好得很打下的各样家什爱死人。",
+      "sentence": "孙铁匠的手艺精湛制作的家什精美",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "水磨灯盏亮晶晶一副子卖着八钱银。",
+      "sentence": "水磨灯盏售价为八钱银",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "孙铁匠",
+      "original_sentence": "这时节的孙铁匠活出了人教着些徒弟也还红火得很。",
+      "sentence": "孙铁匠生活红火并教授徒弟",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "听着说陆老爷来到兰州城南牢监里囚了身。",
+      "sentence": "陆富基被囚禁在兰州城南牢",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "孙铁匠",
+      "original_sentence": "孙铁匠本是个有心的人，生方设法要看恩人。",
+      "sentence": "孙铁匠设法要见恩人",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "孙铁匠",
+      "original_sentence": "一桌子酒席办了个全，粉团包子大卤面，鱼翅鱼肉玉兰片，海参头儿摆两盘，肉丝汤儿端两碗、汾酒瓶子也提上，南牢监里去把陆老爷看。",
+      "sentence": "孙铁匠准备酒席前往南牢监",
+      "behavior_type": 10
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "一桌子酒席办了个全，粉团包子大卤面，鱼翅鱼肉玉兰片，海参头儿摆两盘，肉丝汤儿端两碗、汾酒瓶子也提上，南牢监里去把陆老爷看。",
+      "sentence": "陆富基被囚禁在兰州城南牢",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "孙铁匠",
+      "original_sentence": "孙铁匠来到了南牢监、花了些银子花了些钱才和那陆老爷见了面：陆老爷、陆老爷孙铁匠来见恩人的面。",
+      "sentence": "孙铁匠前往南牢监探望陆老爷",
+      "behavior_type": 4
+    },
+    {
+      "role": "孙铁匠",
+      "original_sentence": "孙铁匠来到了南牢监、花了些银子花了些钱才和那陆老爷见了面：陆老爷、陆老爷孙铁匠来见恩人的面。",
+      "sentence": "孙铁匠花费银两与陆老爷见面",
+      "behavior_type": 13
+    },
+    {
+      "role": "孙铁匠",
+      "original_sentence": "孙铁匠来到了南牢监、花了些银子花了些钱才和那陆老爷见了面：陆老爷、陆老爷孙铁匠来见恩人的面。",
+      "sentence": "孙铁匠称呼陆老爷为恩人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "陆富基抬头睁眼看，只见孙铁匠在眼前，啊!你这个娃娃今个咋来了你怎么知道我押在监?叫一声陆老爷你听端详，你的事在兰州城里都传了个遍自打你押来的那一天，我就打问着把恩人访。",
+      "sentence": "陆富基抬头睁眼看见孙铁匠",
+      "behavior_type": 1
+    },
+    {
+      "role": "孙铁匠",
+      "original_sentence": "陆富基抬头睁眼看，只见孙铁匠在眼前，啊!你这个娃娃今个咋来了你怎么知道我押在监?叫一声陆老爷你听端详，你的事在兰州城里都传了个遍自打你押来的那一天，我就打问着把恩人访。",
+      "sentence": "孙铁匠询问陆富基为何在监",
+      "behavior_type": 7
+    },
+    {
+      "role": "孙铁匠",
+      "original_sentence": "陆富基抬头睁眼看，只见孙铁匠在眼前，啊!你这个娃娃今个咋来了你怎么知道我押在监?叫一声陆老爷你听端详，你的事在兰州城里都传了个遍自打你押来的那一天，我就打问着把恩人访。",
+      "sentence": "孙铁匠告知陆富基事情已传遍",
+      "behavior_type": 7
+    },
+    {
+      "role": "孙铁匠",
+      "original_sentence": "陆富基抬头睁眼看，只见孙铁匠在眼前，啊!你这个娃娃今个咋来了你怎么知道我押在监?叫一声陆老爷你听端详，你的事在兰州城里都传了个遍自打你押来的那一天，我就打问着把恩人访。",
+      "sentence": "孙铁匠打问着要访恩人陆富基",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "孙铁匠",
+      "original_sentence": "你的官司究竟怎么样?怎么又押到了省里边?陆富基压低声嗓悄悄儿讲，对住孙铁匠的耳朵如此这般说一遍。",
+      "sentence": "孙铁匠询问陆富基官司详情",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "你的官司究竟怎么样?怎么又押到了省里边?陆富基压低声嗓悄悄儿讲，对住孙铁匠的耳朵如此这般说一遍。",
+      "sentence": "陆富基低声告知孙铁匠情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "孙铁匠",
+      "original_sentence": "孙铁匠听罢长出了口气：叫声陆老爷你不要急，我给你的家里带上个信，叫给你带上些银子钱来办事情。",
+      "sentence": "孙铁匠告诉陆老爷不要着急",
+      "behavior_type": 7
+    },
+    {
+      "role": "孙铁匠",
+      "original_sentence": "孙铁匠听罢长出了口气：叫声陆老爷你不要急，我给你的家里带上个信，叫给你带上些银子钱来办事情。",
+      "sentence": "孙铁匠表示会通知陆老爷家人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "我再给你添上半揽子(一半)我们也给他走一个神路子(门路),走上个神路子好说话，把这个官司了结掉了算了吧!陆富基一听满肚子的气，滚你的个软蛋囊包子!哪里来的银子哪里来的钱，把这些狗赃官们惯成仙动不动、哼不哼就送银子钱。",
+      "sentence": "陆富基听闻后感到非常愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "我再给你添上半揽子(一半)我们也给他走一个神路子(门路),走上个神路子好说话，把这个官司了结掉了算了吧!陆富基一听满肚子的气，滚你的个软蛋囊包子!哪里来的银子哪里来的钱，把这些狗赃官们惯成仙动不动、哼不哼就送银子钱。",
+      "sentence": "提议走门路解决官司问题",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "我围衙门就为的反赃官，今日个怎么能再花赃银送狗官!有了银子有了钱叫我的娃娃儿女好好吃来好好穿长大了再给我报仇冤。",
+      "sentence": "陆富基坚决反对贿赂贪官污吏",
+      "behavior_type": 2
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "我围衙门就为的反赃官，今日个怎么能再花赃银送狗官!有了银子有了钱叫我的娃娃儿女好好吃来好好穿长大了再给我报仇冤。",
+      "sentence": "陆富基希望子女用钱改善生活",
+      "behavior_type": 8
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "我围衙门就为的反赃官，今日个怎么能再花赃银送狗官!有了银子有了钱叫我的娃娃儿女好好吃来好好穿长大了再给我报仇冤。",
+      "sentence": "陆富基期待子女长大为他报仇",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你的银子你好好儿放着去当上个本钱了把买卖好好干着去。",
+      "sentence": "银子应当用于经营买卖",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "做官的手里把印把子掌拿的是偏刃子斧头硬把事情砍。",
+      "sentence": "官员掌握权力并强行处理事务",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "世上纵有十条路，九条就有人不知。",
+      "sentence": "世上多数道路无人知晓",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这会子落到傢手里，就是你有理也无理。",
+      "sentence": "落到手里有理也变成无理",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "孙铁匠",
+      "original_sentence": "豁下个给他把命送上二十年又是个男子汉!孙铁匠，酸了心，陆老爷的心肠就硬得很。",
+      "sentence": "孙铁匠感到心酸",
+      "behavior_type": 2
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "豁下个给他把命送上二十年又是个男子汉!孙铁匠，酸了心，陆老爷的心肠就硬得很。",
+      "sentence": "陆富基心肠非常硬",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "陆老爷，你吃吧!吃上些了再说吧!陆富基是一个大肝花他的那酒量可实实是大。",
+      "sentence": "陆富基的酒量确实非常大",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "吸溜嘛啪一阵子一桌子酒席下肚子。",
+      "sentence": "陆富基迅速吃完了一桌酒席",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "吃饱了，喝足了探监的时辰就到了。",
+      "sentence": "陆富基吃饱喝足后前往探监",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "孙铁匠",
+      "original_sentence": "孙铁匠也得回去了.陆老爷，你在吧，你就多多保重吧。",
+      "sentence": "孙铁匠准备离开回家",
+      "behavior_type": 4
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "孙铁匠也得回去了.陆老爷，你在吧，你就多多保重吧。",
+      "sentence": "陆富基继续留在原地",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "孙铁匠",
+      "original_sentence": "孙铁匠不是无义的人往后些我再来看你吧!好!好!回去吧，孙家兄弟你回去吧。",
+      "sentence": "孙铁匠表示日后会再来探望",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "孙铁匠不是无义的人往后些我再来看你吧!好!好!回去吧，孙家兄弟你回去吧。",
+      "sentence": "孙家兄弟被劝告先行回去",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那时节你逃出凉州地。",
+      "sentence": "那时节逃出了凉州地",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一去几年无消息。",
+      "sentence": "几年间没有任何消息传来",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "孙铁匠",
+      "original_sentence": "今日在这里见了你你的光景也还很可以。",
+      "sentence": "孙铁匠见到陆老爷感到欣慰",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "就说是你还有福气，就说是活人就得靠手艺。",
+      "sentence": "活人需要依靠手艺生存",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "两个人说了几句知心的话。",
+      "sentence": "两人交谈了几句知心话",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "惊堂木立者公案上两班人役站了个全陆富基叫家提到公堂上，贺藩台惊堂木一拍太凶残狼眼一绷来审问驮!陆富基、你好大胆谁叫你围的武威县你领头造反是做啥哩，百姓们谁叫你传着喱，衙门是谁叫你围着哩，巡警楼子是谁打的?快些儿给我说清楚!陆富基，怪着气，驾了声贺藩台你这个驴日的，你是一个做宫的，吃五谷，你局驴粪，纱帽戴在驴头上，蟒袍穿在驴身上，朝靴蹬在驴蹄上。",
+      "sentence": "陆富基被贺藩台提审到公堂上",
+      "behavior_type": 7
+    },
+    {
+      "role": "贺藩台",
+      "original_sentence": "惊堂木立者公案上两班人役站了个全陆富基叫家提到公堂上，贺藩台惊堂木一拍太凶残狼眼一绷来审问驮!陆富基、你好大胆谁叫你围的武威县你领头造反是做啥哩，百姓们谁叫你传着喱，衙门是谁叫你围着哩，巡警楼子是谁打的?快些儿给我说清楚!陆富基，怪着气，驾了声贺藩台你这个驴日的，你是一个做宫的，吃五谷，你局驴粪，纱帽戴在驴头上，蟒袍穿在驴身上，朝靴蹬在驴蹄上。",
+      "sentence": "贺藩台拍惊堂木审问陆富基",
+      "behavior_type": 7
+    },
+    {
+      "role": "贺藩台",
+      "original_sentence": "惊堂木立者公案上两班人役站了个全陆富基叫家提到公堂上，贺藩台惊堂木一拍太凶残狼眼一绷来审问驮!陆富基、你好大胆谁叫你围的武威县你领头造反是做啥哩，百姓们谁叫你传着喱，衙门是谁叫你围着哩，巡警楼子是谁打的?快些儿给我说清楚!陆富基，怪着气，驾了声贺藩台你这个驴日的，你是一个做宫的，吃五谷，你局驴粪，纱帽戴在驴头上，蟒袍穿在驴身上，朝靴蹬在驴蹄上。",
+      "sentence": "贺藩台质问陆富基造反之事",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "惊堂木立者公案上两班人役站了个全陆富基叫家提到公堂上，贺藩台惊堂木一拍太凶残狼眼一绷来审问驮!陆富基、你好大胆谁叫你围的武威县你领头造反是做啥哩，百姓们谁叫你传着喱，衙门是谁叫你围着哩，巡警楼子是谁打的?快些儿给我说清楚!陆富基，怪着气，驾了声贺藩台你这个驴日的，你是一个做宫的，吃五谷，你局驴粪，纱帽戴在驴头上，蟒袍穿在驴身上，朝靴蹬在驴蹄上。",
+      "sentence": "陆富基怒骂贺藩台是驴日的",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "惊堂木立者公案上两班人役站了个全陆富基叫家提到公堂上，贺藩台惊堂木一拍太凶残狼眼一绷来审问驮!陆富基、你好大胆谁叫你围的武威县你领头造反是做啥哩，百姓们谁叫你传着喱，衙门是谁叫你围着哩，巡警楼子是谁打的?快些儿给我说清楚!陆富基，怪着气，驾了声贺藩台你这个驴日的，你是一个做宫的，吃五谷，你局驴粪，纱帽戴在驴头上，蟒袍穿在驴身上，朝靴蹬在驴蹄上。",
+      "sentence": "陆富基对贺藩台感到极度愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "孙铁匠",
+      "original_sentence": "再也没有啥好办法，孙铁匠隔三间五就来把他看望喀。",
+      "sentence": "孙铁匠经常前往看望他",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "(十一)陆富基叫人家押在南牢监，贺藩台揣情(思谋)者正想把这个官司断。",
+      "sentence": "陆富基被押在南牢监中",
+      "behavior_type": 4
+    },
+    {
+      "role": "贺藩台",
+      "original_sentence": "(十一)陆富基叫人家押在南牢监，贺藩台揣情(思谋)者正想把这个官司断。",
+      "sentence": "贺藩台正思考如何断案",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这时节凉州府送来了三道文书三千两银，文书上白纸黑字写得明。",
+      "sentence": "凉州府送来文书和三千两银",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这是个凉州的厉害人，此人的本事还大得很。",
+      "sentence": "此人本事非常之大",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "眼前若不把此人杀，日后就是个大祸根。",
+      "sentence": "贺藩台决定立即处决此人",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "若是留他一条命，我们的官儿就做不成。",
+      "sentence": "贺藩台认为必须杀死此人",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "贺藩台收了银子看了文，立时间就把案子定。",
+      "sentence": "贺藩台接收银两并查阅文书",
+      "behavior_type": 7
+    },
+    {
+      "role": "贺藩台",
+      "original_sentence": "贺藩台收了银子看了文，立时间就把案子定。",
+      "sentence": "贺藩台立即作出案件裁决",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "陆富基判到了死罪上，就地杀头不容情。",
+      "sentence": "陆富基被判处死刑立即执行",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "那一天贺藩台升了堂。",
+      "sentence": "贺藩台升堂审理案件",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "陆富基提到了公堂上。",
+      "sentence": "陆富基被押解至公堂上",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "再的罪名先不提，图衡门、打巡警罪恶大得了不得。",
+      "sentence": "再的罪名先不提图衡门打巡警",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "头儿还没有落下地一碗烧酒递给了陆富基。",
+      "sentence": "有人递给陆富基一碗烧酒",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "陆富基接过酒碗一仰脸咕嘟嘟一口气喝了个底朝天。",
+      "sentence": "陆富基接过酒碗一口气喝完",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "冷不防咔嚓一碗砸过去贺藩台狗头一歪碗砸偏。",
+      "sentence": "陆富基将碗砸向贺藩台但未击中",
+      "behavior_type": 13
+    },
+    {
+      "role": "贺藩台",
+      "original_sentence": "冷不防咔嚓一碗砸过去贺藩台狗头一歪碗砸偏。",
+      "sentence": "贺藩台迅速歪头躲过飞来的碗",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "老贼心里吓得瞠瞠噗，身背后砸死了一个站堂的汉。",
+      "sentence": "贺藩台心里感到非常害怕",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "老贼心里吓得瞠瞠噗，身背后砸死了一个站堂的汉。",
+      "sentence": "身背后有人被砸死了",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "贺藩台恼羞成怒生了气，啜了声堂威把陆富基绑。",
+      "sentence": "贺藩台因愤怒而绑了陆富基",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "脊背里背的是亡命旗鬼头大刀亮晃晃押上陆富基往杀场里行。",
+      "sentence": "陆富基被押往杀场执行死刑",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "一路子来到肖家坪整整等了一时辰午时三刻斩令行。",
+      "sentence": "陆富基在肖家坪等待了一个时辰",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "一路子来到肖家坪整整等了一时辰午时三刻斩令行。",
+      "sentence": "午时三刻执行了斩令",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "亡命旗、送秋风追魂炮，响通通咔嚓一刀杀得狠人头就咕辘辘滚到了地埃尘。",
+      "sentence": "陆富基被斩首后头颅滚落地面",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "杀掉了凉州的一个好汉子可惜了一个钢棒硬铮的真英雄。",
+      "sentence": "陆富基被杀害于凉州刑场",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "孙铁匠",
+      "original_sentence": "孙铁匠，酸了心，一翻身跪到地埃尘。",
+      "sentence": "孙铁匠感到悲伤跪倒在地",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "孙铁匠",
+      "original_sentence": "揪心挖肝哭了个痛。",
+      "sentence": "孙铁匠因悲伤而痛哭流涕",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "陆老爷，陆老爷前几日我劝你不听也说是你的性子直，骨头硬，今天就叫傢送了命。",
+      "sentence": "陆富基因不听劝告而丧命",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "几个棺人来雇上把陆老爷的人头原缝上。",
+      "sentence": "棺人将陆老爷人头缝回原处",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "袍袍褂褂都穿上，花头子棺材来装上。",
+      "sentence": "将袍褂穿戴整齐并装入花头棺材",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "烧了纸，奠了钱，忏张纸辣样样全，一封书信来写上，寄到了关帝庙的陆家庄。",
+      "sentence": "有人写了一封信寄到陆家庄",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "姓娃儿女看了信，十股子的眼湘九股子淌。",
+      "sentence": "娃儿女看了信后泪流满面",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "八十岁的老娘看了信爬到地上哭断了肠。",
+      "sentence": "八十岁的老娘因信痛哭流涕",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他的那失人看了信，心里头想契奖不出声。",
+      "sentence": "失人看了信后心中默默思考",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "他的那弟兄们看了信，眼睛哭成了红灯笼。",
+      "sentence": "弟兄们看完信后痛哭流涕",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "赶紧拾报干粮备盘缠，套了个骡车起了身，兰州城里去搬尸灵。",
+      "sentence": "准备干粮盘缠前往兰州城",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "数日间魂归故里返回来，关帝庙停下了陆富基的灵。",
+      "sentence": "陆富基的灵柩停在关帝庙",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "高僧高道来请上，设了个灵堂来祭奠陆夫人披麻又戴孝，跪到那灵堂里心酸了。",
+      "sentence": "陆夫人跪在灵堂感到心酸",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "老母亲碰头哭哀哀爬到灵前起不来。",
+      "sentence": "老母亲悲痛欲绝爬向灵前",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "娃娃儿们哭得更可怜哭得人心里刀子剜杨成绪，来吊唁跪到灵前把祭文念。",
+      "sentence": "娃娃们哭得令人心如刀割",
+      "behavior_type": 2
+    },
+    {
+      "role": "杨成绪",
+      "original_sentence": "娃娃儿们哭得更可怜哭得人心里刀子剜杨成绪，来吊唁跪到灵前把祭文念。",
+      "sentence": "杨成绪跪在灵前念祭文",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "祭文字字写得真念一句揪得人心里痛。",
+      "sentence": "杨成绪念祭文令人心痛",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "陆兄弟，陆兄弟活着你是个好汉子，死了你咽不下这口冤枉气，这回的事情是明摆的，你是叫赃官害死的，你到那阴曹路上等着去，等一个冤冤相报的好日子。",
+      "sentence": "陆富基死后仍心怀冤枉",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "陆兄弟，陆兄弟活着你是个好汉子，死了你咽不下这口冤枉气，这回的事情是明摆的，你是叫赃官害死的，你到那阴曹路上等着去，等一个冤冤相报的好日子。",
+      "sentence": "等待冤冤相报的日子到来",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "有冤的就报冤，有气的就出气，冤气出够了你就升天去!杨成绪，祭了灵披麻戴孝七天整陆富基含冤饮恨葬在了家乡中(十二)贺藩台杀了陆富基这一个官司他有功哩。",
+      "sentence": "杨成绪在灵堂念诵祭文悼念陆富基",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "有冤的就报冤，有气的就出气，冤气出够了你就升天去!杨成绪，祭了灵披麻戴孝七天整陆富基含冤饮恨葬在了家乡中(十二)贺藩台杀了陆富基这一个官司他有功哩。",
+      "sentence": "陆富基因冤屈而含恨离世",
+      "behavior_type": 3
+    },
+    {
+      "role": "贺藩台",
+      "original_sentence": "有冤的就报冤，有气的就出气，冤气出够了你就升天去!杨成绪，祭了灵披麻戴孝七天整陆富基含冤饮恨葬在了家乡中(十二)贺藩台杀了陆富基这一个官司他有功哩。",
+      "sentence": "贺藩台因杀害陆富基而立功",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "说他的案子断得好伊家的官职又升了。",
+      "sentence": "贺藩台因断案有功而升官",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "兰州省上升到新疆了升成了新疆的巡抚了。",
+      "sentence": "贺藩台从兰州省升到新疆省",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "贺藩台，升了官带上了家眷上新疆。",
+      "sentence": "贺藩台升官后携家眷前往新疆",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "婆姨娃娃都带上，大小姨太都跟上。",
+      "sentence": "贺藩台携带家眷前往新疆",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "娃娃儿跳得叫着哩婆姨们高兴地笑着哩。",
+      "sentence": "娃娃们高兴地跳着叫着",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "娃娃儿跳得叫着哩婆姨们高兴地笑着哩。",
+      "sentence": "婆姨们开心地笑着说着",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "一路上来到了武威县大小官儿着了忙。",
+      "sentence": "贺藩台带领家眷抵达武威县",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "一路上来到了武威县大小官儿着了忙。",
+      "sentence": "武威县官员们开始忙碌起来",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "达府街上有公馆大红灯笼挂门前。",
+      "sentence": "达府街上的公馆门前挂着大红灯笼",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "贺藩台迎到了公馆里，公馆拾掇得阔着哩。",
+      "sentence": "贺藩台被迎入公馆内",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "贺藩台迎到了公馆里，公馆拾掇得阔着哩。",
+      "sentence": "公馆被收拾得十分豪华",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "红油漆的柱子黑油漆的门，灯笼彩绸一灿明。",
+      "sentence": "红漆柱子黑漆门挂灯笼彩绸",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "洋戏厘子嗡嗡嗡。",
+      "sentence": "洋戏厘子发出嗡嗡声响",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "自鸣钟走得静静静。",
+      "sentence": "自鸣钟持续保持静默状态",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "玻璃茶壶水烟瓶各粹儿的好物件实在多得很。",
+      "sentence": "公馆内有许多精致物件",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "贺藩台，心旷然怎么来到了凉州这个好地方。",
+      "sentence": "贺藩台心情愉悦地来到凉州",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "吃的是清油炸白面腊肉夹子味道长。",
+      "sentence": "食用清油炸白面腊肉夹子",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "水晶包子大卤面、小摊小吃样样儿全。",
+      "sentence": "水晶包子大卤面和小摊小吃种类繁多",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "心想着来了就住几天多住上几天了再把新疆上。",
+      "sentence": "贺藩台打算在凉州多住几天",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "贺藩台正在公馆来歇缓.杨成绪听见了风声好喜欢。",
+      "sentence": "贺藩台在公馆中休息",
+      "behavior_type": 12
+    },
+    {
+      "role": "杨成绪",
+      "original_sentence": "贺藩台正在公馆来歇缓.杨成绪听见了风声好喜欢。",
+      "sentence": "杨成绪听闻消息后感到高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "一份子厚礼来提上，一件黑袍子来披上。",
+      "sentence": "贺藩台提上厚礼披上黑袍",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "来到了公馆的大门上，要叫把门的给传一传。",
+      "sentence": "杨成绪来到公馆大门前",
+      "behavior_type": 4
+    },
+    {
+      "role": "杨成绪",
+      "original_sentence": "来到了公馆的大门上，要叫把门的给传一传。",
+      "sentence": "杨成绪要求门卫通报",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "哎!把门的，你们听，传给你们的贺大人。",
+      "sentence": "杨成绪要求门卫通报贺藩台",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "我是凉州的杨成绪，是一个穷酸老头子。",
+      "sentence": "杨成绪自称是凉州的穷酸老头子",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "他有心，我有意，要连他喧个谎儿哩。",
+      "sentence": "杨成绪有意与贺藩台交谈",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "把门的人役报进去贺藩台一听对着哩杨成绪是一个老秀才他在凉州有名气。",
+      "sentence": "贺藩台听闻杨成绪前来拜访",
+      "behavior_type": 7
+    },
+    {
+      "role": "杨成绪",
+      "original_sentence": "把门的人役报进去贺藩台一听对着哩杨成绪是一个老秀才他在凉州有名气。",
+      "sentence": "杨成绪在凉州颇有名气",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "字也好，画也好伊家的学问可深着哩巴不得还叫傢来着哩。",
+      "sentence": "杨成绪的学问非常深厚",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "说声请，快些请，把门的开开大门让着叫傢进。",
+      "sentence": "把门的人请杨成绪快些进门",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "杨成绪提起袍子腿不动，嘴里咕嘟咕嘟也说的是请，请请请，请请请，陆家的兄弟你先请。",
+      "sentence": "杨成绪提起袍子并说请",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "杨成绪提起袍子腿不动，嘴里咕嘟咕嘟也说的是请，请请请，请请请，陆家的兄弟你先请。",
+      "sentence": "陆富基被邀请先行进入",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我先进，你后进跟住我的尻子你快进!把门的一听眼睛瞪老汉子是不是有了疯?明明就是他一个人他还要请着哪一个进?噢!人老了，颠钝了黑面馍馍当成点心了。",
+      "sentence": "我先进你后进跟着我快进",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "我先进，你后进跟住我的尻子你快进!把门的一听眼睛瞪老汉子是不是有了疯?明明就是他一个人他还要请着哪一个进?噢!人老了，颠钝了黑面馍馍当成点心了。",
+      "sentence": "把门的人瞪眼怀疑老汉疯了",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "我先进，你后进跟住我的尻子你快进!把门的一听眼睛瞪老汉子是不是有了疯?明明就是他一个人他还要请着哪一个进?噢!人老了，颠钝了黑面馍馍当成点心了。",
+      "sentence": "明明一个人还要请谁进来",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "我先进，你后进跟住我的尻子你快进!把门的一听眼睛瞪老汉子是不是有了疯?明明就是他一个人他还要请着哪一个进?噢!人老了，颠钝了黑面馍馍当成点心了。",
+      "sentence": "人老糊涂把黑馍当点心",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "说着说着往里进来到贺大人的客房中。",
+      "sentence": "杨成绪走进贺藩台的客房中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "噢!贺大人，贺大人恭喜你做官又高升。",
+      "sentence": "贺藩台升官职位得到提升",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "我是凉州的杨成绪特来看望大人表寸心。",
+      "sentence": "杨成绪前来拜访大人表达心意",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "好!好!杨成绪，快看坐，快看坐。",
+      "sentence": "杨成绪被邀请坐下",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你是凉州的老先生你的学问高得很我在省里就有闻听。",
+      "sentence": "凉州老先生学问高省里有闻听",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "杨成绪提起袍子刚坐哩，忽然间饶桌子转三转腿也翻，嘴也张，嘴里丢魂丧魄乱叫唤：啊呀呀，不好了，不妙了!你瞭这个鬼魂蹲在桌子底下了。",
+      "sentence": "杨成绪突然感到极度恐惧",
+      "behavior_type": 2
+    },
+    {
+      "role": "杨成绪",
+      "original_sentence": "杨成绪提起袍子刚坐哩，忽然间饶桌子转三转腿也翻，嘴也张，嘴里丢魂丧魄乱叫唤：啊呀呀，不好了，不妙了!你瞭这个鬼魂蹲在桌子底下了。",
+      "sentence": "杨成绪的腿和嘴突然抽动",
+      "behavior_type": 1
+    },
+    {
+      "role": "杨成绪",
+      "original_sentence": "杨成绪提起袍子刚坐哩，忽然间饶桌子转三转腿也翻，嘴也张，嘴里丢魂丧魄乱叫唤：啊呀呀，不好了，不妙了!你瞭这个鬼魂蹲在桌子底下了。",
+      "sentence": "杨成绪惊恐地喊叫有鬼魂",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这个鬼不是旁的鬼，他是那肖家坪上的冤屈鬼。",
+      "sentence": "鬼魂是肖家坪上的冤屈鬼",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "黑胡子，胖胖子还是个魁伟汉汉子，正是关爷庙上的陆嵩基哎!陆富基，陆富基，你跟上我来到这里做啥喱、钻到桌子底下又是做啥哩?什么?什么?要头哩?你问谁一个要头哩?什么?什么?贺大人!你问贺大人要头喱?贺大人傢没有拿你的头，你问傢要的是什么头?快去!快去!快出去!我还连贺大人喧谎喱。",
+      "sentence": "陆富基质问对方为何来到此处",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "黑胡子，胖胖子还是个魁伟汉汉子，正是关爷庙上的陆嵩基哎!陆富基，陆富基，你跟上我来到这里做啥喱、钻到桌子底下又是做啥哩?什么?什么?要头哩?你问谁一个要头哩?什么?什么?贺大人!你问贺大人要头喱?贺大人傢没有拿你的头，你问傢要的是什么头?快去!快去!快出去!我还连贺大人喧谎喱。",
+      "sentence": "陆富基询问对方为何躲在桌下",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "黑胡子，胖胖子还是个魁伟汉汉子，正是关爷庙上的陆嵩基哎!陆富基，陆富基，你跟上我来到这里做啥喱、钻到桌子底下又是做啥哩?什么?什么?要头哩?你问谁一个要头哩?什么?什么?贺大人!你问贺大人要头喱?贺大人傢没有拿你的头，你问傢要的是什么头?快去!快去!快出去!我还连贺大人喧谎喱。",
+      "sentence": "陆富基质问对方为何索要头颅",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "黑胡子，胖胖子还是个魁伟汉汉子，正是关爷庙上的陆嵩基哎!陆富基，陆富基，你跟上我来到这里做啥喱、钻到桌子底下又是做啥哩?什么?什么?要头哩?你问谁一个要头哩?什么?什么?贺大人!你问贺大人要头喱?贺大人傢没有拿你的头，你问傢要的是什么头?快去!快去!快出去!我还连贺大人喧谎喱。",
+      "sentence": "陆富基告诉对方贺大人未拿头",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "黑胡子，胖胖子还是个魁伟汉汉子，正是关爷庙上的陆嵩基哎!陆富基，陆富基，你跟上我来到这里做啥喱、钻到桌子底下又是做啥哩?什么?什么?要头哩?你问谁一个要头哩?什么?什么?贺大人!你问贺大人要头喱?贺大人傢没有拿你的头，你问傢要的是什么头?快去!快去!快出去!我还连贺大人喧谎喱。",
+      "sentence": "陆富基要求对方立即离开此处",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "黑胡子，胖胖子还是个魁伟汉汉子，正是关爷庙上的陆嵩基哎!陆富基，陆富基，你跟上我来到这里做啥喱、钻到桌子底下又是做啥哩?什么?什么?要头哩?你问谁一个要头哩?什么?什么?贺大人!你问贺大人要头喱?贺大人傢没有拿你的头，你问傢要的是什么头?快去!快去!快出去!我还连贺大人喧谎喱。",
+      "sentence": "陆富基表示要与贺大人交谈",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "哎!贺大人，贺大人，你说扫兴不扫兴，今天我说来看拜你，备了些薄礼给你洗尘哩。",
+      "sentence": "贺藩台表示今日前来拜访备礼",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "谁知道碰见了这个倒霉鬼，他说是问你要头哩!罢了!罢了!也罢了!这点子薄礼你收下吧!日后了再来看拜你。",
+      "sentence": "杨成绪告诉贺藩台遇见倒霉鬼",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "谁知道碰见了这个倒霉鬼，他说是问你要头哩!罢了!罢了!也罢了!这点子薄礼你收下吧!日后了再来看拜你。",
+      "sentence": "陆富基向贺藩台索要他的头",
+      "behavior_type": 7
+    },
+    {
+      "role": "杨成绪",
+      "original_sentence": "谁知道碰见了这个倒霉鬼，他说是问你要头哩!罢了!罢了!也罢了!这点子薄礼你收下吧!日后了再来看拜你。",
+      "sentence": "杨成绪请贺藩台收下薄礼",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "说着说着往外走，现走现往后摆手：陆兄弟，快走吧!快走吧，你蹲在这里缠的个啥?冤有头，债有主，冤冤相报会有期。",
+      "sentence": "杨成绪边说边往外走并摆手",
+      "behavior_type": 4
+    },
+    {
+      "role": "杨成绪",
+      "original_sentence": "说着说着往外走，现走现往后摆手：陆兄弟，快走吧!快走吧，你蹲在这里缠的个啥?冤有头，债有主，冤冤相报会有期。",
+      "sentence": "杨成绪劝陆富基离开此处",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "你若有灵就现吧现出来就叫他看吧!贺藩台心里犯了疑，这一个老头子做的个甚?怎么又说是陆富基跑着来问我要头哩!唉!不提陆富基还罢了，提起陆富基我心里虚傢是个凉州的好汉子我把傢杀得就有些屈。",
+      "sentence": "贺藩台对老头子的行为感到疑惑",
+      "behavior_type": 5
+    },
+    {
+      "role": "贺藩台",
+      "original_sentence": "你若有灵就现吧现出来就叫他看吧!贺藩台心里犯了疑，这一个老头子做的个甚?怎么又说是陆富基跑着来问我要头哩!唉!不提陆富基还罢了，提起陆富基我心里虚傢是个凉州的好汉子我把傢杀得就有些屈。",
+      "sentence": "贺藩台想起陆富基感到心虚",
+      "behavior_type": 2
+    },
+    {
+      "role": "贺藩台",
+      "original_sentence": "你若有灵就现吧现出来就叫他看吧!贺藩台心里犯了疑，这一个老头子做的个甚?怎么又说是陆富基跑着来问我要头哩!唉!不提陆富基还罢了，提起陆富基我心里虚傢是个凉州的好汉子我把傢杀得就有些屈。",
+      "sentence": "贺藩台承认杀害陆富基有屈",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "杨成绪尖儿虽说有些虚这鬼魂之事谁能说清楚?想着想着出了身汗一时儿迎风又着了些凉。",
+      "sentence": "杨成绪因恐惧而冒冷汗",
+      "behavior_type": 2
+    },
+    {
+      "role": "杨成绪",
+      "original_sentence": "杨成绪尖儿虽说有些虚这鬼魂之事谁能说清楚?想着想着出了身汗一时儿迎风又着了些凉。",
+      "sentence": "杨成绪迎风后感到寒冷",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "脑袋疼得裂烂哩眼睛红得火烫哩鼻血淌得冒窜哩。",
+      "sentence": "头部剧痛眼睛发红鼻血直流",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "赶后子转成了大阴症、大凉症阴寒相交的夹寒症。",
+      "sentence": "后来转变为严重的阴寒症状",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "请了个医生来看病凉州的老先生高得很。",
+      "sentence": "请医生为病人进行诊断治疗",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "望色哩，号脉哩，闻哩问哩下药哩。",
+      "sentence": "医生进行望闻问切后开药",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "下了副汤药攻为上开了个三黄石膏汤。",
+      "sentence": "医生开了一副三黄石膏汤药",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "尖儿把头副来喝上尻子里吱儿吱儿地冒清泉二副喝上桶底子翻尻子里的清水直股子淌。",
+      "sentence": "喝药后身体出现异常反应",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "眼睛一睁是杨成绪，眼睛一闭是陆富基。",
+      "sentence": "杨成绪睁开眼睛看见了陆富基",
+      "behavior_type": 1
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "眼睛一睁是杨成绪，眼睛一闭是陆富基。",
+      "sentence": "陆富基闭上眼睛想起了杨成绪",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "陆富基，血糊糊瞪着个眼睛骂他哩。",
+      "sentence": "陆富基愤怒地瞪着血红的眼睛",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一下子又到了公堂上，叭嚓地打过来一酒碗一下子又到了公馆里伸着手儿要头哩不给头就要捏他哩。",
+      "sentence": "某人突然出现在公堂上",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "一下子又到了公堂上，叭嚓地打过来一酒碗一下子又到了公馆里伸着手儿要头哩不给头就要捏他哩。",
+      "sentence": "某人用酒碗击打他人",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "一下子又到了公堂上，叭嚓地打过来一酒碗一下子又到了公馆里伸着手儿要头哩不给头就要捏他哩。",
+      "sentence": "某人突然出现在公馆里",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "一下子又到了公堂上，叭嚓地打过来一酒碗一下子又到了公馆里伸着手儿要头哩不给头就要捏他哩。",
+      "sentence": "某人伸手索要头颅",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "一下子又到了公堂上，叭嚓地打过来一酒碗一下子又到了公馆里伸着手儿要头哩不给头就要捏他哩。",
+      "sentence": "某人威胁要捏他人",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "贺藩台迷迷瞪瞪不清醒，昏昏沉沉做噩梦。",
+      "sentence": "贺藩台因噩梦而神志不清",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "梦里吓得说胡话，他的夫人害了怕。",
+      "sentence": "贺藩台在梦中因恐惧而说胡话",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "梦里吓得说胡话，他的夫人害了怕。",
+      "sentence": "他的夫人因此感到非常害怕",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "叫老爷，怎么办、怎么行.你今个定是叫鬼缠了身。",
+      "sentence": "贺藩台因恐惧而胡言乱语",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "叫老爷，怎么办、怎么行.你今个定是叫鬼缠了身。",
+      "sentence": "夫人因害怕而惊慌失措",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "我们倒是怎么办，你快些可要做主张!贺藩台，拿主意，凉州如今再不能住，快些子打点离此地。",
+      "sentence": "贺藩台被催促尽快做出决定",
+      "behavior_type": 7
+    },
+    {
+      "role": "贺藩台",
+      "original_sentence": "我们倒是怎么办，你快些可要做主张!贺藩台，拿主意，凉州如今再不能住，快些子打点离此地。",
+      "sentence": "贺藩台建议立即离开凉州",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "夫人紧着做准备，烧了些纸，化了些钱，把那个冤魂奠一奠。",
+      "sentence": "夫人准备烧纸化钱奠冤魂",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "把贺藩台扶掇到轿子里，动身前往上新疆。",
+      "sentence": "贺藩台被扶进轿子前往新疆",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "还没有走上一里远，眼睛一闭鬼魂就来缠。",
+      "sentence": "贺藩台闭眼后鬼魂前来纠缠",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "前也缠，后也缠，缠着连他把道理辩。",
+      "sentence": "贺藩台被鬼魂纠缠并与之辩论",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "左也缠，右也缠，缠着叫他把命债还。",
+      "sentence": "贺藩台被鬼魂缠着要求偿还命债",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "缠得贺藩台神不定，缠得贺藩台散了魂。",
+      "sentence": "贺藩台被缠得心神不宁",
+      "behavior_type": 2
+    },
+    {
+      "role": "贺藩台",
+      "original_sentence": "缠得贺藩台神不定，缠得贺藩台散了魂。",
+      "sentence": "贺藩台被缠得魂飞魄散",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "缠着来到一程墩(地名),陆富基怒气冲冲眼圆睁，指住鼻子骂着藩台不是人。",
+      "sentence": "陆富基愤怒地指着贺藩台骂",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "缠着来到一程墩(地名),陆富基怒气冲冲眼圆睁，指住鼻子骂着藩台不是人。",
+      "sentence": "他们来到了一处名为程墩的地方",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "贺藩台吓得跪到地埃尘，望天磕头祈冤魂：哎!陆富基，陆富基你是武威的好汉子。",
+      "sentence": "贺藩台因恐惧而跪地磕头",
+      "behavior_type": 2
+    },
+    {
+      "role": "贺藩台",
+      "original_sentence": "贺藩台吓得跪到地埃尘，望天磕头祈冤魂：哎!陆富基，陆富基你是武威的好汉子。",
+      "sentence": "贺藩台向天祈求冤魂饶恕",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "贺藩台吓得跪到地埃尘，望天磕头祈冤魂：哎!陆富基，陆富基你是武威的好汉子。",
+      "sentence": "贺藩台称赞陆富基是汉子",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "你就把我饶过吧，饶过吧!你不要连我来生气。",
+      "sentence": "贺藩台请求陆富基饶恕自己",
+      "behavior_type": 2
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "你就把我饶过吧，饶过吧!你不要连我来生气。",
+      "sentence": "陆富基对贺藩台感到愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "我虽是断的官司杀的你，那也是凉州府报的公文要杀你。",
+      "sentence": "贺藩台解释杀人是因公文要求",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "从此后我把你记挂永世不忘哩，我要尊供你，敬仰你一年四季祭奠你。",
+      "sentence": "从此后我会永远记挂你",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "祭罢化了些金银纸镍奠了些酒，扶进轿子上了路。",
+      "sentence": "贺藩台祭奠后乘轿离开",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一站来到四十里堡忽地起了一股子风。",
+      "sentence": "四十里堡突然刮起一阵大风",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "咔嚓一声轿杆断成两截棍咣当一声轿子扣到路当中啊哟一声贺藩台一命归了阴呕呕呕呕太太哭成了泪堆人这也是贺藩台的命尽了阳世三间他给干得毒辣了。",
+      "sentence": "贺藩台因轿子断裂而丧命",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "咔嚓一声轿杆断成两截棍咣当一声轿子扣到路当中啊哟一声贺藩台一命归了阴呕呕呕呕太太哭成了泪堆人这也是贺藩台的命尽了阳世三间他给干得毒辣了。",
+      "sentence": "太太因悲伤而痛哭流涕",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "咔嚓一声轿杆断成两截棍咣当一声轿子扣到路当中啊哟一声贺藩台一命归了阴呕呕呕呕太太哭成了泪堆人这也是贺藩台的命尽了阳世三间他给干得毒辣了。",
+      "sentence": "贺藩台的阳寿已经终结",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "千里路上来做官为了银子为了钱.今个叫银钱把他送到了死路上。",
+      "sentence": "贺藩台因贪财而最终丧命",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "贺藩台",
+      "original_sentence": "贺藩台老家是山东的人尸灵要搬上回山东。",
+      "sentence": "贺藩台的尸灵将被运回山东",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那一日四十里路上好伤情，一家儿哭哭啼啼凄凄惶惶，扶着那尸灵就登路程。",
+      "sentence": "一家人在路上悲伤哭泣",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "那一日四十里路上好伤情，一家儿哭哭啼啼凄凄惶惶，扶着那尸灵就登路程。",
+      "sentence": "他们扶着尸灵开始上路",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "消息传到了凉州城杨成绪听见笑了几声.哼!阳世三间理不正，阴司里也还有报应!(十三)《鞭杆记》唱到这时节有一个人物还没下落。",
+      "sentence": "杨成绪听闻消息后笑了几声",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "消息传到了凉州城杨成绪听见笑了几声.哼!阳世三间理不正，阴司里也还有报应!(十三)《鞭杆记》唱到这时节有一个人物还没下落。",
+      "sentence": "阳世三间理不正阴司有报应",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "消息传到了凉州城杨成绪听见笑了几声.哼!阳世三间理不正，阴司里也还有报应!(十三)《鞭杆记》唱到这时节有一个人物还没下落。",
+      "sentence": "鞭杆记唱到这时节人物无下落",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "前头我们唱了十二段唱的是抗粮捐，写传单传百姓，捉豪绅，打巡警、围衙门陆富基屈死肖家坪、贺藩台命丧凉州城往后的曲儿更伤情，接下来要唱齐飞卿。",
+      "sentence": "陆富基在肖家坪不幸身亡",
+      "behavior_type": 3
+    },
+    {
+      "role": "贺藩台",
+      "original_sentence": "前头我们唱了十二段唱的是抗粮捐，写传单传百姓，捉豪绅，打巡警、围衙门陆富基屈死肖家坪、贺藩台命丧凉州城往后的曲儿更伤情，接下来要唱齐飞卿。",
+      "sentence": "贺藩台在凉州城丧命",
+      "behavior_type": 3
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "前头我们唱了十二段唱的是抗粮捐，写传单传百姓，捉豪绅，打巡警、围衙门陆富基屈死肖家坪、贺藩台命丧凉州城往后的曲儿更伤情，接下来要唱齐飞卿。",
+      "sentence": "接下来将讲述齐飞卿的故事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "那一日齐飞卿使了个脱壳计翻上了白马一趟子，腾腾腾跑到了北套里。",
+      "sentence": "齐飞卿骑马快速奔向北方",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "北套里他地熟人又熟跑着去就有了落脚处齐飞卿、文才高、字儿写得俊，画儿画得好。",
+      "sentence": "齐飞卿在北套里找到了落脚处",
+      "behavior_type": 4
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "北套里他地熟人又熟跑着去就有了落脚处齐飞卿、文才高、字儿写得俊，画儿画得好。",
+      "sentence": "齐飞卿文才高字画俱佳",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "画下的山河林木活生生画下的梅兰菊竹爱死人画下的松柏绿莹莹，画下的喜鹊喳喳喳喳叫出声傢还画着个葡萄架，七月七牛郎织女喜相逢。",
+      "sentence": "齐飞卿画出了栩栩如生的山河林木",
+      "behavior_type": 14
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "画下的山河林木活生生画下的梅兰菊竹爱死人画下的松柏绿莹莹，画下的喜鹊喳喳喳喳叫出声傢还画着个葡萄架，七月七牛郎织女喜相逢。",
+      "sentence": "齐飞卿画出了美丽的梅兰菊竹",
+      "behavior_type": 14
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "画下的山河林木活生生画下的梅兰菊竹爱死人画下的松柏绿莹莹，画下的喜鹊喳喳喳喳叫出声傢还画着个葡萄架，七月七牛郎织女喜相逢。",
+      "sentence": "齐飞卿画出了绿莹莹的松柏",
+      "behavior_type": 14
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "画下的山河林木活生生画下的梅兰菊竹爱死人画下的松柏绿莹莹，画下的喜鹊喳喳喳喳叫出声傢还画着个葡萄架，七月七牛郎织女喜相逢。",
+      "sentence": "齐飞卿画出了喳喳叫的喜鹊",
+      "behavior_type": 14
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "画下的山河林木活生生画下的梅兰菊竹爱死人画下的松柏绿莹莹，画下的喜鹊喳喳喳喳叫出声傢还画着个葡萄架，七月七牛郎织女喜相逢。",
+      "sentence": "齐飞卿画出了牛郎织女相会",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "鼻烟壶儿上刻画儿，傢的个手艺就高得很。",
+      "sentence": "齐飞卿擅长在鼻烟壶上刻画",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "刻下的蛤蟆活生生，两个眼睛水灵灵。",
+      "sentence": "齐飞卿刻画的蛤蟆栩栩如生",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "老汉们见了爱得很，人人夸傢的功夫深。",
+      "sentence": "齐飞卿的画作受到众人称赞",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "北套里住给了整三年，齐飞卿的朋友交了个广。",
+      "sentence": "齐飞卿结交了许多朋友",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "人人见了人人爱，一说个走哩谁也舍不得。",
+      "sentence": "人们都舍不得离开",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "北套里再好总不是久留地，还是要回家去看一看哩。",
+      "sentence": "齐飞卿决定离开北套回家乡",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "看看老朋友杨成绪，看看我的那陆兄弟。",
+      "sentence": "杨成绪去看望老朋友",
+      "behavior_type": 7
+    },
+    {
+      "role": "陆富基",
+      "original_sentence": "看看老朋友杨成绪，看看我的那陆兄弟。",
+      "sentence": "陆富基去看望兄弟",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "看看娃娃大人和婆姨看看那年的事情怎么的。",
+      "sentence": "回顾家人和过去的事情",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "攒下了银子三千两送两匹白马他骑上。",
+      "sentence": "齐飞卿积攒了三千两银子",
+      "behavior_type": 8
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "攒下了银子三千两送两匹白马他骑上。",
+      "sentence": "齐飞卿送了两匹白马",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "拉一匹，骑一匹快骑着马儿要上武威哩。",
+      "sentence": "陆富基骑着马前往武威",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "赶着走来赶着行急忙忙走了数日整。",
+      "sentence": "急忙赶路走了数日整",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "七月十五月儿圆来到了凉州的家乡院。",
+      "sentence": "七月十五来到凉州的家乡院",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "婆姨见了心高兴娃娃儿女都长成了人邻居们，都来了，娃娃们，围上了有的叫哥哥，有的叫爹爹有的叫伯伯，有的叫爷爷。",
+      "sentence": "婆姨见到儿女成长感到高兴",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "婆姨见了心高兴娃娃儿女都长成了人邻居们，都来了，娃娃们，围上了有的叫哥哥，有的叫爹爹有的叫伯伯，有的叫爷爷。",
+      "sentence": "邻居们前来围观并称呼亲人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "几年了没见过这个人当下见了就亲热得很。",
+      "sentence": "多年未见当下见面感到十分亲热",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "糖点心，花月饼西瓜果子摆齐整。",
+      "sentence": "糖点心花月饼西瓜果子摆整齐",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "又来了些子朋友们大家喧哩说哩真高兴。",
+      "sentence": "朋友们聚在一起愉快交谈",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "转眼间又过了若干天朋友们来来往往天天喧。",
+      "sentence": "若干天后朋友们依然来往频繁",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "喧了些三年前头的那些子事，又喧了后来的这一些事。",
+      "sentence": "人们谈论过去和现在的事情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "喧着叫齐飞卿搭了不少的泪，喧着把往后的打算连一处子堆。",
+      "sentence": "齐飞卿谈及往事时流下眼泪",
+      "behavior_type": 7
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "喧着叫齐飞卿搭了不少的泪，喧着把往后的打算连一处子堆。",
+      "sentence": "齐飞卿与众人讨论未来计划",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "再说这齐飞卿有个当家侄儿子，绰号就叫个齐豁子。",
+      "sentence": "齐飞卿有一个当家侄儿子",
+      "behavior_type": 8
+    },
+    {
+      "role": "齐豁子",
+      "original_sentence": "再说这齐飞卿有个当家侄儿子，绰号就叫个齐豁子。",
+      "sentence": "齐豁子是齐飞卿的侄儿子",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "齐豁子",
+      "original_sentence": "齐豁子不是好东西他是齐家的败家子。",
+      "sentence": "齐豁子是齐家的败家子",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "齐豁子",
+      "original_sentence": "他想着把齐飞卿送到监牢里，他好得这些家产哩。",
+      "sentence": "齐豁子企图夺取齐飞卿的家产",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "齐豁子",
+      "original_sentence": "谋着算着他要给齐飞卿凑一个事，写了一个状子他就告到了衙门里。",
+      "sentence": "齐豁子谋划陷害齐飞卿",
+      "behavior_type": 10
+    },
+    {
+      "role": "齐豁子",
+      "original_sentence": "谋着算着他要给齐飞卿凑一个事，写了一个状子他就告到了衙门里。",
+      "sentence": "齐豁子撰写状子告发齐飞卿",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "白纸黑字写得明要想叫齐飞卿送性命捉不住的齐飞卿回来了，围衙门的齐飞卿回来了。",
+      "sentence": "齐飞卿从衙门回到了原地",
+      "behavior_type": 4
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "白纸黑字写得明要想叫齐飞卿送性命捉不住的齐飞卿回来了，围衙门的齐飞卿回来了。",
+      "sentence": "齐飞卿再次出现在衙门周围",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "天天有人喧着哩、还想着又要造反哩!写了一个状子他又花了些子钱.状子就递到了衙门上梅浆子、王之清、李特生一见状子哩就害怕得很。",
+      "sentence": "有人喧嚷着要造反",
+      "behavior_type": 7
+    },
+    {
+      "role": "齐豁子",
+      "original_sentence": "天天有人喧着哩、还想着又要造反哩!写了一个状子他又花了些子钱.状子就递到了衙门上梅浆子、王之清、李特生一见状子哩就害怕得很。",
+      "sentence": "齐豁子写了一个状子",
+      "behavior_type": 14
+    },
+    {
+      "role": "齐豁子",
+      "original_sentence": "天天有人喧着哩、还想着又要造反哩!写了一个状子他又花了些子钱.状子就递到了衙门上梅浆子、王之清、李特生一见状子哩就害怕得很。",
+      "sentence": "齐豁子花费了一些钱",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "天天有人喧着哩、还想着又要造反哩!写了一个状子他又花了些子钱.状子就递到了衙门上梅浆子、王之清、李特生一见状子哩就害怕得很。",
+      "sentence": "状子被递到了衙门",
+      "behavior_type": 7
+    },
+    {
+      "role": "梅县长",
+      "original_sentence": "天天有人喧着哩、还想着又要造反哩!写了一个状子他又花了些子钱.状子就递到了衙门上梅浆子、王之清、李特生一见状子哩就害怕得很。",
+      "sentence": "梅县长见到状子害怕",
+      "behavior_type": 2
+    },
+    {
+      "role": "王之清",
+      "original_sentence": "天天有人喧着哩、还想着又要造反哩!写了一个状子他又花了些子钱.状子就递到了衙门上梅浆子、王之清、李特生一见状子哩就害怕得很。",
+      "sentence": "王之清见到状子害怕",
+      "behavior_type": 2
+    },
+    {
+      "role": "李特生",
+      "original_sentence": "天天有人喧着哩、还想着又要造反哩!写了一个状子他又花了些子钱.状子就递到了衙门上梅浆子、王之清、李特生一见状子哩就害怕得很。",
+      "sentence": "李特生见到状子害怕",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "府道三县来商议，把这个事情来会议。",
+      "sentence": "府道三县共同商议此事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "先是那协台开了言.齐飞卿这是个生祸的蛋，抓住了要把他重重地办。",
+      "sentence": "协台指责齐飞卿是个祸害",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "打虎不死他要伤人哩，捉住齐飞卿可要杀头哩。",
+      "sentence": "捉住齐飞卿将会被处决",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "要抓就抓得个净净的，不能再留下后患子。",
+      "sentence": "要抓就抓得干净不留后患",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "派上的还是刘胡子和戴连子，三十个马队都是攒劲小伙子。",
+      "sentence": "派出三十名马队成员执行任务",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "一时间来到齐飞卿的门，家里的人可就来得多得很。",
+      "sentence": "许多人来到齐飞卿的家门口",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "嘻嘻哈哈正在喧着哩，热热闹闹正把牌来玩着哩。",
+      "sentence": "人们正在热热闹闹地玩牌",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "刘胡子",
+      "original_sentence": "刘胡子，偷着笑，这一会可把他给堵下了冷不防马队进了门，呼啦啦要捉齐飞卿。",
+      "sentence": "刘胡子暗自窃喜成功围堵目标",
+      "behavior_type": 2
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "刘胡子，偷着笑，这一会可把他给堵下了冷不防马队进了门，呼啦啦要捉齐飞卿。",
+      "sentence": "马队突然闯入要捉拿齐飞卿",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "齐飞卿胳膊一挖出了声：老爷们，请坐吧喝上口茶了再说吧。",
+      "sentence": "齐飞卿邀请老爷们坐下喝茶",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "身子一转往里进使了个隐身法溜出了门。",
+      "sentence": "齐飞卿转身进入并使用隐身法离开",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "三十个马队定定看齐飞卿怎么给没有了?齐飞卿，噗噗噗一溜风跑到大门上。",
+      "sentence": "齐飞卿迅速跑向大门方向",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "三十个马队定定看齐飞卿怎么给没有了?齐飞卿，噗噗噗一溜风跑到大门上。",
+      "sentence": "三十个马队注视着齐飞卿消失",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "出了大门往南转跑到当铺里去避难。",
+      "sentence": "齐飞卿离开大门前往当铺避难",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "齐豁子",
+      "original_sentence": "当铺的掌柜的爱下棋摆开棋势杀几局马队们东寻西打摸不着门，齐豁子的嘴里露了风。",
+      "sentence": "齐豁子透露了马队的行踪",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "马队指到了当铺里团团围定了当铺门。",
+      "sentence": "马队将当铺团团围住",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "齐飞卿蹭地跳到伙房里，伙房里正在蒸馍馍。",
+      "sentence": "齐飞卿迅速跳进了伙房",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "笼蒸底子都踏净，笼圈子一个一个摞齐整。",
+      "sentence": "笼蒸底子被踏净笼圈子摞齐整",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "上去钻到锅台上顶住的笼圈都搭上烧火的你给我鼓劲烧这会子我就藏好了。",
+      "sentence": "齐飞卿钻到锅台上顶住笼圈",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "上去钻到锅台上顶住的笼圈都搭上烧火的你给我鼓劲烧这会子我就藏好了。",
+      "sentence": "烧火的人被要求鼓劲烧火",
+      "behavior_type": 10
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "上去钻到锅台上顶住的笼圈都搭上烧火的你给我鼓劲烧这会子我就藏好了。",
+      "sentence": "齐飞卿此刻已经藏好了",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "烧火的啪嗒啪嗒烧得紧大笼蒸呼哧呼哧热气腾。",
+      "sentence": "烧火的人正在用力烧火",
+      "behavior_type": 11
+    },
+    {
+      "role": "",
+      "original_sentence": "烧火的啪嗒啪嗒烧得紧大笼蒸呼哧呼哧热气腾。",
+      "sentence": "大笼蒸正在冒着热气",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "三十个马队里里外外挨着找，找给了几遍找不着。",
+      "sentence": "马队四处搜寻但未能找到目标",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "刘胡子来到伙房中风箱拉得轰轰轰灶里的火焰红彤彤。",
+      "sentence": "刘胡子进入伙房拉动风箱",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "叫老总，快来请，快来请，吃一个馍馍热腾腾。",
+      "sentence": "邀请老总品尝热腾腾的馍馍",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "烧火的揭开笼盖取上层、拿了两个馍馍递给刘胡子的勤务兵刘胡子带领队伍往外行齐飞卿揭开笼盖跳出身、咳、就这些脓包烂狗松能把我做个啥事情2齐飞卿、又跑掉转过身跑到家里了抱起他的娃娃哈哈笑齐豁子一看齐飞卿又回来了心窝里气得黄水冒跑出来又找到刘胡子两个人定了个狠毒计(十四)这一天，刘胡子的马队又出行有几个装成了老百姓，就在那豁子家的屋里蹲。",
+      "sentence": "齐飞卿揭开笼盖跳出蒸笼",
+      "behavior_type": 4
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "烧火的揭开笼盖取上层、拿了两个馍馍递给刘胡子的勤务兵刘胡子带领队伍往外行齐飞卿揭开笼盖跳出身、咳、就这些脓包烂狗松能把我做个啥事情2齐飞卿、又跑掉转过身跑到家里了抱起他的娃娃哈哈笑齐豁子一看齐飞卿又回来了心窝里气得黄水冒跑出来又找到刘胡子两个人定了个狠毒计(十四)这一天，刘胡子的马队又出行有几个装成了老百姓，就在那豁子家的屋里蹲。",
+      "sentence": "齐飞卿转身跑回自己家中",
+      "behavior_type": 4
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "烧火的揭开笼盖取上层、拿了两个馍馍递给刘胡子的勤务兵刘胡子带领队伍往外行齐飞卿揭开笼盖跳出身、咳、就这些脓包烂狗松能把我做个啥事情2齐飞卿、又跑掉转过身跑到家里了抱起他的娃娃哈哈笑齐豁子一看齐飞卿又回来了心窝里气得黄水冒跑出来又找到刘胡子两个人定了个狠毒计(十四)这一天，刘胡子的马队又出行有几个装成了老百姓，就在那豁子家的屋里蹲。",
+      "sentence": "齐飞卿抱起娃娃开心大笑",
+      "behavior_type": 2
+    },
+    {
+      "role": "齐豁子",
+      "original_sentence": "烧火的揭开笼盖取上层、拿了两个馍馍递给刘胡子的勤务兵刘胡子带领队伍往外行齐飞卿揭开笼盖跳出身、咳、就这些脓包烂狗松能把我做个啥事情2齐飞卿、又跑掉转过身跑到家里了抱起他的娃娃哈哈笑齐豁子一看齐飞卿又回来了心窝里气得黄水冒跑出来又找到刘胡子两个人定了个狠毒计(十四)这一天，刘胡子的马队又出行有几个装成了老百姓，就在那豁子家的屋里蹲。",
+      "sentence": "齐豁子看到后感到非常愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "齐豁子",
+      "original_sentence": "烧火的揭开笼盖取上层、拿了两个馍馍递给刘胡子的勤务兵刘胡子带领队伍往外行齐飞卿揭开笼盖跳出身、咳、就这些脓包烂狗松能把我做个啥事情2齐飞卿、又跑掉转过身跑到家里了抱起他的娃娃哈哈笑齐豁子一看齐飞卿又回来了心窝里气得黄水冒跑出来又找到刘胡子两个人定了个狠毒计(十四)这一天，刘胡子的马队又出行有几个装成了老百姓，就在那豁子家的屋里蹲。",
+      "sentence": "齐豁子跑去找刘胡子商议",
+      "behavior_type": 4
+    },
+    {
+      "role": "刘胡子",
+      "original_sentence": "烧火的揭开笼盖取上层、拿了两个馍馍递给刘胡子的勤务兵刘胡子带领队伍往外行齐飞卿揭开笼盖跳出身、咳、就这些脓包烂狗松能把我做个啥事情2齐飞卿、又跑掉转过身跑到家里了抱起他的娃娃哈哈笑齐豁子一看齐飞卿又回来了心窝里气得黄水冒跑出来又找到刘胡子两个人定了个狠毒计(十四)这一天，刘胡子的马队又出行有几个装成了老百姓，就在那豁子家的屋里蹲。",
+      "sentence": "刘胡子带领队伍再次出发",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "烧火的揭开笼盖取上层、拿了两个馍馍递给刘胡子的勤务兵刘胡子带领队伍往外行齐飞卿揭开笼盖跳出身、咳、就这些脓包烂狗松能把我做个啥事情2齐飞卿、又跑掉转过身跑到家里了抱起他的娃娃哈哈笑齐豁子一看齐飞卿又回来了心窝里气得黄水冒跑出来又找到刘胡子两个人定了个狠毒计(十四)这一天，刘胡子的马队又出行有几个装成了老百姓，就在那豁子家的屋里蹲。",
+      "sentence": "几个马队成员伪装成百姓",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "下剩的前儿后儿齐家的庄子围了个硬。",
+      "sentence": "齐家的庄子被围了个水泄不通",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "这当儿齐飞卿在屋里喧事情，突然间狗儿咬得阵子紧。",
+      "sentence": "齐飞卿在屋里讲述事情",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "这当儿齐飞卿在屋里喧事情，突然间狗儿咬得阵子紧。",
+      "sentence": "狗儿突然咬得很紧",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "齐飞卿走出屋门看情形，豁子的屋里一下涌出七八个人。",
+      "sentence": "齐飞卿走出屋门查看情况",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "齐飞卿走出屋门看情形，豁子的屋里一下涌出七八个人。",
+      "sentence": "豁子屋里涌出七八个人",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "七手八脚把他捆了个硬，进城来交到了县衙门。",
+      "sentence": "齐飞卿被众人捆绑送至县衙",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "梅县长，升了堂，夹棍板子当地里放。",
+      "sentence": "梅县长升堂并放置了刑具",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "手拍惊堂醒木子响，开言把飞卿盗贼叫几遍：三年前造反谁叫你干，武威的百姓谁叫你传，王之清的门楼子谁叫你点，县里衙门谁叫你闯叫你砸掉巡警楼子把国法犯，谁叫你勾结穷鬼想造反?齐飞卿，生了气骂了声狗官梅浆子。",
+      "sentence": "梅县长拍惊堂木质问齐飞卿",
+      "behavior_type": 7
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "手拍惊堂醒木子响，开言把飞卿盗贼叫几遍：三年前造反谁叫你干，武威的百姓谁叫你传，王之清的门楼子谁叫你点，县里衙门谁叫你闯叫你砸掉巡警楼子把国法犯，谁叫你勾结穷鬼想造反?齐飞卿，生了气骂了声狗官梅浆子。",
+      "sentence": "齐飞卿愤怒责骂梅县长狗官",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "贪赃枉法比蛇蝎毒苛榨百姓你就像大粪里的蛆。",
+      "sentence": "齐飞卿怒斥梅县长贪赃枉法",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "红月捐，白月捐这些个杂税是谁定的?干下的事情没道理你做官到底是干啥的?你嘴里说的是为国家，编白弄精实是为个家。",
+      "sentence": "梅县长质问齐飞卿为何造反",
+      "behavior_type": 7
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "红月捐，白月捐这些个杂税是谁定的?干下的事情没道理你做官到底是干啥的?你嘴里说的是为国家，编白弄精实是为个家。",
+      "sentence": "齐飞卿愤怒斥责梅县长",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "红月捐，白月捐这些个杂税是谁定的?干下的事情没道理你做官到底是干啥的?你嘴里说的是为国家，编白弄精实是为个家。",
+      "sentence": "质问杂税制定者无道理",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "齐飞卿的文才实在是高把梅县长问了个没嘴刨。",
+      "sentence": "齐飞卿质问梅县长使其无言以对",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "虽说是梅县长把齐飞卿审，实在叫齐飞卿把梅县长问。",
+      "sentence": "梅县长审问齐飞卿",
+      "behavior_type": 7
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "虽说是梅县长把齐飞卿审，实在叫齐飞卿把梅县长问。",
+      "sentence": "齐飞卿质问梅县长",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "问了个大牙张嘴恼羞怒，喝了声大胆的强盗带下去。",
+      "sentence": "梅县长因愤怒而命令将强盗带走",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "不怕你今天的嘴环子硬，嘴环子再硬也是个闲事情。",
+      "sentence": "嘴硬并不能改变事实",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "今天我要把你往死路上送定了条暗计来杀人。",
+      "sentence": "梅县长决定使用暗计杀害对方",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "八月十三卯时中，要杀那英雄齐飞卿。",
+      "sentence": "八月十三卯时中要杀齐飞卿",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "梅县长",
+      "original_sentence": "怕的是凉州地皮子硬，那一天要防备劫杀场的人。",
+      "sentence": "梅县长担心凉州地皮子太硬",
+      "behavior_type": 2
+    },
+    {
+      "role": "梅县长",
+      "original_sentence": "怕的是凉州地皮子硬，那一天要防备劫杀场的人。",
+      "sentence": "梅县长要防备劫杀场的人",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "到了八月十三这一天。",
+      "sentence": "时间来到了八月十三日",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "九股子的麻绳把齐飞卿绑。",
+      "sentence": "齐飞卿被九股麻绳紧紧捆绑",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "(十五)亡命旗子脊背里飘，刀斧手提的是鬼头刀推哩操哩来到大什字卯时未到就问斩哩追魂炮、摧人魂鬼头刀、耀眼明一刀砍上没动静、脖子里起了个红印印第二刀下去不睁(理睬)齐飞卿鼻子里打冷哼瞎狗赃官不是人刀斧手也是个囊包松要杀了你就拿上个利刀子给老子给上个利索的。",
+      "sentence": "齐飞卿对赃官表示极度不满",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "(十五)亡命旗子脊背里飘，刀斧手提的是鬼头刀推哩操哩来到大什字卯时未到就问斩哩追魂炮、摧人魂鬼头刀、耀眼明一刀砍上没动静、脖子里起了个红印印第二刀下去不睁(理睬)齐飞卿鼻子里打冷哼瞎狗赃官不是人刀斧手也是个囊包松要杀了你就拿上个利刀子给老子给上个利索的。",
+      "sentence": "刀斧手执行死刑但未成功",
+      "behavior_type": 9
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "(十五)亡命旗子脊背里飘，刀斧手提的是鬼头刀推哩操哩来到大什字卯时未到就问斩哩追魂炮、摧人魂鬼头刀、耀眼明一刀砍上没动静、脖子里起了个红印印第二刀下去不睁(理睬)齐飞卿鼻子里打冷哼瞎狗赃官不是人刀斧手也是个囊包松要杀了你就拿上个利刀子给老子给上个利索的。",
+      "sentence": "齐飞卿嘲讽刀斧手无能",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "齐飞卿这里暗把气功运一刀之罪他两刀都没杀成监斩的官儿着了忙怕的是有人来劫法场。",
+      "sentence": "齐飞卿暗中运起气功抵抗",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "齐飞卿这里暗把气功运一刀之罪他两刀都没杀成监斩的官儿着了忙怕的是有人来劫法场。",
+      "sentence": "两刀未能成功杀死齐飞卿",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "齐飞卿这里暗把气功运一刀之罪他两刀都没杀成监斩的官儿着了忙怕的是有人来劫法场。",
+      "sentence": "监斩官因担忧而显得慌乱",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "赶紧把齐飞卿按到了街台子上脖子里垫给了一块砖，老刀放上咯吱咯吱锯。",
+      "sentence": "齐飞卿被按在街台子上垫砖",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "锯给了半天才锯断，人头咕辘辘滚到了街当间，噗的一声热血喷出十丈远。",
+      "sentence": "齐飞卿的头颅被锯断滚落",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "锯给了半天才锯断，人头咕辘辘滚到了街当间，噗的一声热血喷出十丈远。",
+      "sentence": "热血从颈部喷出十丈远",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这时节法场上没有一个旁的人，大什子里阴风惨惨日无光。",
+      "sentence": "法场上阴风惨惨日无光",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "可惜了凉州的英雄齐飞卿，死了个不明不白又冤枉。",
+      "sentence": "齐飞卿不幸冤死令人惋惜",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "按理说一刀之罪一刀亡，为什么三刀两刀还要把头锯烂?这时节没有一个人来敢问，更没有一个劫法场的人。",
+      "sentence": "法场上无人敢问劫法场事",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "齐飞卿",
+      "original_sentence": "锯死了齐飞卿赃官的心里平，炮声三响开城门，进来了城里人，乡里人人山人海往大什子里涌。",
+      "sentence": "齐飞卿被锯死赃官心里平",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "锯死了齐飞卿赃官的心里平，炮声三响开城门，进来了城里人，乡里人人山人海往大什子里涌。",
+      "sentence": "炮声三响后城门被打开",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "锯死了齐飞卿赃官的心里平，炮声三响开城门，进来了城里人，乡里人人山人海往大什子里涌。",
+      "sentence": "城里人和乡里人涌入大什子",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "跑到法场跟前看一个个都说是怪可怜。",
+      "sentence": "人们聚集在法场周围观看",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "这时节来了杨成绪看了一看怪着气头里大杀了齐兄弟，没有一个人把头出这会子看的人可又多得很唉声叹气能做个啥事情?老汉子越想越生气一下把裤子丢到腿弯里。",
+      "sentence": "杨成绪看到后感到非常愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "这时节来了杨成绪看了一看怪着气头里大杀了齐兄弟，没有一个人把头出这会子看的人可又多得很唉声叹气能做个啥事情?老汉子越想越生气一下把裤子丢到腿弯里。",
+      "sentence": "围观群众纷纷发出叹息声",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "这时节来了杨成绪看了一看怪着气头里大杀了齐兄弟，没有一个人把头出这会子看的人可又多得很唉声叹气能做个啥事情?老汉子越想越生气一下把裤子丢到腿弯里。",
+      "sentence": "老人越想越感到气愤",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "尻子撅得高高的就在那大什子里尿尿哩。",
+      "sentence": "某人撅着屁股在大什子尿尿",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "杨成绪的孙娃子看见了说爷爷你活着颠钝了大什字里这么多的人你怎么就不顾个羞耻了?哎!小孙娃，你憨着哩凉州城里哪里来的人?凉州人知道羞耻是个啥事情!有一个掌柜的看见了.杨四爷，杨四爷日头照得明晃晃大天白日尿尿怎么看不见?放狗屁，放狗屁!谁在这里放狗屁?明明是黑咕隆咚的不见天，哪里有太阳照得明晃晃?凉州的天爷多会子亮，凉州人啥时候能看见?众人一听哩愧难当，一个一个都走散。",
+      "sentence": "杨成绪的孙娃子指责他不顾羞耻",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "杨成绪的孙娃子看见了说爷爷你活着颠钝了大什字里这么多的人你怎么就不顾个羞耻了?哎!小孙娃，你憨着哩凉州城里哪里来的人?凉州人知道羞耻是个啥事情!有一个掌柜的看见了.杨四爷，杨四爷日头照得明晃晃大天白日尿尿怎么看不见?放狗屁，放狗屁!谁在这里放狗屁?明明是黑咕隆咚的不见天，哪里有太阳照得明晃晃?凉州的天爷多会子亮，凉州人啥时候能看见?众人一听哩愧难当，一个一个都走散。",
+      "sentence": "掌柜的质疑杨四爷白日尿尿",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "杨成绪的孙娃子看见了说爷爷你活着颠钝了大什字里这么多的人你怎么就不顾个羞耻了?哎!小孙娃，你憨着哩凉州城里哪里来的人?凉州人知道羞耻是个啥事情!有一个掌柜的看见了.杨四爷，杨四爷日头照得明晃晃大天白日尿尿怎么看不见?放狗屁，放狗屁!谁在这里放狗屁?明明是黑咕隆咚的不见天，哪里有太阳照得明晃晃?凉州的天爷多会子亮，凉州人啥时候能看见?众人一听哩愧难当，一个一个都走散。",
+      "sentence": "有人反驳说天色黑不见太阳",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "杨成绪的孙娃子看见了说爷爷你活着颠钝了大什字里这么多的人你怎么就不顾个羞耻了?哎!小孙娃，你憨着哩凉州城里哪里来的人?凉州人知道羞耻是个啥事情!有一个掌柜的看见了.杨四爷，杨四爷日头照得明晃晃大天白日尿尿怎么看不见?放狗屁，放狗屁!谁在这里放狗屁?明明是黑咕隆咚的不见天，哪里有太阳照得明晃晃?凉州的天爷多会子亮，凉州人啥时候能看见?众人一听哩愧难当，一个一个都走散。",
+      "sentence": "众人感到羞愧难当纷纷离开",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "杨成绪，酸了心，爬到尘埃来祭灵。",
+      "sentence": "杨成绪感到悲伤并前去祭奠",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "杨成绪",
+      "original_sentence": "一道祭文写得好，字字血泪祭英灵：生是人杰真英雄，为了穷汉人丢了命。",
+      "sentence": "杨成绪撰写祭文悼念英雄",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "陆富基",
+      "original_sentence": "阳世三间硬铮铮，阴曹地府也是鬼中雄!祭罢灵，忙起身，收拾尸灵安葬定这就是武威的两个大英雄陆富基，齐飞卿，大闹凉州的事一宗。",
+      "sentence": "陆富基与齐飞卿大闹凉州城",
+      "behavior_type": 3
+    },
+    {
+      "role": "齐飞卿",
+      "original_sentence": "阳世三间硬铮铮，阴曹地府也是鬼中雄!祭罢灵，忙起身，收拾尸灵安葬定这就是武威的两个大英雄陆富基，齐飞卿，大闹凉州的事一宗。",
+      "sentence": "齐飞卿与陆富基大闹凉州城",
+      "behavior_type": 3
+    }
+  ]
+]

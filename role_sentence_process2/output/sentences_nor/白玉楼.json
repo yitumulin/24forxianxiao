@@ -1,0 +1,2904 @@
+[
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "第一场：《休妻》张彦：身处陋巷一箪食，志在鹏程万里云。",
+      "sentence": "张彦身处陋巷却志在千里",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "：风雨虽同舟，各自怀千秋。",
+      "sentence": "张彦与众人虽同行却各有志向",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一旦风浪起，天涯分漂流。",
+      "sentence": "风浪起时他们将各自漂流天涯",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：狂雪飞宇宙白天寒地冷，为丈夫去行乞见霜冲风。",
+      "sentence": "白玉楼冒雪为丈夫行乞",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "有一日天睁眼云开路径，方不负寒窗下穷苦书生。",
+      "sentence": "张彦终得云开见日不负寒窗",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "张彦：人在世纵饿死品节为上，岂能够贪生死坏了纲常。",
+      "sentence": "张彦认为饿死也要保持品节",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "从今后不劳你为我设想，快莫要为别人冒雪冲霜。",
+      "sentence": "张彦告诉白玉楼不必为他设想",
+      "behavior_type": 7
+    },
+    {
+      "role": "张彦",
+      "original_sentence": "从今后不劳你为我设想，快莫要为别人冒雪冲霜。",
+      "sentence": "张彦劝白玉楼不要冒雪冲霜",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：张郎啊！",
+      "sentence": "白玉楼称呼张彦为张郎",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "好夫妻恩爱情深似海洋，岂能因贫与富变了心肠。",
+      "sentence": "白玉楼认为夫妻情深不应因贫富改变",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "妻有错还望你明言细讲，万莫可听旁人飞短流长。",
+      "sentence": "白玉楼请求张彦明言她的过错",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "哎呀，不好了！",
+      "sentence": "情况变得非常糟糕",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "忽然间飞来祸从空下降，用血口喷好人如同材狼。",
+      "sentence": "突然遭遇无端祸事从天而降",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "忽然间飞来祸从空下降，用血口喷好人如同材狼。",
+      "sentence": "用恶毒言语诬陷善良的人们",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "张郎夫你何不细思细想，白玉楼岂肯作丧节败常。",
+      "sentence": "张彦仔细思考白玉楼的行为",
+      "behavior_type": 5
+    },
+    {
+      "role": "白玉楼",
+      "original_sentence": "张郎夫你何不细思细想，白玉楼岂肯作丧节败常。",
+      "sentence": "白玉楼坚持不做违背节操的事",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "张彦：有铁证岂容你花言巧讲，明明是欺我穷没有夫纲。",
+      "sentence": "张彦指责对方花言巧语欺骗",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "论情理应把你处置命丧，读书人我不忍手刃尔亡。",
+      "sentence": "张彦决定不亲手处死白玉楼",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：张郎！",
+      "sentence": "白玉楼呼唤张郎",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "罢了张郎！",
+      "sentence": "白玉楼对张彦说罢了",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "张郎！",
+      "sentence": "白玉楼呼唤张彦的名字",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "张郎！",
+      "sentence": "白玉楼呼唤张彦的名字",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "白氏泪不干，张郎听心间。",
+      "sentence": "白玉楼因悲伤而泪流不止",
+      "behavior_type": 2
+    },
+    {
+      "role": "张彦",
+      "original_sentence": "白氏泪不干，张郎听心间。",
+      "sentence": "张彦倾听白玉楼的心声",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "你我结夫妻，恩爱无疑嫌。",
+      "sentence": "白玉楼与张彦结为恩爱夫妻",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "：叫夫君你何不细思细想，那有个夫在家约会情郎。",
+      "sentence": "叫夫君仔细思考不合常理",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "你乃读书人，何不据理参。",
+      "sentence": "张彦作为读书人应当据理力争",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "那有夫在家，反约情人到门前哪！",
+      "sentence": "白玉楼指责丈夫约情人到家门",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "张郎夫怒冲冲不容细讲，绝情义将休书掷在一旁-。",
+      "sentence": "张彦愤怒地将休书扔在一旁",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "明明是有仇人暗中放箭，要拆散好鸳鸯两地分张。",
+      "sentence": "仇人暗中放箭拆散好鸳鸯",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "张彦：我本是皇门客游泮上，岂容你失节妇坏我门墙。",
+      "sentence": "张彦指责对方败坏门风",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "怒冲冲取笔砚何需多想，一霎时写就了休书一张。",
+      "sentence": "张彦愤怒地写下一封休书",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "岂信恶人语，立时断姻缘。",
+      "sentence": "张彦听信恶言立即断绝了姻缘",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：哎呀！",
+      "sentence": "白玉楼发出惊讶的感叹",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "~~~不好了！",
+      "sentence": "白玉楼感到情况非常不妙",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "咱夫妻从今后断绝来往，再莫要假慈悲作怪装腔。",
+      "sentence": "张彦宣布夫妻关系从此断绝",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "咱夫妻从今后断绝来往，再莫要假慈悲作怪装腔。",
+      "sentence": "要求对方不要再假装慈悲",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "似这样天地黑风雪狂荡，却叫我白玉楼走向何方。",
+      "sentence": "白玉楼在风雪中不知去向",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "：我不免到前院，哀求婶娘与我讲情了！",
+      "sentence": "白玉楼决定去前院请求婶娘讲情",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "：求婶娘到后院去把情讲，也免得好夫妻变作参商。",
+      "sentence": "白玉楼请求婶娘去后院讲情",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "：求婶娘到后院去把情讲，也免得好夫妻变作参商。",
+      "sentence": "好夫妻关系可能发生变化",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "战兢兢站门外不敢声唱，又恐怕小房中有那强梁。",
+      "sentence": "白玉楼战兢兢站在门外不敢出声",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "战兢兢站门外不敢声唱，又恐怕小房中有那强梁。",
+      "sentence": "小房中可能存在危险人物",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：婶娘开门来!钱赛花：谁呀！",
+      "sentence": "白玉楼请求婶娘打开房门",
+      "behavior_type": 7
+    },
+    {
+      "role": "钱赛花",
+      "original_sentence": "白玉楼：婶娘开门来!钱赛花：谁呀！",
+      "sentence": "钱赛花询问门外是何人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：我是玉楼啊！",
+      "sentence": "白玉楼向对方表明自己的身份",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "我叫叫一声婶娘呀！",
+      "sentence": "白玉楼向婶娘发出呼唤",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "婶娘！",
+      "sentence": "白玉楼呼唤婶娘前来开门",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "媳妇今日大街讨膳回来，你侄儿心中有些烦恼，将媳妇抢白了几句，也就罢了，谁知不多一时，来了来了一个强徒，他说媳妇和她有情，约他夜晚来会，你侄儿立时大怒！",
+      "sentence": "白玉楼因被抢白而感到烦恼",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "媳妇今日大街讨膳回来，你侄儿心中有些烦恼，将媳妇抢白了几句，也就罢了，谁知不多一时，来了来了一个强徒，他说媳妇和她有情，约他夜晚来会，你侄儿立时大怒！",
+      "sentence": "强徒声称与白玉楼有情约",
+      "behavior_type": 7
+    },
+    {
+      "role": "张彦",
+      "original_sentence": "媳妇今日大街讨膳回来，你侄儿心中有些烦恼，将媳妇抢白了几句，也就罢了，谁知不多一时，来了来了一个强徒，他说媳妇和她有情，约他夜晚来会，你侄儿立时大怒！",
+      "sentence": "张彦听闻后立即勃然大怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "写就休书把我赶出门来，可怜媳妇冒雪乞讨，唤婶娘前去讲情，将媳妇收留在家呀！",
+      "sentence": "白玉楼被丈夫赶出家门",
+      "behavior_type": 3
+    },
+    {
+      "role": "白玉楼",
+      "original_sentence": "写就休书把我赶出门来，可怜媳妇冒雪乞讨，唤婶娘前去讲情，将媳妇收留在家呀！",
+      "sentence": "白玉楼冒雪乞讨求生",
+      "behavior_type": 12
+    },
+    {
+      "role": "白玉楼",
+      "original_sentence": "写就休书把我赶出门来，可怜媳妇冒雪乞讨，唤婶娘前去讲情，将媳妇收留在家呀！",
+      "sentence": "白玉楼请求婶娘讲情收留",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "：求婶娘到前房去把情讲，念媳妇冒风雪讨要街坊。",
+      "sentence": "白玉楼请求婶娘前去讲情",
+      "behavior_type": 7
+    },
+    {
+      "role": "白玉楼",
+      "original_sentence": "：求婶娘到前房去把情讲，念媳妇冒风雪讨要街坊。",
+      "sentence": "白玉楼冒风雪在街坊乞讨",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "倘不准我只有悬梁自丧，救苦的观世音就是婶娘。",
+      "sentence": "倘若不准许我将选择自尽",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "倘不准我只有悬梁自丧，救苦的观世音就是婶娘。",
+      "sentence": "观世音菩萨如同婶娘般慈悲",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "钱赛花",
+      "original_sentence": "钱赛花：你失节早就有外人乱讲，玷辱了我张家清白门墙。",
+      "sentence": "钱赛花指责对方玷辱张家门墙",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：见婶娘恶森森不把情讲，反凌辱我失节败坏门墙。",
+      "sentence": "白玉楼被婶娘恶言相向感到羞辱",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "莫不是把前隙记在心上，又恐怕生枝节另起祸殃。",
+      "sentence": "白玉楼担心前隙被记在心上",
+      "behavior_type": 5
+    },
+    {
+      "role": "白玉楼",
+      "original_sentence": "莫不是把前隙记在心上，又恐怕生枝节另起祸殃。",
+      "sentence": "白玉楼恐怕会另起祸殃",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "倒不如对夫君好话多讲，哭啼啼在门外口称张郎。",
+      "sentence": "白玉楼向夫君诉说心中委屈",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "：张郎！",
+      "sentence": "白玉楼在门外呼唤张彦",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "我叫叫一声张郎啊！",
+      "sentence": "白玉楼在门外呼唤张郎",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "张郎！",
+      "sentence": "白玉楼在门外呼唤张彦",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "你想你妻若有私情，岂肯这样受冻首恶，讨饭供你读书，可怜我受尽千辛万苦，就是做鬼当能心甘。",
+      "sentence": "白玉楼诉说自己的艰辛与忠诚",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "张彦：他那里哭啼啼反复细讲，即就是铁石人也动肝肠。",
+      "sentence": "张彦听到哭声感到肝肠寸断",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "罢罢罢！",
+      "sentence": "张彦决定不再继续争论",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "将恶气暂压心上。",
+      "sentence": "张彦暂时压制住心中的恶气",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "开房门暂留她避在一旁。",
+      "sentence": "张彦打开房门让她暂避一旁",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "秀才名声最为大，岂容淫妇留在家。",
+      "sentence": "张彦认为名声不容淫妇玷污",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "以往恩爱成空话，今日钢刀断葛瓜。",
+      "sentence": "张彦回忆往昔恩爱已成空话",
+      "behavior_type": 2
+    },
+    {
+      "role": "张彦",
+      "original_sentence": "以往恩爱成空话，今日钢刀断葛瓜。",
+      "sentence": "张彦今日用钢刀斩断情丝",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：好话儿我说了千千万万，张秀才心似那铁石一般。",
+      "sentence": "白玉楼对张彦说了许多好话",
+      "behavior_type": 7
+    },
+    {
+      "role": "张彦",
+      "original_sentence": "白玉楼：好话儿我说了千千万万，张秀才心似那铁石一般。",
+      "sentence": "张彦心如铁石不为所动",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "全不念恩爱情共同患难，下狠心割断了结发情缘。",
+      "sentence": "张彦狠心割断结发情缘",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "全不念恩爱情共同患难，下狠心割断了结发情缘。",
+      "sentence": "全不念恩爱情共同患难",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "蒙羞名在人世难以立站，若不死怎挡得纵口乱言。",
+      "sentence": "白玉楼因蒙羞而难以立足",
+      "behavior_type": 2
+    },
+    {
+      "role": "白玉楼",
+      "original_sentence": "蒙羞名在人世难以立站，若不死怎挡得纵口乱言。",
+      "sentence": "白玉楼选择以死抵挡流言",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "周刚",
+      "original_sentence": "第二场：《劫持》周刚：作夜晚和情人暗将计定，果然把白玉楼赶出门厅。",
+      "sentence": "周刚与情人暗中定下计策",
+      "behavior_type": 10
+    },
+    {
+      "role": "周刚",
+      "original_sentence": "第二场：《劫持》周刚：作夜晚和情人暗将计定，果然把白玉楼赶出门厅。",
+      "sentence": "周刚将白玉楼赶出门厅",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "周刚",
+      "original_sentence": "江贤弟他和我交情深重，送一个美娘子全当补情。",
+      "sentence": "周刚与江夏交情深厚",
+      "behavior_type": 7
+    },
+    {
+      "role": "周刚",
+      "original_sentence": "江贤弟他和我交情深重，送一个美娘子全当补情。",
+      "sentence": "周刚收到江夏赠送的美娘子",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "周刚",
+      "original_sentence": "这一下骗白氏去无踪影。",
+      "sentence": "周刚设计将白玉楼骗离家门",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "周刚",
+      "original_sentence": "也可算拔去了我眼中之钉。",
+      "sentence": "周刚认为拔去了眼中钉",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：在坟茔哭公婆悲哀伤恸，哭啼啼我来在观音庵中。",
+      "sentence": "白玉楼在坟茔哭公婆悲伤",
+      "behavior_type": 2
+    },
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：在坟茔哭公婆悲哀伤恸，哭啼啼我来在观音庵中。",
+      "sentence": "白玉楼来到观音庵中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "此时候本待要投缳丧命，怕张郎悔悟时遗恨无穷。",
+      "sentence": "白玉楼因担忧张彦而放弃轻生",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "一霎时大雪飞天寒地冷，偏偏的又刮起这样寒风。",
+      "sentence": "大雪纷飞时寒风突然刮起",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "颤索索在尼庵浑身冰冷，昏迷迷辨不清南北西东。",
+      "sentence": "白玉楼在尼庵中浑身冰冷",
+      "behavior_type": 1
+    },
+    {
+      "role": "白玉楼",
+      "original_sentence": "颤索索在尼庵浑身冰冷，昏迷迷辨不清南北西东。",
+      "sentence": "白玉楼昏迷中辨不清方向",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "张彦：谁料想好夫妻同床异梦，这恩爱尽都是假意虚情。",
+      "sentence": "张彦感叹夫妻感情虚假不实",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "祭祖回与风雪难禁寒冷，观音庵避风雪暂将身容。",
+      "sentence": "白玉楼在观音庵中躲避风雪",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：真真恸霎奴了哭啼啼将夫君双手扯定，冒风雪看为妻来到庵中。",
+      "sentence": "白玉楼哭啼啼将夫君双手扯定",
+      "behavior_type": 7
+    },
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：真真恸霎奴了哭啼啼将夫君双手扯定，冒风雪看为妻来到庵中。",
+      "sentence": "白玉楼冒风雪来到庵中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "难道说你忘了天寒地冻，哭得我白玉楼喑哑无声。",
+      "sentence": "白玉楼因悲伤而哭得无声",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "张彦：假意儿将我欺哄！",
+      "sentence": "张彦被虚假的言语所欺骗",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "把夫君当就了小小孩童。",
+      "sentence": "白玉楼将夫君当作小小孩童",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "梦想起前一夜铁石见证，怒哄哄踏倒地各奔西东。",
+      "sentence": "梦想起前夜铁石见证愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "梦想起前一夜铁石见证，怒哄哄踏倒地各奔西东。",
+      "sentence": "怒哄哄踏倒地各奔西东",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "周刚",
+      "original_sentence": "周刚：土地祠五通庙全无踪影，玉皇阁玄帝宫遍寻无踪。",
+      "sentence": "周刚寻找土地祠和五通庙无果",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "梦想起观音庵十分清静，那边厢转来了张彦相公江夏：哎！",
+      "sentence": "张彦回忆起观音庵的清静",
+      "behavior_type": 5
+    },
+    {
+      "role": "江夏",
+      "original_sentence": "梦想起观音庵十分清静，那边厢转来了张彦相公江夏：哎！",
+      "sentence": "江夏呼唤张彦相公",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我的三哥呀！",
+      "sentence": "我的三哥不在可选角色中",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "江夏",
+      "original_sentence": "咱二人交情好义气为重，弟走后万莫可泄漏风声。",
+      "sentence": "江夏强调二人交情以义气为重",
+      "behavior_type": 7
+    },
+    {
+      "role": "江夏",
+      "original_sentence": "咱二人交情好义气为重，弟走后万莫可泄漏风声。",
+      "sentence": "江夏嘱咐走后不要泄漏风声",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "回故乡结夫妻言顺名正，生儿女决不忘你三哥恩情。",
+      "sentence": "回故乡结为夫妻并生育儿女",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "~~第三场：《偷情》张彦：睡不安坐不宁前后游转，这件事倒叫我愁思几番。",
+      "sentence": "张彦因忧愁而无法安坐",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "有情人她怎肯甘受苦难，困在了观音庵苦受饥寒。",
+      "sentence": "有情人因苦难而困于观音庵",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "误认我来看她泪流满面，悔不该踏倒地怒离尼庵。",
+      "sentence": "张彦误认她来泪流满面",
+      "behavior_type": 2
+    },
+    {
+      "role": "张彦",
+      "original_sentence": "误认我来看她泪流满面，悔不该踏倒地怒离尼庵。",
+      "sentence": "张彦愤怒地离开了尼庵",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "低下头暗伤心徘徊度转，耳听得小房中唧唧人言。",
+      "sentence": "张彦低头伤心并徘徊走动",
+      "behavior_type": 2
+    },
+    {
+      "role": "张彦",
+      "original_sentence": "低下头暗伤心徘徊度转，耳听得小房中唧唧人言。",
+      "sentence": "张彦听到小房内有人说话",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "钱赛花",
+      "original_sentence": "钱赛花：三更后扣我们所为那件，你的心赛过那禽兽一般。",
+      "sentence": "钱赛花指责对方心如禽兽",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "钱赛花",
+      "original_sentence": "若不看死后的哥嫂情面，定吧你小奴才出首当官。",
+      "sentence": "钱赛花威胁要将对方送官",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "张彦：到如今~~我可没说~~玉楼啊！",
+      "sentence": "张彦至今未向白玉楼说明",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "~~~~~~~~~。",
+      "sentence": "误认我来看她泪流满面悔",
+      "behavior_type": ""
+    },
+    {
+      "role": "",
+      "original_sentence": "~~~~~~~~~。",
+      "sentence": "不该踏倒地怒离尼庵低头",
+      "behavior_type": ""
+    },
+    {
+      "role": "",
+      "original_sentence": "~~~~~~~~~。",
+      "sentence": "下暗伤心徘徊度转耳听得",
+      "behavior_type": ""
+    },
+    {
+      "role": "",
+      "original_sentence": "~~~~~~~~~。",
+      "sentence": "小房中唧唧人言钱赛花三",
+      "behavior_type": ""
+    },
+    {
+      "role": "钱赛花",
+      "original_sentence": "~~~~~~~~~。",
+      "sentence": "钱赛花质问三更后所为那件",
+      "behavior_type": 7
+    },
+    {
+      "role": "钱赛花",
+      "original_sentence": "~~~~~~~~~。",
+      "sentence": "钱赛花认为其心赛过禽兽",
+      "behavior_type": 2
+    },
+    {
+      "role": "钱赛花",
+      "original_sentence": "~~~~~~~~~。",
+      "sentence": "钱赛花表示不看哥嫂情面",
+      "behavior_type": 7
+    },
+    {
+      "role": "钱赛花",
+      "original_sentence": "~~~~~~~~~。",
+      "sentence": "钱赛花威胁将其出首当官",
+      "behavior_type": 7
+    },
+    {
+      "role": "张彦",
+      "original_sentence": "~~~~~~~~~。",
+      "sentence": "张彦呼唤玉楼表达情感",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "：我的妻呀！",
+      "sentence": "张彦呼唤他的妻子白玉楼",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "~~~~~我的妻呀！",
+      "sentence": "张彦深情呼唤他的妻子",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "~~~~~~。",
+      "sentence": "若不看死后的哥嫂情面",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "：到今日才知晓仇人暗算。",
+      "sentence": "张彦今日才知晓仇人暗算",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "：白玉楼呀！",
+      "sentence": "张彦呼唤妻子白玉楼",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "～～～。",
+      "sentence": "待转换文本无有效信息",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "受苦的妻呀！",
+      "sentence": "白玉楼遭受了极大的苦难",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "～～～我的妻呀！",
+      "sentence": "张彦称呼白玉楼为受苦的妻子",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "～～～～～。",
+      "sentence": "今日才知晓仇人暗算",
+      "behavior_type": ""
+    },
+    {
+      "role": "白玉楼",
+      "original_sentence": "～～～～～。",
+      "sentence": "白玉楼遭受苦难令人心痛",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "害得我好夫妻不得团圆，可恨我瞎了双眼黑白不变。",
+      "sentence": "张彦因夫妻分离感到极度愤怒",
+      "behavior_type": 2
+    },
+    {
+      "role": "张彦",
+      "original_sentence": "害得我好夫妻不得团圆，可恨我瞎了双眼黑白不变。",
+      "sentence": "张彦双眼失明无法辨别黑白",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "一霎时写就休书，豺～～豺～～豺狼一般啊～～～玉楼哇啊！",
+      "sentence": "张彦迅速写下一封休书",
+      "behavior_type": 14
+    },
+    {
+      "role": "白玉楼",
+      "original_sentence": "一霎时写就休书，豺～～豺～～豺狼一般啊～～～玉楼哇啊！",
+      "sentence": "白玉楼被休书伤害极深",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "～～～～～～。",
+      "sentence": "受苦的妻害得夫妻不得团圆",
+      "behavior_type": ""
+    },
+    {
+      "role": "",
+      "original_sentence": "～～～～～～。",
+      "sentence": "可恨我瞎了双眼黑白不变",
+      "behavior_type": ""
+    },
+    {
+      "role": "张彦",
+      "original_sentence": "～～～～～～。",
+      "sentence": "张彦一霎时写就休书",
+      "behavior_type": 7
+    },
+    {
+      "role": "张彦",
+      "original_sentence": "～～～～～～。",
+      "sentence": "张彦愤怒地呼唤白玉楼",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "：我叫叫一声玉楼～～玉楼！",
+      "sentence": "张彦呼唤白玉楼的名字",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "不知你何日得罪婶娘，是他夜晚前来叩门，只怪你那无才的丈夫，不分清红，立写休书，～～～妻呀！",
+      "sentence": "张彦质问白玉楼为何得罪婶娘",
+      "behavior_type": 7
+    },
+    {
+      "role": "钱赛花",
+      "original_sentence": "不知你何日得罪婶娘，是他夜晚前来叩门，只怪你那无才的丈夫，不分清红，立写休书，～～～妻呀！",
+      "sentence": "钱赛花夜晚前来叩门告状",
+      "behavior_type": 7
+    },
+    {
+      "role": "张彦",
+      "original_sentence": "不知你何日得罪婶娘，是他夜晚前来叩门，只怪你那无才的丈夫，不分清红，立写休书，～～～妻呀！",
+      "sentence": "张彦未加思索立写休书",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "今晚我才明白了，千错万错，你不该劝我读书。",
+      "sentence": "张彦意识到不该劝他读书",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "你不该劝我读书了！",
+      "sentence": "白玉楼劝张彦读书是不应该的",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "～～～～～。",
+      "sentence": "张彦呼唤白玉楼的名字",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "：你不劝无义人枉把书念，不识字写休书必然为难。",
+      "sentence": "张彦认为不识字写休书必然为难",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "到天明若有人将我来劝，好夫妻决不能地北天南。",
+      "sentence": "张彦希望有人能劝解他们夫妻",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "到天明若有人将我来劝，好夫妻决不能地北天南。",
+      "sentence": "好夫妻不应分离地北天南",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "枉读书不明理黑白莫辨，活活的羞煞了古圣先贤。",
+      "sentence": "读书不明理导致黑白难辨",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我好比陈世美恶毒千万，做的事比蛇蝎更加凶残。",
+      "sentence": "陈世美恶毒千万蛇蝎凶残",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "我不免到庵中前去打探，连夜晚去接那玉楼回还。",
+      "sentence": "张彦前往庵中打探白玉楼消息",
+      "behavior_type": 4
+    },
+    {
+      "role": "张彦",
+      "original_sentence": "我不免到庵中前去打探，连夜晚去接那玉楼回还。",
+      "sentence": "张彦连夜接回妻子白玉楼",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "江夏",
+      "original_sentence": "第四场：《江边》江夏：感不尽周三哥恩高义广，为朋友成全我一个婆娘用布匹我把他捆在马上，整整的走一夜胆颤心慌。",
+      "sentence": "江夏感激周三哥的恩情义举",
+      "behavior_type": 2
+    },
+    {
+      "role": "江夏",
+      "original_sentence": "第四场：《江边》江夏：感不尽周三哥恩高义广，为朋友成全我一个婆娘用布匹我把他捆在马上，整整的走一夜胆颤心慌。",
+      "sentence": "江夏用布匹将人捆在马上",
+      "behavior_type": 13
+    },
+    {
+      "role": "江夏",
+      "original_sentence": "第四场：《江边》江夏：感不尽周三哥恩高义广，为朋友成全我一个婆娘用布匹我把他捆在马上，整整的走一夜胆颤心慌。",
+      "sentence": "江夏走了一夜胆颤心慌",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "江夏",
+      "original_sentence": "江夏：娘子醒来！",
+      "sentence": "江夏呼唤娘子让她醒来",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "江夏",
+      "original_sentence": "~~~~娘子醒得！",
+      "sentence": "江夏呼唤娘子赶快醒来",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "~~~白玉楼：慢慢的睁双睛用目细望，但不知我来在什麽地方。",
+      "sentence": "白玉楼慢慢睁开眼睛仔细观察",
+      "behavior_type": 6
+    },
+    {
+      "role": "白玉楼",
+      "original_sentence": "~~~白玉楼：慢慢的睁双睛用目细望，但不知我来在什麽地方。",
+      "sentence": "白玉楼不知自己身在何处",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这一边是大江滚滚波浪，这一边是高山鸟道羊肠。",
+      "sentence": "大江滚滚波浪高山鸟道羊肠",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "眼面前站一人光棍模样，他身后有马匹又有行装。",
+      "sentence": "白玉楼看见面前站着一个人",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "眼面前站一人光棍模样，他身后有马匹又有行装。",
+      "sentence": "那个人身后有马匹和行装",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "啊~~~~~~~~！",
+      "sentence": "白玉楼发出了一声长叹",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "观情景我好像被骗模样。",
+      "sentence": "白玉楼意识到自己可能被骗了",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "临危时还需我细想良方，我把你个~~~有钱有势的客商！",
+      "sentence": "临危时需细想良方",
+      "behavior_type": 5
+    },
+    {
+      "role": "",
+      "original_sentence": "临危时还需我细想良方，我把你个~~~有钱有势的客商！",
+      "sentence": "有钱有势的客商",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "~~~险些儿骂出口惹下祸患，临危时我必须将身保全。",
+      "sentence": "临危时必须保全自身安全",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "江夏",
+      "original_sentence": "江夏：结夫妻离应该恩爱至上，我怕你一失足落进长江。",
+      "sentence": "江夏认为夫妻应该恩爱至上",
+      "behavior_type": 2
+    },
+    {
+      "role": "江夏",
+      "original_sentence": "江夏：结夫妻离应该恩爱至上，我怕你一失足落进长江。",
+      "sentence": "江夏担心对方会失足落水",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：尘世上有些人最会说谎，我恐你日后学了张郎。",
+      "sentence": "白玉楼认为世上有些人最会说谎",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "江夏",
+      "original_sentence": "江夏：施一礼跪江边天地听讲，三叩首在哀告四海龙王。",
+      "sentence": "江夏在江边跪拜并诉说请求",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：恶狠狠咬银牙力加两膀，搬石块连三四打那强梁。",
+      "sentence": "白玉楼用石块攻击强梁",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "换衣衫改变成男子模样，称马匹逃灾难四海飘扬。",
+      "sentence": "白玉楼换装成男子模样骑马逃离",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "第五场：《救难》张彦：事做错我只把自己埋怨，枉读书不明理玷辱圣贤。",
+      "sentence": "张彦因做错事而自我埋怨",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "寻玉楼走天涯如今不见，无盘费饿得我两腿发酸。",
+      "sentence": "寻玉楼走天涯如今不见",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "寻玉楼走天涯如今不见，无盘费饿得我两腿发酸。",
+      "sentence": "无盘费饿得两腿发酸",
+      "behavior_type": 11
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "眼看着天色晚宿鸟飞转，冷凄凄荒野滩又有人烟。",
+      "sentence": "天色渐晚宿鸟纷纷飞转",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "眼看着天色晚宿鸟飞转，冷凄凄荒野滩又有人烟。",
+      "sentence": "荒野滩上显得冷清凄凉",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "向前看苍茫茫路途遥远，忍不住扑簌簌泪湿衣衫。",
+      "sentence": "张彦望着远方忍不住泪流满面",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "思想起白玉楼将心疼烂，但不知她此刻身在那边。",
+      "sentence": "张彦想起白玉楼感到心疼",
+      "behavior_type": 2
+    },
+    {
+      "role": "张彦",
+      "original_sentence": "思想起白玉楼将心疼烂，但不知她此刻身在那边。",
+      "sentence": "张彦不知白玉楼身在何处",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "倘若还他的命若有长短，我张彦一定要同归九泉。",
+      "sentence": "张彦决定与其同归于尽",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "刘胡子",
+      "original_sentence": "刘胡子：卖把鱼儿回家转，太阳已快下西山。",
+      "sentence": "刘胡子卖鱼后返回家中",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘蕊莲",
+      "original_sentence": "刘蕊莲：路旁卧倒一贫汉，细看却是一少年。",
+      "sentence": "刘蕊莲看见路旁卧倒一少年",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "刘胡子",
+      "original_sentence": "刘胡子：哎！",
+      "sentence": "刘胡子发出了一声叹息",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "~~~~~相公醒得！",
+      "sentence": "路旁卧倒一贫汉细看是少年",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "~~~张彦：昏沉沉神志乱，隐隐耳旁有人言。",
+      "sentence": "张彦昏沉中隐约听到人声",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "慢慢睁睛用目看，见一位老伯站面前。",
+      "sentence": "张彦慢慢睁开眼睛看老伯",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "慢慢睁睛用目看，见一位老伯站面前。",
+      "sentence": "一位老伯站在他的面前",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "张彦：蒙老伯许婚姻将我怜念，怎知我满腔苦有口难言。",
+      "sentence": "张彦感激老伯的婚姻怜念",
+      "behavior_type": 2
+    },
+    {
+      "role": "张彦",
+      "original_sentence": "张彦：蒙老伯许婚姻将我怜念，怎知我满腔苦有口难言。",
+      "sentence": "张彦内心充满苦楚难言",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "我的妻白玉楼为我讨膳，忍饥饿受尽苦人人称贤。",
+      "sentence": "白玉楼为张彦讨膳受尽苦难",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "只怪我太糊涂信谗受骗，一封书休玉楼离了堂前。",
+      "sentence": "张彦因受骗而休妻离堂",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "到今日悔悟时悔恨已晚，因此上寻贤妻流落在外边。",
+      "sentence": "张彦后悔当初休妻如今流落在外",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "实才间出谎言得罪不浅，望老伯念我苦大量饱含。",
+      "sentence": "张彦承认谎言并请求老伯原谅",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "张彦：如此老伯受我一拜了，：义父转上儿拜上。",
+      "sentence": "张彦向老伯行礼并称呼义父",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "张彦今世报不完。",
+      "sentence": "张彦今世无法偿还恩情",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘蕊莲",
+      "original_sentence": "刘胡子：你妹妹刘蕊莲义气为重，他常常为别人打抱不平。",
+      "sentence": "刘蕊莲经常为他人打抱不平",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "到船舱认干娘吃酒同庆，住几日再打听玉楼行踪。",
+      "sentence": "张彦到船舱认干娘同庆吃酒",
+      "behavior_type": 4
+    },
+    {
+      "role": "张彦",
+      "original_sentence": "到船舱认干娘吃酒同庆，住几日再打听玉楼行踪。",
+      "sentence": "张彦住几日打听白玉楼行踪",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "金秀容",
+      "original_sentence": "第六场：《接彩》众少年：金绣容模样好实在好看，宜址镇搭凤楼飘彩招男。",
+      "sentence": "金秀容模样好实在好看",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "第六场：《接彩》众少年：金绣容模样好实在好看，宜址镇搭凤楼飘彩招男。",
+      "sentence": "宜址镇搭凤楼飘彩招男",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "惹来了纵少年千千万万，都心想接上彩去配凤鸾。",
+      "sentence": "众少年聚集围观绣球招亲",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "金秀容",
+      "original_sentence": "金绣容：金绣容上彩楼用目观看，见楼下人挤人闹闹嚷嚷。",
+      "sentence": "金秀容在彩楼上观察楼下人群",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "金秀容",
+      "original_sentence": "细观看无一人能够入选，低下头闷悠悠不语不言。",
+      "sentence": "金秀容仔细观察后无人入选",
+      "behavior_type": 5
+    },
+    {
+      "role": "金秀容",
+      "original_sentence": "细观看无一人能够入选，低下头闷悠悠不语不言。",
+      "sentence": "金秀容低头沉默不语不言",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：彩楼高万丈，富丽要堂皇。",
+      "sentence": "白玉楼建造彩楼高耸而富丽",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "金秀容",
+      "original_sentence": "美女楼前站，棚下闹嚷嚷。",
+      "sentence": "金秀容站在楼前静静观望",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "美女楼前站，棚下闹嚷嚷。",
+      "sentence": "棚下人群喧闹拥挤不堪",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "金秀容",
+      "original_sentence": "金绣容：好呀！",
+      "sentence": "金秀容感到非常高兴",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "金秀容",
+      "original_sentence": "~~~~~~好一个帅少年世上少见，论容貌赛得过昔日潘安。",
+      "sentence": "金秀容称赞少年容貌胜过潘安",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "金秀容",
+      "original_sentence": "我这里把彩球抛他当面，这也是前世里造就良缘。",
+      "sentence": "金秀容将彩球抛向对方",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "我这里把彩球抛他当面，这也是前世里造就良缘。",
+      "sentence": "这是前世造就的良缘",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "第七场：《遇救》白玉楼：舍银两为他们夫妻和好，我不愿尘世上恩爱冰消。",
+      "sentence": "白玉楼舍银两使夫妻和好",
+      "behavior_type": 3
+    },
+    {
+      "role": "白玉楼",
+      "original_sentence": "第七场：《遇救》白玉楼：舍银两为他们夫妻和好，我不愿尘世上恩爱冰消。",
+      "sentence": "白玉楼不愿世间恩爱消散",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "正行走天色变狂风怒啸，李彪：钢刀下管叫你性命不劳。",
+      "sentence": "天色突变狂风怒啸",
+      "behavior_type": 4
+    },
+    {
+      "role": "李彪",
+      "original_sentence": "正行走天色变狂风怒啸，李彪：钢刀下管叫你性命不劳。",
+      "sentence": "李彪持刀威胁性命",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：灵魂儿又入了幽冥路道，为救人反害己险些吃刀。",
+      "sentence": "白玉楼险些因救人而丧命",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "恶森森强人来十分横暴，吓得我魂灵儿飞上九霄。",
+      "sentence": "白玉楼被强人吓得魂飞魄散",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "慢慢地睁双睛用目细看，~~~~~~哎呀！",
+      "sentence": "白玉楼慢慢睁开眼睛仔细观看",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "不好了！",
+      "sentence": "白玉楼感到情况非常不妙",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "~~~~将坐马和行李一概皆抛。",
+      "sentence": "白玉楼将坐马和行李全部抛弃",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "~~~~~~~白玉楼：天哪！",
+      "sentence": "白玉楼感到极度惊恐",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "我想叫一声天哪！",
+      "sentence": "白玉楼想要大声呼喊天哪",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "天哪！",
+      "sentence": "白玉楼感到极度惊恐并呼喊",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "脱离陷阱，又入火坑，为救他人反遭人害，我白玉楼为何如此的苦命了！",
+      "sentence": "白玉楼感叹自己命运多舛",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "~~~~：问苍天我为何如此不幸，露女像却叫我寸步难行。",
+      "sentence": "白玉楼感叹自己命运多舛",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "~~~~：问苍天我为何如此不幸，露女像却叫我寸步难行。",
+      "sentence": "露女像使其无法自由行动",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "倒不如树林中自缢命丧，好女子要落个玉洁冰清。",
+      "sentence": "白玉楼在树林中自缢身亡",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "金驸马",
+      "original_sentence": "金驸马：恨北番无辜的兴兵作乱，抢土地杀黎民血染河山。",
+      "sentence": "金驸马痛恨北番兴兵作乱",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "金驸马",
+      "original_sentence": "因此上奉圣旨星夜前赶，要解救居庸关危机倒悬。",
+      "sentence": "金驸马奉圣旨星夜赶往前线",
+      "behavior_type": 4
+    },
+    {
+      "role": "金驸马",
+      "original_sentence": "因此上奉圣旨星夜前赶，要解救居庸关危机倒悬。",
+      "sentence": "金驸马要解救居庸关的危机",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：灵魂儿飘荡荡空中游转，忽听得耳边厢却有人言。",
+      "sentence": "白玉楼听到耳边有人说话",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "慢慢地睁双睛用目观看，见人马吓得我不敢多言。",
+      "sentence": "白玉楼睁眼看见人马感到害怕",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：驸马容禀了！",
+      "sentence": "白玉楼向金驸马禀报情况",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "～～～～～～～。",
+      "sentence": "待转换文本未提供具体内容",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "尊驸马坐上边细听民言，小女子白玉楼夫名张彦。",
+      "sentence": "白玉楼向驸马陈述自己的丈夫是张彦",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "金驸马",
+      "original_sentence": "金驸马：那里人氏？",
+      "sentence": "金驸马询问对方来自何处",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：昆山县什子坡有我家园，自幼儿读诗书身己游泮。",
+      "sentence": "白玉楼自幼便熟读诗书",
+      "behavior_type": 14
+    },
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：昆山县什子坡有我家园，自幼儿读诗书身己游泮。",
+      "sentence": "白玉楼曾在昆山县居住",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "我夫妻敬如宾不生疑嫌，因贫穷我为他大街讨膳。",
+      "sentence": "白玉楼与张彦夫妻相敬如宾",
+      "behavior_type": 12
+    },
+    {
+      "role": "白玉楼",
+      "original_sentence": "我夫妻敬如宾不生疑嫌，因贫穷我为他大街讨膳。",
+      "sentence": "白玉楼因贫穷上街讨饭",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "谁料想萧墙祸反遭奇冤，有贼人来叩门更深夜半。",
+      "sentence": "白玉楼遭遇突如其来的灾祸",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "谁料想萧墙祸反遭奇冤，有贼人来叩门更深夜半。",
+      "sentence": "有贼人在深夜前来敲门",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "误民妇约会他送暖偷寒，张彦夫听此言气炸肝胆。",
+      "sentence": "张彦听闻后感到极度愤怒",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "写休书又将我赶在外边，无奈了求婶娘又到前院。",
+      "sentence": "张彦写休书并将白玉楼赶出",
+      "behavior_type": 10
+    },
+    {
+      "role": "白玉楼",
+      "original_sentence": "写休书又将我赶在外边，无奈了求婶娘又到前院。",
+      "sentence": "白玉楼无奈求助于婶娘",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "不说情她将我凌辱万般，风又狂雪又大天地黑暗。",
+      "sentence": "白玉楼遭受无情凌辱和虐待",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "不说情她将我凌辱万般，风又狂雪又大天地黑暗。",
+      "sentence": "风雪交加天地一片黑暗",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "孤零零到坟茔痛哭祖先，冻倒在观音庵情实伤惨。",
+      "sentence": "孤零零到坟茔痛哭祖先",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "孤零零到坟茔痛哭祖先，冻倒在观音庵情实伤惨。",
+      "sentence": "冻倒在观音庵情实伤惨",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "猛睁睛见张郎站在面前，我只说事查明夫心回转。",
+      "sentence": "张彦突然出现在白玉楼面前",
+      "behavior_type": 1
+    },
+    {
+      "role": "白玉楼",
+      "original_sentence": "猛睁睛见张郎站在面前，我只说事查明夫心回转。",
+      "sentence": "白玉楼以为事情已经查明",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "哭啼啼扯衣衫问暖问寒，谁知他信谗言疑心未变。",
+      "sentence": "白玉楼扯衣衫询问对方近况",
+      "behavior_type": 7
+    },
+    {
+      "role": "张彦",
+      "original_sentence": "哭啼啼扯衣衫问暖问寒，谁知他信谗言疑心未变。",
+      "sentence": "张彦因谗言而心存疑虑",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "竟将我踏倒地险丧黄泉，昏沉沉分不来黑白夜晚。",
+      "sentence": "被踏倒地险丧黄泉",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "竟将我踏倒地险丧黄泉，昏沉沉分不来黑白夜晚。",
+      "sentence": "昏沉沉分不清黑白",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "江夏",
+      "original_sentence": "醒来看一边江一边大山，青浦客名江夏将我拐骗。",
+      "sentence": "江夏欺骗了说话者",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "说张彦卖与他搬家回还，我说他到后来恐学张彦。",
+      "sentence": "张彦被卖后随他人返回家中",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "说张彦卖与他搬家回还，我说他到后来恐学张彦。",
+      "sentence": "有人担心他将来会效仿张彦",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "江夏",
+      "original_sentence": "那贼子表真心跪在江边，恶狠狠两膀上力加千万。",
+      "sentence": "江夏跪在江边表露真心",
+      "behavior_type": 1
+    },
+    {
+      "role": "江夏",
+      "original_sentence": "那贼子表真心跪在江边，恶狠狠两膀上力加千万。",
+      "sentence": "江夏用两膀施加力量",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "江夏",
+      "original_sentence": "我将他推江中力逐狂澜，乘马逃又与一妇人遭难。",
+      "sentence": "江夏被推入江中随波逐流",
+      "behavior_type": 13
+    },
+    {
+      "role": "",
+      "original_sentence": "我将他推江中力逐狂澜，乘马逃又与一妇人遭难。",
+      "sentence": "骑马逃离时遭遇一名妇人",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "有李彪把他妻拷打百般，我赠他十两银消除解怨。",
+      "sentence": "李彪对其妻子进行了百般拷打",
+      "behavior_type": 10
+    },
+    {
+      "role": "",
+      "original_sentence": "有李彪把他妻拷打百般，我赠他十两银消除解怨。",
+      "sentence": "我赠予他十两银以消除怨恨",
+      "behavior_type": 8
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "反被他后追赶打下马鞍，醒来时露女像行动不便。",
+      "sentence": "反被追赶后从马鞍上摔下",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "反被他后追赶打下马鞍，醒来时露女像行动不便。",
+      "sentence": "醒来时发现女子行动不便",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "自缢死实出于无可奈间。",
+      "sentence": "自缢身亡实属无奈之举",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "金秀容",
+      "original_sentence": "金秀容：更显得我姐姐智慧勇敢，愧煞那尘世上须眉奇男。",
+      "sentence": "金秀容称赞姐姐智慧勇敢",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "金秀容：更显得我姐姐智慧勇敢，愧煞那尘世上须眉奇男。",
+      "sentence": "尘世上须眉奇男感到羞愧",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "金驸马",
+      "original_sentence": "这件事还要我行个方便，到后来成全他夫妻团圆。",
+      "sentence": "金驸马决定成全他们夫妻团圆",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：如此，爹爹在上，受孩儿一拜了。",
+      "sentence": "白玉楼向爹爹行了一个大礼",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "～～～：拜义父救命恩刻骨铭感，儿情愿尽孝道侍奉堂前。",
+      "sentence": "白玉楼感激义父救命之恩",
+      "behavior_type": 2
+    },
+    {
+      "role": "白玉楼",
+      "original_sentence": "～～～：拜义父救命恩刻骨铭感，儿情愿尽孝道侍奉堂前。",
+      "sentence": "白玉楼愿尽孝道侍奉义父",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "金驸马",
+      "original_sentence": "金驸马：救玉楼无意中知晓张彦，谁料想接了彩一去不还。",
+      "sentence": "金驸马救白玉楼时发现张彦",
+      "behavior_type": 3
+    },
+    {
+      "role": "金驸马",
+      "original_sentence": "金驸马：救玉楼无意中知晓张彦，谁料想接了彩一去不还。",
+      "sentence": "金驸马接彩后却一去不还",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "刘蕊莲",
+      "original_sentence": "第八场:《居庸关》刘蕊莲：婚姻事还需我自己去找，因此上别父母四海飘摇。",
+      "sentence": "刘蕊莲为婚姻离开父母漂泊",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "刘蕊莲",
+      "original_sentence": "耳听得沿路上行人乱吵，都说是番寇反居庸不劳。",
+      "sentence": "刘蕊莲听到路人议论番寇造反",
+      "behavior_type": 6
+    },
+    {
+      "role": "",
+      "original_sentence": "耳听得沿路上行人乱吵，都说是番寇反居庸不劳。",
+      "sentence": "路人纷纷传言番寇造反之事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "怀绝技应为国出力报效，要学个花木兰女中英豪。",
+      "sentence": "怀绝技者应当为国出力报效",
+      "behavior_type": 10
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "女伴男有人问我名张彦，急忙忙赶奔那居庸关前。",
+      "sentence": "张彦女扮男装前往居庸关",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "乌克里",
+      "original_sentence": "乌克里：人如貔虎马如龙，冲锋陷阵个个能，只因我国边疆小，要把中华一扫平。",
+      "sentence": "乌克里率领军队企图占领中华",
+      "behavior_type": 9
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "第九场：《画画》白玉楼：感妹妹待遇楼恩深义厚，恐怕是今世里大德难酬。",
+      "sentence": "白玉楼感激妹妹的深厚恩情",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "想张郎冻饿苦怎样忍受，不由人日夜间愁上加愁。",
+      "sentence": "白玉楼担忧张彦忍受冻饿之苦",
+      "behavior_type": 2
+    },
+    {
+      "role": "白玉楼",
+      "original_sentence": "想张郎冻饿苦怎样忍受，不由人日夜间愁上加愁。",
+      "sentence": "白玉楼日夜忧愁不断加深",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "金秀容",
+      "original_sentence": "金秀容：见姐姐病沉重玉容憔悴，金秀容忍不住内心暗悲。",
+      "sentence": "金秀容见姐姐病重内心悲伤",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "金秀容",
+      "original_sentence": "：姐姐好好将养，不要忧郁多思，以免欲伤身体，快请夫人。",
+      "sentence": "金秀容劝姐姐好好休养身体",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "母亲！",
+      "sentence": "母亲呼唤着孩子",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "金秀容",
+      "original_sentence": "我姐姐又昏迷不醒了。",
+      "sentence": "金秀容的姐姐再次昏迷不醒",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：梦儿里和张郎一处相会，诉说我白玉楼路途遇贼。",
+      "sentence": "白玉楼在梦中与张彦相会",
+      "behavior_type": 7
+    },
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：梦儿里和张郎一处相会，诉说我白玉楼路途遇贼。",
+      "sentence": "白玉楼诉说路途遇贼之事",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "夺衣衫立逼我命丧做鬼，猛睁睛原来是母亲妹妹。",
+      "sentence": "白玉楼梦见张彦后惊醒发现是亲人",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "金夫人：我儿好好将养，不要多思，等你父亲回来，让他找见张彦，而后你夫妻好得团圆……白玉楼：白玉楼表生平泪流满面，尊母亲和贤妹细听心间。",
+      "sentence": "白玉楼流泪诉说生平经历",
+      "behavior_type": 2
+    },
+    {
+      "role": "白玉楼",
+      "original_sentence": "金夫人：我儿好好将养，不要多思，等你父亲回来，让他找见张彦，而后你夫妻好得团圆……白玉楼：白玉楼表生平泪流满面，尊母亲和贤妹细听心间。",
+      "sentence": "白玉楼请母亲妹妹细听心声",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "画破房贫儒生抱书观看，画贫妇去讨膳提篮执竿。",
+      "sentence": "画中贫儒生正在专注地看书",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "画破房贫儒生抱书观看，画贫妇去讨膳提篮执竿。",
+      "sentence": "画中贫妇提着篮子外出讨膳",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "画姐姐坐灶下烧火做饭，画门外一强人手拍双环。",
+      "sentence": "画中姐姐正在灶下烧火做饭",
+      "behavior_type": 14
+    },
+    {
+      "role": "",
+      "original_sentence": "画姐姐坐灶下烧火做饭，画门外一强人手拍双环。",
+      "sentence": "画中强人在门外拍打双环",
+      "behavior_type": 13
+    }
+  ],
+  [
+    {
+      "role": "金秀容",
+      "original_sentence": "金秀容：姐姐。",
+      "sentence": "金秀容称呼对方为姐姐",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "这是何人？",
+      "sentence": "询问这是何人的身份",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "白玉楼：这就是血口喷人的冤孽！",
+      "sentence": "白玉楼指责对方血口喷人",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "～～～～画张郎面带怒手执笔杆，画贫妇哭啼啼跪在面前。",
+      "sentence": "张彦面带怒色手执笔杆",
+      "behavior_type": 2
+    },
+    {
+      "role": "白玉楼",
+      "original_sentence": "～～～～画张郎面带怒手执笔杆，画贫妇哭啼啼跪在面前。",
+      "sentence": "白玉楼哭啼啼跪在面前",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "画丑妇关门户恶眉恶眼，不讲情她却又言多语繁。",
+      "sentence": "丑妇关门时露出恶眉恶眼",
+      "behavior_type": 1
+    },
+    {
+      "role": "",
+      "original_sentence": "画丑妇关门户恶眉恶眼，不讲情她却又言多语繁。",
+      "sentence": "丑妇不讲情却又言多语繁",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "画寒士想开门愁容满面，那丑妇站当院指地骂天。",
+      "sentence": "寒士想要开门却愁容满面",
+      "behavior_type": 5
+    },
+    {
+      "role": "钱赛花",
+      "original_sentence": "画寒士想开门愁容满面，那丑妇站当院指地骂天。",
+      "sentence": "钱赛花站在院中指着天地咒骂",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "画贫妇观音庵倒地闭眼，画张郎饥饿形站立面前。",
+      "sentence": "白玉楼在观音庵倒地闭眼",
+      "behavior_type": 1
+    },
+    {
+      "role": "张彦",
+      "original_sentence": "画贫妇观音庵倒地闭眼，画张郎饥饿形站立面前。",
+      "sentence": "张彦饥饿站立在白玉楼面前",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "画贫妇扯寒儒泪流满面，张郎怒踏姐姐险丧黄泉。",
+      "sentence": "白玉楼扯着张彦泪流满面",
+      "behavior_type": 2
+    },
+    {
+      "role": "张彦",
+      "original_sentence": "画贫妇扯寒儒泪流满面，张郎怒踏姐姐险丧黄泉。",
+      "sentence": "张彦愤怒地踏向姐姐",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "画贫妇捆马鞍恶人追赶，画恶人手提衣跪在江边。",
+      "sentence": "贫妇被捆在马鞍上恶人追赶",
+      "behavior_type": 4
+    },
+    {
+      "role": "钱赛花",
+      "original_sentence": "画贫妇捆马鞍恶人追赶，画恶人手提衣跪在江边。",
+      "sentence": "钱赛花手提衣跪在江边",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "那贼在江边发誓了。",
+      "sentence": "那贼在江边郑重发誓",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "！",
+      "sentence": "那贼在江边发誓了",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "～～～～～画姐姐推江夏身落水漫，急又用顽石打接二连三。",
+      "sentence": "姐姐推江夏使其落入水中",
+      "behavior_type": ""
+    },
+    {
+      "role": "",
+      "original_sentence": "～～～～～画姐姐推江夏身落水漫，急又用顽石打接二连三。",
+      "sentence": "姐姐用顽石连续击打江夏",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "：如此贤妹掺我拜过母亲。",
+      "sentence": "贤妹搀扶我一同拜见母亲",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "！",
+      "sentence": "",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "～～～：求母亲开天恩孩儿大胆，拜妹妹原谅我罪有万千。",
+      "sentence": "请求母亲开恩原谅孩儿过错",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "画彩楼下有人千千万万，一匹马上骑着一位少年。",
+      "sentence": "画彩楼下有众多人围观",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "画彩楼下有人千千万万，一匹马上骑着一位少年。",
+      "sentence": "一位少年骑在马上",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "手接彩马前站两个家院，画后生面失色催马加鞭。",
+      "sentence": "两个家院站在彩马前",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "手接彩马前站两个家院，画后生面失色催马加鞭。",
+      "sentence": "后生面色慌张催马加鞭",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "画恶人打丑妇头发散乱，画少年下了马上前阻拦。",
+      "sentence": "恶人殴打丑妇导致头发散乱",
+      "behavior_type": 9
+    },
+    {
+      "role": "",
+      "original_sentence": "画恶人打丑妇头发散乱，画少年下了马上前阻拦。",
+      "sentence": "少年下马后上前阻拦恶行",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "钱赛花",
+      "original_sentence": "画恶人接银两低头合眼，又画他手提刀追赶少年。",
+      "sentence": "钱赛花接过银两低头合眼",
+      "behavior_type": 13
+    },
+    {
+      "role": "钱赛花",
+      "original_sentence": "画恶人接银两低头合眼，又画他手提刀追赶少年。",
+      "sentence": "钱赛花提刀追赶那位少年",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "画一个假男子当场改变，再画个红颜妇自缢林间。",
+      "sentence": "假男子当场发生改变",
+      "behavior_type": 3
+    },
+    {
+      "role": "",
+      "original_sentence": "画一个假男子当场改变，再画个红颜妇自缢林间。",
+      "sentence": "红颜妇在林间自缢",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "金夫人：我女儿历尽了世路艰险，又经过许多的凶浪颠翻。",
+      "sentence": "金夫人感叹女儿经历艰险",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "金驸马",
+      "original_sentence": "金驸马：听她言不由人暗自称赞，白玉楼虽女子胜过奇男。",
+      "sentence": "金驸马暗自称赞白玉楼胜过奇男",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "金驸马：听她言不由人暗自称赞，白玉楼虽女子胜过奇男。",
+      "sentence": "白玉楼虽女子却胜过奇男",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "第十场：《观画》张彦：我虽然读诗书愧对孔孟，心儿里太糊涂认事不明。",
+      "sentence": "张彦读诗书却愧对孔孟教诲",
+      "behavior_type": 5
+    },
+    {
+      "role": "张彦",
+      "original_sentence": "第十场：《观画》张彦：我虽然读诗书愧对孔孟，心儿里太糊涂认事不明。",
+      "sentence": "张彦心糊涂认事不够明白",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "此小事休结发自悔任性，因此上找贤妻来到边庭。",
+      "sentence": "张彦因悔悟而前往边庭寻找贤妻",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "若失节她怎肯大街乞讨，那有个私情人容颜枯焦。",
+      "sentence": "失节者不会在大街上乞讨",
+      "behavior_type": 2
+    },
+    {
+      "role": "",
+      "original_sentence": "若失节她怎肯大街乞讨，那有个私情人容颜枯焦。",
+      "sentence": "私情人的容颜显得枯焦",
+      "behavior_type": 1
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "分明是有仇人暗用技巧，你竟然写休书恩爱全抛。",
+      "sentence": "张彦指责仇人使用技巧抛弃恩爱",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "恶狠狠指着画叫骂贼贱，人在世把美事何不成全。",
+      "sentence": "张彦恶狠狠地指着画叫骂",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "恶狠狠指着画叫骂贼贱，人在世把美事何不成全。",
+      "sentence": "人在世应当成全美好事物",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "怎忍心好夫妻一旦失散，看起来她竟是惹祸根源。",
+      "sentence": "张彦不忍心夫妻失散",
+      "behavior_type": 2
+    },
+    {
+      "role": "张彦",
+      "original_sentence": "怎忍心好夫妻一旦失散，看起来她竟是惹祸根源。",
+      "sentence": "张彦认为她是惹祸根源",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "刘蕊莲",
+      "original_sentence": "刘蕊莲：听说是那边厢来了张彦，却喜得他中了今科状元。",
+      "sentence": "刘蕊莲听说张彦中了状元",
+      "behavior_type": 7
+    },
+    {
+      "role": "张彦",
+      "original_sentence": "刘蕊莲：听说是那边厢来了张彦，却喜得他中了今科状元。",
+      "sentence": "张彦中了今科状元",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "金驸马",
+      "original_sentence": "奉圣旨拜驸马东厅设宴，是真假暗地里我自了然。",
+      "sentence": "金驸马奉圣旨东厅设宴",
+      "behavior_type": 7
+    },
+    {
+      "role": "",
+      "original_sentence": "奉圣旨拜驸马东厅设宴，是真假暗地里我自了然。",
+      "sentence": "真假情况已了然于心",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "张彦：玉楼啊！",
+      "sentence": "张彦呼唤白玉楼的名字",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "我受苦的妻！",
+      "sentence": "张彦心疼受苦的妻子",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "~~~~~~偏逢我无情夫瞎了双眼，无辜的休糟糠其理不端。",
+      "sentence": "无情夫休糟糠其理不端",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "地下头痛着心再往下看，看我的贤德妻身落那边。",
+      "sentence": "张彦低头寻找贤德妻子的下落",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你好比诸葛亮神策妙算，如管鲍赛苏张几家大贤。",
+      "sentence": "张彦称赞白玉楼智慧超群",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "情又急事又迫万般危险，你竟能避大祸转危为安。",
+      "sentence": "白玉楼在危急时刻成功化险为夷",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "：你又闯下祸了！",
+      "sentence": "对方指出你又闯下祸了",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "你和那彩楼上美人一样，接了彩我愁你怎做新郎。",
+      "sentence": "彩楼上美人接了彩后感到忧愁",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "有两个老院子忙把马挡，那后生紧加鞭催马扬长。",
+      "sentence": "两个老院子的人急忙挡住马",
+      "behavior_type": 4
+    },
+    {
+      "role": "",
+      "original_sentence": "有两个老院子忙把马挡，那后生紧加鞭催马扬长。",
+      "sentence": "后生紧加鞭催马扬长而去",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "叫贤妻急催马后有贼赶，眼看着白玉楼性命难全。",
+      "sentence": "白玉楼急忙催马逃离贼人追赶",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "空中的过往神何不怜念，普渡的观世音速摆慈船。",
+      "sentence": "过往神灵未能及时施以援手",
+      "behavior_type": 6
+    },
+    {
+      "role": "",
+      "original_sentence": "空中的过往神何不怜念，普渡的观世音速摆慈船。",
+      "sentence": "观世音菩萨未能迅速展现慈悲",
+      "behavior_type": 6
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "罢了妻！",
+      "sentence": "罢了妻子",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "见画轴把我的肝肠痛断，白玉楼啊！",
+      "sentence": "张彦见画轴感到肝肠痛断",
+      "behavior_type": 2
+    },
+    {
+      "role": "白玉楼",
+      "original_sentence": "见画轴把我的肝肠痛断，白玉楼啊！",
+      "sentence": "白玉楼被张彦呼唤名字",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "~~~受苦的妻呀！",
+      "sentence": "白玉楼正在遭受苦难",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "！",
+      "sentence": "",
+      "behavior_type": ""
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "~~~我的妻呀！",
+      "sentence": "张彦为妻子感到极度悲痛",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "白玉楼",
+      "original_sentence": "~~可怜把白玉楼命丧九泉，我为你卖诗文天下找遍。",
+      "sentence": "白玉楼不幸命丧九泉",
+      "behavior_type": 3
+    },
+    {
+      "role": "张彦",
+      "original_sentence": "~~可怜把白玉楼命丧九泉，我为你卖诗文天下找遍。",
+      "sentence": "张彦为寻妻卖诗文遍天下",
+      "behavior_type": 14
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "到今日竟做了破镜难~~~~难~~~~难圆。",
+      "sentence": "张彦与妻子破镜难圆",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "~~~~妻呀！",
+      "sentence": "张彦呼唤他的妻子白玉楼",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "刘蕊莲：听张彦哭玉楼十分凄惨，他怎知白玉楼还在人间。",
+      "sentence": "张彦因白玉楼之死感到十分悲伤",
+      "behavior_type": 2
+    },
+    {
+      "role": "刘蕊莲",
+      "original_sentence": "刘蕊莲：听张彦哭玉楼十分凄惨，他怎知白玉楼还在人间。",
+      "sentence": "刘蕊莲听到张彦的哭声很凄惨",
+      "behavior_type": 6
+    },
+    {
+      "role": "",
+      "original_sentence": "刘蕊莲：听张彦哭玉楼十分凄惨，他怎知白玉楼还在人间。",
+      "sentence": "刘蕊莲知道白玉楼仍在人间",
+      "behavior_type": 5
+    }
+  ],
+  [
+    {
+      "role": "刘蕊莲",
+      "original_sentence": "幸无人进门去和他相见，前后情我对他细说一翻。",
+      "sentence": "刘蕊莲向张彦讲述前后经过",
+      "behavior_type": 7
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "因兄长寻嫂嫂去不回转，我爹爹在家中常把心耽。",
+      "sentence": "因兄长寻嫂嫂去不回转",
+      "behavior_type": 12
+    },
+    {
+      "role": "",
+      "original_sentence": "因兄长寻嫂嫂去不回转，我爹爹在家中常把心耽。",
+      "sentence": "我爹爹在家中常把心耽",
+      "behavior_type": 2
+    }
+  ],
+  [
+    {
+      "role": "",
+      "original_sentence": "我也想闯江湖多经广见，离了家居庸关报效军前。",
+      "sentence": "某人欲闯江湖报效军前",
+      "behavior_type": 4
+    }
+  ],
+  [
+    {
+      "role": "金驸马",
+      "original_sentence": "那一日两军阵和贼交战，救驸马擒番将金殿封官。",
+      "sentence": "金驸马在两军阵前与敌交战",
+      "behavior_type": 9
+    },
+    {
+      "role": "金驸马",
+      "original_sentence": "那一日两军阵和贼交战，救驸马擒番将金殿封官。",
+      "sentence": "金驸马救驸马擒获番将",
+      "behavior_type": 9
+    },
+    {
+      "role": "金驸马",
+      "original_sentence": "那一日两军阵和贼交战，救驸马擒番将金殿封官。",
+      "sentence": "金驸马因功被金殿封官",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "因此上作总兵改名张彦，谁料想在这里兄妹团圆。",
+      "sentence": "张彦因此改名为总兵",
+      "behavior_type": 3
+    },
+    {
+      "role": "刘蕊莲",
+      "original_sentence": "因此上作总兵改名张彦，谁料想在这里兄妹团圆。",
+      "sentence": "刘蕊莲与张彦兄妹团圆",
+      "behavior_type": 3
+    }
+  ],
+  [
+    {
+      "role": "张彦",
+      "original_sentence": "金彦芳：新贵人少将军都叫张彦，金夫人：这内边还藏着刘氏蕊莲。",
+      "sentence": "张彦被称作新贵人少将军",
+      "behavior_type": 7
+    },
+    {
+      "role": "刘蕊莲",
+      "original_sentence": "金彦芳：新贵人少将军都叫张彦，金夫人：这内边还藏着刘氏蕊莲。",
+      "sentence": "刘蕊莲藏在内边未被发现",
+      "behavior_type": 12
+    }
+  ],
+  [
+    {
+      "role": "金彦芳",
+      "original_sentence": "金彦芳：我府下还有个接彩张彦，金夫人：今夜晚三张彦同聚此间。",
+      "sentence": "金彦芳提及府中还有接彩张彦",
+      "behavior_type": 7
+    },
+    {
+      "role": "金夫人",
+      "original_sentence": "金彦芳：我府下还有个接彩张彦，金夫人：今夜晚三张彦同聚此间。",
+      "sentence": "金夫人说今夜三张彦同聚此间",
+      "behavior_type": 7
+    }
+  ]
+]
